@@ -36,9 +36,9 @@ Technical Writer - [Prosyst Labs](http://www.prosyst.com/)
 Personal Projects
 ==
 
-[funktion](http://boris-marinov.github.io/funktion/) 
+[monad-transformers](https://github.com/boris-marinov/monad-transformers) 
 --
-A JavaScript library for functional programming, implementing several of the monadic datatypes from Haskell. Written in **literal ES6**.
+A JavaScript library for functional programming, implementing several monad transformers.
 
 [evolutionfonts](https://www.behance.net/evolutionfonts/) 
 --
@@ -48,15 +48,13 @@ Skills
 ==
 Technical
 -------------------
-**operating systems:** Windows, Linux
+**operating systems:** Windows, Linux, OSX
 **version control:** git, Mercurial
-**build tools:** Grunt, Browserify
-**languages and platforms:** Client side JavaScript, node.js, ES6
-**testing solutions:** QUnit, Jasmine
-**asynchronous programming and events** bluebird (Promises A+ implementation), async, bacon JS.
-**UI libraries:** Knockout JS, Kendo UI, JQuery, bootstrap... 
-**templating libraries:** Underscore templates, Handlebars, 
-**misc:** lodash, ramda, express.js.
+**build tools:** Grunt, Browserify, Webpack
+**languages and platforms:** node.js, ES6, HTML and CSS.
+**testing solutions:** nodeunit, QUnit, Sinon
+**UI libraries:** React, Kendo UI, bootstrap. 
+**misc:** q, lodash, ramda, express.js
 
 Misc
 ----
