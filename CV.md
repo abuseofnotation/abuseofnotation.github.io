@@ -2,10 +2,8 @@ Personal Data
 ==
 *(Contacts and stuff)*
 
-**name: ** Boris Marinov
-**age: ** 28
-**phone number: ** +359 883 420029
-**e-mail: ** marinovboris@gmail.com
+**name:** Boris Marinov **age:** 28 **phone number:** +359 883 420029 **e-mail:** marinovboris@gmail.com
+
 
 Work Experience
 ==
