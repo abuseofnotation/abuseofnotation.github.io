@@ -8,10 +8,20 @@ Personal Data
 Work Experience
 ==
 *(What I do from 9 to 5)* 
+
+Seniour JavaScript Developer - [epam](http://tick42.com/)
+--
+**from:** November 2015
+**to:** Now
+
+*epam partners with the world’s leading companies to imagine, design, and engineer software and customer experiences that transform businesses..*
+
+* I work on the front-end layer of a large currency-trading system. I develop new functionality, migrate legacy modules using new technologies and work closely with a team of product owners, designers, and business analysts, in developing every aspect of the product.
+
 Lead JavaScript Developer - [Tick42](http://tick42.com/)
 --
 **from:** September 2013 
-**to:** now
+**to:** November 2015
 
 *Tick42 delivers real-time trading software to some of the world’s largest investment banks and hedge funds.*
 
@@ -33,14 +43,13 @@ Technical Writer - [Prosyst Labs](http://www.prosyst.com/)
 
 Personal Projects
 ==
-
-[monad-transformers](https://github.com/boris-marinov/monad-transformers) 
+[folktale](https://github.com/origamitower/folktale) 
 --
-A JavaScript library for functional programming, implementing several monad transformers.
+I am a core contributor in this JavaScript library for functional programming.
 
 [evolutionfonts](https://www.behance.net/evolutionfonts/) 
 --
-A type design effort.
+One of my hobbies is designing fonts.
 
 Skills
 ==
@@ -59,11 +68,11 @@ Misc
 * Excellent command of the **English language**.
 * Background in **web and graphic design**.
 * Strong **communication skills** (I can talk to people and they understand).
-* Experience with writing and maintaining software documentations.
+* Experience with writing and maintaining software documentation.
 
 Education
 ==
-*(Mostly irrelevant, skip if no time)*
+*(Mostly irrelevant)*
 
 * Bachelor of Public Relations and Mass Communication at **Sofia University “Kliment Ohridski“**
 * Studied at Second English Language School “Thomas Jefferson”
