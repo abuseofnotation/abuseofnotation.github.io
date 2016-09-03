@@ -1,3 +1,9 @@
+---
+category: misc
+title: CV
+layout: blog
+---
+
 Personal Data
 ==
 *(Contacts and stuff)*

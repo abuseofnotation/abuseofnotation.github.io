@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+        <header class="masthead clearfix">
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">Funktion</a></h1>
+            <p class="site-description">An easy-to-use JavaScript functional library</p>
+          </div>
+
+          <nav>
+            <a href="{{ site.baseurl }}/cv">CV</a>
+          </nav>
+        </header>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
