@@ -3,6 +3,12 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
@@ -10,20 +16,31 @@
   </head>
 
   <body>
+    <div class="wrapper-masthead">
+      <div class="container">
         <header class="masthead clearfix">
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">Test</a></h1>
-            <p class="site-description">test</p>
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">Boris Marinov's personal space</a></h1>
+            <p class="site-description"></p>
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/cv">CV</a>
+            <a href="{{ site.baseurl }}/cv">cv</a>
+            <a href="{{ site.baseurl }}/blog">blog</a>
           </nav>
         </header>
+      </div>
+    </div>
 
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
 
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+        </footer>
+      </div>
+    </div>
   </body>
 </html>
