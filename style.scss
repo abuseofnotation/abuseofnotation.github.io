@@ -293,3 +293,24 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.hello {
+  line-height:1.5;
+  font-size:52px;
+  max-width:1400px;
+  p {
+    margin-bottom:62px
+  }
+
+  span {
+    color:white;
+    background-color:grey
+    a {
+      color:white;
+      font-size:72px;
+      background-color:grey;
+      padding: 8px 4px 10px 4px;
+    }
+  }
+}
+
