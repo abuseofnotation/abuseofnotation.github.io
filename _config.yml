@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Funktion
+name: Boris Marinov
 
 # Short bio or description (displayed in the header)
-description: An easy-to-use JavaScript functional library
+description: Personal space
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -47,7 +47,7 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/funktion"
+#baseurl: "/funktion"
 
 #
 # !! You don't need to change any of the configuration flags below !!
