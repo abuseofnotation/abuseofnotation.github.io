@@ -151,7 +151,26 @@ img {
 //
 // .masthead
 //
+.hello {
+  line-height:1.5;
+  font-size:52px;
+  max-width: 1400px;
+}
 
+.hello p {
+  margin-bottom: 62px;
+}
+
+.hello span {
+  border-bottom: 4px solid grey
+}
+
+.hello a {
+  background-color: white;
+  padding: 10px 0px;
+  font-size:70px;
+  border-bottom: 6px solid grey;
+}
 .wrapper-masthead {
   margin-bottom: 0px;
   background-color: #375C7F;
@@ -293,24 +312,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-.hello {
-  line-height:1.5;
-  font-size:52px;
-  max-width:1400px;
-  p {
-    margin-bottom:62px
-  }
-
-  span {
-    color:white;
-    background-color:grey
-    a {
-      color:white;
-      font-size:72px;
-      background-color:grey;
-      padding: 8px 4px 10px 4px;
-    }
-  }
-}
-
+  
