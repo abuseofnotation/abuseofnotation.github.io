@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  padding: 0 20px 20px 20px;
+  padding: 0 20px;
   width: 100%;
   color: #375C7F;
 }
@@ -173,7 +173,6 @@ img {
 }
 .wrapper-masthead {
   margin-bottom: 0px;
-  background-color: #375C7F;
 }
 
 .masthead {
@@ -223,6 +222,7 @@ img {
   font-size: 30px;
   font-family: 'Source Code Pro', monospace;
   letter-spacing: 1px;
+  color: white;
 }
 
 .site-description {
