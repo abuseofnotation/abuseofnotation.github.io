@@ -13,13 +13,23 @@
 /* BASE RULES */
 /**************/
 
+
+@font-face {
+    font-family: 'mell_sanssemibold';
+    src: url('mellsans-semibold-webfont.woff2') format('woff2'),
+         url('mellsans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 html {
   font-size: 100%;
 }
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 'mell_sanssemibold';
   color: $darkGray;
 }
 
@@ -31,7 +41,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'mell_sanssemibold';
   color: $darkerGray;
   font-weight: bold;
 
@@ -221,7 +231,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-size: 30px;
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'mell_sanssemibold';
   letter-spacing: 1px;
   color: white;
 }
@@ -239,7 +249,7 @@ img {
 nav {
   float: right;
   margin-top: 11px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'mell_sanssemibold';
   font-size: 18px;
 
   @include mobile {
