@@ -1,5 +1,5 @@
 ---
-category: misc
+category: blog
 title: Why vim is awesome
 layout: blog
 ---

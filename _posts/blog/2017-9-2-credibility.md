@@ -1,5 +1,8 @@
-The Business of Credibility
-==
+---
+category: blog
+title: The Business of Credibility
+layout: blog
+---
 
 The credibility of individuals around us influences all choices that we make. But the primary way of gaining credibility is not to “show and prove”, it is someone else who already has it to give it to you. The goal of this article is to show how dumb this concept is, and how we can fix that.
 
