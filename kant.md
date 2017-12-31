@@ -57,7 +57,6 @@ It is obvious that analythic statements are known a priori - I don't need to hav
 
 The word "Critique" means "a detailed analysis and assessment of something." When we say "pure reason", we mean knowledge about the world which are both *synthetic* and *a priori*. Kant begins writing believing that such knowledge exists ( i.e. real knowledge about the world which is not perceived through the senses) and then ventures in an inquiry to *prove* that that is really so. and what are the boundaries and the objective validity of such knowledge.
 
-
 Transcedental doctrine of elements: Transcedental Aestetics
 ===
 
@@ -87,17 +86,13 @@ The notion of time allows us to represent ouselves as actors in the world, and t
 Transcedental doctrine of elements: Transcedental Logic
 ===
 
-Perception is a necessary condition for obtaining knowledge, however perception does not produce knowledge directly - we obtain knowledge by thinking. 
-
-Thoughts by themselves also don't constitute knowledge either. Think for example about the speculations that scientist oftem make, for example about Steven Hoking who theorised the existence of objects, which he called "black holes" as a possible explanation of some cosmological phenomena. Can we say that he *knew* something about the object before the object was observed? No, because no matter how sophisticated his theory was, it was still just a theory, and the theoretical object "black hole" as imagined by Hoking, is a different object that actual black holes that exist, no matter if they are called by the same name and are, in practice, quite similar. 
+Perception is a necessary condition for obtaining knowledge, however perception does not produce knowledge by itself - we obtain knowledge by thinking. But thoughts by themselves also don't constitute knowledge either. Think for example about the speculations that scientist oftem make, for example about Steven Hoking who theorised the existence of objects, which he called "black holes" as a possible explanation of some cosmological phenomena. Can we say that he *knew* something about the object before the object was observed? No, because no matter how sophisticated his theory was, it was still just a theory, and the theoretical object "black hole" as imagined by Hoking, is a different object that actual black holes that exist, no matter if they are called by the same name and are, in practice, quite similar. 
 
 Now imagine an astronomer who does not know about Hoking's theory but who, through his telescope, sees a black hole (or rather the way in which a black hole messes up the orbits of some planets). He is on the other side - he is perceiving the thing, but he does not have any idea what it is. His observation is useless without a theory that explains it, and a theory is useless if it does not have an application. To put that in simpler terms:
 
 > knowledge = perception + thought.
 
-The science that deals with the way we think is, of course, called *logic*. Logic can be *general* and can be *specific to some domain* like accounting, biology, football etc. And the general logic, if we are picky we can divide to *pure* and *applied* where the applied part is everything that is related to the human mind as such. 
-
-Pure logic contains just a few fundamentals that we know a priori and are essential to the way we think. Pure logic is, therefore, synonymus with "first order" logic - a fact which is proven (as much as it can be) by Kurt Godel in his *completeness theorem* (not to be confused with his *incompleteness* theorem). Therefore, these a priori concepts are the concept of a negation, the *AND* and *OR* operators and, of course the *forall... there exists* structure which allow us to define functions.
+The science that deals with the way we think is, of course, called *logic*. Logic can be *general* and can be *specific to some domain* like accounting, biology, football etc. And the general logic, if we are picky we can divide to *pure* and *applied* where the applied part is everything that is related to the human mind as such (the psychological part, so to say). Taking away all else, pure logic contains just a few fundamentals that we know a priori and are essential to the way we think. Pure logic is, therefore, synonymus with "first order" logic - a fact which is proven (as much as it can be) by Kurt Godel in his *completeness theorem*. Therefore, these a priori concepts are the concept of a negation, the *AND* and *OR* operators and, of course the *forall... there exists* structure which allow us to define functions.
 
 Is pure logic also *transcedental*, in the sense of the word that we used when we talked about transcedental aestetics - a prerequisite for a priori knowledge? Not quite since, as we said earlier, logic does not constitute knowledge - logically correct statements are not necessarily true. Transcendental logic is, then, not just pure logic but it is pure logic only insofar it is related to objects of sensibility. 
 
@@ -116,7 +111,7 @@ Transcedental Analytic: Analytic of concepts
 Of the transcedental guide for the discovery of all pure concepts for the understanding
 ---
 
-If we use functions to abstract away all objects of experience in our thought, we will discover that each *judgement* (or statement as it is also called) that we make has four main characteristics, with three different ways to clasify the statement for each of those characteristics: 
+If we use functions to abstract away all objects of experience in our thought, we will discover that each *judgement* (or statement as it is also called) that we make has four main characteristics (quality, quantity, relation and modality) with three different ways to clasify the statement under each of those characteristics: 
 
 Quantity - What are the objects that the statement is valid for?
 - Universal: *for all*
@@ -142,14 +137,11 @@ So for example the statement:
 
 > There *necessarily* exist a *unique* A such that A *is* Boris Marinov.
 
-is an *categorical*, *apodictic*, *singular*, *affirmative* statement.
-
+is a *categorical*, *apodictic*, *singular*, *affirmative* statement.
 
 We already discussed how our sensibility allow us to perceive all kinds of objects, using the a priori concepts of *space* and *time*. We discussed the mind's thinking apparatus which allows us to build all kinds of theories about our world, both simple and very complex. But how do these things come together. That is to say, how do we take an astrological object that we see in the sky, and a scientific theory and say "this actual object is an instance of this theoretical object". 
 
-The key is that theories, rarely talk about "*this object*" - they actually say "this *set of objects* are instances of this class". Scientific theories are a type of *concepts* 
-
-
+But in theories we rarely talk about one particular object. Rather, a theory encompasses a *set of objects* and unites them under a common whole. Scientific theories are a type of *concepts*, a concept being a general rule which enables  *synthesis* of a manyness (or *manifold* as Kant calls it) of perceptions into a unified whole.
 
 Of the deduction of pure concepts for the understanding
 ---
@@ -158,7 +150,6 @@ When we look at the organs of sensibility we can almost feel which of them are a
 
 Synthesis
 --- 
-
 
 This unification of *many* objects, under one concept is what actually unites the our sensibility with our mind's logical facilities, enabling knowledge. The process is called *synthesis* and we can see that it is not objective - it actully is an act of imagination (one person with might argue that no object in the universe fits the description of a black hole completely, while another might find the description matching all kinds of objects which were never intended to be described in Hoking's theory). The process is composed of three stages:
 
@@ -170,9 +161,13 @@ Note that the process of synthesis is only possible due to our conception of tim
 
 *Problem:* If we are strict enough (as we are, if we are interested in philosophy) we cannot justify and make sense of the identity of an external object. That is if yesterday I cross at a river which is on my way, and then on the next day go to the same place and cross a river again, I cannot really say that I crossed the same river as before - neither is the river the same as it were yesterday, nor am I.
 
-*Solution:* The connection between the river I crossed yesterday and the one I crossed today is actually pretty simple - both were crossed by *me*, and I decided to perceive them as one and the same river, based on my perceptions and logic. Furthermore I too can be the same person as I was yesterday - only thing I have to do is *remember* yesterday. It is my memories - the placing of my perceptions on the temporal scale that make up my personality and my world.
+*Solution:* The connection between the river I crossed yesterday and the one I crossed today is actually pretty simple - both were crossed by *me*, and I decided to perceive them as one and the same river, based on my perceptions and logic. Furthermore I too can be the same person as I was yesterday - only thing I have to do is *remember* yesterday. It is my memories - the placing of my perceptions on the temporal scale that make up my personality and my world (also known as "*the* world" to myself).
 
 The solution might appear quite anticlimatic at first, but it is quite exciting once you realise that accepting it means that all rules for making sense of the world are subjective. It almost seems that the whole world that we are experiencing is made up in our minds. 
+
+Imagination is our road to knowledge. In the same way as God is said to breath life into the dust-composed figure of the man, thus making it a living thing, we, human beings, breath into our image of the world around us, the laws of nature.
+
+Does that mean that our knowledge subjective? It does. Does that make it an illusion. Not entirely, for it is based on the reality that we experience, therefore it has something to do with it.
 
 [](
 For example colors do not exist - if we examine closely we can find thr no two things are exactly the same color.
