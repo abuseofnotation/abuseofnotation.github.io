@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Booknotes: Immanuel Kant's "Critique of Pure Reason" 
+title: Booknotes: The critique of pure reason
 layout: blog
 ---
 
@@ -103,7 +103,7 @@ So, for example, I can be walking a wood and thinking something like:
 
 > Suppose that I had a body which ran on a liquid substance that was distributed to its limbs by a series of tubes, called blood.
 > Suppose further that there were other beings (which I will call "bears") possessing, as part of their bodies, sharp objects that are capable of tearing these tubes out, thus spilling the substance. 
-> -----
+>
 > If that were so, then I would try to avoid being in a close proximity with these bears.
 
 Transcendental Analytic: Analytic of concepts
