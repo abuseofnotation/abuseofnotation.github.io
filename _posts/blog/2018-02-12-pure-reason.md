@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Booknotes: The critique of pure reason
+title: Booknotes - The critique of pure reason
 layout: blog
 ---
 
