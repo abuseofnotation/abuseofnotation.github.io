@@ -7,9 +7,12 @@ layout: blog
 Lately, I've been exploring this book, which I will refer to as simply "The critique" from now on, by following the lectures by [Robert Paul Wolff](https://www.youtube.com/watch?v=d__In2PQS60) and decided to put my notes here in case someone finds them useful. This is a summary. The ideas expressed in it belong to Immanuel Kant. The phrase "Kant thinks" can accompany each sentence from it, but it is omitted for brevity and ease of reading. But at the same time, it is *not objective* - I am interpreting the ideas in the book the way *I* understand them, which may or may not be the way your philosophy professor interprets them. Also, the text is *not in any way a substitute of reading the book itself* - rather my aim was for it to help people who read the book by providing an additional viewpoint into what is happening in it.
 
 <!--more-->
+
 Why I am reading this book (not related to the book itself, you can skip it) 
 ===
 
+
+![alt text](./images/reason.jpg "Critique of practical reason")
 One year ago, while wandering in an antique bookshop, I found a very well preserved and pretty-looking little book, which also looked quite interesting. Being fond of manually-printed books I got it partly as a collectable and partly because it was short and looked interesting. The book was called "Critique of *practical* reason" and, as it later turned out, it was the second of Kant's critiques the first one being the much larger "Critique of *pure* reason". Realising that I bought part two without having part one felt unpleasant, but I did not want to drop the whole thing, and the respect I feel to people who dedicate their time to writing books prevented me from going straight to part 2. So I decided to go with it. I purchased the first book which turned out to be several times longer than the second one and started studying it. 
 
 Before we begin
