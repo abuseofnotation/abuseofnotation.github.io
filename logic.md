@@ -34,18 +34,15 @@ My main claim with this article is that the brain rarely uses just one system to
 Connections and hierarchies
 ---
 
-When we started, we said that there is one main source of truth, which is the truth based on observation. This is actually an oversimplification: there cannot be a logical system which is based *entirely* on observation - it has to contain some *interpretation* of that observation, e.g. a way to know where one object ends and when another begins. 
+When we started, we said that there is one main source of truth, which is the truth based on observation. This is actually an oversimplification: there cannot be a logical system which is based *entirely* on observation - it has to contain some *interpretation* of that observation in order to be logical e.g. a way to know where one object ends and when another begins. In the same way way as any abstract system has to contain some observational element in it, so it is somehow rellevant to the real world. This leads us to a paradox:  If the only way for us to know something about the world is through observation, then how can our brain apply any "higher-level" system such as ones given by mathematics and the sciences etc, in real-world situations? After all, our ears and eyes do not perceive numbers directly, they perceive photons, sound waves etc. 
 
-The systems which are closer to observable reality are primitive. What is "true" in their terms is equal to what is visible in these images. In this sense, we can hardly even call them "logical", because they infer very little relationships between objects - mostly they provide just a plain list of objects and facts which other more complex systems can use. 
-
-Most of what we call "thinking" is actually done in more complex systems - ones which work in more abstract terms, they are not directly related to any observable reality. They stylize the picture of the world. They have much narrow focus, but are much more powerful as to what they can deduce.
-
-But how can a brain utilize a system with any level of abstraction in a concrete real-world situation? I think that the basic approach that it uses is to use a more primitive system first and then use the model which is produced by it, as an input data for a more complex one. Nothing can stop this process with each system consuming the output of the previous one and then producing an outpup of its own, from happening again and again.
+I think that the basic approach is for it to start applying more primitive systems first, in order to  convert the blob of sensory data into a model, containing objects, spacial relationships etc. Once it has that model, it can apply a more abstract systems to it. The output of the abstract system can go to a yet more abstract system ad innfinitum.
 
 Based on their relation to observation, logical systems form a tree. The ones which are more observation-based are at the root and all more abstract systems form the tree's branches. This hierarchy represents not only the way these systems developed from one another, but the way in which they invoke one another.
 
+The systems which are closer to observable reality are primitive. What is "true" in their terms is equal to what is visible in these images. In this sense, we can hardly even call them "logical", because they infer very little relationships between objects - mostly they provide just a plain list of objects and facts.
 
-are ones which work with unfiltered sensory images.
+Most of what we call "thinking" is actually done in more complex systems - ones which work in more abstract terms, they are not directly related to any observable reality. They stylize the picture of the world. They have much narrow focus, but are much more powerful as to what they can deduce.
 
 Empiricism, induction and feedback loops
 ---
