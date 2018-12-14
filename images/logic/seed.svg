@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="37.925 -41.176 148 148" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <marker id="marker-0" viewBox="0 0 12.641 9.03" overflow="visible" orient="auto" refX="6.32" refY="4.51">
+      <polyline style="fill: none; stroke-miterlimit: 2; stroke-width: 5px; stroke: rgb(105, 105, 105);" points="2 3.775 10.625 0 14.641 9.03" transform="matrix(-0.390731, -0.920505, 0.920505, -0.390731, 7.415497, 13.938211)"/>
+    </marker>
+    <symbol id="symbol-0" viewBox="0 0 100 100"/>
+    <symbol id="symbol-1" viewBox="0 0 75.9891 137.2121">
+      <circle style="fill: rgb(216, 216, 216); stroke-width: 5px; stroke: rgb(102, 102, 102);" cx="243.248" cy="327.315" r="21.703" transform="matrix(0.8386710286140442, -0.544638991355896, 0.544638991355896, 0.8386710286140442, -336.30639595590213, -34.83714732185037)"/>
+      <circle style="fill: rgb(216, 216, 216); stroke-width: 5px; stroke: rgb(102, 102, 102);" cx="271.904" cy="253.912" r="21.703" transform="matrix(0.8386710286140442, -0.544638991355896, 0.544638991355896, 0.8386710286140442, -336.30639595590213, -34.83714732185037)"/>
+      <line style="stroke-width: 5px; marker-start: url(#marker-0); stroke: rgb(102, 102, 102);" x1="260.613" y1="282.91" x2="251.477" y2="305.225" transform="matrix(0.8386710286140442, -0.544638991355896, 0.544638991355896, 0.8386710286140442, -336.30639595590213, -34.83714732185037)"/>
+    </symbol>
+    <symbol id="symbol-2" viewBox="0 0 75.9891 137.2121">
+      <circle style="stroke-width: 5px; stroke: rgb(102, 102, 102); fill: rgb(255, 255, 255);" cx="243.248" cy="327.315" r="21.703" transform="matrix(0.8386710286140442, -0.544638991355896, 0.544638991355896, 0.8386710286140442, -336.3063959559022, -34.83714732185041)"/>
+      <circle style="stroke-width: 5px; stroke: rgb(102, 102, 102); fill: rgb(255, 255, 255);" cx="271.904" cy="253.912" r="21.703" transform="matrix(0.8386710286140442, -0.544638991355896, 0.544638991355896, 0.8386710286140442, -336.3063959559022, -34.83714732185041)"/>
+      <line style="stroke-width: 5px; marker-start: url(#marker-0); stroke: rgb(102, 102, 102); fill: rgb(255, 255, 255);" x1="222.038" y1="264.931" x2="212.902" y2="287.246" transform="matrix(0.8386710286140442, -0.544638991355896, 0.544638991355896, 0.8386710286140442, -294.1620401819764, -40.768025007397284)"/>
+    </symbol>
+  </defs>
+  <circle cx="113.404" cy="31.364" r="58.77" style="fill: rgb(250, 250, 250); stroke: rgb(186, 218, 85);"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.276541, 0, 0, 0.276541, 77.459175, 1.844928)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.198147, 0.192907, -0.192907, 0.198147, 97.361397, -20.191296)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.272258, 0, 0, 0.276541, 134.072968, 47.506367)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.265003, 0.071007, 0.066891, 0.26619, 130.725433, 23.962299)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.189278, -0.201616, 0.201616, 0.189278, 78.51313, 31.957233)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.239206, -0.134348, -0.13812, 0.23718, 150.361664, 14.576053)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.114699, 0.249225, 0.247508, 0.118622, 104.722542, 31.76775)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.276163, 0.014466, -0.014466, 0.276163, 90.597328, 47.224522)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.054945, 0.271028, -0.271028, -0.054945, 117.135109, 3.540164)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.268145, 0.067621, -0.067621, 0.268145, 67.297188, 11.820346)" xlink:href="#symbol-2"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.249996, -0.103135, -0.105463, 0.255642, 173.095673, 32.828342)" xlink:href="#symbol-2"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.268145, 0.067621, -0.067621, 0.268145, 68.300117, -10.144879)" xlink:href="#symbol-2"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.249996, -0.103135, -0.105463, 0.255642, 167.962799, 8.187411)" xlink:href="#symbol-2"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.203663, -0.187074, 0.187074, 0.203663, 72.216713, 64.235306)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.157819, -0.221851, -0.225341, 0.1603, 152.890961, 69.979599)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.265003, 0.071007, 0.066891, 0.26619, 146.294647, 36.16254)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.164016, -0.222653, 0.222653, 0.164016, 102.13694, -4.344556)" xlink:href="#symbol-2"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.264, -0.082333, 0.082333, 0.264, 112.775429, -21.453747)" xlink:href="#symbol-2"/>
+  <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 1.5px;" cx="65.837" cy="88.591" r="5.874" transform="matrix(0.838671, -0.544639, 0.544639, 0.838671, -1.794154, 38.855244)"/>
+  <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 1.5px;" cx="65.837" cy="88.591" r="5.874" transform="matrix(0.838671, -0.544639, 0.544639, 0.838671, 17.921392, 38.673939)"/>
+  <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.16683, 0.220553, -0.220553, 0.16683, 135.150299, -8.687314)" xlink:href="#symbol-2"/>
+</svg>
