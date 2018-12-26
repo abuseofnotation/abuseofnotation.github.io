@@ -19,7 +19,13 @@
     src: url('MellSans-SemiBold.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
+}
 
+@font-face {
+    font-family: 'mell_sanssemibold';
+    src: url('MellSans-Black.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
 }
 
 html {
