@@ -60,24 +60,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {  
-  font-size: 50px;
-  font-weight: normal;
-  a {
-    color: inherit;
-  }
+  font-size: 30px;
 }
 
 h2 {
-  font-size: 40px;
-  font-weight: normal;
-}
-
-h3 {
   font-size: 20px;
 }
 
+h3 {
+  font-size: 15px;
+}
+
 h4 {
-  font-size: 18px;
+  font-size: 10px;
   color: $gray;
 }
 
@@ -188,7 +183,8 @@ img {
 }
 .wrapper-masthead {
   margin-bottom: 0px;
-  background-color: #375C7F;
+  background-color: #606060;
+  border-bottom: 18px solid #d3d3d3;
 }
 
 .masthead {
