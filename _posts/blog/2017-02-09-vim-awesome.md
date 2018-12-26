@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Why vim is awesome
+title: Why is vim awesome
 layout: blog
 ---
 

@@ -1,6 +1,6 @@
 ---
 category: blog
-title: The Business of Credibility
+title: The business of credibility
 layout: blog
 ---
 

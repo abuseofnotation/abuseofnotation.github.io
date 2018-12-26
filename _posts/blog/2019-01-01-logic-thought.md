@@ -1,5 +1,5 @@
 ---
-title: Using logic to model real-world thinking
+title: "How does knowledge work: using logic to model real-world thinking"
 layout: blog
 ---
 
