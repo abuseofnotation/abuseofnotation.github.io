@@ -43,7 +43,7 @@ There are many statements that we cannot verify with our own eyes but we conside
 
 Our power to observe stuff is the base source of truth, but there are an infinite number of other sources, such as truths based on scienses, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endourse, but belief in authorities, on which all people rely). Not all of these sources have to be so official as "Mathematically True" or "True as Observed" (or even as "It's in the Bible") - there are also stuff as trivial as "My Father Told me so" and a million other nameless ones. Each of these sources brings with itself its own notion of objects (such as "one", "God", and apple) a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. Because, not only does mathematics have its own concept of truth, it also has a unique method of reasoning, that is, of deciding whether a given proposition is true bases on other propositions. Different logical systems can be used in parralel and results can be compared.
 
-<img src="/images/logic/systems.svg" width="500px">
+<img src="/images/logic/systems.svg" width="100%">
 
 The brain rarely uses just one system to judge how to react in a given situation - it uses a multitude of systems (or even it can use one system in multitude of ways): in a single decision mathematics, religion, can all play a role, as well as one's sense of duty. This mesh captures the concept of "everyday thinking" which I am trying to express. The one where nothing is true in general but everything is true in some context (and in which perceiving a statement often involves finding out the context in which it is true). 
 
@@ -57,7 +57,7 @@ So the observational aspect of a logical system is a question of degrees, not a 
 
 Based on their relationship to observation, logical systems can be viewed as a tree - the most concrete and observational-driven ones at the tree's root, and the most abstract ones at its branches. I think that this relationship is key to the way the brain uses these systems: presented with sensory data, it (the brain) probably invokes a most primitive system first. This system probably does not make any important assertions - what it does is to convert that sensory data into a little more structured model. Once it has that model, the brain can apply on it a number of more abstract systems, with each of them producing an ever more structured model of their own as a result. These models will in turn be fed to a couple more abstract systems and so on. 
 
-<img src="/images/logic/chain.svg" width="500px">
+<img src="/images/logic/chain.svg" width="100%">
 
 With each "jump" from one less abstract system to another more abstract one, more and more is "known" about a given situation, but at the same time there are more and more possible interpretations, each giving us a separate system of analysing the situation.
 
@@ -77,13 +77,13 @@ Working with multiple systems (Levels of relevance)
 
 Most systems can, and are be interpreted in more than one way. In order to process the results, the brain must have a mechanism for cross referencing the results, based on how credible each souce of interpretation is. Let's go back to our example with the rooms - I am waking up in a room without knowing which one it is. Let's say that it can be either room A, or room B. In this case, my brain would be using both system A, (the system it created to represent room A) and system B (representing room B) in parallel to analyse its surroundings and make predictions, where each prediction will have some degree of certainty which is inherent from the system which made it, that is if the chances that you are in A or B are equal - if A says that x is true, and B says that x is false, then system will act as if there is a 50% chance that x is true. The beauty of that model is that, if x is determined to be true and thus system B turns out to be corrupt, system A would still remain functional.
 
-<img src="/images/logic/jump.svg" width="500px">
+<img src="/images/logic/jump.svg" width="100%">
 
 In our example, the percentages represented degree of certainty, but in a more general case (for example when navigating through an unknown area), they serve as degrees of *relevance*, that is they signify how relevant a given system is in a given situation. 
 
 This selection process happens on any level of the tree. Based on it, each system summarizes data it takes from the ones at a higher-level and transmits it to the one which invoked it.
 
-<img src="/images/logic/tree.svg" width="500px">
+<img src="/images/logic/tree.svg" width="100%">
 
 But how is the relevance of a given system determined? I think that there are at least two ways - one is the obvious one - by direct body responses, ranging from the most simple ones to the most complex ones. The other is by complex links of family reseblance between different systems.
 
