@@ -1,34 +1,47 @@
 ---
-title: Using logic to model real-world thinking
+title: How does the knowledge work: using logic to model real-world thinking
 layout: blog
 ---
 
 > "Hello, and welcome to another episode of "Logic for Y'all". Today we are going to tackle a rather controversial topic - "Using logic to model real-world thinking". Asked to comment on it, most people went: "Pff, logic!" and our resident logicians prepared the following summary: "Pff, the real world!". But still among our listeners there were some wannabe philosophers who insisted that this is the most important thing ever so it appears that we have no choice but to get someone to talk about it (there will be booze at the end). So can we please give a warm welcome to the only guy who agreed to speak about this rubbish topic, Boris Marinoooov!"
 
-At the last 2 centuries, logic as been proved useful in many disciplines, such as mathematics, computer programming etc. but it has shifted more and more from its original purpose - modelling the way we think. And trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
+During the last two centuries, the discipline of logic as been proved useful in many disciplines, such as mathematics, computer programming etc. but it has shifted more and more from its original purpose - modelling the way we think and aquire knowledge. This task has proven itself much harder than anticipated and trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
 
-> "Hm, it rained today. And had to go outside, so I got wet."
-> "People get wet when it rains and they don't carry an umbrella. I guess you forgot your umbrella."
+> A: "Hm, it rained today. And had to go outside, so I got wet."
+> B: "People get wet when it rains and they don't carry an umbrella. I guess you forgot your umbrella."
 
-Nevertheless, it is clear that Aristotle was onto something when he invented the subject. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that we do not strive for correctness in our thoughts and speech, so logic is just not useful for us, but for me this answer is wrong. What else can thinking be, but a strive for correctness? If we manage to think a thought, then it has to be correct in a certain sense and under certain rules. The question is what these rules are. 
+Nevertheless, it is clear that Aristotle was onto something when he pioneered the discipline. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that in our conversations we typically do not strive for correctness and for aquiring knowledge, we are just chit-chatting for no reason and in once sense that is true, but in another, it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry - we can imagine a figure which contradicts the laws of physics, but not those of geometry. That is we can have thoughts which are *incorrect*, but not *illogical*.
 
-To answer this, I plan to do to attempt to define a system I can use to model real-world thinking using logic.
+If we decide to take this at face value we can ask ourselves what these rules are (or can be). This question was the seed of this article. The result was a epistemological system for modelling real-world thinking, which is partly based on formal logic, and which can provide a partial answer to the question which.
 
-In search of true/false
+In classical logic, True/False is an inherent characteristic of every statement. This is not at all how our perceptions and thoughts work - we constantly say and think things that are neither true nor false, or are somewhere in between. In constructive logic (or "Intuitionistic logic" as it is also called), things are a bit more "realistic" - True and False are just assertions like anything else and there can be statements which are neither true nor false. For this reason I would pick constructive logic as a basis of my logical framework.
+
+Axioms
 ---
 
-In classical logic, True/False is an inherent characteristic of of each and every thing that we say. This is not at all how our perceptions and thoughts work - we constantly say and think things that are neither true nor false, or are somewhere in between. In constructive logic (or "Intuitionistic logic"as it is also called), things are a bit more "realistic" - True and False are just assertions like anything else and there can be statements which are neither true nor false. For this reason I would pick constructive logic as a basis of my logical framework for modelling human perception.
+If we are going to use constructive type of logic for modelling thinking, we have to pick the core set of assertions which will act as the axioms of our logical framework and from which everything else would follow. Let's begin with simple statements which we can verify with our own eyes. If we agreee on definition of an "object" and "relation", we can theoretically make a list of statements which describe, for example, the spatial relationships of objects which are before our eyes, as well as the laws governing these relationships.
 
-If we are going to use constructive type of logic for modelling the world (and even if we aren't), we have to pick the core set of assertions that imply Truth. These assertions (or assertion) will act as the "seed" of our logical framework and everything else will follow from them. Let's start with the following statement: "everything that I see with my own eyes is true". From this it would follow that, for example, it is true that I am a human being, it is true that I am sitting in front of a computer etc. (I can see that I am standing in front a computer *and* everything I see is true, *therefore* I am sitting in front of a computer) etc. 
+For example given the following list of facts:
 
-<img src="/images/logic/seed.svg" width="500px">
+> "A is behind B" 
+
+> "B is behind C"
+
+And the following rule of inference:
+
+> forall A B C if A is behind B and B is behind C then A is behind C
+
+
+<img src="/images/logic/seed.svg" width="100%">
 
 A system of systems
 ---
 
-There are many statements that we cannot verify with our own eyes but we consider "true" in some sense, like mathematical statements, for example - simpler math statements like 1 + 1 = 2 may reside in the visible spectre, but there is no way to "see" that the square root of 2 is irrational, for example. Depending on your background, you may consider mathematics anything between the language of nature and a load of bullcrap. But one thing is for certain - mathematical statements are not true *in the same way* as statements about everyday objects that we see. Based on these statement, we can conclude that *in real-life thinking there are not one, but several concepts of truth and ways in which a given statement is true of false*. As we shall see later, actually the whole unique characteristic of thinking arises from the way in which those concepts connect. 
+There are many statements that we cannot verify with our own eyes but we consider true in *some* sense, like mathematical statements, for example. You may argue that simpler math statements like 1 + 1 = 2 reside in the visible spectre, but there is no way to "see" the truth of statements such as "the square root of 2 is irrational", for example. Depending on context and background, these statement are considered to be anything between, "the closest thing we have to an absolute truth" to "abstract nonsense", but one thing is for certain - they are not true *in the same way and in the same sense* as statements about everyday objects that we see. Based on this, we can conclude that *in real-life thinking there are not one, but many concepts of truth*, that is, ways in which a given statement is true of false. 
 
-Our power to observe stuff is base source of truth, but there are an infinite number of other sources, such as truths based on scienses, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endourse, but belief in authorities, on which all people rely). Not all of these sources have to be so official as "Mathematically True" or "True as Observed" (or even as "It's in the Bible") - there are also stuff as trivial as "My Father Told me so" and a million other nameless ones. Each of these sources brings with itself its own notion of objects (such as "one", "God", and apple) a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. Because, not only does mathematics have its own concept of truth, it also has a unique method of reasoning, that is, of deciding whether a given proposition is true bases on other propositions. Different logical systems can be used in parralel and results can be compared.
+(As we shall see later, actually the whole unique characteristic of thinking arises from the way in which those concepts connect.)
+
+Our power to observe stuff is the base source of truth, but there are an infinite number of other sources, such as truths based on scienses, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endourse, but belief in authorities, on which all people rely). Not all of these sources have to be so official as "Mathematically True" or "True as Observed" (or even as "It's in the Bible") - there are also stuff as trivial as "My Father Told me so" and a million other nameless ones. Each of these sources brings with itself its own notion of objects (such as "one", "God", and apple) a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. Because, not only does mathematics have its own concept of truth, it also has a unique method of reasoning, that is, of deciding whether a given proposition is true bases on other propositions. Different logical systems can be used in parralel and results can be compared.
 
 <img src="/images/logic/systems.svg" width="500px">
 
