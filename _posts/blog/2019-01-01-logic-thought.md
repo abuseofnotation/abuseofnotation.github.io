@@ -81,7 +81,7 @@ Most systems can, and are be interpreted in more than one way. In order to proce
 
 In our example, the percentages represented degree of certainty, but in a more general case (for example when navigating through an unknown area), they serve as degrees of *relevance*, that is they signify how relevant a given system is in a given situation. 
 
-This selection process happens on any level of the tree. Based on it, each system summarizes data it takes from the ones at a higher-level and transmits it to the one which inveked it.
+This selection process happens on any level of the tree. Based on it, each system summarizes data it takes from the ones at a higher-level and transmits it to the one which invoked it.
 
 <img src="/images/logic/tree.svg" width="500px">
 
