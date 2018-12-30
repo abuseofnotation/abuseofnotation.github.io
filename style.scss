@@ -292,6 +292,17 @@ nav {
   border-bottom: none;
 }
 
+figure {
+  border: 5px solid gray;
+  margin: 60px 0;
+}
+
+figcaption {
+  background: gray;
+  color: white;
+  padding: 10px;
+}
+
 .post {
   blockquote {
     border-left: 4px dotted #666;
