@@ -35,7 +35,7 @@
   <use width="75.98909759521484" height="137.21209716796875" transform="matrix(-0.162457, 0.04353, 0.041007, 0.163185, 208.905594, 36.166321)" style="stroke-width: 23.94px; stroke: rgb(166, 172, 148);" xlink:href="#symbol-1"/>
   <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.100548, -0.136495, 0.136495, 0.100548, 181.835175, 11.333878)" xlink:href="#symbol-2"/>
   <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.161842, -0.050473, 0.050473, 0.161842, 188.356979, 0.84527)" xlink:href="#symbol-2"/>
-  <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 1.5px;" cx="40.361" cy="54.31" r="3.601" transform="matrix(0.838671, -0.544639, 0.544639, 0.838671, 118.121323, 37.817055)"/>
-  <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 1.5px;" cx="40.361" cy="54.31" r="3.601" transform="matrix(0.838671, -0.544639, 0.544639, 0.838671, 130.207733, 37.70591)"/>
+  <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 0.7px;" cx="40.361" cy="54.31" r="3.601" transform="matrix(0.838671, -0.544639, 0.544639, 0.838671, 118.121323, 37.817055)"/>
+  <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 0.7px;" cx="40.361" cy="54.31" r="3.601" transform="matrix(0.838671, -0.544639, 0.544639, 0.838671, 130.207733, 37.70591)"/>
   <use width="75.98909759521484" height="137.21209716796875" transform="matrix(0.102273, 0.135208, -0.135208, 0.102273, 202.073669, 8.671595)" xlink:href="#symbol-2"/>
 </svg>

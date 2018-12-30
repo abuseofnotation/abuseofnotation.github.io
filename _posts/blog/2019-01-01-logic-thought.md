@@ -5,23 +5,25 @@ layout: blog
 
 > "Hello, and welcome to another episode of "Logic for Y'all". Today we are going to tackle a rather controversial topic - "Using logic to model real-world thinking". Asked to comment on it, most people went: "Pff, logic!" and our resident logicians prepared the following summary: "Pff, the real world!". But still among our listeners there were some wannabe philosophers who insisted that this is the most important thing ever so it appears that we have no choice but to get someone to talk about it (there will be booze at the end). So can we please give a warm welcome to the only guy who agreed to speak about this rubbish topic, Boris Marinoooov!"
 
-During the last two centuries, the discipline of logic as been proved useful in many disciplines, such as mathematics, computer programming etc. but it has shifted more and more from its original purpose - modelling the way we think and aquire knowledge. This task has proven itself much harder than anticipated and trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
+During the last two centuries, logic as been proved useful in many disciplines, such as mathematics, computer programming etc. but it has shifted more and more from its original purpose - modelling the way we think and aquire knowledge. This task has proven itself much harder than anticipated and trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
 
 > A: "Hm, it rained today. And had to go outside, so I got wet."
+
 > B: "People get wet when it rains and they don't carry an umbrella. I guess you forgot your umbrella."
 
-Nevertheless, it is clear that Aristotle was onto something when he pioneered the discipline. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that in our conversations we typically do not strive for correctness and for aquiring knowledge, we are just chit-chatting for no reason and in once sense that is true, but in another, it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry - we can imagine a figure which contradicts the laws of physics, but not those of geometry. That is we can have thoughts which are *incorrect*, but not *illogical*.
+It is clear that Aristotle was onto something when he pioneered the discipline. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that in our conversations we typically do not strive for correctness and for knowledge - we are just chit-chatting for no reason. In once sense that is true but in another it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry. Or in other words, we can imagine a figure which contradicts the laws of physics, but not those of geometry just as we can have thoughts which are *incorrect*, but not ones which are *illogical*.
 
-If we decide to take this at face value we can ask ourselves what these rules are (or can be). This question was the seed of this article. The result was a epistemological system for modelling real-world thinking, which is partly based on formal logic, and which can provide a partial answer to the question which.
+If we decide to take this at face value we can ask ourselves what these rules are (or can be) when it comes to our everyday reasoning. This question is the seed of this article. In it, I define an epistemological system for modelling real-world thinking, which is partly based on formal logic, and which, I hope, can provide a partial answer to this question.
 
-In classical logic, True/False is an inherent characteristic of every statement. This is not at all how our perceptions and thoughts work - we constantly say and think things that are neither true nor false, or are somewhere in between. In constructive logic (or "Intuitionistic logic" as it is also called), things are a bit more "realistic" - True and False are just assertions like anything else and there can be statements which are neither true nor false. For this reason I would pick constructive logic as a basis of my logical framework.
+Truth and falcity 
+---
+
+In classical logic, true/false is an inherent characteristic of every statement. This is not at all how our thoughts work - we constantly say and think things that are neither true nor false, or are somewhere in between. In *constructive logic* (or "Intuitionistic logic" as it is also called), things are a bit more "realistic" - True and False are just assertions like anything else we say and there can be statements which are neither true nor false. For this reason I would pick constructive logic as a basis of my logical framework. Also, for simplicity's sake, I will leave out the concept of falcity from it, which leaves us with just two types of statements - proven and unproven.
 
 Axioms
 ---
 
-If we are going to use constructive type of logic for modelling thinking, we have to pick the core set of assertions which will act as the axioms of our logical framework and from which everything else would follow. Let's begin with simple statements which we can verify with our own eyes. If we agreee on definition of an "object" and "relation", we can theoretically make a list of statements which describe, for example, the spatial relationships of objects which are before our eyes, as well as the laws governing these relationships.
-
-For example given the following list of facts:
+Next, we have to pick the core set of assertions which will act as the axioms of our logical framework and from which everything else would follow. We can begin by listing some simple statements which we can verify with our own eyes, like the ones used in the dialogue above. These statements are not absolute, because they can come in several different "flavours", but each flavour is more or less equally valid than the rest. So if we agree on a definition of an "object" and "relation" we use can theoretically make a list of all relationships of objects which are before our eyes, as well as the laws governing these relationships. This will allow to derive new statements from our axioms. For example given the following list of facts:
 
 > "A is behind B" 
 
@@ -31,8 +33,16 @@ And the following rule of inference:
 
 > forall A B C if A is behind B and B is behind C then A is behind C
 
+We can postulate that
 
-<img src="/images/logic/seed.svg" width="100%">
+> "A is behind C" 
+
+<figure>
+  <img src="/images/logic/seed.svg" width="100%">
+  <figcaption>
+    A Hasse diagram, displaying all statements and the connections between them in an arbitrary logical system. Arrows represent causal relations, and circles represent statements. Axioms are in dark grey, statements which can be proven from the axioms are in light grey and unproven (not necessarily false) statements are in white.
+  </figcaption>
+</figure>
 
 A system of systems
 ---
@@ -41,30 +51,39 @@ There are many statements that we cannot verify with our own eyes but we conside
 
 (As we shall see later, actually the whole unique characteristic of thinking arises from the way in which those concepts connect.)
 
-Our power to observe stuff is the base source of truth, but there are an infinite number of other sources, such as truths based on scienses, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endourse, but belief in authorities, on which all people rely). Not all of these sources have to be so official as "Mathematically True" or "True as Observed" (or even as "It's in the Bible") - there are also stuff as trivial as "My Father Told me so" and a million other nameless ones. Each of these sources brings with itself its own notion of objects (such as "one", "God", and apple) a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. Because, not only does mathematics have its own concept of truth, it also has a unique method of reasoning, that is, of deciding whether a given proposition is true bases on other propositions. Different logical systems can be used in parralel and results can be compared.
+Our power to observe stuff is the base source of truth, but there are an infinite number of other sources, such as truths based on scienses, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endourse, but belief in authorities, on which all people rely). Not all of these sources have to be so official as "Mathematically True" (or even as "It's in the Bible") - for example a little kid may use "My Father Told me so" as a source of truth. There can be a million other nameless sources. Each of thesm brings with itself its own notion of objects (such as "one", "God", and "apple") a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. 
 
-<img src="/images/logic/systems.svg" width="100%">
+<figure>
+  <img src="/images/logic/systems.svg" width="100%">
+  <figcaption>
+  Not only do disciplines such as mathematics have its own concept of truth, but they also have a unique method of reasoning, that is, of deciding whether a given proposition is true bases on other propositions, so there is no direct logical connection between them.
+  </figcaption>
+</figure>
 
 The brain rarely uses just one system to judge how to react in a given situation - it uses a multitude of systems (or even it can use one system in multitude of ways): in a single decision mathematics, religion, can all play a role, as well as one's sense of duty. This mesh captures the concept of "everyday thinking" which I am trying to express. The one where nothing is true in general but everything is true in some context (and in which perceiving a statement often involves finding out the context in which it is true). 
+
+Next up, we will see how different logical systems can be used in parallel and results can be compared.
 
 Connections and hierarchies
 ---
 
-We said that there is one main source of truth, which is the truth based on observation. This is probably an oversimplification: there cannot be a logical system which is based *entirely* on observation, for in order for it to reach any result it has to contain some *interpretation* of that observation e.g. to "know" where one object ends and when another begins. At the same time and in the same way, any abstract system has to contain *some observational element* in it, so it can be used the real world, the brain can know something about the world only through observation. 
+We said that there is one main source of truth, which is the truth based on observation. This is probably an oversimplification - there cannot be a logical system which is based *entirely* on observation. For in order for it to assert anything, it has to contain some *interpretation* of that observation e.g. to postulate where one object ends and another begins. At the same time, and in the same way, any abstract system has to contain *some* observational element in it - the brain can know something about the world only through observation, so any body of knowledge which has nothing to do with any observation would be useless. So the observational aspect of a logical system is a question of degrees, not a binary.
 
+Based on their relationship to observation, logical systems can be viewed as a tree with the most concrete and observational-driven ones located at the tree's root, and the most abstract ones, at its branches. I think that this relationship is key to the way the brain uses these systems: presented with sensory data, it (the brain) probably invokes a most primitive system first - one which does not make any important assertions, but merely converts that sensory data into a model which is a little bit more structured. Once it has that model, the brain can apply on it a number of more abstract systems, with each of them producing an ever more structured model of their own as a result. These models will in turn be fed to a couple more abstract systems and ad infinitum. 
 
-So the observational aspect of a logical system is a question of degrees, not a binary.
-
-Based on their relationship to observation, logical systems can be viewed as a tree - the most concrete and observational-driven ones at the tree's root, and the most abstract ones at its branches. I think that this relationship is key to the way the brain uses these systems: presented with sensory data, it (the brain) probably invokes a most primitive system first. This system probably does not make any important assertions - what it does is to convert that sensory data into a little more structured model. Once it has that model, the brain can apply on it a number of more abstract systems, with each of them producing an ever more structured model of their own as a result. These models will in turn be fed to a couple more abstract systems and so on. 
-
-<img src="/images/logic/chain.svg" width="100%">
+<figure>
+  <img src="/images/logic/chain.svg" width="100%">
+  <figcaption>
+    A set of observations which are a result of sensory data (at the bottom of the diagram), are mapped to a simple logical system (at the center), which in turn is mapped to a more complex one (top).
+  </figcaption>
+</figure>
 
 With each "jump" from one less abstract system to another more abstract one, more and more is "known" about a given situation, but at the same time there are more and more possible interpretations, each giving us a separate system of analysing the situation.
 
 The jump
 ---
 
-How does the brain makes a jump from one system to another is the heart of the matter when it comes to my model, but it is also the most speculative part of this article. If we make use of the tree model I describe in the previous chapter we can say that the deeper we go with my theory, the less we can be sure of anything. However, I will not leave this chapter out, for it actually describes how do we obtain meaning.
+How does the brain makes a jump from one system to another is the heart of the matter when it comes to my model, but it is also the most speculative part of this article. However, I will not leave it out, for it actually describes how do we obtain meaning.
 
 If we view logical systems as Heytung algebras, it makes sense to view jumps as canonical algebra morphisms (i.e. functors), that is connections which preserve the structure of the system that we are coming from in the system that we are going to, e.g. if mapping *f* from system *A* to system *B* is a morphism, then given that in system *A*, statement *a* follows from statement *b*, then in *B* statement *f(a)* should also follow from statement *f(b)*. One thing that is pecific to our case is that the new system does not have to reflect the full set of assertions of the old one, that is a morphism can also go not from A to B but from any arbitrary subset of A to B.
 
@@ -77,13 +96,21 @@ Working with multiple systems (Levels of relevance)
 
 Most systems can, and are be interpreted in more than one way. In order to process the results, the brain must have a mechanism for cross referencing the results, based on how credible each souce of interpretation is. Let's go back to our example with the rooms - I am waking up in a room without knowing which one it is. Let's say that it can be either room A, or room B. In this case, my brain would be using both system A, (the system it created to represent room A) and system B (representing room B) in parallel to analyse its surroundings and make predictions, where each prediction will have some degree of certainty which is inherent from the system which made it, that is if the chances that you are in A or B are equal - if A says that x is true, and B says that x is false, then system will act as if there is a 50% chance that x is true. The beauty of that model is that, if x is determined to be true and thus system B turns out to be corrupt, system A would still remain functional.
 
-<img src="/images/logic/jump.svg" width="100%">
+<figure>
+  <img src="/images/logic/jump.svg" width="100%">
+  <figcaption>
+    A system that is connected to two other systems (by different sets of assertions).
+  </figcaption>
+</figure>
 
-In our example, the percentages represented degree of certainty, but in a more general case (for example when navigating through an unknown area), they serve as degrees of *relevance*, that is they signify how relevant a given system is in a given situation. 
+In our example, the percentages represented degree of certainty, but in a more general case (for example when navigating through an unknown area), they serve as degrees of *relevance*, that is they signify how relevant a given system is in a given situation. This selection process happens on any level of the tree. 
 
-This selection process happens on any level of the tree. Based on it, each system summarizes data it takes from the ones at a higher-level and transmits it to the one which invoked it.
-
-<img src="/images/logic/tree.svg" width="100%">
+<figure>
+  <img src="/images/logic/tree.svg" width="100%">
+  <figcaption>
+    Each system summarizes data it takes from the ones at a higher-level and transmits it to the one which invoked it.
+  </figcaption>
+</figure>
 
 But how is the relevance of a given system determined? I think that there are at least two ways - one is the obvious one - by direct body responses, ranging from the most simple ones to the most complex ones. The other is by complex links of family reseblance between different systems.
 
