@@ -48,7 +48,7 @@
   <line style="marker-start: url(#marker-0); fill: rgb(255, 246, 246); stroke: rgb(176, 173, 173);" x1="179.177" y1="94.166" x2="160.275" y2="116.881" transform="matrix(0.441529, -0.897247, 0.897247, 0.441529, 0.106414, 211.217964)"/>
   <line style="marker-start: url(#marker-0); stroke: rgb(102, 102, 102); fill: rgb(255, 255, 255);" x1="150.409" y1="88.799" x2="144.014" y2="88.986" transform="matrix(0.441529, -0.897247, 0.897247, 0.441529, 2.454832, 181.728969)"/>
   <circle cx="100.739" cy="128.052" r="14.872" style="fill: none; stroke: rgb(182, 182, 182);" transform="matrix(0.858973, -0.512021, 0.512021, 0.858973, 15.865332, 64.549316)"/>
-  <line style="marker-start: url(#marker-0); stroke: rgb(102, 102, 102); stroke-width: 1.4px;" x1="169.987" y1="134.777" x2="167.611" y2="139.228" transform="matrix(0.441529, -0.897247, 0.897247, 0.441529, -28.655725, 227.966322)"/>
+  <line style="marker-start: url(#marker-0); stroke: rgb(102, 102, 102);" x1="169.987" y1="134.777" x2="167.611" y2="139.228" transform="matrix(0.441529, -0.897247, 0.897247, 0.441529, -28.655725, 227.966322)"/>
   <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 1.5px;" cx="44.664" cy="60.1" r="3.985" transform="matrix(0.441529, -0.897247, 0.897247, 0.441529, 112.40551, 174.71904)"/>
   <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 1.5px;" cx="44.664" cy="60.1" r="3.985" transform="matrix(0.578379, -0.815768, 0.815768, 0.578379, 121.073044, 156.334702)"/>
   <circle style="stroke: rgb(102, 102, 102); fill: rgb(139, 139, 139); stroke-width: 1.5px;" cx="44.664" cy="60.1" r="3.985" transform="matrix(0.441529, -0.897247, 0.897247, 0.441529, 131.286575, 159.012436)"/>
