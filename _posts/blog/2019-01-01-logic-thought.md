@@ -5,25 +5,25 @@ layout: blog
 
 > "Hello, and welcome to another episode of "Logic for Y'all". Today we are going to tackle a rather controversial topic - "Using logic to model real-world thinking". Asked to comment on it, most people went: "Pff, logic!" and our resident logicians prepared the following summary: "Pff, the real world!". But still among our listeners there were some wannabe philosophers who insisted that this is the most important thing ever so it appears that we have no choice but to get someone to talk about it (there will be booze at the end). So let's give a warm welcome to the only guy who agreed to speak about this rubbish topic, Boris Marinoooov!"
 
-During the last two centuries, logic as proved itself useful in many disciplines, such as mathematics, computer programming etc. but it has shifted more and more from its original purpose - modelling the way we think and aquire knowledge. This task has turned out to be much harder than anticipated and trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
+During the last two centuries, logic as proved itself useful for many disciplines, such as mathematics, computer programming etc. But it has shifted more and more from its original purpose - modelling the way we think and aquire knowledge, a task which has turned out to be much harder than anticipated. And trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
 
 > A: "Hm, it rained today. And had to go outside, so I got wet."
-
+>
 > B: "People get wet when it rains and they don't carry an umbrella. I guess you forgot your umbrella."
 
-It is clear that Aristotle was onto something when he pioneered the discipline. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that in our conversations we typically do not strive for correctness and for knowledge - we are just chit-chatting for no reason. In once sense that is true but in another it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry. Or in other words, we can imagine a figure which contradicts the laws of physics, but not those of geometry just as we can have thoughts which are *incorrect*, but not ones which are *illogical*.
+Nevertheless, Aristotle was clearly onto something when he pioneered the discipline more than two aeons ago. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that our conversations are not about correctness and knowledge - we are just chit-chatting for no reason. This is true in one aspect. But in another it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry. Or in other words, we can imagine a figure which contradicts the laws of physics, but not those of geometry just as we can have thoughts which are *incorrect*, but not ones which are *illogical*. 
 
-If we decide to take this at face value we can ask ourselves what these rules are (or can be) when it comes to our everyday reasoning. This question is the seed of this article. In it, I define an epistemological system for modelling real-world thinking, which is partly based on formal logic, and which, I hope, can provide a partial answer to this question.
+If we decide to take this at face value, we can ask ourselves what these rules are (or can be). This question is the seed of this article. To work it out, I defined this really neat epistemological system for modelling real-world thinking, which is partly based on formal logic, and which, I hope, can provide a partial answer to this question.
 
 Truth and falcity 
 ---
 
-In classical logic, true/false is an inherent characteristic of every statement. This is not at all how our thoughts work - we constantly say and think things that are neither true nor false, or are somewhere in between. In *constructive logic* (or "Intuitionistic logic" as it is also called), things are a bit more "realistic" - True and False are just assertions like anything else we say and there can be statements which are neither true nor false. For this reason I would pick constructive logic as a basis of my logical framework. Also, for simplicity's sake, I will leave out the concept of falcity from it, which leaves us with just two types of statements - proven and unproven.
+In *classical logic*, true/false is an inherent characteristic of every statement. This is not at all how our thoughts work - we constantly say and think things that are neither true nor false. In *constructive logic* (or *Intuitionistic logic* as it is also called), things are a bit more "realistic" - the truth and falcity of a statement is determined only by its connection with other statements. For this reason I would pick constructive logic as a basis of my logical framework. Also, for simplicity's sake, I will leave out the concept of falcity from it, which leaves us with just two types of statements - proven and unproven.
 
 Axioms
 ---
 
-Next, we have to pick the core set of assertions which will act as the axioms of our logical framework and from which everything else would follow. We can begin by listing some simple statements which we can verify with our own eyes, like the ones used in the dialogue above. These statements are not absolute, because they can come in several different "flavours", but each flavour is more or less equally valid than the rest. So if we agree on a definition of an "object" and "relation" we use can theoretically make a list of all relationships of objects which are before our eyes, as well as the laws governing these relationships. This will allow to derive new statements from our axioms. For example given the following list of facts:
+Next, we have to pick the core set of assertions which will act as the axioms of our logical framework and from which everything else would follow. We can begin by listing some simple statements which we can verify with our own eyes, like the ones used in the dialogue above. There is more than one way to arrange this list, but if we agree on a definition of an "object" and "relation" we use can theoretically make a list of all relationships of objects which are before our eyes, as well as the laws governing these relationships. This will allow to derive new statements from our axioms. For example given the following list of facts:
 
 > "A is behind B" 
 
@@ -36,6 +36,7 @@ And the following rule of inference:
 We can postulate that
 
 > "A is behind C" 
+
 
 <figure>
   <img src="/images/logic/seed.svg" width="100%">
