@@ -5,25 +5,25 @@ layout: blog
 
 > "Hello, and welcome to another episode of "Logic for Y'all". Today we are going to tackle a rather controversial topic - "Using logic to model real-world thinking". Asked to comment on it, most people went: "Pff, logic!" and our resident logicians prepared the following summary: "Pff, the real world!". But still among our listeners there were some wannabe philosophers who insisted that this is the most important thing ever so it appears that we have no choice but to get someone to talk about it (there will be booze at the end). So let's give a warm welcome to the only guy who agreed to speak about this rubbish topic, Boris Marinoooov!"
 
-During the last two centuries, logic as proved itself useful for many disciplines, such as mathematics, computer programming etc. But it has shifted more and more from its original purpose - modelling the way we think and aquire knowledge, a task which has turned out to be much harder than anticipated. And trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
+During the last two centuries, logic as proved itself useful for many disciplines, such as mathematics, computer programming etc. But it has shifted more and more from its original purpose - modelling the way we think and aquire knowledge. This task is, as it turned out, much harder than anticipated. And trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some other assumptions. So a logical conversation would be something like:
 
 > A: "Hm, it rained today. And had to go outside, so I got wet."
 >
 > B: "People get wet when it rains and they don't carry an umbrella. I guess you forgot your umbrella."
 
-Nevertheless, Aristotle was clearly onto something when he pioneered the discipline more than two aeons ago. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that our conversations are not about correctness and knowledge - we are just chit-chatting for no reason. This is true in one aspect. But in another it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry. Or in other words, we can imagine a figure which contradicts the laws of physics, but not those of geometry just as we can have thoughts which are *incorrect*, but not ones which are *illogical*. 
+Nevertheless, Aristotle was clearly onto something when he pioneered the discipline more than two aeons ago. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that our conversations are not about correctness and knowledge - in them, we are just chit-chatting for no reason. This is true in one aspect. But in another it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry. Or in other words, we can imagine a figure which contradicts the laws of physics, but not those of geometry just as we can have thoughts which are *incorrect*, but not ones which are *illogical*. 
 
-If we decide to take this at face value, we can ask ourselves what these rules are (or can be). This question is the seed of this article. To work it out, I defined this really neat epistemological system for modelling real-world thinking, which is partly based on formal logic, and which, I hope, can provide a partial answer to this question.
+If we decide to take Wittgenstein's assertion at face value, we can ask ourselves what these rules are (or can be), so that every sentence is logical. This question is the seed of this article. To work it out, I defined this really neat epistemological system for modelling real-world thinking, which is partly based on formal logic. Even if the question does not interest you, the system I designed is just too neat to not be put out somewhere.
 
 Truth and falcity 
 ---
 
-In *classical logic*, true/false is an inherent characteristic of every statement. This is not at all how our thoughts work - we constantly say and think things that are neither true nor false. In *constructive logic* (or *Intuitionistic logic* as it is also called), things are a bit more "realistic" - the truth and falcity of a statement is determined only by its connection with other statements. For this reason I would pick constructive logic as a basis of my logical framework. Also, for simplicity's sake, I will leave out the concept of falcity from it, which leaves us with just two types of statements - proven and unproven.
+In *classical logic*, true/false is an inherent characteristic of every statement that exist. This is not at all how our thoughts work - we constantly say and think things that are neither true nor false. In *constructive logic* (or *intuitionistic logic* as it is also called), things are a bit more "realistic" - the truth and falcity of a statement is determined only by its connection with other statements. For this reason I would pick constructive logic as a basis of my logical framework. Also, for simplicity sake, I will leave out the concept of falcity from it, so we can concentrate on just two types of statements - proven and unproven.
 
-Axioms
+First try (axioms)
 ---
 
-Next, we have to pick the core set of assertions which will act as the axioms of our logical framework and from which everything else would follow. We can begin by listing some simple statements which we can verify with our own eyes, like the ones used in the dialogue above. There is more than one way to arrange this list, but if we agree on a definition of an "object" and "relation" we use can theoretically make a list of all relationships of objects which are before our eyes, as well as the laws governing these relationships. This will allow to derive new statements from our axioms. For example given the following list of facts:
+To formalize our thinking, we have to ennumerate the core set of assertions which will act as the axioms of our logical framework and from which everything else would follow. We can begin to do so by listing some simple statements which we can verify with our own eyes, such as the ones used in the dialogue above. There is more than one way to formulate them, but if we agree on a definition of an "object" and "relation" we use can theoretically make a list of all relationships of objects which are before our eyes, as well as the laws governing these relationships. This will allow to derive new statements from our axioms. For example given the following couple of facts:
 
 > "A is behind B" 
 
@@ -31,7 +31,9 @@ Next, we have to pick the core set of assertions which will act as the axioms of
 
 And the following rule of inference:
 
-> forall A B C if A is behind B and B is behind C then A is behind C
+> forall A B C if (A is behind B) and (B is behind C) then (A is behind C)
+
+(in other words, the relationship "behind" is transitive)
 
 We can postulate that
 
@@ -41,27 +43,27 @@ We can postulate that
 <figure>
   <img src="/images/logic/seed.svg" width="100%">
   <figcaption>
-    A Hasse diagram, displaying all statements and the connections between them in an arbitrary logical system. Arrows represent causal relations, and circles represent statements. Axioms are in dark grey, statements which can be proven from the axioms are in light grey and unproven (not necessarily false) statements are in white.
+    A Hasse diagram, displaying all statements, and the connections between them, in an arbitrary logical system. Arrows represent causal relations, and circles represent statements. Axioms are in dark grey, statements which can be proven using the axioms are in light grey and unproven (i.e. false) statements are in white.
   </figcaption>
 </figure>
 
 A system of systems
 ---
 
-There are many statements that we cannot verify with our own eyes but we consider true in *some* sense, like mathematical statements, for example. You may argue that simpler math statements like 1 + 1 = 2 reside in the visible spectre, but there is no way to "see" the truth of statements such as "the square root of 2 is irrational", for example. Depending on context and background, these statement are considered to be anything between, "the closest thing we have to an absolute truth" to "abstract nonsense", but one thing is for certain - they are not true *in the same way and in the same sense* as statements about everyday objects that we see. Based on this, we can conclude that *in real-life thinking there are not one, but many concepts of truth*, that is, ways in which a given statement is true of false. 
+The above approach will work up to a certain level, but not entirely - there are many statements that we cannot verify with our own eyes but we consider true in *some* sense. Like mathematical statements, for example. You may argue that simpler math statements like 1 + 1 = 2 reside in the visible spectre, but there is no way to "see" the truth of statements such as "the square root of 2 is irrational", for example. Depending on context and background, these statement can be considered to be anything between, "the closest thing we have to an absolute truth" to "abstract nonsense", but one thing is for certain - they are not true *in the same way* as statements about everyday objects that we see. Based on this, we can conclude that *in real-life thinking there are not one, but many concepts of truth*, that is, there are many ways in which a given statement is true of false. 
 
-(As we shall see later, actually the whole unique characteristic of thinking arises from the way in which those concepts connect.)
+(And as we shall see later, actually the whole unique characteristic of thinking arises from the way in which those concepts connect.)
 
-Our power to observe stuff is the base source of truth, but there are an infinite number of other sources, such as truths based on scienses, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endourse, but belief in authorities, on which all people rely). Not all of these sources have to be so official as "Mathematically True" (or even as "It's in the Bible") - for example a little kid may use "My Father Told me so" as a source of truth. There can be a million other nameless sources. Each of thesm brings with itself its own notion of objects (such as "one", "God", and "apple") a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. 
+Our power to observe stuff is the base source of truth, but there are an infinite number of other sources, such as truths based on scienses, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endourse, but belief in authorities, on which all people rely). And I don't mean just official sources like "Mathematically True" (or even as "It's in the Bible") - for example a little kid may have "My Father Told me so" as a legitimate of truth, and there can be a million other nameless sources with a varying degree of complexity. Each of them brings with itself its own notion of objects (such as "one", "God", and "apple") a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. 
 
 <figure>
   <img src="/images/logic/systems.svg" width="100%">
   <figcaption>
-  Not only do disciplines such as mathematics have its own concept of truth, but they also have a unique method of reasoning, that is, of deciding whether a given proposition is true bases on other propositions, so there is no direct logical connection between them.
+  Not only do disciplines such as mathematics have its own concept of truth, but they also have a unique method of reasoning, that is, of deciding whether a given proposition is true bases on other propositions. So there is no direct logical connection between them.
   </figcaption>
 </figure>
 
-The brain rarely uses just one system to judge how to react in a given situation - it uses a multitude of systems (or even it can use one system in multitude of ways): in a single decision mathematics, religion, can all play a role, as well as one's sense of duty. This mesh captures the concept of "everyday thinking" which I am trying to express. The one where nothing is true in general but everything is true in some context (and in which perceiving a statement often involves finding out the context in which it is true). 
+The brain rarely uses just one of these system to judge how to react in a given situation - it uses a multitude of systems (or even it can use one system in multitude of ways): in a single decision mathematics, religion, can all play a role, as well as one's sense of duty. This mesh captures the concept of "everyday thinking" which I am trying to express. The one where nothing is true in general but everything is true in some context (and in which perceiving a statement often involves finding out the context in which it is true). 
 
 Next up, we will see how different logical systems can be used in parallel and results can be compared.
 
