@@ -6,6 +6,8 @@ layout: blog
 
 > "Hello, and welcome to another episode of "Logic for Y'all". Today we are going to tackle a rather controversial topic - "Using logic to model real-world thinking". Asked to comment on it, most people went: "Pff, logic!" and our resident logicians prepared the following summary: "Pff, the real world!". But still, among our listeners, there were some wannabe philosophers who insisted that this is the most important thing ever, so it appears that we have no choice but to get someone to talk about it (there will be booze at the end). So let's give a warm welcome to the only guy who agreed to speak about this boring topic, Boris Marinoooov!"
 
+<!--more-->
+
 During the last two centuries, logic as proved itself useful for many disciplines, such as mathematics, computer programming etc. But it has shifted more and more from its original purpose - modelling the way we think and acquire knowledge. This task is, as it turned out, much harder than anticipated. And trying to use logic to analyse an everyday conversation will reveal at once why this is the case. What is a *logical* conversation anyways? Given a set of assumptions and a set of rules for manipulating these assumptions, you can use logic to generate some more assumptions. So a logical conversation would be something like:
 
 > A: "Hm, it rained today. And had to go outside, so I got wet."
