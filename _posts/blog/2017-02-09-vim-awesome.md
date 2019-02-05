@@ -87,3 +87,44 @@ And it doesn't even have to be simple in order to be distraction-free. We are us
 
 In my conclusion I like to dispell the myth that "only programmers" can make use of this editor. It is not true. Every person who writes text can benefit from learning how to use it. It may not be simple, but neither is selecting a word of text with the mouse.
 
+
+Case study - adding text-to-speech feature to vim
+===
+
+I do all my writing in vim, and some of it is fiction. An old technique for writing better fiction and especially dialogues it to read what them aloud before publishing. One time I thought that it would be even better if someone else read it to me, so I decided to install some editor which supports text-to-speech, and can do the job for me.
+
+Being a Mac user, I searched in the Mac App Store for such program. The one I found had a subscription-based license - so it was a ripoff, like all other programs which charge this way. But while playing with the lite version I saw something interesting - the text-to-speech settings like voice, speed of reading etc. of the program were being configured from the OS System Settings. This meant that the text-to-speech module was part of the OS, e.g. I had already paid for it and had it installed. 
+
+The developers of the program I was reviewing were charging people for a program that were just exposing functionality that they already had.
+
+But what was more interesting for me was whether I could use this feature from vim. The first step to doing so was see whether it was exposed as a shell command. And it was, according to [an article that I found](https://www.lifewire.com/mac-say-command-with-talking-terminal-2260772). As far as I'm concerned, the sub-heading of the article, "A fun Terminal tip that can make you laugh" was quite inappropriate - this "fun Terminal tip" actually saved me 20$ per month in subscription charges.
+
+
+How its done
+===
+
+In short, all you have to do to add text to speech to your vim editor is to add *a single line* to your `.vimrc`. The way I did it was this:
+
+```
+vmap <leader>s :'<,'> w ! say & <CR><CR>
+```
+I will review it briefly here: the first part indicates that the command is triggered by pressin the leader key and the "s" where leader key is the key which is used for user shortcuts, and is normally mapped to the space bar by adding `let mapleader = "\<Space>"`.
+
+What follows is the command itself and the way to define a command in vim is to just type the sequence of letters which you want it to execute (so pressing the key combination before the colon will result in executing the combination after it).
+
+The keys `:'<,'>` enters in visual mode and retrieves the text that is currently selected in the editor. Normally when you do that the text gets erased at the end, we don't want for this to happen and hence this `w` is added.
+
+After we had selected the text in the editor, all we have to do is to pass it as a parameter to the command-line app `say`, this is done with `! say <CR><CR>` where `!` is the shortcut to exec a terminal command, and `<CR>` is just the way you end the wholw thing (equivalent to pressing Enter after typing a command manually). The command itself is, then `say &`. It can also be just `say`, but this executes the command in the foreground so it blocks the editor while the is talking. The `&` sign at the end takes care of that.
+
+So in order to use the command I just have to select a text and press space and "s" and my Mac plays it back to me.
+
+After some time I discovered that I often want to replay a whole paragraph, without selecting it, so I added another shortcut: 
+
+```
+nmap <leader>p V<leader>s
+```
+
+This just selects the current paragraph, with `V` and runs the previous command.
+
+
+So that's the conclusion of the whole article - vim may be old and hard to use, but I was about to pay money and install a separate editor just so I have this feature which I needed, and I ended up adding and customizing the feature in vim for just about 15 minutes.
