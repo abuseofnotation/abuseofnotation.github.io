@@ -114,7 +114,7 @@ What follows is the command itself and the way to define a command in vim is to 
 
 The keys `:'<,'>` enters in visual mode and puts the text that is currently selected in the editor in a Unix pipe. Normally when you do that the text gets erased after the command is complete, but in this case we don't want for this to happen, and hence this the character `w` is added.
 
-After we had selected the text in the editor, all we have to do is to pass it as a pipe to the command-line app which would read it aloud (in Mac OS, this app is called `say`) - this is done with `! say <CR><CR>`,  where `!` is the shortcut to exec a terminal command, and `<CR>` is just the way you end the whole thing (equivalent to pressing Enter after typing a command manually). The command itself is, then `say &`. 
+After we had selected the text in the editor, all we have to do is to pass it as a pipe to the command-line app which would read it aloud which is called `say` (also available under Linux) - this is done with `! say <CR><CR>`,  where `!` is the shortcut to exec a terminal command, and `<CR>` is just the way you end the whole thing (equivalent to pressing Enter after typing a command manually). The command itself is, then `say &`. 
 
 It can also be just `say`, but this executes the command in the foreground so it blocks the editor while the paragraph is read. The `&` sign at the end takes care of that.
 
