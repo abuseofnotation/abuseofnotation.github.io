@@ -170,7 +170,6 @@ img {
 }
 
 .hello span {
-  border-bottom: 4px solid grey
 }
 
 .hello a {
@@ -178,6 +177,7 @@ img {
   padding: 10px 0px;
   font-size:70px;
   border-bottom: 6px solid grey;
+  text-decoration: none;
 }
 .wrapper-masthead {
   margin-bottom: 0px;
@@ -227,6 +227,9 @@ img {
 
   h1 {
     color:#fff;
+    a {
+      text-decoration: none;
+    }
   }
 }
 
@@ -238,6 +241,7 @@ img {
   font-family: 'mell_sanssemibold';
   letter-spacing: 1px;
   color: white;
+  text-decoration: none;
 }
 
 .site-description {
