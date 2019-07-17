@@ -65,7 +65,11 @@ Our power to observe stuff is the base source of truth, but there are an infinit
   </figcaption>
 </figure>
 
-The brain rarely uses just one of these systems to judge how to react in a given situation - it uses a multitude of systems (or even it can use one system in a multitude of ways): in a single decision mathematics, religion, can all play a role, as well as one's sense of duty. This mesh captures the concept of "everyday thinking" which I am trying to express. The one where nothing is true in general but everything is true in some context (and in which perceiving a statement often involves finding out the context in which it is true). 
+The brain rarely uses just one of these systems to judge how to react in a given situation - it uses a multitude of systems (or even it can use one system in a multitude of ways): in a single decision mathematics, religion, can all play a role, as well as one's sense of duty. 
+The result is a mesh which captures the concept of "everyday thinking" where nothing is true in general but everything is true in some context (and in which perceiving a statement often involves finding out the context in which it is true).
+
+It would also explain is why logical paradoxes, being as problematic as they are in logic, are a non-issue in our everyday thinking - it is just that the paradoxes arise within the boundaries of a single logical system or family of systems, systems which we can safely ignore when they fail us.
+
 
 Connections and hierarchies
 ---
