@@ -1,5 +1,8 @@
-A millenials thoughts on the new millenium - cars VS bikes and some left-wing propaganda.
+A millenial's thoughts on the new millenial
 ===
+
+Cars VS bikes and some left-wing propaganda (the original article)
+---
 
 In a society where more people believe that the Earth is flat than that capitalism is not the final economical and political paradigm, writing an essay like this one is not an easy task. Many people would probably think I am doing it just because  I did not get the memo that market economy is the best and is here to stay. And even more would be the ones who will just dismiss this article - why should there be interested in politics at all. After all, nobody is paying them to do so, right? 
 
@@ -52,23 +55,26 @@ Unlike car drivers, though, bikers are much more affected by their environment -
 
 Unlike bikes, cars seem like a mode of transportation which generally shields its passengers from their environment: once you are in a car, you can move great distances relatively authonomously and without regard for the environment in which you are moving in. Cars give you the privilege to even ignore certain issues which you would otherwise have. You can, for example, live in a very dangerous or depressing neighbourhood, but that wouldn't make much of a difference for you if you are only travelling there by car.
 
-But though the protection that cars provide is real, the feeling of independece that they induce is a sham - the posession of a car brings about as large amount of dependencies that a consumer product can: oil companies, insurance companies, repair shops etc. all exist because of our car-related needs, needs that not only make us dedicate a great amount of our labor to serving those organizations' interests but, more importantly, increase amount of labour that we should perform, period. In effect, the superficial independence which cars give us, is at the cost of a much more deeper dependence which defines the capitalist social structure. A dependence which is not between people, nor between different classes of people as it is commonly thought, but between individuals and organizations. Organizations which have an agenda on their own and ways to preserve themselves even at the cost of the wellbeing of the people who compose them.
+But though the protection that cars provide is real, the feeling of independece that they induce is a sham - the posession of a car brings about as large amount of dependencies that a consumer product can: oil companies, insurance companies, repair shops etc. all exist because of our car-related needs, needs that not only make us dedicate a great amount of our labor to serving those organizations' interests but, more importantly, increase amount of labour that we should perform, period. In effect, the superficial independence which cars give us, is at the cost of a much more deeper dependence which defines the capitalist social structure. A dependence which is not between people, nor between different classes of people as it is commonly thought, but between individuals and organizations. Organizations which have an agenda on their own and ways to preserve themselves even at the cost of the wellbeing of the people who compose them. That people find this structure less than favourable is proven by their thirst for more money, money being seen as a way to escape from all dependencies and do 'whatever you want'. But this view is naive - although we need money to survive, you don't have to be a billionaire to do what you want, plus I am convinsed that most of us if left to do what they want would would want to do something meaningful and helpful for their society i.e. that doing "what you want" would involve working. But why, then, do we devote so much effort to create and maintain these huge, complex, and utterly dull corporations.
 
+To understand that, we have to go one level deeper. 
 
-But organizations are composed of people, therefore the organizations' domination over people is possible only through people who directly and without realising it, support their own oppressors. But how is that possible? It might happen in three ways: 
+One level deeper
+===
 
-1. By supporting such organizations directly and voluntarily.
-2. By working for them.
-3. By buying from them.
-
-And although nobody does 1, many people do 2 and almost all people do 3. Point 3 leads us to the idea of ethical workplace choice and point 3 leads us to the idea of ethical consumption.
-
-Now, there is a great deal of polemics over what is ethical consumption that I won't go into. I will just say that I totally disagree with the thesis that there is no ethical consumption under capitalism so there is no point of changing our habits (that is like saying that there is no point in  Buyng stuff from a friend is ethical. Buying stuff from an organization of people who you'd like to have as friends is ethical, and so is working for this organization. Buying stuff from an organization which does not work in the best interest of either its employees is unethical no matter what you buy. Working for such organization is unethical no matter what you do. 
-
-That people find this structure less than favourable is proven by their thirst for more money, money being seen as a way to escape from all dependencies and do "whatever you want". But this view is naive - even if it comes with some conveniences, in terms of dependencies being on the top of this structure is not much different than being at its bottom - you still rely on money as a means to achieving your goal and on assuring that people around you would serve your interest. 
+OK, so let's completely redefine what we are talking about, shall we - I think that at a deeper level, it's not about capitalism VS communism or cars VS bikes - it's about body and soul and if you think of it that way, then the dillemma from the chapter above has an easy solution - the capitalism social structure indeed works against our *spiritual wellbeing*, but it is very good for our *physical wellbeing*.
 
 
 
+Who are we (instead of conclusion)
+---
 
-As a result, individuals start adopting the same values as organizations such as fear of change and support for the status quo. 
-for a person, lack of change means boredom and despair, the fear of change is fatal to their mental health.
+Here is roughly where my original article had to end. The issue was that I wasn't sure how exactly with what should I conclude:
+
+* With a bunch of more arguments that further my thesis ("
+* With some philosophical implications of what I was saying (As a result, individuals start adopting the same values as organizations such as fear of change and support for the status quo. But for a person, lack of change means boredom and despair, the fear of change is fatal to their mental health.
+* With a call to action, proposing how can we make everything better(essentially, only work for and buy from organizations which are composed of your friends or people who you'd like to be your friends).
+
+And after some time poundering I felt that none of these conclusions were reaching the heart of the matter. So instead I decided to finish it by talking about something entirely different.
+
+To introduce this, Let's go back to the cars VS bikes thing and the topic of protection.

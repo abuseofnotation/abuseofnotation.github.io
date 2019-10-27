@@ -1,3 +1,7 @@
+
+
+
+
 What is time
 ---
 
@@ -52,4 +56,7 @@ B: Bro, do you even read other philosophers?
 A: Leave me alone.
 
 
+
+Time is subjective
+===
 
