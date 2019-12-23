@@ -1,6 +1,6 @@
 ---
 category: blog
-title: The case of "The case". Why did I spend 7 years to write a 27000-word novel
+title: The case of "The case". Why did I spend 7 years writing a 27000-word novel
 layout: blog
 ---
 
