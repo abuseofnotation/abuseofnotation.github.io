@@ -170,11 +170,25 @@ Self
 
 The self is not who you are, but who you want to be (your projected goal).
 
-Non-determinism as a "default" worldview.
+
+The idea of God is not merely delusion created to help cope with the fear of death (although it does help people cope with the fear of death), but it is a personification to the aspect of reality that does not adhere to the causality maxim and that is unknowable. Religious rituals can be rationalized using the following argument: although we cannot really be familiar with the aspect of reality which is unknowable, we must pay tribute to it, in order not to forget of its existence.
+
+The idea of the self is probably closer to a delusion than that of God, but it is a personification of that which is knowable - your persona, your job, the things you know and believe are you. Any habit thought or urge that is outside of this narrative is not really a part of the self. And that is not because such habits/thoughts/urges are rare. Neither because they are better, worse or in any way different than the rest of your habits/thoughts/urges. They are not part of the self for precisely that reason - they are not a part the narrative.
+
+In Dr House, the team of doctors are faced with the single goal of saving the patient. For this reason when facing a symptom  which can be explained by a deceases that was curable and one which was not curable, the team preferred to presume it was caused by the curable desease, simply because the reverse would lead them to a dead-end in terms of achieving their goal. 
+
+When applied to large-scale thinking, this approach establishes determinism as the "default" worldview and makes us cautious when facing non-deterministinc phenomema, we try to contain them in a system which is inherently deterministic e.g. quantum mechanics.
+
+
+Takeaways
+===
+
+Don't focus on being happy and on knowing yourself - there is no self. Focus on something else instead.
+
+Don't compare things in terms of quantity, instead, compare them in terms of quality.
 
 
 
 
 
-Don't dedicate effort to be happy and to know yourself - there is no self. Dedicate your effort to something else.
 
