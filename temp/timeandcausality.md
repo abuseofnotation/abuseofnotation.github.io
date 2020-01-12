@@ -11,11 +11,11 @@ There is no global and universal time clocks imply, only local and subjective ti
 1
 --
 
-In order for the perception of time to be realised, the list of frames must be interpreted as signifying some sort of change of object from one state to another, like change of position (motion), change of shape, change color etc.
+In order for the perception of time to be realised, the list of frames must be interpreted as signifying some sort of change of object from one state to another, like change of position (motion), change of shape, color etc.
 
 - If the frames are all alike (like if you are standing facing a wall) you would not be able to perceive change (and time). 
 
-- But if the frames are all different and don't have anything to do with each other, you also wouldn't be able to perceive change. 
+- But if the frames are all different i.e. don't have anything to do with each other, you also wouldn't be able to perceive change. 
 
 To perceive change, then, we must be able to interpret the frames in such a way that there is an aspect of them which is different for each frame but at the same time stays the same for all of them i.e. we have to postulate the *identity* of objects and events. 
 
@@ -31,7 +31,125 @@ This is the main way identity is perceived by people, hence the old parable abou
 
 All events which a given person has withnessed can be connected with one another forming what is known as a causality chain (or chains). An event that does not cause any other event as per their causal chain simply cannot be perceived by that person. In many ways, placing the event in the causal chain is perception itself.
 
-Sometimes when we perceive new things that we did not expect we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our causal chain, as if they don't exist - if there is an event or w whole aspect of reality that does not uphold to causal laws, we would not only be merely unable to *make sense* of that event or aspect - that would indicate that the event or aspect is an instance of the first case (and that we can make sense of it by merely adjusting our thinking) - we would not be able perceive it in any way, even if it happens before our very eyes.
+Causality
+===
+
+0
+--
+
+Causality is in the eye of the beholder i.e. `A ⇒ B` is not a fact about the world, but a mental construct. This is so, because `B` is party defined by its internal characteristics but it is also party defined as just "the thing that comes after `A`" (if `B` just happens without any sign of `A` before it, to what extend would it still be `B`?). In the same way, `A` is partly defined as the thing that comes after some other event. 
+
+1
+--
+
+Let's imagine that we know that `A ⇒ B` and we observe `A` and then observe another event `B'` which resembles `B` in terms of some of its internal characteristics, but is also different in some other characteristics (this is not a mere thought experiment, as all events are different from one another). In this case we have two choices:
+
+- We may presume that because it follows from `A`, `B'` must be some manifestation of `B` and thus expand the definition of `A ⇒  B` to include this new manifestation.
+
+- We may conclude  that `A` is not actually `A`, but some other event `A'` and thus discover a new fact about the world - `A' ⇒  B'`.
+
+The first kind of thinking is called dogmatic, the second one - empirical. Only when thinking empirically, do we *obtain* information about the world. Only when thinking dogmatically are we able to *use* the information about the world that we have gained.
+
+2
+--
+
+From the previous example we saw that dogmas like `A ⇒ B` are not truths, they are just rules for structuring information. Sometimes we naively sometimes think of them as true when they mostly "work" i.e. allow us to achieve a given goal or false, but the fact is that they are not - instances that follow a given rule may only follow it by accident, or because we perceive them as following it. Instances that don't follow the rule are simply not instances of that rule - no rule is right or wrong.
+
+3
+--
+
+Natively we may think of `A ⇒  B` as true, because when we perceive `A`, then (in the most cases) we also perceive `B` and it is easier to explain that by postulating causality than to just say it happens by accident (Occam's razor). This may lead us to believe that causality is some kind of law that exist in the world, or rather a meta-law, which implies the existence of all kinds of other laws.
+
+In this case, we would be overlooking the fact that `B` is not a specific state of affairs, it is just a mental image, a pattern *we* begin to search for (given our previous knowledge of `A ⇒  B`) and often find in a mechanism which resembles the key-lock mechanism is cellular biology. If we already think that `A ⇒  B` we will see `B` everywhere we see `A`. Sometimes people describe this phenomena by saying "we see `B` even when it is not really there", but the fact of the matter is we cannot possibly see anything that *is* there in the way that we see `B` in this example. 
+
+4
+--
+
+Sometimes when we perceive new things that we did not expect we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our causal chain, as if they do not exist. If there is an event (or even a whole aspect of reality) that does not uphold to causal laws, we would not only be merely unable to *make sense* of that event or aspect - (seeing an event without being able to make sense of it would indicate that we can comprehend it it by merely adjusting our thinking) - we would not be able perceive the it in any way, even if it happens before our very eyes.
+
+
+Mental images
+===
+
+0
+--
+
+
+In the TV show "House", the team of doctors are faced with the single goal of saving the patient. For this reason when facing a symptom which can be explained by a deceases that was curable and one which was not curable, the team preferred to presume it was caused by the curable desease, simply because the reverse would lead them to a dead-end in terms of achieving their goal
+. 
+
+By the same token, a world that does not adhere to laws is impossible to be modelled. Such world does not offer any means for us to be able to predict the outcome of our actions. Therefore, in such a world we would not be able to use mental images. It is not that there would be no way for us to use our mental images for predicting reality, it is that there would be no way for them to exist at all. Assuming that the world is not lawful is simply a dead-end in terms of our thinking. This is why we mostly assume otherwise.
+
+When applied to large-scale thinking, this approach establishes determinism as the "default" worldview and makes us cautious when facing non-deterministinc phenomema (which we often try to contain them in a system which is inherently deterministic).
+
+0
+--
+Mental image (or dogmas, as we called it earlier) is a set of many impressions united in order to be perceived as one. 
+
+1
+--
+Mental images exist only in a causal world - in a world without causality there will be no point nor reason to unite several things and unite them as one.
+
+2
+---
+Mental images have the power to reinforce themselves with time - having the image of `A ⇒  B` in our head, we would see `A`-s and `B`-s all over the place. Even when we search for a new image, we will search for it only in the space which is not occupied by `A`-s and `B`-s so the new image would be supplementary to `A`-s and `B`-s, like a jigsaw puzzle.
+
+Some people think that having the right way to view the world can make you less dogmatic - the reality of it is that *any* worldview makes you dogmatic, except the lack of such.
+
+3
+---
+Mental images are abstractions, they can be used without a loss of precision only when you can keep in mind what are they and from what are they produced from. 
+
+Our stance as humans, however *is not like this* as some of these images are clearly embedded into our minds.
+
+
+4
+---
+Mental images have scope.
+
+Goals
+===
+
+--
+A goal is a mental image representing state a of affairs which is for some reason desirable for an individual.
+
+All mental images that a given individual has, are, for them, either desirable or the opposite - undesirable - we cannot have a mental image that we don't relate to with either positive or negative feelings. So all mental images are trivially associated with, or are themselves goals (or anti-goals). 
+
+The only way to compare mental images is by their utility as means of achieving different types of goals. And comparing the mental images is a converged way of comparing the goals to which they stand.
+
+4
+--
+Having once produced a mental image or a goal an individual starts mistaking a mental image for reality and prescribing all instances where the image does not correspond with reality as due to issues with the instances themselves and not to the image (for example by saying "the pistol does break the glass *in principle*", it is just that this one is too thick/not of the "right" kind etc). 
+
+
+According to this line of thought, that causality is not a rule, nor a meta rule, but a belief and one that every thinking being should hold to some extend or another.
+
+Self
+===
+
+The self is not who you are, but who you want to be (your projected goal).
+
+The idea of God is not merely delusion created to help cope with the fear of death (although it does help people cope with the fear of death), but it is a personification to the aspect of reality that does not adhere to the causality maxim and that is unknowable. Religious rituals can be rationalized using the following argument: although we cannot really be familiar with the aspect of reality which is unknowable, we must pay tribute to it, in order not to forget of its existence.
+
+The idea of the self is probably closer to a delusion than that of God, but it is a personification of that which is knowable - your persona, your job, the things you know and believe are you. Any habit thought or urge that is outside of this narrative is not really a part of the self. And that is not because such habits/thoughts/urges are rare. Neither because they are better, worse or in any way different than the rest of your habits/thoughts/urges. They are not part of the self for precisely that reason - they are not a part the narrative.
+
+
+
+Takeaways
+===
+
+Don't focus too much to particular interpretations of reality and to the aspect of reality which is ultimately known as based on these interpretations - instead go to 
+
+Don't focus on being happy and on knowing yourself - there is no self. Focus on something else instead.
+
+Don't compare things in terms of quantity, instead, compare them in terms of quality.
+
+Focus on the process of what you do, instead of the outcome.
+
+
+
+
+
 
 Interlude: on the ultimate nature of reality
 ---
@@ -44,36 +162,7 @@ According to these assumptions, reality must be something like  eternal ununders
 
 In order to get around it, we humans take pictures of that blob from time to time and then, based on those pictures, we try to interpret it: we circle one spot of the blob and say "This is `A`". Then we take another picture and search for where `A` went. Or if there are any other instances of `A`.**
 
-Causality
-===
 
-0
---
-
-Causality is in the eye of the beholder i.e. `A ⇒ B` is not a fact about the world, but a mental construct. This is so, because `B` is party defined by its internal characteristics but it is party defined as just "the thing that comes after `A`" (if `B` just happens without any sign of `A` before it, to what extend would it still be `B`?). In the same way, `A` is partly defined as the thing that comes after some other event. 
-
-1
---
-
-Let's imagine that we know that `A ⇒ B` and we observe `A` and then observe another event `B'` which resembles `B` in terms of some of its internal characteristics, but is also different in some other characteristics (as all events are different from one another). In this case we have two choices:
-
-- We may presume that because it follows from `A`, `B'` must be some manifestation of `B` and thus expand the definition of `A ⇒  B` to include this new manifestation.
-
-- We may conclude  that `A` is not actually `A`, but some other event `A'` and thus discover a new fact about the world - `A' ⇒  B'`.
-
-The first kind of thinking is called dogmatic, the second one - empirical. Only when thinking empirically, do we *obtain* information about the world. Only when thinking dogmatically are we able to *use* the information about the world that we have gained.
-
-2
---
-
-From the previous example we saw that dogmas like `A ⇒ B` are not truths, they are just rules for structuring information. One can naively sometimes think of them as true because they mostly "work" i.e. allow us to achieve a given goal or false, i.e. not very useful, but the fact is that they are not - instances that follow a given rule may only follow it by accident, or because we perceive them as following it. Instances that don't follow the rule are simply not instances of that rule - no rule is right or wrong.
-
-3
---
-
-Natively we may think of `A ⇒  B` as true, because when we perceive `A`, then (in the most cases) we also perceive `B` and it is easier to explain that by postulating causality than to just say it happens by accident (Occam's razor). This may lead us to believe that causality is some kind of law that exist in the world, or rather a meta-law, which implies the existence of all kinds of other laws.
-
-In this case, we would be overlooking the fact that `B` is not a specific state of affairs, it is just a mental image, a pattern *we* begin to search for (given our previous knowledge of `A ⇒  B`) and often find in a mechanism which resembles the key-lock mechanism is cellular biology. If we already think that `A ⇒  B` we will see `B` everywhere we see `A` (I am not saying "we see `B` even when it is not really there", but rather that we cannot possibly see anything that *is* there in the way that we see `B` in this example).
 
 Interlude: proving the causal maxim
 --
@@ -98,34 +187,7 @@ Sufficient for what? Now you just defined the situation in such a way that the e
 
 There may be many possible setups where you will be able to to guess whether the glass gets broken, but this does not make the general principle true. Because there is no general principle, only a mental image. It is no wonder that the causal maxim works best in environments which are based on mental images (or dogmas as we called them before).**
 
-Mental images
-===
 
-0
---
-Mental image (or dogmas, as we called it earlier) is a set of many impressions united in order to be perceived as one. 
-
-1
---
-Mental images exist only in a causal world - in a world without causality there will be no point nor reason to unite several things and unite them as one.
-
-2
----
-Mental images have the power to reinforce themselves with time - having the image of `A ⇒  B` in our head, we would see `A`-s and `B`-s all over the place. Even when we search for a new image, we will search for it only in the space which is not occupied by `A`-s and `B`-s so the new image would be supplementary to `A`-s and `B`-s, like a jigsaw puzzle.
-
-Some people think that having the right way to view the world can make you less dogmatic - the reality of it is that *any* worldview makes you dogmatic, except the lack of such.
-
-3
----
-Mental images are "leaky abstractions", and as such they can be used without a loss of precision when you can keep in mind what are they and from what are they produced from. 
-
-4
----
-Our stance, however *is not like this* as some of these images are clearly embedded into our minds, as Kant explains and also *cannot be like this* 
-
-5
---
-More so, 
 
 
 
@@ -148,47 +210,5 @@ Probably the next stage of the development of the concept of time was the desire
 But predicting the future requires more than just taking stale pictures of things and storing what you need to do in case a similar situation arises. It requires you to model the whole world. This is what the concept of causality does and this is why it exists - to bring everything that we see to our own terms.  
 
 </i>
-
-Goals
-===
-
---
-A goal is a mental image representing state a of affairs which is for some reason desirable for an individual.
-
-All mental images that a given individual has, are, for them, either desirable or the opposite - undesirable - we cannot have a mental image that we don't relate to with either positive or negative feelings. So all mental images are trivially associated with, or are themselves goals (or anti-goals). 
-The only way to compare mental images is by their utility as means of achieving different types of goals. And comparing the mental images is a converged way of comparing the goals to which they stand.
-
-4
---
-Having once produced a mental image or a goal an individual starts mistaking a mental image for reality and prescribing all instances where the image does not correspond with reality as due to issues with the instances themselves and not to the image (for example by saying "the pistol does break the glass *in principle*", it is just that this one is too thick/not of the "right" kind etc). 
-
-
-According to this line of thought, that causality is not a rule, nor a meta rule, but a belief and one that every thinking being should hold to some extend or another.
-
-Self
-===
-
-The self is not who you are, but who you want to be (your projected goal).
-
-
-The idea of God is not merely delusion created to help cope with the fear of death (although it does help people cope with the fear of death), but it is a personification to the aspect of reality that does not adhere to the causality maxim and that is unknowable. Religious rituals can be rationalized using the following argument: although we cannot really be familiar with the aspect of reality which is unknowable, we must pay tribute to it, in order not to forget of its existence.
-
-The idea of the self is probably closer to a delusion than that of God, but it is a personification of that which is knowable - your persona, your job, the things you know and believe are you. Any habit thought or urge that is outside of this narrative is not really a part of the self. And that is not because such habits/thoughts/urges are rare. Neither because they are better, worse or in any way different than the rest of your habits/thoughts/urges. They are not part of the self for precisely that reason - they are not a part the narrative.
-
-In Dr House, the team of doctors are faced with the single goal of saving the patient. For this reason when facing a symptom  which can be explained by a deceases that was curable and one which was not curable, the team preferred to presume it was caused by the curable desease, simply because the reverse would lead them to a dead-end in terms of achieving their goal. 
-
-When applied to large-scale thinking, this approach establishes determinism as the "default" worldview and makes us cautious when facing non-deterministinc phenomema, we try to contain them in a system which is inherently deterministic e.g. quantum mechanics.
-
-
-Takeaways
-===
-
-Don't focus on being happy and on knowing yourself - there is no self. Focus on something else instead.
-
-Don't compare things in terms of quantity, instead, compare them in terms of quality.
-
-
-
-
 
 
