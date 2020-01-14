@@ -156,9 +156,12 @@ is a *categorical*, *apodictic*, *singular*, *affirmative* statement.
 If we take the judgements from this list in the respect with which they relate to reality, we arrive at a table that defines preconceptions for all possible characteristics and attributes that can be said about a thing or things. We call those "pure concepts of understanding", or *categories* as they are known historically (as per Aristotle). 
 
 Quantity 
-- Unity - unification of all things (of a given group) as one.
-- Plurality - recognition of things as separate
-- Totality - recognition of a thing as "one of a kind" (plurality considered as unity).
+- Unity (measure) - recognition of a thing as one 
+- Plurality (plurality) - recognition of there being several things 
+- Totality (whole) - unification of all things (of a given group) as one. 
+
+(Note that for this categorythe order is not the same as the table of judgements - the category of unity coresponds to singular judgements, the categyry of plurality - to particular judgements and the category of totality - to universal judgements (the argument is made by Frede and Kruder, I read about it [here](https://eprints.illc.uva.nl/913/1/MoL-2013-24.text.pdf))
+
 
 Quality
 - Reality - recognition of presence 
@@ -294,7 +297,10 @@ We may divide these categories in relation to their use in experience into *math
 
 Quantity - *Axioms* of intuition
 ---
-The principle for using the category of quantity is: "All intuitions are extensive magnitudes." To understand what this means, let's go back to the process of synthesis. Recall that intuitions constitute the "raw material" from which representations are produced. But in order for these intuitions to be analysed, they must be *compared* to one another in various ways. For example, to perceive an objects as moving, we must compare its current position its size from some time ago. It is only through expressing the position of an object in therms that we can compare that we would be able to know that it moved, only by saying "the current distance between me and this object is equal to the distance from a moment ago plus or minus some amount. This formula can tell us how fast is the object moving but we also need it to perceive that it is moving at all, else we would just see an stream of different images with no way of knowing how do they relate to one another.
+
+The principle for using the category of quantity is: "All intuitions are extensive magnitudes." 
+
+To understand what this means, let's go back to the process of synthesis. Recall that intuitions constitute the "raw material" from which representations are produced. But in order for these intuitions to be analysed, they must be *compared* to one another in various ways. For example, to perceive an objects as moving, we must compare its current position its size from some time ago. It is only through expressing the position of an object in therms that we can compare that we would be able to know that it moved, only by saying "the current distance between me and this object is equal to the distance from a moment ago plus or minus some amount. This formula can tell us how fast is the object moving but we also need it to perceive that it is moving at all, else we would just see an stream of different images with no way of knowing how do they relate to one another.
 
 Therefore, we can view all intuitions as amounts of different stuff or, in other words as different kinds of extensive magnitudes, the most important of which being the object's magninitudes in space, or in other words its size and dimensions, and an object's magnitude in time, or its duration.
 
@@ -304,6 +310,12 @@ Quality - *Anticipations* of perception
 ---
 
 The principle for using the category of quantity is: "In all appearances the real, which is an object of sensation, has intensive magnitude, that is, a degree."
+
+In our everyday thinking, we often refer to all things that we talk about as either - real and unreal (just like in logic we split statements to true and false) e.g. Stephen Hawking is real and Professor Charles Francis Xavier is not. This line of thought, however often does not apply to the real world as I argued in [one of my blog posts](/logic-thought) - the "realness" of a concept is not just a matter of whether you had or had not seen something which resembles it, but a matter of how much does the concept resonates with the concepts that constitute our worldview. In other words, it is not a yes/no question, but a matter of degree.
+
+The black hole example is appropriate here. As we said, the existence of black holes was postulated in order to explain some cosmological phenomena - actual black holes were, at that time, never observed. But could we have said that (because they were not observed), they are completely unreal? No, we could not. Because the theory was supported by some indirect evidence -  black holes were "somewhat real" even before they were observed i.e. it was known that there existed *some* objects which accounted for the observed phenomena - what was not known was how similar those objects would be to the one described in the theory.  Likewise, observing a black hole does not make black holes  100% real, as we can always find new things which would shift our perception of those objects.
+
+The degree of realness, we can also call the degree of *anticipation of perception*. And it is the anticipation of perception that makes things real or not. Only if you anticipate to perceive something you consider it real.
 
 Relation - *Analogies* of experience
 ---
