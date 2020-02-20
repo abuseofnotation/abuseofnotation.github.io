@@ -94,7 +94,7 @@ The notion of time allows us to represent ourselves as actors in the world, and 
 Transcedental doctrine of elements: Transcedental Logic
 ===
 
-Perception is a necessary condition for obtaining knowledge, however, perception does not constitute knowledge by itself - we obtain knowledge by thinking. But thoughts by themselves also don't constitute knowledge either. Think about scientific theories, for example, say a scientist postulates the experience of objects called "black holes" as a possible explanation of some cosmological phenomena. Can we say that the scientist they *knew* something about the object before the object was observed? No, because no matter how sophisticated the theory is, it was still just a theory, and the theoretical object "black hole", is a different object that actual black holes that exist, no matter how similar they are. 
+Perception is a necessary condition for obtaining knowledge, however, perception does not constitute knowledge by itself - we obtain knowledge by thinking. But thoughts by themselves also don't constitute knowledge either. Think about scientific theories, for example, say a scientist speculated about the experience of objects called "black holes". Can we say that the scientist they *knew* something about the object before the object was observed? No, because no matter how sophisticated the theory is, it was still just a theory, and the theoretical object "black hole", is a different object that actual black holes that exist, no matter how similar they are. 
 
 Now imagine a person who does not know about black holes theory but who, through his telescope, *sees* a black hole (or rather the way in which a black hole messes up the orbits of some other bodies). He/she is on the other side - he/she is perceiving the thing, but he/she does not have any idea what it is. His/her observation is useless without a theory that explains it, and a theory is useless if it does not have an application. To put that in simpler terms:
 
@@ -169,7 +169,7 @@ Quality
 - Limitation - recognition of a thing as both present and absent (e.g. in different time periods).
 
 Relation
-- Inherence and subsistence - representation of a thing as being inherent 
+- Inherence and subsistence - representation of a thing as being inherent, everpresent
 - Causality and dependence - representation of causal effects (things being dependent upon other things)
 - Community - representation of a relation where one thing causes the other and the other way around (causality of a substance as reciprocally determining another substance)
 
@@ -245,7 +245,7 @@ As we said, perception is inherently *subjective* and is the result of the inner
 
 Here are the schemas of each of the categories:
 
-Quantity - the producing of time.
+Quantity - the *producing* of time.
 - The category of quantity corresponds to intuition. The schema of all categories of quantity is the concept of the number i.e. of successive addition of one object to another.
 
 Quality - the *filling* of time
@@ -277,49 +277,71 @@ System of All Principles of the Pure understanding: The Supreme Principle of All
 
 The principle of analytic judgements is valid for synthetic judgements as well, however it is not sufficient to justify their existence, as it can only falsify one concept by comparing it with another and, while the truth of a synthetic judgements can be determined merely by looking at judgements themselves, analytic judgements are inherently bound to objects in the real world.  
 
-So what, then, would the principle of such judgements be? The only reason we can know about  objects in the real world in the first place is because we experience these objects. This principle holds even for objects that we have not yet seen. The key word here is "yet" - even if we haven't experienced a given object, it should be *possible* for us to experience it if it is real, and it is this *possibility* of experience which makes the object real and gives the concept of it validity. Even concepts as space and time would lack objective validity if it weren't necessary for experience.
+So what, then, would the principle of such judgements be? The only reason we can know about  objects in the real world in the first place is because we *experience* these objects. This principle holds even for objects that we have not yet seen - the key word here is "yet" - even if we haven't experienced a given object, it should be *possible* for us to experience it if it is real, and it is this *possibility* of experience which makes the object real and gives the concept of it validity. Even concepts as space and time would lack objective validity if it weren't necessary for experience.
 
 And, as we said earlier, experience is the result of synthesis, so the supreme principle of all synthetic judgements is that *every object is subjected to the necessary conditions of synthetic unity of the manifold of intuition in a possible experience*.
 
 System of All Principles of the Pure understanding: Systematic representation of All of the Synthetic Principles of the Pure Understanding
 ---
 
-Besides being the source of rules (concepts) according to which intuitions are judged, understanding also contains the principles for applying these rules.
-
-The principles of the pure understanding, then, are just the rules for using the pure concepts of understanding in experience, therefore we can derive them using the table of categories:
+Besides being the source of rules (concepts) according to which intuitions are judged, understanding also contains the principles for applying these rules, which we call "principles of the pure understanding". We can derive those principles using the table of categories. Here they are:
 
 - Quantity - *Axioms* of intuition
 - Quality - *Anticipations* of perception
 - Relation - *Analogies* of experience
 - Modality - *Postulates* of empirical thought in general.
 
-We may divide these categories in relation to their use in experience into *mathematical* (quantity and quality) and *dynamic* (relation and modality) where the former defines our objective reality as such and the latter describes the laws which it follows. If we view the humans' ability to perceive as a formal system, then the mathematical categories contain the definition of the system and the dynamical ones supply the general laws for using it in an empirical setting in terms of its scope of validity, the category of relation being the more interesting of the two, because it is this category which postulates the the world itself is lawful i.e. that it is possible to understand and predict its behaviour through the employment of logic.
+We may divide these categories in relation to their use in experience into *mathematical* (quantity and quality) and *dynamic* (relation and modality) where the former defines our objective reality as such and the latter describes the laws which it follows - if we view the humans' ability to perceive as a formal system, then the mathematical categories contain the definition of the system and the dynamical ones supply the general laws for using it in an empirical setting in terms of its scope of validity, the category of relation being the more interesting of the two, because it is this category which postulates the the world itself is lawful i.e. that it is possible to understand and predict its behaviour through the employment of logic. Let's review those principles.
 
 Quantity - *Axioms* of intuition
 ---
 
 The principle for using the category of quantity is: "All intuitions are extensive magnitudes." 
 
-To understand what this means, let's go back to the process of synthesis. Recall that intuitions constitute the "raw material" from which representations are produced. But in order for these intuitions to be analysed, they must be *compared* to one another in various ways. For example, to perceive an objects as moving, we must compare its current position its size from some time ago. It is only through expressing the position of an object in therms that we can compare that we would be able to know that it moved, only by saying "the current distance between me and this object is equal to the distance from a moment ago plus or minus some amount. This formula can tell us how fast is the object moving but we also need it to perceive that it is moving at all, else we would just see an stream of different images with no way of knowing how do they relate to one another.
+
+Here "extensive magnitude" means magnitude that is a result of a continous *aggregation* of different amounts of stuff over time.
+
+To understand what this means, let's go back to the process of synthesis. Recall that intuitions constitute the "raw material" from which representations are produced. But in order for these representations to be deduced, we have to experience change. And the only way to do that is for these intuitions from one moment to the next to be *compared* to one another in some way. For example, to perceive an objects as moving, we must compare its current position with its position from some time ago. It is only through expressing the position of an object in mathematical therms that we can perceive it, only by saying "the current distance between me and this object is equal to the distance from a moment ago plus or minus some other amount, we can say that the distance has changed. This formula can tell us how fast is the object moving but we also need it to perceive that it is moving at all or even that it exists. Else we would be seeing just see an stream of different images which as far as we know would have nothing to do with one another.
 
 Therefore, we can view all intuitions as amounts of different stuff or, in other words as different kinds of extensive magnitudes, the most important of which being the object's magninitudes in space, or in other words its size and dimensions, and an object's magnitude in time, or its duration.
 
-"Everything can be represented by numbers". Perhaps this is simply because we peceive by means of numbers.
+People have wondered why is mathematics so *unreasonable effective* for analysing the physical world? This theory of perception provides an answer to that question - perhaps it is simply because we peceive by means of numbers.
 
 Quality - *Anticipations* of perception
 ---
 
 The principle for using the category of quantity is: "In all appearances the real, which is an object of sensation, has intensive magnitude, that is, a degree."
 
-In our everyday thinking, we often refer to all things that we talk about as either - real and unreal (just like in logic we split statements to true and false) e.g. Stephen Hawking is real and Professor Charles Francis Xavier is not. This line of thought, however often does not apply to the real world as I argued in [one of my blog posts](/logic-thought) - the "realness" of a concept is not just a matter of whether you had or had not seen something which resembles it, but a matter of how much does the concept resonates with the concepts that constitute our worldview. In other words, it is not a yes/no question, but a matter of degree.
+In the chapter on quantity, we said that to perceive an objects as moving, we must compare its current position with its position from some time ago. But in order to do that, to perceive change and time, we must first perceive that the object exists in the first place. So beside the extensive magnitude or the successive states of the object, there is one more magnitude at play here - the degree of the realness of the object. In our everyday thinking, we often refer to things as either real or unreal (just like in logic we split statements to true and false), but actually the "realness" of an object is not a binary value. For in order for us to recognise an object as real, we have to connect the appearance (or impression) that we perceived of the object with a concept that we have. And that connection is always a matter of degree - it is not just the matter of whether you had or had not seen something which resembles it, but a matter of how much does the concept resembles the impression.
 
-The black hole example is appropriate here. As we said, the existence of black holes was postulated in order to explain some cosmological phenomena - actual black holes were, at that time, never observed. But could we have said that (because they were not observed), they are completely unreal? No, we could not. Because the theory was supported by some indirect evidence -  black holes were "somewhat real" even before they were observed i.e. it was known that there existed *some* objects which accounted for the observed phenomena - what was not known was how similar those objects would be to the one described in the theory.  Likewise, observing a black hole does not make black holes  100% real, as we can always find new things which would shift our perception of those objects.
-
-The degree of realness, we can also call the degree of *anticipation of perception*. And it is the anticipation of perception that makes things real or not. Only if you anticipate to perceive something you consider it real.
+The degree of realness of an object (its *intensive* magnitude) is a prerequisite of perceiving the it's position and other *extensive* magnitudes. Note how inherently paradoxical the connection between the two is: on one hand , the notion of existence of objects is needed to realize that objects change and in this sense the notion of the real must come before the notion of time and succession. But on the other, the notion of time and succession is needed to realize that time and space exists at all, and that realization is surely needed for postulating the existence of objects.
 
 Relation - *Analogies* of experience
 ---
-TODO
+
+Their principle is "Experience is possible only through the representation of a necessary connection of perceptions."
+
+So far we reviewed the principles of quantity and quality which we dubbed the mathematical principles, because they explain how an experience can be reasoned about mathematically: using the principles related to quantity we unite (aggregate) what we see and hear from one moment to the next into a cohesive whole, therefore producing time. Using the principles related to quality, we are able to perceive in this list, all kinds of different events and objects. And together, these principles allow us to form a picture of reality as we know it.
+
+But being mathematical these principles are only useful to think about how things are in principle i.e. they are based on axioms. Namely, they take the existence of experience for granted i.e. in order to analyse the connections between our perceptions, we must assume that such connections *must* exist, that our perceptions *are* indeed connected in time. You might say that the existence of this connection (between the world from one moment to the next) is *obvious* from experience, don't forget that this connection must come before experience, as it is what makes experience possible in the first place.
+
+
+When we see a phenomena that is at the same time unexplained and very real (it affects our senses very much), we often say that there *must* be some explanation for it. The analogies of experience provide this firm belief in the fact that there always must be an explanation.
+
+We saw that experience is strontly linked with the concept of time. For that reason, the three analogies of experience that are related to the categories of relation correspond to the three modi of time: permanence, succession and simultaneity.
+
+First Analogy: Principle of Permanence of Substance
+---
+
+As the principle of relativity teaches us, all motion is relative i.e. it can only be observed given an appropriate reference point. The same principle is valid for all change - in order to perceive *change* in a given system, we must first postulate the existence of something which never changes to which we can compare everything else. Let's call this thing "substance". 
+
+Substance is not a relation, but it is a prerequisite for postulating any kind of relation, so naturally it occurs in many scientific theories. In the law of conservation of energy, stating that energy can neither be created nor destroyed and can only be transformed or transferred from one form to another, energy is basically viewed as a form of substance. 
+
+Moreover, the existence of time itself is based on the concept of a substance - for the defining characteristic of time is the unity - there is only one time. And this unity presupposes the underlying unity of matter i.e. substance.
+
+Second Analogy: Principle of Sucession of Time According to the Law of Causality
+---
+
 
 Modality - *Postulates* of empirical thought in general.
 ---
@@ -351,6 +373,5 @@ Intuitions - The data which is obtained by sensibility, in its most unprocessed 
 Manifold of intuition - The sum total of intuitions that are being perceived by an individual. The term highlights the fact that intuitions are not unified with one another, e.g. the sound of a bird flapping its wings and the sight of that same bird are two completely different intuitions which, in so far as they are viewed as just intuitions and not in their relation to concepts, have nothing to do with each other.
 
 Understanding - the mind's faculty of producing knowledge by mapping concepts to intuitions.  
-
 > If you find some errors in this article, you want to tell me how great it is, etc. you can [mail me](mailto:marinovboris@gmail.com). If you found this article useful in some way, or if you really want to see it finished, consider [sending me a tip](https://www.paypal.me/borismarinov/10).
 

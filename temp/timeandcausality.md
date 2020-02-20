@@ -1,12 +1,9 @@
-
-The eternal blob
+On causality as the defining principle of all knowledge
 ===
 
-**0. Time is perceived as discreet by us - we can view the *input* which our brain receives and from which the perception of time and continuity is derived as a collection of frames, pictures of different states of reality which are, somehow, united.**
+> 0 We can view the *input* which our brain receives and from which the perception of time and continuity is derived as a collection of frames, pictures of different states of reality which are, somehow, united.
 
-There is no global and universal time clocks imply, only local and subjective time which different brains perceive for themselves*.
-
-**1 In order for the perception of time to be realised, the list of frames must be interpreted as signifying some sort of change of object from one state to another, like change of position (motion), change of shape, color etc.**
+> 1 In order for the perception of time to be realised, the list of frames must be interpreted as signifying some sort of change of object from one state to another, like change of position (motion), change of shape, color etc.
 
 - If the frames are all alike (like if you are standing facing a wall) you would not be able to perceive change (and time). 
 
@@ -14,10 +11,12 @@ There is no global and universal time clocks imply, only local and subjective ti
 
 To perceive change, then, we must be able to interpret the frames in such a way that there is an aspect of them which is different for each frame but at the same time stays the same for all of them i.e. we have to postulate the *identity* of objects and events. 
 
-**2 The basic form of identity of events and objects (objects being just collections of events) is based on the concept of *causality* - when observing event `A` in a given frame followed by another event `B` at another frame, we presume that `A ⇒ B` (`B` is caused by `A`).**
+> 2 The basic form of identity of events and objects (objects being just collections of events) is based on the concept of *causality* - when observing event `A` in a given frame followed by another event `B` at another frame, we presume that `A ⇒ B` (`B` is caused by `A`).**
 
 What this means is that identity and causality are the same thing - when I see a given object standing on my desk and then I see a similar object in the next moment I assume that it is probably the same object i.e. the object being there at time X *causes* it to be there at time x + 1. There are other ways for defining identity (technically, for example, an object is the same only if it contains the same atoms), but this is the main way it is perceived by people, hence the old parable about a ship that has all it's parts changed at a course of a given period is still the same ship it was at the beginning of the said period, although different in terms of material. 
 
+The subjectiveness of causality and the paradoxical nature of all knowledge
+===
 
 > 3. Causality is in the eye of the beholder i.e. `A ⇒ B` is not a fact about the world, but a mental construct. This is so, because `B` is party defined by its internal characteristics but it is also party defined as just "the thing that comes after `A`" (if `B` just happens without any sign of `A` before it, to what extend would it still be `B`?). In the same way, `A` is partly defined as the thing that comes after some other event.
 
@@ -33,30 +32,13 @@ The first kind of thinking is called dogmatic, the second one - empirical. Only 
 
 From the previous example we saw that dogmas like `A ⇒ B` are not truths, they are just rules for structuring information. Sometimes we naively sometimes think of them as true when they mostly "work" i.e. allow us to achieve a given goal or false, but the fact is that they are not - instances that follow a given rule may only follow it by accident, or because we perceive them as following it. Instances that don't follow the rule are simply not instances of that rule - no rule is right or wrong.
 
-Natively we may think of causality and of `A ⇒  B` as true, because when we perceive `A`, then (in the most cases) we also perceive `B` and it is easier to explain that by postulating causality than to just say it happens by accident (Occam's razor). This may lead us to believe that causality is some kind of law that exist in the world, or rather a meta-law, which implies the existence of all kinds of other laws.
+Natively we may think of causality and of `A ⇒  B` as true, because when we perceive `A`, then (in the most cases) we also perceive `B` and it is easier to explain that by postulating causality than to just say it happens by accident (Occam's razor). This may lead us to believe that causality is some kind of law that exist in the world, or rather a meta-law, which implies the existence of all kinds of other laws. In this case, we would be overlooking the fact that: 
+> `B` is not a specific state of affairs, it is just a mental image, a pattern *we* begin to search for given our previous knowledge of `A ⇒  B`.
 
-In this case, we would be overlooking the fact that `B` is not a specific state of affairs, it is just a mental image, a pattern *we* begin to search for given our previous knowledge of `A ⇒  B` and often can find even without there being perfact candidates - If we already think that `A ⇒  B` we will see `B` everywhere we see `A`. 
-
-In this case we say that someone sees `B` *even when it is not really there*", but the fact of the matter is we cannot possibly see anything that *is* there in the way that we see `B` in this example. 
-
-The blob
-===
-
-I started the chapter by saying that reality is *perceived* as discrete, or in other words that it is composed of states that are clearly distinguishable from one another in which there are events, which are also discrete. But the above line of thought suggests, the separation of events happens in our brain. Which leads me to believe the separation of frames must come from it too.
-
-According to these assumptions, reality does not have a structure. Rather it is something like eternal ununderstandable blob, which floats constantly from one state to the next, not following any type of pattern. 
-
-Being continous, though, it does not change itself completely every instant. However the way in which one state float into the next must be, by itself, patternless like brownian movement (except that gasses are still composed of discrete particles), and the patterns we see must be imposed by our own brains.
-
-In order to get around it, we humans take pictures of that blob from time to time and then, based on those pictures, we try to interpret it in a way that is structured - we circle one spot of the blob and say "This is `A`". Then we take another picture and search for where `A` went. Or if there are any other instances of `A`. All events which a we withness must be connected with one another forming what is known as a causality chain (or chains). 
-
-An event that does not cause any other event as per their causal chain simply cannot be perceived by us, so in many ways, placing the event in the causal chain is perception itself.
+We search for `B` and often do find it even without there being perfect candidates - If we already think that `A ⇒  B` we will see `B` everywhere we see `A`. In this case we say that someone sees `B` *even when it is not really there*", but the fact of the matter is we cannot possibly see anything that *is* there in the way that we see `B` in this example. 
 
 
-Interlude: proving the causal maxim
-===
-
-If we view the causal maxim as a scientific theory we might put it to the test using some of the many occasions in which it is used, using the scientific method. How would we do that. We can for example take a statement that has the form `A ⇒  B` and try to test it by creating `A` many times and seeing if `B` follows i.e. every science experiment that tests whether a given theory works also tests whether causality works.
+so I will try to If we view the causal maxim as a scientific theory we might put it to the test using some of the many occasions in which it is used, using the scientific method. How would we do that. We can for example take a statement that has the form `A ⇒  B` and try to test it by creating `A` many times and seeing if `B` follows i.e. every science experiment that tests whether a given theory works also tests whether causality works.
 
 From these examples it may seem that causality is a law which sometimes works and sometimes does not. People believe that the only reason it not always works is that we simply don't know enough is proven false by the evidence that the world is non-deterministic, which is laid in some quantum mechanic experiments (the world is non-deterministic" is another way of saying that all science theories that exist and that can ever be created are just abstractions that will never get to the heart of the matter). But let's not get ahead of ourselves. 
 
@@ -76,14 +58,10 @@ Sufficient for what? Now you just defined the situation in such a way that the e
 
 There may be many possible setups where you will be able to to guess whether the glass gets broken, but this does not make the general principle true. Because there is no general principle, only a mental image. It is no wonder that the causal maxim works best in environments which are based on mental images (or dogmas as we called them before).
 
-Mental images
+On the concept of determinism as the default worldview
 ===
 
-> 0. Mental image (or dogmas, as we called it earlier) is a set of many impressions united in order to be perceived as one. 
-
-> 1. Mental images exist only in a causal world - in a world without causality there will be no point nor reason to unite several things and unite them as one.
-
-Sometimes when we perceive new things that we did not expect we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our causal chain, as if they do not exist. If there is an event (or even a whole aspect of reality) that does not uphold to causal laws, we would not only be merely unable to *make sense* of that event or aspect (as seeing an event without being able to make sense of it would indicate that we can comprehend it it by merely adjusting our thinking), we would not be able perceive the it in any way, even if it happens before our very eyes.
+Sometimes when we perceive new things that we did not expect we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our causal chain, as if they do not exist. If there is an event (or even a whole aspect of reality) that does not uphold to causal laws, we would not be merely unable to *make sense* of that event or aspect (as seeing an event without being able to make sense of it would indicate that we can comprehend it it by merely adjusting our thinking), we would not be able perceive the it in any way, even if it happens before our very eyes.
 
 By the same token, a world that does not adhere to laws is impossible to be modelled. Such world does not offer any means for us to be able to predict the outcome of our actions. Therefore, in such a world we would not be able to use mental images, because there would be no way for them to exist at all. 
 
@@ -91,7 +69,11 @@ Assuming that the world is not lawful is simply a dead-end in terms of our think
 
 When applied to large-scale thinking, this asumption establishes determinism as the "default" worldview and makes us cautious when facing non-deterministinc phenomema (which we often try to contain them in a system which is inherently deterministic).
 
-In deterministic systems, non-deterministic events can only be explained by "hidden variables"
+In deterministic systems, non-deterministic events can only be explained by "hidden variables" theories. Basically, this means the only reason why you didn't predict something is that you are not good enough and you don't know enough.
+
+> 0. Mental image (or dogmas, as we called it earlier) is a set of many impressions united in order to be perceived as one. 
+
+> 1. Mental images exist only in a causal world - in a world without causality there will be no point nor reason to unite several things and unite them as one.
 
 Mental images have the power to reinforce themselves with time - having the image of `A ⇒  B` in our head, we would see `A`-s and `B`-s all over the place. Even when we search for a new image, we will search for it only in the space which is not occupied by `A`-s and `B`-s so the new image would be supplementary to `A`-s and `B`-s, like a jigsaw puzzle.
 
@@ -103,55 +85,38 @@ Our stance as humans, however *is not like this* as some of these images are cle
 
 Mental images have scope.
 
-Goals and predicting the future
+On the concept of the self, the human's desire for control and the enforcement of deterministic subsystems 
 ===
-
-> A goal is a mental image representing state a of affairs which is for some reason desirable for an individual.
-
-Rudimentary organisms that have no brain or have a very rudimentary brain perceive and react only by the stimulus-reaction model - they perceive an object in aframe and react on it immediately (a frame and an object being roughly the same thing in this case).
-
-The most rudimentary types of memories are just a cartrige that get inserted into the organism's stimulis-reaction model in that they just associate a new stimulus to a desired reaction, e.g. seeing a predator to running away. Such memories do not require for an organism to have concepts of time and causality in order to exist, because they: 
-- Do not constitute sequences of actions or events 
-- Are not composed of multiple steps 
-- They are not related to one another in any way i.e. there is no before and after.
-
-Those memories are just like in the stimulus-reaction model, except the reactions can be altered based on experience (i.e. they are not just genetic).
-
-Probably the next stage of the development of the concept of time was the desire to predicting the future. Indeed, this desire is probably prior to the concept of future itself as having a concept of the future as such makes sense only if you are able to predict what that future might be.
-
-But predicting the future requires more than just taking stale pictures of things and storing what you need to do in case a similar situation arises. It requires you to model the whole world. This is what the concept of causality does and this is why it exists - to bring everything that we see to our own terms.  
-
-
-> All mental images that a given individual has, are, for them, either desirable or the opposite - undesirable - we cannot have a mental image that we don't relate to with either positive or negative feelings. So all mental images are trivially associated with, or are themselves goals (or anti-goals). 
-
-The only way to compare mental images is by their utility as means of achieving different types of goals. And comparing the mental images is a converged way of comparing the goals to which they stand.
-
-4
---
-Having once produced a mental image or a goal an individual starts mistaking a mental image for reality and prescribing all instances where the image does not correspond with reality as due to issues with the instances themselves and not to the image (for example by saying "the pistol does break the glass *in principle*", it is just that this one is too thick/not of the "right" kind etc). 
-
-
-According to this line of thought, that causality is not a rule, nor a meta rule, but a belief and one that every thinking being should hold to some extend or another.
-
-Self
-===
-
-The self is not who you are, but who you want to be (your projected goal).
 
 The idea of God is not merely delusion created to help cope with the fear of death (although it does help people cope with the fear of death), but it is a personification to the aspect of reality that does not adhere to the causality maxim and that is unknowable. Religious rituals can be rationalized using the following argument: although we cannot really be familiar with the aspect of reality which is unknowable, we must pay tribute to it, in order not to forget of its existence.
 
 The idea of the self is probably closer to a delusion than that of God, but it is a personification of that which is knowable - your persona, your job, the things you know and believe are you. Any habit thought or urge that is outside of this narrative is not really a part of the self. And that is not because such habits/thoughts/urges are rare. Neither because they are better, worse or in any way different than the rest of your habits/thoughts/urges. They are not part of the self for precisely that reason - they are not a part the narrative.
 
 
+The self is not who you are, but who you want to be (your projected goal).
 
-Takeaways
+On the true nature of reality 
 ===
 
-Don't focus too much to particular interpretations of reality and to the aspect of reality which is ultimately known as based on these interpretations - instead go to 
+I started the chapter by saying that reality is *perceived* as discrete, or in other words that it is composed of states that are clearly distinguishable from one another in which there are events, which are also discrete. But the above line of thought suggests, the separation of events happens in our brain. Which leads me to believe the separation of frames must come from it too.
 
-Don't focus on being happy and on knowing yourself - there is no self. Focus on something else instead.
+According to these assumptions, reality does not have a structure. Rather it is something like eternal ununderstandable blob, which floats constantly from one state to the next, not following any type of pattern. 
 
-Don't compare things in terms of quantity, instead, compare them in terms of quality.
+Being continous, though, it does not change itself completely every instant. However the way in which one state float into the next must be, by itself, patternless like brownian movement (except that gasses are still composed of discrete particles), and the patterns we see must be imposed by our own brains.
 
-Focus on the process of what you do, instead of the outcome.
+In order to get around it, we humans take pictures of that blob from time to time and then, based on those pictures, we try to interpret it in a way that is structured - we circle one spot of the blob and say "This is `A`". Then we take another picture and search for where `A` went. Or if there are any other instances of `A`. All events which a we withness must be connected with one another forming what is known as a causality chain (or chains). 
 
+An event that does not cause any other event as per their causal chain simply cannot be perceived by us, so in many ways, placing the event in the causal chain is perception itself.
+
+This is why, in our everyday thinking, we often refer to all things that we talk about as either real or unreal (just like in logic we split statements to true and false) e.g. Stephen Hawking is real and Professor Charles Francis Xavier is not. 
+
+This line of thought, however is too naive. To see why, one just has to look at a more abstract concept, e.g. is true love real, and does it exist? It all depends on how you define it, and defining it in too robust terms is impossible, as the definition would rely on many other concepts.
+
+the "realness" of a concept is not just a matter of whether something exist or does not you had or had not seen something which resembles it, but a matter of how much does the concept resonate with the concepts that constitute our worldview. In other words, it is not a yes/no question. The degree of realness, we can also call the degree of *anticipation of perception* i.e. considering an object real means that you anticipate to sense it. Although it seems counter intuitive at first, the anticipation of perseption actually comes *before the perception* - only after we are ready to and prepared to perceive something, we may actually come to realise that it is actually there (this statement may seem paradoxical, but as we said perception itself is paradoxical).
+
+The black hole example is appropriate here. Earlier, we said that the black holes' existence was postulated before actual objects were observed. But does that mean that we are to regard them (before they were actually observed) as absolutely unreal? According to this line of thought no - if the theories that postulate their existence were supported by *some evidence from observation* i.e. there were some way in which these theories fitted into the more general framework of knowledge of the field, then they should be viewed as "somewhat real", as opposed to "imaginary".
+
+Moreover, there are aspects of black holes, which are not yet observed (and some that, are considered *unobservable*). Black holes still might not be exactly what we think they are. Therefore we cannot claim that they (our current notion of them) are 100% real.
+
+The begginner's mind as a way to 
+===
