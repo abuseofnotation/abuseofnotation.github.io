@@ -14,12 +14,14 @@
 /**************/
 
 
+/*
 @font-face {
     font-family: 'mell_sanssemibold';
     src: url('MellSans-SemiBold.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
+*/
 
 @font-face {
     font-family: 'mell_sanssemibold';
@@ -34,7 +36,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 'mell_sanssemibold';
+  font: 18px/1.4 Trebuchet`
   color: $darkGray;
 }
 
