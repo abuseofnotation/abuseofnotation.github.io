@@ -36,7 +36,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 Trebuchet;
+  font-family: Trebuchet, sans-serif;
   color: $darkGray;
 }
 
@@ -162,9 +162,10 @@ img {
 // .masthead
 //
 .hello {
-  line-height:1.5;
+  line-height:1.6;
   font-size:52px;
   max-width: 1400px;
+  font-family: 'mell_sanssemibold';
 }
 
 .hello p {
