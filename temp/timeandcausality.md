@@ -112,6 +112,8 @@ Probably the next stage of the development of the concept of time was the desire
 But predicting the future requires more than just taking stale pictures of things and storing what you need to do in case a similar situation arises. It requires you to model the whole world. This is what the concept of causality does and this is why it exists - to bring everything that we see to our own terms.
 
 
+>1. The concentration on different aspects of reality and the usage of different sets of mental images leads to widely different interpretaions of reality.
+
 >2. A goal is a mental image representing state a of affairs which is for some reason desirable for an individual.
 
 >3. All mental images that a given individual has, are, for them, either desirable or the opposite - undesirable - we cannot have a mental image that we don't relate to with either positive or negative feelings. So all mental images are trivially associated with, or are themselves goals (or anti-goals). 
