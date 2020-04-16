@@ -2,20 +2,30 @@
 Ideas
 ===
 
+Dogmatic thinking as necessity for choice living organisms 
+
+
 Determinism as the default world view
 - Contours of reality
 - Unpredictability is actually reality's defining characteristic, as it is what differentiates it from fiction.
 
-
+- Lawfulness VS continuity
 
 Active intuition
 - The human's desire for control
 - The notion of the world as something that can be modelled.
 - Instructions as a way to model the world
+- Unordered states, defined as "uninterpreted states" and the role of the subject/observer as the "creator of order"
+
+
+Causality brings a sense of importance to each moment - if all moments are chained, each of them stands not just for itself, but for all other moments that come after it. Seems like this  sense of importance is probably what we like about the idea of causality 
+
+The concept of entropy provides a good antithesis to this idea: reminding us that everything that we do will be soon or later be erased 
+
 
 The society's spell
 - Computers
-
+- We create our own world.
 
 Zen mind
 - Perception of time as a fractal 
@@ -36,15 +46,19 @@ Don't compare things in terms of quantity, instead, compare them in terms of qua
 
 Focus on the process of what you do, instead of the outcome.
 
+> Mental images are abstractions, they can be used without a loss of precision only when you can keep in mind what are they and from what are they produced from. 
 
+Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
 
+In order to drop suffering, you have to drop happiness too.
 
 
 Goals and predicting the future
 ===
 
 
-Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
+
+
 
 
 
