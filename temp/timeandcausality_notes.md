@@ -7,7 +7,8 @@ Dogmatic thinking as necessity for choice living organisms
 
 Determinism as the default world view
 - Contours of reality
-- Unpredictability is actually reality's defining characteristic, as it is what differentiates it from fiction.
+
+"Ultimately, determinism leads to the twisted belief that reality is lawful in a way that is always observable, so therefore everything that we perceive that is not lawful is somehow fake. This vies is the exact opposite from the truth - unpredictability is actually reality's defining characteristic, as it is what differentiates it from fiction."
 
 - Lawfulness VS continuity
 

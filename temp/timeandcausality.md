@@ -17,8 +17,7 @@ I'd define knowledge as all information that we can use to predict the future. N
 
 - But if the frames are all different i.e. don't have anything to do with each other, you also wouldn't be able to perceive change. 
 
-To perceive change, then, we must be able to interpret the frames in such a way that there is an aspect of them which is different for each frame but at the same time stays the same for all of them i.e. we have to postulate the *identity* of objects and events. 
-
+To perceive change, then, we must be able to interpret the frames in such a way that there is an aspect of them which is different for each frame but at the same time stays the same for all of them i.e. we have to postulate the *identity* of objects and events.  
 2. The basic form of identity of events and objects (objects being just collections of events) is based on the concept of *causality* - when observing event `A` in a given frame followed by another event `B` at another frame, we presume that `A ⇒ B` (`B` is caused by `A`).**
 
 What this means is that identity is a manifestation of causality, that they are the same thing - when I see a given object standing on my desk and then I see a similar object in the next moment I assume that it is probably the same object i.e. the object being there at time X *causes* it to be there at time x + 1. There are other ways for defining identity (technically, for example, an object is the same only if it contains the same atoms), but this is the main way it is perceived by people, hence the old parable about a ship that has all it's parts changed at a course of a given period is still the same ship it was at the beginning of the said period, although different in terms of the material that it is composed from.
@@ -41,7 +40,7 @@ Natively we may think of causality and of `A ⇒  B` as true, because when we pe
 
 4. `B` is not a specific state of affairs, it is just a mental image, a pattern *we* begin to search for given our previous knowledge of `A ⇒  B`.
 
-We search for `B` and often do find it even without there being perfect candidates - If we already think that `A ⇒  B` we will see `B` everywhere we see `A`. In this case we say that someone sees `B` *even when it is not really there*", but the fact of the matter is we cannot possibly see anything that *is* there in the way that we see `B` in this example. According to this line of thought, that causality is not a rule, nor a meta rule, but a belief and one that every thinking being should hold to some extend. 
+We search for `B` and often do find it even without there being perfect candidates - If we already think that `A ⇒ B` we will see `B` everywhere we see `A`. In this case we say that someone sees `B` *even when it is not really there*", but the fact of the matter is we cannot possibly see anything that *is* there in the way that we see `B` in this example. According to this line of thought, that causality is not a rule, nor a meta rule, but a belief and one that every thinking being should hold to some extend. 
 
 ---
 
@@ -113,37 +112,27 @@ but at the same time:
 
 > we can never know this truth is. 
 
-To reconsile this paradox, I want to talk to look at what truth really is. Reality is like a canvas that contains the form of the world. But it is up to the observer, to us, to draw the contours: we circle one spot and say "This is `A`". Then we take another picture and search for where `A` went. Or if there are any other instances of `A`. But where does `A` originate from initially? What provokes us to start perceiving the world in therms of `A`-s and `B`-s and not just gaze at it in wonder?
+We can reconsile this paradox, if we consider what truth really is, as our current everyday notion of it is obviously wrong - truth does not exist in the world, it is all subjective. Reality is like a canvas that contains the form of the world. But it is up to the observer, to us, to draw the contours: we circle one spot and say "This is `A`". Then we take another picture and search for where `A` went. Or if there are any other instances of `A`. But where does `A` originate from initially? What provokes us to start perceiving the world in therms of `A`-s and `B`-s and not just gaze at it in wonder?
 
-Up until now we spoke about the subjective aspect of knowledge, but we never said anything about the *subject* AKA the human, animal robot or other lifeform that (who) actually perceives reality, makes these assertions and has these thoughts. But how do we even define what the subject is in this context? I claim (and you will see why) that every living organism is defined by the things they want - their will, urges, wishes, emotions etc. or their "goals", as I will call them here. 
-
-Now, a goal is not a specific state of affairs of the world, there may be many states of affairs that constitute the realization of a given goal - rather a goal is a kind of mental image that a given observer has.
+Up until now we spoke about the subjective aspect of knowledge, but we never said anything about the *subject* AKA the human, animal robot or other lifeform that (who) actually perceives reality, makes these assertions and has these thoughts. But how do we even define what a subject is in this context? I claim (you will see why shortly) that every living organism is defined by the things they want - their will, urges, wishes, emotions etc. or their "goals" as I will call them here. Now, a goal is not a specific state of affairs of the world - there may be many states of affairs that constitute the realization of a given goal - rather a goal is a kind of mental image that a given observer has, with one more detail, that it is associated with feelings of pleasure.
 
 1. A goal is a mental image representing state a of affairs which is for some reason desirable for an individual, or the opposite - undesirable.
 
-With that in mind, let's go back to the distinction between dogmatic and empirical thinking. We said that only when thinking empirically, do we *obtain* information about the world, but when thinking dogmatically are we able to *use* the information that we gained for predicting the future. We said that empirical and dogmatic thinking go hand in hand, that you cannot have one without the other, but another way to look at it is that they are actually in conflict with one another - one makes you smarter, but unable to do anything - the other - turns you into a mindless machine that can only chase windmills. 
+With that in mind, let's go back to the distinction between dogmatic and empirical thinking. As we said, when thinking empirically, we *obtain* information about the world, and when thinking dogmatically are we able to *use* the information that we gained. We said that empirical and dogmatic thinking go hand in hand, that you cannot have one without the other, but another way to look at it is that they are actually in conflict - one makes you smarter, but unable to do anything - the other turns you into a mindless machine that can only chase windmills. Comparing the two modes of thinking we may say that the empirical part is more "legit" than the dogmatic one. When thinking empirically we enrich our representation of the world. If we have goals, empirical thinking helps us find more and more ways of achieving these goals. We can say that empirical thinking helps us be objective, even divine if you want. If our aim is knowledge and precision, we should only think empirically, collecting all info and enriching our knowledge without ever trying to unite and structure it, as every structure is a simplification. 
 
-Comparing the two modes of thinking we may say that the empirical part is more "legit" than the dogmatic one.  When thinking empirically we enrich our representation of the world. If we have goals, empirical thinking helps us find more and more ways of achieving these goals. 
+The reason we think dogmatically is just because of our (living beings') modus operanti - and it is pretty simple - we sometimes *have* to act. The situation is "do or die" for some of these goals as (as abstract they are) sometimes our whole existence depends on achieving them. If this factor is eliminated, our whole world would be different: if it didn't feel hunger, the lion could just watch the gazelle forever, studying its every move and getting more and more intimately knowleageable with the way it acts, but doing nothing more. But the lion does get hungry. And when that moment comes, it *has* to assume it knows enough and switch to dogmatic mode in order to try to catch the gazelle. And it is at this moment is when the mental image of the gazelle is formed. The image is a product of the fact that the lion gets hungry, as is any other mental image, in any other liveform:
 
-We can say that empirical thinking helps us be objective, even divine, if you want. whereas dogmas are there just because of our (living beings') modus operanti - if our aim is knowledge and precision, we should only think empirically, collecting all info and enriching our knowledge without ever trying to unite and structure it.  The reason we think dogmatically is that we (observers, organisms) sometimes *have* to act. The situation is "do or die" for some of these goals as abstract and objective they are, sometimes our whole existence depends on achieving them. If it weren't so, our whole world would be different. If it didn't feel hunger, the lion could just watch the gazelle for ever, studying its every move and getting more and more intimately knowleageable with the way it acts. But the lion does get hungry. And when that moment comes it has to assume it knows enough so it can try to catch the gazelle. At this moment is when the mental image of the gazelle is formed. Somewhere here the concept of the binary, of truth/falsehood is born - when he goes out to catch the gazelle the lion either catches it or not and based on that he is right or wrong, the taste of raw meat is the only truth that the lion knows or cares about.
+2. All mental images that a given individual forms are either desirable (or undesirable). So all mental images are trivially associated with, or are themselves goals (or antigoals)
 
-Here is why I said that goals define what a living being is. There are no living beings without goals (and no goals without living beings).
+For example, the pistol and glass example is associated with the desire to break the glass for some reason.
 
-Now where were we? Oh yeah, truth.
+Now where were we? Oh yeah, we were talking about truth. 
 
-- Before creating a mental image, an observer is neither right nor wrong in his thoughts - they just record what they see, as good as they can. 
+Like we said, mental images are not, by themselves, true and false. That's because (let's reiterate it again but with different words) we can only asses whether a given mental image works, only by applying it and interpreting the result, but we can only do that using *other mental images*. When considering it by itself, we cannot call an image true or false, we cannot even compare and say that it is better than another mental image or closer to the "real world" (because we only perceive the "real world" through images). 
 
-- After creating a mental image, an observer can be right or wrong - a mental image has a degree of reality.
+The situation changes when we view mental images with their connection to goals.Goals and antigoals *are* desirable/undesirable, they cause pain and pleasure. And based on these feelings, we deem the mental images that correspond to them true and false.
 
-That degree of reality can be equated with the degree in which the mental image fulfills our desire. And even if this way sounds stupid and it sucks for many reasons, there is no other way to define it - scientists that  sets up complicated experiments in order to define thesis that is a product of years of research are no different than the lion chasing down the gazelle - one hopes to satisfy their hunger for knowledge, the other, their literal hunger, but the general principle is the same: 
-
-2. All mental images that a given individual forms, are, for them, either desirable or the opposite - undesirable - we cannot have a mental image that we don't relate to with either pain and pleasure. So all mental images are trivially associated with, or are themselves goals (or anti-goals). 
-
-The only way to compare mental images is by their utility as means of achieving different types of goals. And comparing the mental images is a converged way of comparing the goals for which they stand.
-
-
-On using abstraction for affirming the universal character of knowledge and on the concept of determinism as the default worldview
-===
+3. A mental image has a degree of reality, that can be equated with the degree in which it's corresponding goal is desirable for the individual (based on an individual's entirely subjective criteria). Comparing mental images with one another is a converged way of comparing the goals for which they stand for. 
 
 The behaviour of simple organisms that have no brain or have a very rudimentary brain can be described by the the stimulus-response model - they perceive an object and react on it immediately.
 
@@ -157,12 +146,8 @@ But predicting the future requires more than just taking stale pictures of thing
 
 Time moves because we have urges that we want to satisfy.
 
-On the concept of the self, the human's desire for control and the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
+On using abstraction for affirming the universal character of knowledge and on the concept of determinism as the default worldview
 ===
-
-Mental images are self-enforced over time, this is why older people as a rule are more dogmatic than younger ones.
-
-It is not about older people having more knowledge (real knowledge will make you less dogmatic if anything), it's about having more dogmas 
 
 Sometimes when we perceive new things that we did not expect we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our causal chain, as if they do not exist. If there is an event (or even a whole aspect of reality) that does not uphold to causal laws, we would not be merely unable to *make sense* of that event or aspect (as seeing an event without being able to make sense of it would indicate that we can comprehend it it by merely adjusting our thinking), we would not be able perceive the it in any way, even if it happens before our very eyes.
 
@@ -188,9 +173,21 @@ The idea of the self is probably closer to a delusion than that of God, but it i
 
 
 The self is not who you are, but who you want to be (your projected goal).
-On the different types of knowledge depending on the goals that a given individual has and the begginner's mind as a goal.
+
+
+On the concept of the self, the human's desire for control and the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
 ===
 
+
+
+
+Mental images are self-enforced over time, this is why older people as a rule are more dogmatic than younger ones.
+
+It is not about older people having more knowledge (real knowledge will make you less dogmatic if anything), it's about having more dogmas 
+
+
+On the different types of knowledge depending on the goals that a given individual has and the begginner's mind as a goal.
+===
 
 Appendix: short history of causality, determinism and time
 ===
@@ -210,6 +207,8 @@ Appendix: short history of causality, determinism and time
 *~360* Zeno of Citium, the original founder of Stoicism, had a simple but powerful idea of the causal chain - every event has a cause, and that cause necessitates the event and that given exactly the same circumstances, exactly the same result will occur.
 
 > It is impossible that the cause be present yet that of which it is the cause not obtain.
+
+
 
 ---
 
