@@ -2,14 +2,6 @@
 Ideas
 ===
 
-Dogmatic thinking as necessity for choice living organisms 
-
-
-Determinism as the default world view
-- Contours of reality
-
-"Ultimately, determinism leads to the twisted belief that reality is lawful in a way that is always observable, so therefore everything that we perceive that is not lawful is somehow fake. This vies is the exact opposite from the truth - unpredictability is actually reality's defining characteristic, as it is what differentiates it from fiction."
-
 - Lawfulness VS continuity
 
 Active intuition
@@ -19,22 +11,37 @@ Active intuition
 - Unordered states, defined as "uninterpreted states" and the role of the subject/observer as the "creator of order"
 
 
-Causality brings a sense of importance to each moment - if all moments are chained, each of them stands not just for itself, but for all other moments that come after it. Seems like this  sense of importance is probably what we like about the idea of causality 
+On the concept of the self, the human's desire for control and the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
+===
 
-The concept of entropy provides a good antithesis to this idea: reminding us that everything that we do will be soon or later be erased 
+Our stance as humans, however *is not like this* as some of these images are clearly embedded into our minds.
 
+
+The idea of God is not merely delusion created to help cope with the fear of death (although it does help people cope with the fear of death), but it is a personification to the aspect of reality that does not adhere to the causality maxim and that is unknowable. Religious rituals can be rationalized using the following argument: although we cannot really be familiar with the aspect of reality which is unknowable, we must pay tribute to it, in order not to forget of its existence.
+
+The idea of the self is probably closer to a delusion than that of God, but it is a personification of that which is knowable - your persona, your job, the things you know and believe are you. Any habit thought or urge that is outside of this narrative is not really a part of the self. And that is not because such habits/thoughts/urges are rare. Neither because they are better, worse or in any way different than the rest of your habits/thoughts/urges. They are not part of the self for precisely that reason - they are not a part the narrative.
+
+
+The self is not who you are, but who you want to be (your projected goal).
+
+
+Mental images are self-enforced over time, this is why older people as a rule are more dogmatic than younger ones.
+
+It is not about older people having more knowledge (real knowledge will make you less dogmatic if anything), it's about having more dogmas 
 
 The society's spell
 - Computers
 - We create our own world.
 
-Zen mind
+On the unity of the great nothingness
+
+On the lack of goal as a goal.
+===
+
 - Perception of time as a fractal 
 - The lack of ideology as ideology.
 - On mistakes
 - On problems
-
-
 
 Takeaways
 ===
@@ -53,6 +60,7 @@ Buying more stuff will not bring you closer to happiness, just like living longe
 
 In order to drop suffering, you have to drop happiness too.
 
+Confusion makes you forget the way.
 
 Goals and predicting the future
 ===
