@@ -1,5 +1,4 @@
-
-On causality as the defining principle of all knowledge and on the subjective nature of all knowledge
+1. On causality as the defining principle of all knowledge and on the subjective nature of all knowledge
 ===
 
 The notion of time is very tightly bound with the way that we perceive the world. Knowledge is accumulated through time and it mostly presuposes the notion of time. And perceptions compose time - they are the material from which time is made. 
@@ -115,7 +114,7 @@ The last statement probably sounds too counter-intuitive, so to be taken as true
 
 Because the statements above imply that reality as we perceive it is not objective, many (weird) philosophers have argued that we are actually living in a dream or a simulation of some kind, and that reality as we perceive it is not at all related to the reality that actually exists. But for me that is clearly not true - while mental images themselves do not say anything about the real world, *the fact that we have gotten the habit of creating mental images* does say something - their existence is a proof (the only proof?) that the world is not completely random.
 
-On the different types of knowledge depending on the goals that a given individual has and. On truth, and on urges and emotions as the ultimate source of it. 
+2. On the different types of knowledge depending on the goals that a given individual has and. On truth, and on urges and emotions as the ultimate source of it. 
 ===
 
 The previous chapter, we introduced two thought that seemingly contradicting one another:
@@ -142,19 +141,24 @@ Up until now we spoke about the subjective aspect of knowledge, but we never sai
 1. A goal is a mental image representing state a of affairs which is for some reason desirable for an individual, or the opposite - undesirable.
 ```
 
-With that in mind, let's go back to the distinction between dogmatic and empirical thinking. As we said, when thinking empirically, we *obtain* information about the world, and when thinking dogmatically are we able to *use* the information that we gained. We said that empirical and dogmatic thinking go hand in hand, that you cannot have one without the other, but another way to look at it is that they are actually in conflict - one makes you smarter, but unable to do anything - the other turns you into a mindless machine that can only chase windmills. Comparing the two modes of thinking we may say that the empirical part is more "legit" than the dogmatic one. When thinking empirically we enrich our representation of the world. If we have goals, empirical thinking helps us find more and more ways of achieving these goals. We can say that empirical thinking helps us be objective, even divine if you want. If our aim is knowledge and precision, we should only think empirically, collecting all info and enriching our knowledge without ever trying to unite and structure it, as every structure is a simplification. 
+With that in mind, let's go back to the distinction between dogmatic and empirical thinking. As we said, when thinking empirically, we *obtain* information about the world, and when thinking dogmatically are we able to *use* the information that we gained. We said that empirical and dogmatic thinking go hand in hand, that you cannot have one without the other, but another way to look at it is that they are actually in conflict - one makes you smarter, but unable to do anything - the other turns you into a mindless machine that can only chase windmills. 
+
+Furthermore, when comparing the two modes of thinking, we may say that the empirical part is more "legit" than the dogmatic one. When thinking empirically we enrich our representation of the world. If we have goals, empirical thinking helps us find more and more ways of achieving these goals. We can say that empirical thinking helps us be objective, even divine if you want. If our aim is knowledge and precision, we should only think empirically, collecting all info and enriching our knowledge without ever trying to unite and structure it, as every structure is a simplification. 
 
 The reason we think dogmatically is just because of our (living beings') modus operanti - and it is pretty simple - we sometimes *have* to act. The situation is "do or die" for some of these goals as (as abstract they are) sometimes our whole existence depends on achieving them. If this factor is eliminated, our whole world would be different and we could watch reality forever, studying getting more and more intimately knowleageable with the way it is, but doing nothing more. But we get hungry. And when that moment comes, we *have* to assume we knows enough and switch to dogmatic mode in order to try to catch some prey, or go to the store as it is our case. It is at this moment is when the mental image is formed. The image is a product of the fact that we gets hungry, as is any other mental image, in any other liveform:
 
 ```
-2. All mental images that a given individual forms are either desirable (or undesirable). So all mental images are trivially associated with, or are themselves goals (or antigoals)
+2. All mental images that a given individual forms are either desirable (or undesirable). So all mental images are trivially associated with, or are themselves goals (or antigoals).
+```
+A corrolary of that is:
+
+```
+3. No mental image, or a piece of knowledge that relies on mental image are objective - all of them are actually a product of the individual's characteristics.
 ```
 
 For example, the pistol and glass example is associated with the desire to break the glass for some reason.
 
-Now where were we? Oh yeah, we were talking about truth (I know that such detours make the reader wish to take a pistol themselves and point it at either their or my head but bear with me please.
-
-Like we said, mental images are not, by themselves, true and false. That's because (let's reiterate it once more) we can only asses whether a given mental image works, only by applying it and interpreting the result, but we can only do that using *other mental images*. We cannot see reality outside of the mental images, so, when considering it by itself, we cannot call an image true or false, we cannot even compare one image to another and say which one is better that it is better than another mental image, or closer to the "real world" (because, again, we only perceive the "real world" through images). I love Wittgenstein's essay "On certainty" and especially the opening sentence:
+Now where were we? Oh yeah, we were talking about truth (I know that such detours make the reader wish to take a pistol themselves and point it at either theirs or my head but bear with me please). Like we said, mental images are not, by themselves, true and false. That's because (let's reiterate it once more) we can only asses whether a given mental image works, only by applying it and interpreting the result, but we can only do that using *other mental images*. We cannot see reality outside of the mental images, so, when considering it by itself, we cannot call an image true or false, we cannot even compare one image to another and say which one is better that it is better than another mental image, or closer to the "real world" (because, again, we only perceive the "real world" through images). I love Wittgenstein's essay "On certainty" and especially the opening sentence:
 
 > If you know that **here is one hand**, we'll grant you all the rest.
 
@@ -180,91 +184,146 @@ The behaviour of the simplest organisms that have no brain or have a very rudime
 
 Such organisms can also work with concepts (a concept in their case being just a collection memories that resemble one another), but they are still very very simple. For them, the concepts of truth and falcity (if we can tell them that) are equivalent to the feelings of pleasure and pain.
 
-More complex are organisms that have the ability (or perhaps it is more correct to say "the ambition") to predict the future, or indeed those are the ones that have concept of a future and past at all, as the concept of a predition is the same as that of the future. Predicting the future requires more than just taking stale pictures of things and figuring out what you need to do in case a similar situation arises: it requires the organism to have the concept of a world (or of "substance" as it is sometimes called). This can allow organisms to produce images that:
+More complex are organisms that have the ability (or perhaps it is more correct to say "the ambition") to predict the future. Indeed those are the ones that have concept of a future and past at all, as the concept of a predition is the same as that of the future. Predicting the future requires more than just taking stale pictures of things and figuring out what you need to do in case a similar situation arises: it requires the organism to have the concept of a *world* (or of "substance" as it is sometimes called). This can allow organisms to produce images that:
 
 - Have multiple steps that lead toward a common goal.
 - Can be organized in a hierarchy, where one goal can be a step towards a bigger goal.
 - Are self-enforcing (we will say more about that later).
 
-The main difference between the two is different types of knowledge - simple organisms can only have knowledge that has *limited scope*, while more comples ones have knowledge that is *universally valid*. The difference between these two types of knowledge can be seen in the two types of Aristotelian syllogisms 
+The main difference between the two is different types of knowledge - simple organisms can only have knowledge that has *limited scope*, while more comples ones have knowledge that is *universally valid*. The two types of knowledge correspond to the two types of Aristotelian syllogisms 
 
-- `Some A-s are B` 
-- `All A-s are B`. 
+- `Some A-s are B` (limited scope)
+- `All A-s are B` (universal) 
 
-Kant's categories
+We need to think only a little about how those two types of knowledge are aquired to see that, although comparable, they are drastically different from one another:
+
+Simple organism who thinks in terms of statements with limited scope, thoughts are only a means for gaining a more favourable feedback from reality, which means that their significance is limited e.g. a simple organism that has an apple which is not tasty would be "unhappy" about the sore taste, but it would not ever be unhappy about the *fact that his assertion turned out to be false*. 
+
+A simple organism just abandons an idea, as soon as it feels wrong to it, being wrong does not lower his self-esteem, it does not bring it an existential crisis, nor does it cause it to abandon some other related ideas that it has.
+
+Furthermore, a simple organism would not feel the need to unite several different phenomena that it experiences under one common cause, nor does it feel the need to pounder over why things are the way they are and not some other way (as we do currently). The simple organism is humble - it just does not hope that it can ever know these things and so it does not bother itself with them. 
+
+If they could talk, simple organisms would probably say that they are *wrong by default*, whereas we, because we are "smarter" consider ourselves correct by default.
+
+```
+4. Statements that have only limited scope can be justified only by *observation* - if I observe two or three objects that I categorize as `A`s (e.g. "apples") and I find that they posess the property `B` (e.g. "tasty"), I can conclude that `Some A-s are B` based on those observation alone i.e. based on my instincts. 
+
+Statements with universal scope, on the other hand, are axiomatic by their nature - they create reality as much as they describe it. My basis for saying `All A-s are B` is not at all different from my basis for saying `Some A-s are B`. What is different is my decision to assume that this piece of knowledge is universal.
+```
+
+3. On the concept of the world and of determinism as the "default" worldview
+===
+
+The things we know (i.e. assume true) shape our worldview. But a worldview is not the same as the world - we will always see things that clash with it. Sometimes when that happens (when we perceive new things that we did not expect) we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our worldview as if they do not exist. If there is an event (or even a whole aspect of reality) that does not uphold to our worldview we would not be merely unable to *make sense* of that event or aspect (as seeing an event without being able to make sense of it would indicate that we can theoretically comprehend it it by merely adjusting our thinking), we would not be able perceive the it in any way, even if it happens before our very eyes. 
+
+The only way to prevent that is to assume that the world is unknowable in a first place (i.e. that it is fragmented, unlawful by its nature). However, we can only do that to an extend - assuming that the something is not lawful is simply a dead-end in terms of thinking about it - it just halts our thinking process so abruptly, that we almost cannot assume it's true. This is why we (mostly) assume otherwise. 
+
+When applied to large-scale thinking, this asumption establishes determinism as the "default" worldview and makes us cautious when facing non-deterministinc phenomema, that we often try to contain them in a system which is inherently deterministic. That system is the mental image that represents "the world".
+
+```
+1. The mental image of the world (let's call it `M`) is the central dogma, controlling the world is the central goal.
+```
+
+(Where the goal ("controlling the world") is encoded in the defining characteristic of the mental image (determinism)).
+
+It would be pretty weird if the world was deterministic - we perceive the worlds using mental images and mental images are just subjective representations, established with an aim for survival of our species. So being able to model the *objective* world deterministically using our *subjective* mental images would not make much sense.
+
+True, we are able to model *some* aspects of the world *some* of the time, with *some* precision but being able to model the world itself would only be possible if someone created this world especially for us. I, personally, don't find that plausible, so my opinion is that the equivalence between the mental images in our mind and the world is an illusion. It is no wonder that even in physics, a discipline that had determinism as a given from its inception is moved moved from a completely derministic (classical physics) to probablilistic  models (quantum mechanics), due to a growing body of examples where the deterministic models don't work. 
+
+The only reason mental images, among which is `M` exists is to satisfy our urges. If there were a state in which our urges are really satisfied, time for us would freeze and  we would reach some kind of perfection due to which our world (`M`) will just dissappear. But that perfection is unattainable and not due to limitations of the physical world, but due to the limitations of ourselves as "non-gods".
+
+You can think of God as a being that posesses what Kant calls "active intuition" i.e. ones who's thoughts are, by themselves, reality, as opposed to normal people, who's thoughts don't alter reality in any way. This is why God is, by definition only one. This is why *she* is by definition immortal - not only because, as a supreme being, she would be capable of being immortal, but because her dying does not make sense, unless the world itself dies with her. Simply put God's mental image (`M`) *is* the real world (`W`). And the `M` of each human being bears some resemblance to `W`, as far as we can view this person as created by God in Her image.
+
+But enough about religion.
+
+In the many ways in which we are not God, we can say that `M` is not the same as `W`. Mixing the characteristics of `M` for `W` is also evident in the way in which many scientific concepts, particularily in physics, are irrellevant or even go directly against the intuitive way that people see things. In fact, I'd argue that:
+
+```
+2. The world (let's call it `W`) is in many ways the opposite of `M` (indeed we can say that it defines what an opposition is).
+```
+
+As we said, `M` is deterministic, i.e. it is lawful and in a way that is always observable, while `W` is not. Mistaking `M` for `W` (or rather not recognising that they are different) can lead us to the conclusion that `W` is deterministic too and that everything that we perceive that is not lawful is some kind of illusion. The truth is the exact opposite - unpredictability is actually reality's defining characteristic, which differentiates it from dreams and fiction. If we are not seeing anything unpredictable, this is a sure sign that we are perceiving the world *dogmatically*, as perceiving the world *empirically* is essentially seeing its unpredictable side. 
+
+```
+3. If `M` is based on information and on the principle of *causality*. We may say that `W`'s defining characteristic is the somewhat reverse concept of *entropy*.
+```
+
+You can view  `A ⇒ B` (and every other describing a causal connection), as a statement about how *order* in a given system is preserved. You can define the order of a given system by in terms of how simple it is to describe it.
+
+
+
+|                   |   `M`  |   `W`     |
 ---
-Universal and limited-scope knowledge are drastically different:
-
-- Statements that have only limited scope are justified by *observation* - if I observe an `A` that is `B`, I can conclude that `Some A-s are B` based on that observation.
-
-- Statements with universal scope are axiomatic by their nature - they create reality as much as they describe it. 
-
-For this reason statements like `All A-s are B`, despite the way that beside `A` and `B` such statements reference a third object - the world.
+| Characteristic | Unified/lawful | Fragmented/lawless | 
+| Mode of perception | Dogmatic | Empirical| 
+| Defined by | Causality | Entropy | 
 
 
 
-
-```
-4. The world is the central dogma, knowing the world is the central goal.
-```
-
-On the concept of the world and of determinism as the "default" worldview
-===
+The dichotomy, between causality (or information) and entropy is inspired by Hans Reisenbach's book "The direction of time". 
 
 
+Short history of causality, determinism and time
+---
 
-Sometimes when we perceive new things that we did not expect we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our causal chain, as if they do not exist. If there is an event (or even a whole aspect of reality) that does not uphold to causal laws, we would not be merely unable to *make sense* of that event or aspect (as seeing an event without being able to make sense of it would indicate that we can comprehend it it by merely adjusting our thinking), we would not be able perceive the it in any way, even if it happens before our very eyes.
-
-By the same token, a world that does not adhere to laws is impossible to be modelled. Such world does not offer any means for us to be able to predict the outcome of our actions. Therefore, in such a world we would not be able to use mental images, because there would be no way for them to exist at all. 
-
-Assuming that the world is not lawful is simply a dead-end in terms of our thinking. This is why we mostly assume otherwise. When applied to large-scale thinking, this asumption establishes determinism as the "default" worldview and makes us cautious when facing non-deterministinc phenomema (which we often try to contain them in a system which is inherently deterministic).
-
-- The the real world is *not* deterministic, as proved by quantum mechanics (and it would have been pretty weird if it were. As we said mental images are subjective, so being able to model the objective world precisely with subjective concepts would be impossible.
-
-- The world is not deterministic, but even if it were, observer can neither capable of retrieving nor processing the data needed for even a simplest of actions.
-
-
-So the image we have that the mental images in our mind would ideally be completely equivalent to the real world is an illusion the only reasons these images exist is to satisfy *our* urges. There can never be a state in which our urges are really satisfied in a way that time for us would freeze and we would not have any will to move it i.e. perfection is unattainable not due to limitations of the physical world, but due to the limitations of our own thoughts.
-
-In deterministic systems, non-deterministic events can be explained by "hidden variables" theories, that basiclly say that the only reason why you didn't predict something is that you are not good enough and you don't know enough. 
-
-Causality brings a sense of importance to each moment - if all moments are chained, each of them stands not just for itself, but for all other moments that come after it. Seems like this  sense of importance is probably what we like about the idea of causality 
-
-The concept of entropy provides a good antithesis to this idea: reminding us that everything that we do will be soon or later be erased 
-
-
-Ultimately, determinism leads to the twisted belief that reality is lawful in a way that is always observable, so therefore everything that we perceive that is not lawful is somehow fake. This vies is the exact opposite from the truth - unpredictability is actually reality's defining characteristic, as it is what differentiates it from fiction.
-
-On Zen and the anti-worldview and on the lack of goal as a goal 
-===
-
-
-Appendix: short history of causality, determinism and time
-===
-
-*~-500* - Zeno of Elea pointed out the issues with the concept of continuity and the way it clashes with our everyday notion of time in his famous set of paradoxes.
+*~-500* - *Zeno of Elea* points out the issues with the concept of continuity and the way it clashes with our everyday notion of time in his famous set of paradoxes.
 
 > In a race, the quickest runner can never over­take the slowest, since the pursuer must first reach the point whence the pursued started, so that the slower must always hold a lead. (as recounted by Aristotle, Physics VI:9, 239b15)
 
-*~-520* - Heraclitus pointed out the allusive nature of the the causal chain and it's connection with the idea of the self 
+*~-520* - *Heraclitus* points out the allusive nature of the the causal chain and it's connection with the idea of the self 
 
 > We both step and do not step in the same rivers. We are and are not. Moreover, we step into and out of the river as different beings.(B49a)
 
-*~ 210* - Sextus Empiricus nailed it with his critique on inductive reasoning, positing that a universal rule could not be established from an incomplete set of particular instances:
-
-> When they propose to establish the universal from the particulars by means of induction, they will effect this by a review of either all or some of the particulars. But if they review some, the induction will be insecure, since some of the particulars omitted in the induction may contravene the universal; while if they are to review all, they will be toiling at the impossible, since the particulars are infinite and indefinite.
-
-*~360* Zeno of Citium, the original founder of Stoicism, had a simple but powerful idea of the causal chain - every event has a cause, and that cause necessitates the event and that given exactly the same circumstances, exactly the same result will occur.
+*~360* *Zeno of Citium*, the original founder of Stoicism, had a simple but powerful idea of the causal chain - every event has a cause, and that cause necessitates the event and that given exactly the same circumstances, exactly the same result will occur.
 
 > It is impossible that the cause be present yet that of which it is the cause not obtain.
 
+*~300* *Euclid* publishes his *Elements* - one of the first and most famous axiomatic (formal) systems, showing how a very complex deterministic system can develop from a very small set of rules.
 
+*~ 210* - *Sextus Empiricus* nailed it with his critique on inductive reasoning, positing that a universal rule could not be established from an incomplete set of particular instances:
 
----
+> When they propose to establish the universal from the particulars by means of induction, they will effect this by a review of either all or some of the particulars. But if they review some, the induction will be insecure, since some of the particulars omitted in the induction may contravene the universal; while if they are to review all, they will be toiling at the impossible, since the particulars are infinite and indefinite.
 
-*1687* - Isaac Newton published his Principia one of the most fundamental scientific papers ever. There he did several things:
-- Invented calculus as a way to deal with the problem of continuity.
-- Cemeted the idea that the world is deterministic and that there are absolute laws governing the entire universe.
-- Posited the existence of absolute time, 
+*1687* - *Isaac Newton* published his *Principia Mathematica* one of the most fundamental scientific papers ever. There he did several things:
+- Invented calculus as a way to deal with the problem of continuity (and thereby resolving, or at least circumventing, the paradoxes of Zeno of Elea).
+- Cemeted the idea that the world is deterministic and that there are absolute laws governing the entire universe (a-la Euclid's postulates).
+- Posited the existence of absolute time.
 
 > Absolute space, in its own nature, without regard to anything external, remains always similar and immovable. Relative space is some movable dimension or measure of the absolute spaces; which our senses determine by its position to bodies: and which is vulgarly taken for immovable space ... Absolute motion is the translation of a body from one absolute place into another: and relative motion, the translation from one relative place into another ...
+
+*1739 - 40* - *David Hume* publishes *A Treatise of Human Nature*, most famous for his critique of induction (resembling that of Sextus Empiricus) and lays down the groundwork for the modern views on the topic of causality, insisting that the connections we make using the concept of cause and effect are subjective and imaginary.
+
+> This deficiency in our ideas is not, indeed, perceived in common life, nor are we sensible, that in the most usual conjunctions of cause and effect we are as ignorant of the ultimate principle, which binds them together, as in the most unusual and extraordinary. But this proceeds merely from an illusion of the imagination; and the question is, how far we ought to yield to these illusions. This question is very difficult, and reduces us to a very dangerous dilemma, whichever way we answer it. For if we assent to every trivial suggestion of the fancy; beside that these suggestions are often contrary to each other; they lead us into such errors, absurdities, and obscurities, that we must at last become asham'd of our credulity. 
+
+
+*1781* - *Immanuel Kant* reads Hume's treatise and decides to refute it, an effort which results in probably the most serious work on the subject of causality, "The Critique of Pure Reason". In it, Kant says that causality cannot be the result of experience, because it enables experience and plunges in a mutidisciplinary investigation to discover what it actually is, while refuting Newton's notion of absolute time in the process.
+
+
+> Now let us proceed to our problem. That something happens, i.e., that something or a state comes to be that previously was not, cannot be empirically perceived except where an appearance precedes that does not contain this state in itself; for a reality that would follow on an empty time, thus an arising not preceded by any state of things, can be apprehended just as little as empty time itself. Every apprehension of an occurrence is therefore a perception that follows another one. Since this is the case in all synthesis of apprehension, however, as I have shown above in the case of the appearance of a house, the apprehension of an occurrence is not yet thereby distinguished from any other. Yet I also note that, if in the case of an appearance that contains a happening I call the preceding state of perception A and the following one B, then B can only follow A in apprehension, but the perception A cannot follow but only precede B. E.g., I see a ship driven downstream. My perception of its position downstream follows the perception ofits position upstream, and it is impossible that in the apprehension of this appear­ ance the ship should first be perceived downstream and afterwards up­ stream. The order in the sequence of the perceptions in apprehension is therefore here determined, and the apprehension is bound to it. In the previous example of a house my perceptions could have begun at its rooftop and ended at the ground, but could also have begun below and ended above; likewise I could have apprehended the manifold of em- pirical intuition from the right or from the left. I n the series o f these perceptions there was therefore no determinate order that made it nec- essary when I had to begin i n the apprehension in order to combine the manifold empirically. But this rule is always to be found in the percep- tion of that which happens, and it makes the order of perceptions that follow one another (in the apprehension of this appearance) necessary.
+
+> (...)
+
+> If, therefore, we experience that something happens, then we always presuppose that something else precedes it, which it follows in accordance with a rule. For without this I would not say of the object" that it follows, since the mere sequence in my apprehension, if it is not, by means of a rule, determined in relation to something preceding, does not justify any sequence in the object.d Therefore I always make my subjective synthesis (ofapprehension) objective with respect to a rule in accordance with which the appearances in their sequence, i.e., as they occur, are determined through the preceding state, and only under this presupposition alone is the experience of something that happens even possible.
+
+On Hume:
+
+> I freely admit that the remembrance of David Hume was the very thing that many years ago first interrupted my dogmatic slumber and gave a completely different direction to my researches in the field of speculative philosophy.
+
+*1905* - *Albert Einstein* publishes the paper "The Thermodynamic of Moving Bodies" where he proposes the special theory of relativity which slowly killed off Newton's concept of absolute time, confirming some of Kant's views on space and time in the process (although Einstein himself famously opposed Kant's formulation and specifically the idealistic aspect of it).
+
+> the same laws of electrodynamics and optics will be valid for all frames of reference for which the equations of mechanics hold good. We will raise this conjecture (the purport of which will hereafter be called the "Principle of Relativity") to the status of a postulate, and also introduce another postulate, which is only apparently irreconcilable with the former, namely, that light is always propagated in empty space with a definite velocity c which is independent of the state of motion of the emitting body. These two postulates suffice for the attainment of a simple and consistent theory of the electrodynamics of moving bodies based on Maxwell's theory for stationary bodies. The introduction of a "luminiferous ether" will prove to be superfluous in as much as the view here to be developed will not require an "absolutely stationary space" provided with special properties, nor assign a velocity-vector to a point of the empty space in which electromagnetic processes take place. 
+
+On Kant:
+
+> The very fact that the totality of our sense experiences is such that by means of thinking (operations with concepts, and the creation and use of definite functional relations between them, and the coordination of sense experiences to these concepts) it can be put in order, this fact is one which leaves us in awe, but which we shall never understand. One may say “the eternal mystery of the world is its comprehensivibility.” It is one of the great realizations of Immanuel Kant that the setting up of a real external world would be senseless without this comprehensibility. (Albert Einstein, Out of My Later Years) 
+
+*1935* - *Einsten* (again) along with *Podolsky* and *Rosen* argues that the universe puts forward what is now known as the *EPR paradox*, and argues that the quantum-mechanical wave function must be an incomplete description of the physical world. But the real significance of the paper is that it takes as a given the assumption that the universe is deterministic.
+
+> While we have thus shown that the wave function does not provide a complete description of the physical reality, we left open the question of whether or not such a description exists. We believe, however, that such a theory is possible.
+
+Or in Einstein's own words:
+
+> I, at any rate, am convinced that [God] does not throw dice
+
+*1964* -  *John Stewart Bell* publishes a paper titled "On the Einstein Podolsky Rosen Paradox" where he proves that God does in fact play dice with the universe.
+
