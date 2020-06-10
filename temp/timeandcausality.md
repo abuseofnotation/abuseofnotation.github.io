@@ -1,3 +1,9 @@
+---
+category: blog
+title: "Notes on time and causality"
+layout: blog
+---
+
 1 On causality as the defining principle of all knowledge and on the subjective nature of all knowledge
 ===
 
