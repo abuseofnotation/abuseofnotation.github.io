@@ -1,15 +1,13 @@
 
-.highlight {
+pre.highlight {
   background-color: #375C7F;
   color:#fff;
   padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
-  -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
-  font-size: 20px; 
+  font-size: 13px; 
   font-family: 'Source Code Pro', monospace;
+  white-space: pre-wrap;
 }
 
 code {

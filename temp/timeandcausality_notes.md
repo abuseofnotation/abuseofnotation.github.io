@@ -102,15 +102,6 @@ In order to drop suffering, you have to drop happiness too.
 
 Confusion makes you forget the way.
 
-Goals and predicting the future
-===
-
-
-
-
-
-
-
 On the true nature of reality 
 ===
 

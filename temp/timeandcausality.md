@@ -1,4 +1,4 @@
-1. On causality as the defining principle of all knowledge and on the subjective nature of all knowledge
+1 On causality as the defining principle of all knowledge and on the subjective nature of all knowledge
 ===
 
 The notion of time is very tightly bound with the way that we perceive the world. Knowledge is accumulated through time and it mostly presuposes the notion of time. And perceptions compose time - they are the material from which time is made. 
@@ -114,7 +114,7 @@ The last statement probably sounds too counter-intuitive, so to be taken as true
 
 Because the statements above imply that reality as we perceive it is not objective, many (weird) philosophers have argued that we are actually living in a dream or a simulation of some kind, and that reality as we perceive it is not at all related to the reality that actually exists. But for me that is clearly not true - while mental images themselves do not say anything about the real world, *the fact that we have gotten the habit of creating mental images* does say something - their existence is a proof (the only proof?) that the world is not completely random.
 
-2. On the different types of knowledge depending on the goals that a given individual has and. On truth, and on urges and emotions as the ultimate source of it. 
+2 On the different types of knowledge depending on the goals that a given individual has and. On truth, and on urges and emotions as the ultimate source of it 
 ===
 
 The previous chapter, we introduced two thought that seemingly contradicting one another:
@@ -211,7 +211,7 @@ If they could talk, simple organisms would probably say that they are *wrong by 
 Statements with universal scope, on the other hand, are axiomatic by their nature - they create reality as much as they describe it. My basis for saying `All A-s are B` is not at all different from my basis for saying `Some A-s are B`. What is different is my decision to assume that this piece of knowledge is universal.
 ```
 
-3. On the concept of the world and of determinism as the "default" worldview
+3 On the concept of the world and of determinism as the "default" worldview
 ===
 
 The things we know (i.e. assume true) shape our worldview. But a worldview is not the same as the world - we will always see things that clash with it. Sometimes when that happens (when we perceive new things that we did not expect) we adjust out thinking so as to take them into account. But if there is no way to adjust our thinking we just ignore the things that don't fit into our worldview as if they do not exist. If there is an event (or even a whole aspect of reality) that does not uphold to our worldview we would not be merely unable to *make sense* of that event or aspect (as seeing an event without being able to make sense of it would indicate that we can theoretically comprehend it it by merely adjusting our thinking), we would not be able perceive the it in any way, even if it happens before our very eyes. 
@@ -239,29 +239,32 @@ But enough about religion.
 In the many ways in which we are not God, we can say that `M` is not the same as `W`. Mixing the characteristics of `M` for `W` is also evident in the way in which many scientific concepts, particularily in physics, are irrellevant or even go directly against the intuitive way that people see things. In fact, I'd argue that:
 
 ```
-2. The world (let's call it `W`) is in many ways the opposite of `M` (indeed we can say that it defines what an opposition is).
+2. The world (let's call it `W`) is the opposite of `M`.
 ```
 
-As we said, `M` is deterministic, i.e. it is lawful and in a way that is always observable, while `W` is not. Mistaking `M` for `W` (or rather not recognising that they are different) can lead us to the conclusion that `W` is deterministic too and that everything that we perceive that is not lawful is some kind of illusion. The truth is the exact opposite - unpredictability is actually reality's defining characteristic, which differentiates it from dreams and fiction. If we are not seeing anything unpredictable, this is a sure sign that we are perceiving the world *dogmatically*, as perceiving the world *empirically* is essentially seeing its unpredictable side. 
+If `M` is based on information based on the principle of *causality*. We may say that `W`'s defining characteristic is the somewhat reverse concept of *entropy*. 
 
-```
-3. If `M` is based on information and on the principle of *causality*. We may say that `W`'s defining characteristic is the somewhat reverse concept of *entropy*.
-```
+Let's take the concept of a mental image again. If we think about it, we will realise that mental images are not so much a description of some particular substance or material but a description of the arrangement of a substance (and causality, is a description of how this arrangement changes). Given a set of all possible arrangements of some atoms and molecules there are some 
 
-You can view  `A ⇒ B` (and every other describing a causal connection), as a statement about how *order* in a given system is preserved. You can define the order of a given system by in terms of how simple it is to describe it.
-
-
+As we said, `M` is deterministic, i.e. it is lawful and in a way that is always observable, while `W` is not and mistaking `M` for `W` (or rather not recognising that they are different) can lead us to the conclusion that `W` is deterministic too and that everything that we perceive that is not lawful is some kind of illusion. The truth is the exact opposite - unpredictability is actually reality's defining characteristic, which differentiates it from dreams and fiction. If we are not seeing anything unpredictable, this is a sure sign that we are perceiving the world *dogmatically*, as perceiving the world *empirically* is essentially seeing its unpredictable side. 
 
 |                   |   `M`  |   `W`     |
----
 | Characteristic | Unified/lawful | Fragmented/lawless | 
 | Mode of perception | Dogmatic | Empirical| 
 | Defined by | Causality | Entropy | 
 
 
+References
+---
+
+The world as an idea is the central concept of Arthur Shopenhauer
+
+The concept of God having active intuition was from the Robert Paul Wolff lectures on Immanuel Kant
 
 The dichotomy, between causality (or information) and entropy is inspired by Hans Reisenbach's book "The direction of time". 
 
+Appendix
+===
 
 Short history of causality, determinism and time
 ---
