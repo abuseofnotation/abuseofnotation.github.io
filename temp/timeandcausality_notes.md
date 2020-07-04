@@ -1,66 +1,15 @@
-In deterministic systems, non-deterministic events can be only explained by "hidden variables" theories, that basiclly say that the only reason why you didn't predict something is that you are not good enough and you don't know enough - this is a good stance to adopt for evolutionary reasons, as it constantly pushes us to analyse and systematize everything around us, but it's bad when we take it too seriously and start dedicating too much effort to it.
 
-The beliefs in "determinism", "causality", and the concepts of the world and the future are all strongly related - it is almost as if they are the 
+...Our stance as humans, however *is not like this* as some of these images are clearly embedded into our minds.
 
-Kant
-===
-
-For this reason statements like `All A-s are B`, despite the way that beside `A` and `B` such statements reference a third object - the world. Let's examine the way thinking evolves from limited-scope to universal, using Immanuel Kant's table of categories, that he laid down in his book "The Critique of Pure Reason" (and which are based on the main logical judgements). 
-
-Immanuel Kant split the pure concepts of the understanding into four classes called quantity, quality, relation and modality and notably each class contains 3 categories, instead of 2, the third member being, according to the author, a combination of the other two.
-
-Quality
-- Reality 
-- Negation 
-- **Limitation**
-
-Relation
-- Inherence and subsistence 
-- Causality and dependence 
-- **Community**
-
-Modality
-- Possibility - Impossibility 
-- Existence - Non-existence 
-- **Necessity - Contingency**
-
-Here is what the author says about he third members of each category:
-
-> II. The number of the categories in each class is always the same, namely, three—a fact which also demands some consideration, because in all other cases division à priori through conceptions is necessarily dichotomy. It is to be added, that the third category in each triad always arises from the combination of the second with the first.
-> Thus totality is nothing else but plurality contemplated as unity; limitation is merely reality conjoined with negation; community is the causality of a substance, reciprocally determining, and determined by other substances; and finally, necessity is nothing but existence, which is given through the possibility itself. Let it not be supposed, however, that the third category is merely a deduced, and not a primitive conception of the pure understanding. For the conjunction of the first and second, in order to produce the third conception, requires a particular function of the understanding, which is by no means identical with those which are exercised in the first and second. Thus, the conception of a number (which belongs to the category of totality) is not always possible, where the conceptions of multitude and unity exist (for example, in the representation of the infinite). Or, if I conjoin the conception of a cause with that of a substance, it does not follow that the conception of influence, that is, how one substance can be the cause of something in another substance, will be understood from that. Thus it is evident that a particular act of the understanding is here necessary; and so in the other instances.
+We, people, pay attention to, and live in arrangements that are representable by mental images. These arrangement together compose our world `M`. Because of that, it is normal that we often neglect the second type of arrangements, those that belong to `W`, those that cannot be represented.
 
 
-Quality
---
-
-<img src="/images/time/quantity.svg" width="100%">
-
-
-
-
-
-Ideas
-===
-
-- Lawfulness VS continuity
-
-Active intuition
-- The human's desire for control
-- The notion of the world as something that can be modelled.
-- Instructions as a way to model the world
-- Unordered states, defined as "uninterpreted states" and the role of the subject/observer as the "creator of order"
-
-
-On the concept of the self, the human's desire for control and the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
-===
-
-Our stance as humans, however *is not like this* as some of these images are clearly embedded into our minds.
-
+God and self
+---
 
 The idea of God is not merely delusion created to help cope with the fear of death (although it does help people cope with the fear of death), but it is a personification to the aspect of reality that does not adhere to the causality maxim and that is unknowable. Religious rituals can be rationalized using the following argument: although we cannot really be familiar with the aspect of reality which is unknowable, we must pay tribute to it, in order not to forget of its existence.
 
 The idea of the self is probably closer to a delusion than that of God, but it is a personification of that which is knowable - your persona, your job, the things you know and believe are you. Any habit thought or urge that is outside of this narrative is not really a part of the self. And that is not because such habits/thoughts/urges are rare. Neither because they are better, worse or in any way different than the rest of your habits/thoughts/urges. They are not part of the self for precisely that reason - they are not a part the narrative.
-
 
 The self is not who you are, but who you want to be (your projected goal).
 
@@ -73,7 +22,6 @@ The society's spell
 - Computers
 - We create our own world.
 
-On the unity of the great nothingness
 
 On the lack of goal as a goal.
 ===
@@ -82,25 +30,6 @@ On the lack of goal as a goal.
 - The lack of ideology as ideology.
 - On mistakes
 - On problems
-
-Takeaways
-===
-
-Don't focus too much to particular interpretations of reality and to the aspect of reality which is ultimately known as based on these interpretations - instead go to 
-
-Don't focus on being happy and on knowing yourself - there is no self. Focus on something else instead.
-
-Don't compare things in terms of quantity, instead, compare them in terms of quality.
-
-Focus on the process of what you do, instead of the outcome.
-
-> Mental images are abstractions, they can be used without a loss of precision only when you can keep in mind what are they and from what are they produced from. 
-
-Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
-
-In order to drop suffering, you have to drop happiness too.
-
-Confusion makes you forget the way.
 
 On the true nature of reality 
 ===
