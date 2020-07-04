@@ -276,10 +276,8 @@ The real, objective world (`W`) tends to naturally go against any kind of mental
 The entropy of our human world (`M`) rarely decreases, `M` is ordered and predictable, but only because *we ourselves make it so* (if I were to sit down and just observe in a world without life and other individuals then there will be nothing much to observe). What we *do* creates order and makes causality work. This is when we circle back to my most essential propositions and try to amend it 
 
 ```
-4 "Causality is in the eye of the beholder i.e. `A ⇒ B` is not a fact about the world, but a mental image." It may seem that we are using cause and effect to understand order, but we actually use it to create order.
-
+4 "Causality is in the eye of the beholder i.e. `A ⇒ B` is not a fact about the world, but a mental image." It may seem that we are using cause and effect to understand order, but we actually use it to act and through our actions, create order.
 ```
-
 
 References
 ---
@@ -293,10 +291,15 @@ References
 4 On the ability to memorize and on the way our thinking becomes more and more dogmatic over time as a contributing factor of our notion of time. On the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
 ===
 
-Because the way that memories work, mental images are self-enforced over time, this is why older people as a rule are more dogmatic than younger ones. It is not about older people having more knowledge (real knowledge will make you less dogmatic if anything), it's about having more dogmas 
+Mental images serve as a compression alghorithm for our memories.
+
+```
+0. Because of the way that memories work, mental images tend to enforce themselves over time.
+```
+
+This is why older people as a rule are more dogmatic than younger ones. It is not about older people having more knowledge (real knowledge will make you less dogmatic if anything), it's about having more dogmas.
 
 For this reason, one of the essential qualities that we must posess in order to understand reality is to be able to register where our current mental images and in so to let new information in.
-
 
 The self is not who you are, but who you want to be (your projected goal).
 
