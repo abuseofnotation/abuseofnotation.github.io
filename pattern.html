@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>random pattern generator</title>
+<!--<link rel="stylesheet" href="style.css" /> -->
+
+</head>
+<body id="home">
+  <canvas id="canvas" width="1000px" height="1000px"></canvas>
+</body>
+<script>
+  const canvas = document.getElementById('canvas')
+    .getContext('2d');
+  canvas.fillStyle = 'green';
+  canvas.fillRect(0, 0, 100, 100);
+
+  const size = 50;
+
+  const fillGrid = (rows) => {
+    rows.forEach((row, verticalIndex) => {
+      row.forEach((blockColor, horizontalIndex) => {
+        canvas.fillStyle = blockColor;
+        canvas.fillRect(horizontalIndex * size, verticalIndex * size , size, size);
+      });
+    });
+  };
+  /*
+  fillGrid([
+    ['green', 'blue', 'white'],
+    ['blue', 'white', 'green'],
+    ['white', 'blue', 'green'],
+  ])
+  */
+  const getRandomInt = (max) => {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+
+  const pick = (options) => options[getRandomInt(options.length)];
+  
+  const generateGrid = (colors, width, height) =>  
+      Array(width).fill().map(() => Array(height).fill().map(() => pick(colors)))
+
+  fillGrid(generateGrid(['green', 'blue', 'white', 'yellow'], 1000/size, 1000/size));
+  
+</script>
+
+</html>
