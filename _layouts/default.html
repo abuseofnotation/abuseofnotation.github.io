@@ -1,43 +1,65 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <html>
+    <head>
+      <title> {{site.name}} - {{site.description}} - {{ page.title }}</title>
+      <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/custom-style.css">
+      <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style.css">
 
-    {% include meta.html %}
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif">
+    </head>
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <div class="site-info">
-            <a class="site-name" href="{{ site.baseurl }}/">The Scrapbook of Boris Marinov </a>
-            <p class="site-description"></p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/blog">blog</a>
-          </nav>
-        </header>
+    <body>
+      <div class="header">
+        <div class="container">
+          <a href="/">
+          <h1>Aβu∑e</h1>
+          <h1 style="font-size:80px;font-weight:bold">∅f</h1>
+          <h1>ℕotλtion</h1>
+          <h3>{{site.description}}</h3>
+          </a>
+        </div>
       </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
       <div class="container">
-        <footer class="footer">
-        </footer>
+        <!--<h1>{{page.title}}</h1> -->
+        {{ content }}
+        <div class="prev-next">
+        {% if page.previous.url %}
+          <a class="prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo;prev</a>
+        {% endif %}
+        {% if page.next.url %}
+          <a class="next" href="{{site.baseurl}}{{page.next.url}}">next&raquo;</a>
+        {% endif %}
       </div>
-    </div>
+      </div>
+      <div class="footer">
 
-    {% include analytics.html %}
-  </body>
-</html>
+
+        <div class="container">
+          <h1 id="job">(Unfinished) Books</h1>
+          <h2>Non-fiction</h2>
+          <p><a href="/category-theory-illustrated">Category Theory Illustrated</a></p>
+          <p>
+            This is a little book about Category Theory that I started writing.
+          </p>
+          <p><a href="/time">Notes on Time and Causality</a></p>
+          <p>
+            A collection of philosophical essays on the above topics
+          </p>
+
+          <h2>Fiction </h2>
+          <p><a href="/the-case">The Case of Den Lee and the Japanese dolls</a></p>
+          <p>
+            My first book, which I started writing when I was 20 A sci-fi detective novel.
+          </p>
+
+          <h1>Contacts</h1>
+          <p><a href="mailto:marinovboris@gmail.com">email</a></p>
+          <p><a href="https://mastodon.social/@borko">mastodon</a></p>
+          <p><a href="https://twitter.com/AlexanderKatt/">twitter</a></p>
+
+        </div>
+      </div>
+    </body>
+
+
+

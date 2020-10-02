@@ -1,14 +1,25 @@
 ---
-layout: blog
+layout: default
 ---
-<div class="hello">
-  <p><span>Hello, </span></p>
-  <p><span>My name is Boris Marinov and I am 34 years old.</span></p>
+<h1 class="hello">
+  "I take my <a href="#job">job</a> very seriously, althought I don't take <a href="/about">myself</a> very seriously."
+</h1>
+<h1 style="text-align:right">
+  Isabel Ice
+</h1>
 
-  <p><span>I sometimes <a href="http://boris-marinov.github.io/blog">write stuff</a>.</span></p>
 
-  <p><span>I fiddle with <a href="http://www.myfonts.com/foundry/Evolutionfonts/" target="_blank">design and typography </a>too.</span></p>
+<div class="posts">
+  {% for post in site.categories['blog'] %}
+    <article class="post">
 
-  <p>If you want, you can <span>
-    <a href="mailto:marinovboris@gmail.com"> send me a message</a>.</span></p>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
