@@ -17,12 +17,7 @@ A: That does not seem terribly related.
 
 B: It is not.The thought that sparked it was the following: it seems to me that the difference between time and space is similar to the difference between a fixed gear bicycle and a normal one.
 
-A: Hm, what have you been smoking?
-
-B: But it is true! Einstein proved that there is no universal time. So moving through space is the same as moving through time. With just one exception - from space you can go forward and backward, and generally in any direction you want, just as with a fixed gear bicycle. While with time you travel in just one direction. Once you spin the wheels you cannot go back.
-
-A: That does not seem right. Because in time you also cannot slow down or go faster, right?
-
+A: Hm, what have you been smoking?  B: But it is true! Einstein proved that there is no universal time. So moving through space is the same as moving through time. With just one exception - from space you can go forward and backward, and generally in any direction you want, just as with a fixed gear bicycle. While with time you travel in just one direction. Once you spin the wheels you cannot go back.  A: That does not seem right. Because in time you also cannot slow down or go faster, right?  
 B: I can. I can perform one action in one hour, and I can perform the same action in two hours. Why do you say that I cannot slow down?
 
 A: You can slow down but *time itself* cannot slow down - one hour will always take one hour to pass.

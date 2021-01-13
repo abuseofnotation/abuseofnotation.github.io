@@ -33,17 +33,13 @@ body {
 
 
 pre {
-  background-color: gray;
+  background-color: black;
   color:#fff;
   padding: 7px 7px 7px 10px;
   box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
   font-family: 'Source Code Pro', monospace;
   white-space: pre-wrap;
-}
-code {
-  font-size: 17px; 
-  font-family: sans-serif
 }
 
 
