@@ -6,7 +6,7 @@ body {
 
 .header {
   color:white;
-  background-color: gray;
+  background-color: black;
   width: 100%;
   text-align: center;
 }
@@ -19,7 +19,7 @@ body {
 
 .footer {
   color:white;
-  background-color: gray;
+  background-color: black;
   width: 100%;
   padding: 10%:
 }
@@ -73,10 +73,9 @@ h4 {
   color: gray;
 }
 
+.logo {
+  width: 400px;
 
-a {
-  color: gray;
-  cursor: pointer;
 }
 
 blockquote {
