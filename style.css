@@ -42,20 +42,6 @@ pre {
   white-space: pre-wrap;
 }
 
-
-@font-face {
-    font-family: 'mell_sanssemibold';
-    src: url('MellSans-Black.otf') format('opentype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'mell_sanssemibold';
-  font-weight: bold;
-}
-
-
 h1 {  
   font-size: 40px;
 }
@@ -71,16 +57,4 @@ h3 {
 h4 {
   font-size: 10px;
   color: gray;
-}
-
-.logo {
-  width: 400px;
-
-}
-
-blockquote {
-  border-left: 4px dotted #666;
-  padding: 0 10px;
-  color: #666;
-  font-size: 17px;
 }
