@@ -91,7 +91,7 @@ Unlike space, though, time is not in any way connected to the objective world, a
 
 The notion of time allows us to represent ourselves as actors in the world, and the notion of space allows us to perceive that world as observers. If we take space and time, as known *a priori* (and we should as they are the only two things that can exist without the presupposition of some other object existing) we have a stable framework for perceiving the world around us.
 
-Transcedental doctrine of elements: Transcedental Logic
+Transcedental doctrine of elements: Transcedental Logic - Transcedental analytics
 ===
 
 Perception is a necessary condition for obtaining knowledge, however, perception does not constitute knowledge by itself - we obtain knowledge by thinking. But thoughts by themselves also don't constitute knowledge either. Think about scientific theories, for example, say a scientist speculated about the experience of objects called "black holes". Can we say that the scientist they *knew* something about the object before the object was observed? No, because no matter how sophisticated the theory is, it was still just a theory, and the theoretical object "black hole", is a different object that actual black holes that exist, no matter how similar they are. 
@@ -298,7 +298,6 @@ Quantity - *Axioms* of intuition
 
 The principle for using the category of quantity is: "All intuitions are extensive magnitudes." 
 
-
 Here "extensive magnitude" means magnitude that is a result of a continous *aggregation* of different amounts of stuff over time.
 
 To understand what this means, let's go back to the process of synthesis. Recall that intuitions constitute the "raw material" from which representations are produced. But in order for these representations to be deduced, we have to experience change. And the only way to do that is for these intuitions from one moment to the next to be *compared* to one another in some way. For example, to perceive an objects as moving, we must compare its current position with its position from some time ago. It is only through expressing the position of an object in mathematical therms that we can perceive it, only by saying "the current distance between me and this object is equal to the distance from a moment ago plus or minus some other amount, we can say that the distance has changed. This formula can tell us how fast is the object moving but we also need it to perceive that it is moving at all or even that it exists. Else we would be seeing just see an stream of different images which as far as we know would have nothing to do with one another.
@@ -341,14 +340,57 @@ Moreover, the existence of time itself is based on the concept of a substance - 
 
 Second Analogy: Principle of Sucession of Time According to the Law of Causality
 ---
-
+TODO
 
 Modality - *Postulates* of empirical thought in general.
 ---
 TODO
 
-Transcedental doctrine of elements: Transcedental Dialectic
+Transcedental doctrine of elements: Transcedental Logic - Transcedental dialectics
 ===
+
+Introduction: Of Transcedental Illusion
+--
+
+In the chapter "Transcedental analytics" we presented the pure concepts of the understanding and then we argued that their usage was valid, but *only when it is related to objects of (possible) experience*. However, people often don't realize that and so they start believing that these concepts can be used to characterize and reason about things that we *cannot* experience too. This leads to all kinds of illusions, due to which Transcedental logic has been called the logic of illusions. Illusions which are particularily hard to pinpoint, because they are the result of applying otherwise correct thinking habits, which has just gone outside of its domain (which is, again, experience). This chapter would examine such illusions with the purpose of helping us identify them.
+
+Introduction: Of Pure Reason as the Seat of Transcendental Illusion
+---
+
+The end result of applying the categories to our perception is the understanding, which is kind of a unification of one and the other. Although subjective, as there is more than one way to analyse a given set of perceiptions, understanding as such cannot be *wrong*, as it merely represents the world as it appears to us, producing according to which this world can be understood. 
+
+But once we try to structure the rules themselves and to search for the *principles* from which those rules originate, we go outside the realm of possible experience and into the realm of *reason*. Just as understanding unifies appearances into rules, reason unifies rules into principles.
+
+To understand what reason is better, let's look at the structure of the syllogism.
+
+> "Athenians are mortal"
+> "Socrates is an Athenian" 
+> Therefore "Socrates is mortal." 
+
+Notice that the second line "Socrates is an Athenian" is a simple observation, while the first one "Athenians are mortal" is something much more - there is no way for us to know from experience that athenians are mortal. This claim is unconditioned, not constrained in either time nor space (we don't merely say "All athenians *who lived between 500 and 300 BC* were mortal" or even "All athenians *who are alive today* are mortal"). In other words, we are not identifying a specific set of objects that we are talking about, but instead make general claims about *all* objects this is what characterizes reason.
+
+And as time and space are the only sources of intuition and as intuition is the only way for us to gain information, it is easy to see that all principles that are deduced by means of reason are different from anything that can be deduced by experience - they are abstract, and as such subjective.
+
+Book I: Of the Concepts of Pure Reason 
+---
+
+Continuing to compare reason and understanding, we might as ourselves what are the "building blocks" of reason, as we already know that understanding does have its building blocks or it's "pure concepts" as we call them - the categories. The pure concepts of reason we would call "transcedental ideas", as used by Plato.
+
+Of the Concepts of Pure Reason: Of Ideas in General
+---
+
+What are ideas? According to Plato they are concepts, ones which are much bigger than anything that we can experience. An example of idea is the idea of *justice* that is discussed in the Republic (and the republic is itself a good example of an idea-driven approach). 
+
+According to Plato, ideas are divine and they come before all existence e.g. the idea of humanity predecedes the first human. Even if we don't agree with him, about the nature of ideas, we still cannot neglect the importance of ideas in our thinking e.g. the idea of justice is needed in order to organize our society properly. So we need to investigate them further.
+
+Of the Concepts of Pure Reason: Of Transcedental Ideas
+---
+
+Of the Concepts of Pure Reason: System of Transcedental Ideas
+---
+
+Book II: Of the Dialectical Inferences of Pure Reason 
+---
 TODO
 
 Transcedental doctrine of method
@@ -373,5 +415,6 @@ Intuitions - The data which is obtained by sensibility, in its most unprocessed 
 Manifold of intuition - The sum total of intuitions that are being perceived by an individual. The term highlights the fact that intuitions are not unified with one another, e.g. the sound of a bird flapping its wings and the sight of that same bird are two completely different intuitions which, in so far as they are viewed as just intuitions and not in their relation to concepts, have nothing to do with each other.
 
 Understanding - the mind's faculty of producing knowledge by mapping concepts to intuitions.  
+
 > If you find some errors in this article, you want to tell me how great it is, etc. you can [mail me](mailto:marinovboris@gmail.com). If you found this article useful in some way, or if you really want to see it finished, consider [sending me a tip](https://www.paypal.me/borismarinov/10).
 
