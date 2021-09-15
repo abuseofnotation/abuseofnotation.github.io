@@ -160,7 +160,7 @@ Quantity
 - Plurality (plurality) - recognition of there being several things 
 - Totality (whole) - unification of all things (of a given group) as one. 
 
-(Note that for this categorythe order is not the same as the table of judgements - the category of unity coresponds to singular judgements, the categyry of plurality - to particular judgements and the category of totality - to universal judgements (the argument is made by Frede and Kruder, I read about it [here](https://eprints.illc.uva.nl/913/1/MoL-2013-24.text.pdf))
+(Note that for this category the order is not the same as the table of judgements - the category of unity coresponds to singular judgements, the categyry of plurality - to particular judgements and the category of totality - to universal judgements (the argument is made by Frede and Kruder, I read about it [here](https://eprints.illc.uva.nl/913/1/MoL-2013-24.text.pdf))
 
 
 Quality
