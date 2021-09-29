@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "How does knowledge work: using logic to model real-world thinking"
+title: "How does knowledge work: using logic to model communication"
 layout: blog
 ---
 
@@ -12,7 +12,7 @@ During the last two centuries, logic as proved itself useful for many discipline
 
 > A: "Hm, it rained today. And had to go outside, so I got wet."
 >
-> B: "People get wet when it rains and they don't carry an umbrella. I guess you forgot your umbrella."
+g B: "People get wet when it rains and they don't carry an umbrella. I guess you forgot your umbrella."
 
 Nevertheless, Aristotle was clearly onto something when he pioneered the discipline more than two aeons ago. So why isn't our thinking and conversations "logical" in the sense in which the above example is? The most obvious answer is that our most of our conversations are not about correctness and knowledge - we are just chit-chatting. This is true in one aspect, but in another, it is not - if we manage to think a thought and express it, then it has to be correct in a certain sense and under certain rules. Like the philosopher Ludvig Wittgenstein says, having an illogical thought is as impossible as imagining a figure that contradicts the laws of geometry. Or in other words, we can have thoughts which are *incorrect*, but not ones which are *illogical* (just as we can imagine a figure which contradicts the laws of physics, but not those of geometry). 
 
@@ -44,8 +44,6 @@ We can postulate that
 
 I wouldn't attempt to give examples, but I think it is clear how we can use this framework to prove some simple facts about the world.
 
-As we said, the statements and the relations between them are based on *intuitionistic logic*, which itself can represented by a *Heyting algebra* (which can be drawn as a *Hasse diagram*, as shown below.
-
 <figure>
   <img src="/images/logic/seed.svg" width="100%">
   <figcaption>
@@ -53,10 +51,8 @@ As we said, the statements and the relations between them are based on *intuitio
   </figcaption>
 </figure>
 
-For more information about this representation, see [the Logic chapter of my book "Category Theory Illustrated"](/category-theory-illustrated/05_logic). For the purposes of this article it is enough to know that it is equivalent to any other representation of logic.
-
 A system of systems
-===
+---
 
 The above approach will work up to a certain level, but not entirely - there are many statements that we cannot verify with our own eyes but we consider true in *some* sense. Like mathematical statements, for example. You may argue that simpler math statements like 1 + 1 = 2 reside in the visible spectra, but there is no way to "see" the truth of statements such as "the square root of 2 is irrational", for example. Depending on context and background, such statements can be considered to be anything between, "the closest thing we have to absolute truth" and "abstract nonsense". But one thing is for certain - they are not true *in the same way* as statements about everyday objects that we see. Based on this, we can conclude that *in real-life thinking there are not one, but many concepts of truth*, that is, there are many ways in which a given statement can be marked true (and as we shall see later, actually the whole unique characteristic of thinking arises from the way in which those concepts connect).
 .
@@ -74,11 +70,6 @@ The result is a mesh which captures the concept of "everyday thinking" where not
 
 It would also explain is why logical paradoxes, being as problematic as they are in logic, are a non-issue in our everyday thinking - it is just that the paradoxes arise within the boundaries of a single logical system or family of systems, systems which we can safely ignore when they fail us.
 
-But one mistake that we should never make is to just think of conflicting theories as being "inconsistent", take, for example this opinion expressed by a commenter of one of my articles.
-
-> Real-world science can almost always be expected to be inconsistent - simply because each scientific theory is a "local" approximation, and theories developed for different areas of the same science are not required to be mutually consistent in order to be useful. One (in)famous example is quantum mechanics and general relativity. [source](https://news.ycombinator.com/item?id=28669806)
-
-All statements that the commenter expresses are correct, but there is a subtle mistake in their analysis - conflicting theories may be inconsistent with one another, but they are not consistent *by themselves*. The co-existence of two conflicting theories in science does not make science itself inconsistent. This is because each theory has it's own criteria for truth, which is irrelevant for other theories.
 
 Connections and hierarchies
 ---
@@ -124,7 +115,7 @@ Some might argue that the realization that I am in my room is not some complex m
 Or perhaps the statement, "I am in my room" is just a shortcut of saying "I am in a room which has these and these characteristics", so when you observe that a given room actually doesn't have all of the characteristics needed, you'd immediately alter your opinion? This is a more realistic way to look at things, but it does not account for uncertainty - a defect shared by almost all other models which try to encompass human thought within the bounds of a single logical system. Modal logic is meant to address this issue, but modal logic does not "support" different levels of certainty, which makes it virtually useless for our purposes - real-world thinking is all about different levels of certainty. Or, more generally, about levels of relevance. 
 
 Levels of relevance
-===
+---
 
 Most situations can be interpreted in more than one way. In order for the brain to process the results from these interpretations, it must have a mechanism for cross-referencing them based on how credible each source of interpretation is. Let's go back to our example with the rooms - I am waking up in a room without knowing which one it is, but based on what I see, I know that it can be either room A or room B. In this case, my brain would be using both system **A**, (the system it created to represent room A) and system **B** (representing room B) in parallel to analyse its surroundings and make predictions, where each prediction will have some degree of certainty which is inherent from the system which made it, that is if the chances that you are either in A or B and you determine that the chances for A and B are equal, then if **A** says that statement **x** is true, and **B** says that **x** is false, then we will act as if there is a 50% chance that **x** true. The robustness of this model comes from the fact that, if x is determined to be true and thus system **B** turns out to be corrupt, system **A** would still remain functional.
 
@@ -137,21 +128,19 @@ In our example, the percentages represented a degree of certainty, but in a more
   </figcaption>
 </figure>
 
-But how is the relevance of a given system determined? I think that there are at least two ways. The more obvious one is by direct *positive body responses*. The other is by complex links of family resemblances between different systems which also no doubt exist. 
-
-But this is a topic of another article, where I might also explore ideologies and other the self-perpetuating families of systems in which a positive response is achieved by just applying the system and making decisions based on it, even if the outcome of these decisions is not favourable. So I will close with this cliffhanger.
+But how is the relevance of a given system determined? I think that there are at least two ways. The more obvious one is by direct positive body responses. The other is by complex links of family resemblances between different systems which also no doubt exist. But this is a topic of another article, where I might also explore ideologies and other the self-perpetuating families of systems in which a positive response is achieved by just applying the system and making decisions based on it, even if the outcome of these decisions is not favourable. So I will close with this cliffhanger.
 
 Sources
-===
+---
 
 The way of intertwining logic and philosophy that I use is inspired by the work of Ludvig Wittgenstein. 
 
-Logical systems are represented as Heyting Algebras and jumps as Heyting algebra morphisms. Another way to view them (incidentally the way I conceived them originally) is in terms of category theory, as categories and functors respectively. For more info, check my book ["Category Theory Illustrated"](/category-theory-illustrated)
+Logical systems are represented as Heyting Algebras and jumps as Heyting algebra morphisms. Another way to view them (incidentally the way I conceived them originally) is in terms of category theory, as categories and functors respectively.
 
 The basic idea that there is no single system encompassing all human thought, I got from post-modern philosophers.
 
 The "Evil Demon" idea is courtesy of Rene Descartes.
 
-The room example, I stole from the novel "Swan's Way" by Marcel Proust. I am leaving you with a passage from the book:
+The room example, I stole from the novel "Swan's Way" by Marcel Proust. I am leaving you with a passage from his book:
 
 > Perhaps the immobility of the things that surround us is forced upon them by our conviction that they are themselves, and not anything else, and by the immobility of our conceptions of them. For it always happened that when I awoke like this, and my mind struggled in an unsuccessful attempt to discover where I was, everything would be moving round me through the darkness: things, places, years. My body, still too heavy with sleep to move, would make an effort to construe the form which its tiredness took as an orientation of its various members, so as to induce from that where the wall lay and the furniture stood, to piece together and to give a name to the house in which it must be living. Its memory, the composite memory of its ribs, knees, and shoulder-blades offered it a whole series of rooms in which it had at one time or another slept; while the unseen walls kept changing, adapting themselves to the shape of each successive room that it remembered, whirling madly through the darkness. And even before my brain, lingering in consideration of when things had happened and of what they had looked like, had collected sufficient impressions to enable it to identify the room, it, my body, would recall from each room in succession what the bed was like, where the doors were, how daylight came in at the windows, whether there was a passage outside, what I had had in my mind when I went to sleep, and had found there when I awoke. The stiffened side underneath my body would, for instance, in trying to fix its position, imagine itself to be lying, face to the wall, in a big bed with a canopy; and at once I would say to myself, "Why, I must have gone to sleep after all, and Mamma never came to say good night!" for I was in the country with my grandfather, who died years ago; and my body, the side upon which I was lying, loyally preserving from the past an impression which my mind should never have forgotten, brought back before my eyes the glimmering flame of the night-light in its bowl of Bohemian glass, shaped like an urn and hung by chains from the ceiling, and the chimney-piece of Siena marble in my bedroom at Combray, in my great-aunt's house, in those far distant days which, at the moment of waking, seemed present without being clearly penned, but would become plainer in a little while when I was properly awake.

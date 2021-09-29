@@ -65,13 +65,12 @@ One level deeper
 OK, so let's completely redefine what we are talking about, shall we - I think that at a deeper level, it's not about capitalism VS communism or cars VS bikes - it's about body and soul and if you think of it that way, then the dillemma from the chapter above has an easy solution - the capitalism social structure indeed works against our *spiritual wellbeing*, but it is very good for our *physical wellbeing*.
 
 
-
 Who are we (instead of conclusion)
 ---
 
 Here is roughly where my original article had to end. The issue was that I wasn't sure how exactly with what should I conclude:
 
-* With a bunch of more arguments that further my thesis ("
+* With a bunch of more arguments that further my thesis
 * With some philosophical implications of what I was saying (As a result, individuals start adopting the same values as organizations such as fear of change and support for the status quo. But for a person, lack of change means boredom and despair, the fear of change is fatal to their mental health.
 * With a call to action, proposing how can we make everything better(essentially, only work for and buy from organizations which are composed of your friends or people who you'd like to be your friends).
 

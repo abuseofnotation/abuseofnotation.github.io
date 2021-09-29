@@ -1,4 +1,4 @@
-The third one. An introduction to my work.
+Synthesis. An introduction to my work.
 ===
 
 This is a post where I talk about misc things that interest me, it 
