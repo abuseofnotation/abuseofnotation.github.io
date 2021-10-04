@@ -45,11 +45,6 @@ It is obvious that analytic statements can be deduces a priori i.e. I don't need
 
 The word "Critique" means "a detailed analysis and assessment of something." When we say "pure reason", we mean pure from experience (*a priori*). Kant begins writing with the firm conviction that such knowledge exists (i.e. real knowledge about the world which is not perceived through the senses) and then ventures in an inquiry to *prove* that that is really so and what are the boundaries and the objective validity of such knowledge.
 
-Glossary
-===
-Analytic/synthetic knowledge - 
-
-
 Last one before we actually begin, I promise (you can skip that one as well)
 ---
 
@@ -177,8 +172,6 @@ Modality
 - Possibility - Impossibility - speculation for the possibility/impossibility of a given thing
 - Existence - Non-existence - perception of a thing as existing/non-existing
 - Necessity - Contingency - acceptance of a thing as inherently true (existence given through possibility itself)
-
-For an interesting analysis of what categories are from someone who does not agree with Kant's position, see [this article](http://www.thelogician.net/LOGICAL-and-SPIRITUAL-REFLECTIONS/Kant/Kant-Categories-B5.htm).
 
 
 Of the deduction of pure concepts for the understanding
@@ -352,7 +345,7 @@ Transcedental doctrine of elements: Transcedental Logic - Transcedental dialecti
 Introduction: Of Transcedental Illusion
 --
 
-In the chapter "Transcedental analytics" we presented the pure concepts of the understanding and then we argued that their usage was valid, but *only when it is related to objects of (possible) experience*. However, people often don't realize that and so they start believing that these concepts can be used to characterize and reason about things that we *cannot* experience too. This leads to all kinds of illusions, due to which Transcedental logic has been called the logic of illusions. Illusions which are particularily hard to pinpoint, because they are the result of applying otherwise correct thinking habits, which has just gone outside of its domain (which is, again, experience). This chapter would examine such illusions with the purpose of helping us identify them.
+In the chapter "Transcedental analytics" we presented the pure concepts of the understanding and then we argued that their usage was valid, but *only when it is related to objects of (possible) experience*. However, people often don't realize that and so they start believing that these concepts can be used to characterize and reason about things that we *cannot* experience too. This leads to all kinds of illusions, due to which Transcedental logic has been called the logic of illusions. Illusions which are particularily hard to pinpoint, because they are the result of applying otherwise correct thinking habits, which hav just gone outside of their domain (which is, again, experience). This chapter would examine such illusions with the purpose of helping us identify them.
 
 Introduction: Of Pure Reason as the Seat of Transcendental Illusion
 ---

@@ -9,10 +9,11 @@
     position: fixed;
     z-index: -1;
     top: 0;
+    background: black;
 }
 .content {
     background: white;
-    margin-top: 270px!important;
+    margin-top: 300px!important;
 }
 
 
@@ -32,22 +33,13 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .header {
-  background-color: black;
+  background-color: black!important;
 }
 
 .footer {
-  background-color: black;
+  background-color: black!important;
 }
-
 
 .logo {
   width: 400px;
-
-}
-
-blockquote {
-  border-left: 4px dotted #666;
-  padding: 0 10px;
-  color: #666;
-  font-size: 17px;
 }
