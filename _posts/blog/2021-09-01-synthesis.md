@@ -1,10 +1,13 @@
 ---
 category: blog
-title: "The third category - limited and universal knowledge"
+title: "Limited and universal knowledge - on the concept of the world in Kant's categories"
 layout: blog
 ---
 
 <!--more-->
+
+Each third category
+===
 
 In one of the best treatments of the subject of time, "The Critique of Pure Reason" Immanuel Kant introduces that the pure concepts of the understanding, also known as the categories. They are split into four Triads called *quantity*, *quality*, *relation* and *modality*. Notably each class contains three categories, instead of two, as other Kantian taxonomies do where the third category is the combination of the other two. For context, here is the list of categories (descriptions are mine).
 
@@ -37,63 +40,117 @@ Note that if the third member of each triad is just a combination of the other t
 
 The reason for there being three members, (this is my idea and not Kant's) that *the third member of each triad is not a pure concept of understanding*, but a way to bridge the concepts of understanding to reason. That is, the third member allows us to form a mental image of the *world*, or of *substance * as philosophers call it. And we can have thoughts that are universal.
 
-To understand my point, consider the problem of induction which I talk about in my [text about Gettier](/gettier). You can formulate this problem in the following way: We all know that our knowledge becomes obsolete all the time and that what is valid in one place isn't valid for another. So how can we justify the generalizations that we make about how things are? The simple answer is of this question is that that we cannot. That has been known for millenia, it is so simple that I am inclined to ask another question which is how can we do it? How are we even capable of making such claims. 
+To understand my point, consider the problem of induction which I talk about in my [text about Gettier](/gettier). You can formulate this problem in the following way: We all know that our knowledge becomes obsolete all the time and that what is valid in one place isn't valid for another. So how can we justify the generalizations that we make about how things are? The simple answer is that that we cannot - that has been known for millenia. The answer is so simple that I am inclined to ask another question: How and why are we even capable of making such claims?
 
-The answer lies in the concept of the world, or of substance (I will use the term "the world" as nobody is sure what substance means). The world is a concept that, although it sounds obvious, is a bit weird, if you think about it. Like, why do we even have a concept of something that we cannot ever possibly observe in full? It is the concept of the world that allows us to make general claims, and to act as if we know it all. But let's see the categories.
+The answer lies in the concept of *the world*, or of substance (I will use the term "the world" as nobody is sure what substance means). The world is a concept that, although it sounds obvious, is a bit weird, if you think about it. Like, why do we even have a concept of something that we cannot ever possibly observe in full? 
 
-Quality
-===
+It is the concept of the world that allows us to make general claims, and to act as if we know it all. And general claims about the world shape our understanding in a way that is wrong but useful for us. It allows us to make predictions about the world (which are also wrong but useful.)
+
+To see how this happens, let's examine the reincarnations of the concept of the world in each third category of the four triads.
+
+Quantity
+---
 
 | Unity | Plurality | Totality | 
 
 <img src="/images/synthesis/quantity.svg" width="100%">
 
-Now the difference between unity and plurality is obvious, it is, for example, the difference between perceiving a flock of 20 birds as one flock, or as 20 birds. But the difference between those two and totality is massive - they are different types of knowledge - the first two represent knowledge with *limited scope*, while, the third one represents knowledge that is *universally valid*. 
+Let's first examine the categories of quantity, or of number. They are based on the logical predicates *singular*, *particular* and *universal*. Now the difference between singular and particular predicates, and therefore between unity and plurality is obvious, it is, for example, the difference between perceiving a flock of 20 birds as one flock, or as 20 birds. But the difference between those two and totality is massive - they are different types of knowledge - the first two represent knowledge with *limited scope*, while, the third one represents knowledge that is *universally valid*. 
 
-To ellucidate that point, let's go back to the origin of these categories. As some of you might know they come from the Aristotelian syllogisms:
+To elucidate that point, let's go back to the predicates, which come from the classical Aristotelian syllogisms:
 
 - Plurality - `Some A-s are B` (limited scope)
 - Totality - `All A-s are B` (universal scope) 
 
-Seeing things that way makes it obvious that statements that have only limited scope can be justified only by *observation* - if I observe two or three objects that I categorize as `A`s (e.g. "apples") and I find that they possess the property `B` (e.g. "tasty"), I can conclude that `Some A-s are B` based on those observations alone i.e. based on my instincts. 
+Seeing things that way makes my point obvious  - statements that have only limited scope can be justified only by *observation* - if I observe two or three objects that I categorize as `A`s (e.g. "apples") and I find that they possess the property `B` (e.g. "tasty"), I can conclude that `Some A-s are B` based on those observations alone i.e. based on my instincts. 
 
 Statements with universal scope, on the other hand, are axiomatic by their nature - they create reality as much as they describe it. My basis for saying `All A-s are B` is not at all different from my basis for saying `Some A-s are B`. What is different is my decision to assume that this piece of knowledge is universal.
 
 In other words, despite the fact that they contain just two variables (`A` and `B`), statements of the form `All A-s are B`, reference a third object, which we called the world and are making claims about it. e.g. you can rewrite it as `All A-s in this worlds are B`
 
+For more info about this, see [the second chapter of my time notes](/time/02).
+
 Quality
-===
+---
 
 | Reality | Negation | Limitation | 
 
 <img src="/images/synthesis/quality.svg" width="100%">
 
-The third member of the triad of quality is a very misunderstood one. The categories in this triad are based on the concepts of truth and most logics are bivalent, that is, they are based on the idea that propositions have just two possible states - true and false and the categories of reality and negation are based on the values true and false. But then what is limitation based on? 
+Like with the category of quantity, the third member of the triad of quality is a very misunderstood one. The category is based on the concept of truth and classical logic is inherently bivalent, that is, it is based on the idea that propositions have just two possible truth values - true and false. But the category of quality of quality has three.
 
-Well, from one point of view (that I really like) it is based on [intuitionistic logic](category-theory-illustrated/05-logic), where a proposition can indeed have three values - proven, unproven and leading to a contradiction, (where all propositions that lead to contradiction are also unproven). The analogy is even more interesting because intuitionistic logic is related to a mathematical theory called "category theory" [on which I wrote a book about](/category-theory-illustrated) which as the word suggest is inspired by Kant's categories (or maybe by Aristotle's not sure.) 
+Well, a path for answering this question is examining [intuitionistic logic](/category-theory-illustrated/05-logic), where a proposition can indeed have three values - proven, unproven and leading to a contradiction, (where all propositions that lead to contradiction are also unproven). This reference is particularly interesting because intuitionistic logic is related to a mathematical theory called "category theory" [on which I wrote a book about](/category-theory-illustrated) which as the word suggest is inspired by Kant's categories (or maybe by Aristotle's, no way to be sure.) Classical logic is based on Platonic epistemology - the view that knowledge is given by God and that we are not investigating, but actually *recollecting* the ideas that we have. A notion that intuitionistic logic rejects.
 
-But at any rate, the point of limitation is clearly visible in the diagram above - using reality and negation, I can only make a statement about a given object, e.g. saying that this object is **B** or saying that it is **not B**. While when using limitation, I am making a statement about the whole world e.g. it divided into B's and non-B (or perhaps un-B).
+But at any rate, the point of limitation is clearly visible in the diagram above - using reality and negation, I can only make a statement about a given object, e.g. saying that this object is **B** or saying that it is **not B**. While when using limitation, I am making a statement about the whole world - postulating that it is divided into B's and non-B (or perhaps un-B).
 
-This is how Kant puts it.
+This is how Kant puts it in the chapter on "The transcendental clue to the discovery of all pure concepts of understanding":
 
-> For example, if I say of the soul, “It is not mortal”—by this negative judgement I should at least ward off error. Now, by the proposition, “The soul is non-mortal,” I have, in respect of the logical form, really affirmed, inasmuch as I thereby place the soul in the unlimited sphere of immortal beings. Now, because of the whole sphere of possible existences, the mortal occupies one part, and the immortal the other, neither more nor less is affirmed by the proposition than that the soul is one among the infinite multitude of things which remain over, when I take away the whole mortal part.
+> For example, if I say of the soul, “It is not mortal”—by this negative judgment I should at least ward off error. Now, by the proposition, “The soul is non-mortal,” I have, in respect of the logical form, really affirmed, inasmuch as I thereby place the soul in the unlimited sphere of immortal beings. Now, because of the whole sphere of possible existences, the mortal occupies one part, and the immortal the other, neither more nor less is affirmed by the proposition than that the soul is one among the infinite multitude of things which remain over, when I take away the whole mortal part.
 
 There isn't much more to say after this quote. Here the term "the sphere of possible existences" is used in the sense in which I use "the world".
 
+For more info, check the [chapter on intuitionistic logic](/category-theory-illustrated/05-logic) in my Category Theory book.
+
 Relation
-===
+---
 
 | Inherence | Causality | Community | 
 
 <img src="/images/synthesis/relation.svg" width="100%">
 
-Thus, they (we) have the notion of *permanence*. This notion (I talk about this more in my notes) is a prerequisite for the concept of *change* as we know it, because to say that something is changing you must first view it as permanent, otherwise we would perceive everything as just Heraclitian flux.
+Moving on to the so called *dynamic* categories which, unlike quantity and quantity, don't concern the phenomena themselves, but the way we observe them. 
 
+The first triad is the categories of relation, whose schema are the relationships between different events in time.
+
+The first category which, as all other first categories, is the base of the triad. In this case, it is the category of *inherence* which determines the relations of appearances to time itself. The second category, the most famous one, is the relation of events based on cause and effect (fun fact, the philosopher Arthur Schopenhauer thought that this is actually the only category that is real.) And the third one concerns another relation - that of *community* or of *interaction* as he also calls it. 
+
+What is community? Let's first see the explanation for the disjunctive logical statement on which it is based on, in "The transcendental clue...":
+
+> Finally, the disjunctive judgment contains a relation of two or more propositions to each other—a relation not of consequence, but of logical opposition, in so far as the sphere of the one proposition excludes that of the other. But it contains at the same time a relation of community, in so far as all the propositions taken together fill up *the sphere of the cognition*.
+
+Here if we replace "the sphere of the cognition" with "the world" we wouldn't be too far from my initial thesis. But there is something else I should note about this - according to it community, (which is based on disjunctions) is different from causality (which is based on consequence), but later Kant says that "nothing determines the position of anything else in time except that which is it's cause?" 
+
+What is this community then? Later in the book he defines it as a reciprocal cause and effect. He says that that two substances exist simultaneously in community is indicated by the fact that each of them "contains within itself the causality of certain determinations in the other substance and, at the same time, the effects of the causality of that other substance." 
+
+And where do the two approaches meet? Although the way Kant frames it is a little different, I view community as the concept of the world as a system in which everything is in a causal relationship to everything else, including the things that are simultaneous (on which Kant stresses on the most.) It is the main "causal chain" which does not allow for the existence of other causal chain and demands that everything be connected to it in order to be considered real. 
+
+We don't talk about this causal chain but intuitively we are always aware of it. For example, we see a phenomena that is at the same time unexplained and very real (it affects our senses very much), we often say that there *must* be some explanation for it. And I believe that the reason why we say that is because *we are operating withing the bounds of the category of community*. 
+
+Conclude with one more quote, this time from "Systematic representation of all synthetic principles of pure understanding":
+
+> These are the three analogies of experience. They are nothing but the principles for determining the existence of appearances in time, according to all its three modes, namely: 
+> - the relation to time itself, as a magnitude (magnitude of existence, that is, duration); 
+> - the relation in time as a series (successively); 
+> - and finally also the relation in time as a *sum total of all existence* (that is, as simultaneous).
+
+Here the term used to mean "the world" is "the sum total of all existence".
 
 Modality
 --
 
-| possibility/impossiblility | existence/non-existence | necessity/contingency | 
+| possibility/impossibility | existence/non-existence | necessity/contingency | 
 
 <img src="/images/synthesis/modality.svg" width="100%">
 
+If the categories of relation are concerned with the way objects relate to one another, the categories of modality are concerned with the way objects relate to us, to the observer.
+
+> The apodeictical proposition cogitates the assertorical as determined by these very laws of the understanding, consequently as affirming à priori, and in this manner it expresses logical necessity. Now because all is here gradually incorporated with the understanding—inasmuch as in the first place we judge problematically; then accept assertorically our judgment as true; lastly, affirm it as inseparably united with the understanding, that is, as necessary and apodeictical
+
+
+Immanuel
+Gettier
+millenia
+intuitionistic
+un-B
+Inherence
+inherence
+assertorically
+assertorical
+apodeictical
+disjunctions
+everpresent
+priori
+à
+survivorship
+anthropic
+Antrophically

@@ -20,25 +20,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs2">
-    <pattern
-       inkscape:isstock="true"
-       inkscape:stockid="Stripes 1:1"
-       id="Strips1_1"
-       patternTransform="translate(0,0) scale(10,10)"
-       height="1"
-       width="2"
-       patternUnits="userSpaceOnUse"
-       inkscape:collect="always">
-      <rect
-         id="rect3707"
-         height="2"
-         width="1"
-         y="-0.5"
-         x="0"
-         style="fill:black;stroke:none" />
-    </pattern>
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6501953"
-     inkscape:cx="454.40299"
-     inkscape:cy="111.42381"
+     inkscape:zoom="1.3762371"
+     inkscape:cx="415.52887"
+     inkscape:cy="285.81237"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1376"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -66,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,6 +78,12 @@
        height="79.650635"
        x="160.71085"
        y="217.30673" />
+    <circle
+       style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83096468;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path895-6-6-4-4-8"
+       cx="181.19603"
+       cy="240.57497"
+       r="8.4066963" />
     <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.89157462;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="path895-6-4-3"
@@ -109,31 +97,11 @@
        cx="105.94336"
        cy="239.20059"
        r="8.2374725" />
-    <ellipse
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.81323886;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path895-6-4-3-1"
-       cx="21.340519"
-       cy="242.28996"
-       rx="17.395475"
-       ry="17.621487" />
-    <circle
-       style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83096468;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path895-6-6-4-4-8"
-       cx="181.19603"
-       cy="240.57497"
-       r="8.4066963" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.01971424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 157.10231,219.57737 82.064485,295.57179"
        id="path5546-7"
        inkscape:connector-curvature="0" />
-    <ellipse
-       style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.89157486;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path895-6-4-3-8"
-       cx="215.52232"
-       cy="274.03067"
-       rx="17.752832"
-       ry="17.983486" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83096468;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="path895-6-6-4-4-8-5"
@@ -141,19 +109,19 @@
        cy="275.11386"
        r="8.4066963" />
     <ellipse
+       style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.89157486;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path895-6-4-3-8"
+       cx="215.52232"
+       cy="274.03067"
+       rx="17.752832"
+       ry="17.983486" />
+    <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96533132;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="path895-6-4-3-2-7-3"
        cx="132.66451"
        cy="279.16101"
        rx="8.9655724"
        ry="9.0820589" />
-    <ellipse
-       style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.79918289;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path895-6-4-3-8-8"
-       cx="58.582741"
-       cy="276.71753"
-       rx="17.331354"
-       ry="17.556532" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.01971424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 76.404404,219.0482 1.3665856,295.04262"
