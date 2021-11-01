@@ -6,10 +6,13 @@ layout: blog
 
 Lately, I've been exploring this book, which I will refer to as simply "The critique" from now on, by following the lectures by [Robert Paul Wolff](https://www.youtube.com/watch?v=d__In2PQS60) and decided to put my notes here in case someone finds them useful. This is a summary. The ideas expressed in it belong to Immanuel Kant. The phrase "Kant thinks" can accompany each sentence from it, but it is omitted for brevity and ease of reading. But at the same time, it is *not objective* - I am interpreting the ideas in the book the way *I* understand them, which may or may not be the way your philosophy professor interprets them. Also, the text is *not in any way a substitute of reading the book itself* - rather my aim was for it to help people who read the book by providing an additional viewpoint into what is happening in it.
 
+I put my original research in a separate [article about Kant's categories](/world).
+
 <!--more-->
 
 Why I am reading this book (not related to the book itself, you can skip it) 
 ===
+
 <img src="/images/reason.jpg" width="500px">
 
 One year ago, while wandering in an antique bookshop, I found a very well preserved and pretty-looking little book, which also looked quite interesting. Being fond of manually-printed books I got it partly as a collectible and partly because it was short and looked interesting. The book was called "Critique of *practical* reason" and, as it later turned out, it was the second of Kant's critiques the first one being the much larger "Critique of *pure* reason". Realizing that I bought part two without having part one felt unpleasant, but I did not want to drop the whole thing, and the respect I feel to people who dedicate their time to writing books prevented me from going straight to part 2. So I decided to go with it. I purchased the first book which turned out to be several times longer than the second one and started studying it. 
@@ -108,7 +111,7 @@ So, for example, I can be walking a wood and thinking something like:
 >
 > If that were so, then I would try to avoid being in a close proximity with those beings.
 
-But, jokes aside, even the most abstract hypothesis must rely on some logical concepts, such as the concept of a cause and effect. These concepts are the pure concepts of understanding and are as time and space, part of our a priori arsenal for acquiring knowledge
+Jokes aside, even the most abstract hypothesis must rely on some logical concepts, such as the concept of a cause and effect. These concepts are the pure concepts of understanding and are as time and space, part of our a priori arsenal for acquiring knowledge
 
 Transcendental Analytic: Analytic of concepts
 ---
@@ -295,7 +298,7 @@ Here "extensive magnitude" means magnitude that is a result of a continuous *agg
 
 | Unity | Plurality | Totality | 
 
-<img src="/images/synthesis/quantity.svg" width="100%">
+<img src="/images/world/quantity.svg" width="100%">
 
 To understand what this means, let's go back to the process of synthesis. Recall that intuitions constitute the "raw material" from which representations are produced. But in order for these representations to be deduced, we have to experience change. And the only way to do that is for these intuitions from one moment to the next to be *compared* to one another in some way. For example, to perceive an objects as moving, we must compare its current position with its position from some time ago. It is only through expressing the position of an object in mathematical therms that we can perceive it, only by saying "the current distance between me and this object is equal to the distance from a moment ago plus or minus some other amount, we can say that the distance has changed. This formula can tell us how fast is the object moving but we also need it to perceive that it is moving at all or even that it exists. Else we would be seeing just see a stream of different images which as far as we know would have nothing to do with one another.
 
@@ -310,7 +313,7 @@ The principle for using the category of quantity is: "In all appearances the rea
 
 | Reality | Negation | Limitation | 
 
-<img src="/images/synthesis/quality.svg" width="100%">
+<img src="/images/world/quality.svg" width="100%">
 
 In the chapter on quantity, we said that to perceive an objects as moving, we must compare its current position with its position from some time ago. But in order to do that, to perceive change and time, we must first perceive that the object exists in the first place. So beside the extensive magnitude or the successive states of the object, there is one more magnitude at play here - the degree of the realness of the object. In our everyday thinking, we often refer to things as either real or unreal (just like in logic we split statements to true and false), but actually the "realness" of an object is not a binary value. For in order for us to recognize an object as real, we have to connect the appearance (or impression) that we perceived of the object with a concept that we have. And that connection is always a matter of degree - it is not just the matter of whether you had or had not seen something which resembles it, but a matter of how much does the concept resembles the impression.
 
@@ -323,7 +326,7 @@ Their principle is "Experience is possible only through the representation of a 
 
 | Inherence | Causality | Community | 
 
-<img src="/images/synthesis/relation.svg" width="100%">
+<img src="/images/world/relation.svg" width="100%">
 
 So far we reviewed the principles of quantity and quality which we dubbed the mathematical principles, because they explain how an experience can be reasoned about mathematically: using the principles related to quantity we unite (aggregate) what we see and hear from one moment to the next into a cohesive whole, therefore producing time. Using the principles related to quality, we are able to perceive in this list, all kinds of different events and objects. And together, these principles allow us to form a picture of reality as we know it.
 
@@ -382,20 +385,21 @@ Modality - *Postulates* of empirical thought in general.
 
 | possibility/impossibility | existence/non-existence | necessity/contingency | 
 
-<img src="/images/synthesis/modality.svg" width="100%">
+<img src="/images/world/modality.svg" width="100%">
 
 Unlike all other categories, the categories of modality are not concerned with the observed phenomena (objects, appearances etc.) but with the observer. This is why Kant says that they are not *objectively synthetic* (as all other categories), but it's *subjectively synthetic*.
 
-A concept is possible only when it doesn't contradict our intuition (e.g. the laws of math, logic, science etc.) But possibility itself does not guarantee that the concept exists (the only concepts that exist just because of their possibility are the pure concepts of understanding). In order to confirm that it exist, we must seek an instance of it. And the only place where we can do that is in experience, because there is no other way for us to perceive anything.
+A concept is *possible* only when it doesn't contradict our intuition (e.g. the laws of math, logic, science etc.) But possibility itself does not guarantee that the concept exists (the only concepts that exist just because of their possibility are the pure concepts of understanding). In order to confirm that it exist i.e. that it is *actual*, we must seek an instance of it. And the only place where we can do that is in experience, because there is no other way for us to perceive anything. Finally, there are thing that must be true, as a precondition of what we actually see, these things must be true *necessarily*.
 
 More simply put, these postulates frame the basis that we people use to think about stuff. 
 
 1. We have ideas about how things are and deem them *possible*.
 2. We check if our ideas are *actually* true.
-3. When something must be true, so what we actually see is true as well we consider it a *necessary* condition.
+3. We find deeper principles that go beyond what we actually see, and we accept them as *necessary*.
 
-(there is a [paper about the role of necessity](https://brill.com/view/journals/hpla/aop/article-10.30965-26664275-02400005/article-10.30965-26664275-02400005.xml?language=en#FN000011))
+There is a [paper about the role of necessity](https://brill.com/view/journals/hpla/aop/article-10.30965-26664275-02400005/article-10.30965-26664275-02400005.xml?language=en#FN000011).
 
+I also wrote [an article that explores the third category of each triad](/world).
 
 Transcendental doctrine of elements: Transcendental Logic - Transcendental dialectics
 ===
