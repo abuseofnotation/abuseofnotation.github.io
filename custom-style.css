@@ -1,10 +1,4 @@
-.hello {
-    font-size: 80px;
-
-}
-.hello a {
-    font-size: 100px;
-}
+/*header */
 .header {
     position: fixed;
     z-index: -1;
@@ -16,6 +10,27 @@
 }
 
 
+
+/*index page*/
+.background {
+  position: relative;
+}
+.background img {
+  width: 100%;
+}
+
+.hello {
+  text-shadow: 2px 2px white;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-10%, -50%);
+  margin: 0;
+}
+.hello a {
+    font-size: 80px;
+}
 
 
 @font-face {

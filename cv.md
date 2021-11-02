@@ -1,5 +1,4 @@
 ---
-category: misc
 title: CV
 layout: blog
 ---
