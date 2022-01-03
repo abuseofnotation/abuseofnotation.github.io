@@ -3,7 +3,7 @@ title: CV
 layout: blog
 ---
 
-Hi, I am an IT person. I code 
+I like computers, art, and bringing ideas to life.
 
 Personal Info
 ==
@@ -13,7 +13,7 @@ I am Boris Marinov, age 35.
 
 * **phone number:** is +359 883 420029 
 * **e-mail** - [marinovboris@protonmail.com](mailto:marinovboris@protonmail.com)
-* **Personal Website** - [https://boris-marinov.github.io](https://boris-marinov.github.io)
+* **Personal website** - [https://boris-marinov.github.io](https://boris-marinov.github.io)
 * **Github** - [boris-marinov](https://github.com/boris-marinov)
 
 Skills
@@ -24,28 +24,29 @@ Technical
 * Deep knowledge of the web platform.
 * Huge experience with *front-end* JavaScript development - coding single page applications with React, Angular and other frameworks, designing interfaces with HTML and CSS. Canvas API. 
 * Experience with *back-end* web development with node d Ruby on Rails. Experience with SQL database development.
-* Good knowledge of TypeScript. Huge interest in type systems.
+* Good knowledge of TypeScript. Huge interest in *type systems*.
 * Ability to construct technical solutions that span across multiple technologies.
-* Experience with creating and maintaining software documentation, both developer-oriented (API docs, product overviews and tutorials) and user-oriented (integrated tips, video tutorials).
+* Experience with creating and maintaining *software documentation*, both developer-oriented (API docs, product overviews and tutorials) and user-oriented (integrated tips, video tutorials).
 * Huge interest in *functional programming* experience with Haskell and PureScript.
-* Experience with designing user interfaces and user experience.
-* System administration. Good **Unix** skills.
+* Experience with designing *user interfaces* and user experience.
+* Experience with handling server administration, deployments etc. Good *Unix* skills, some AWS experience.
 
 Project management
 ---
 
-* Experience in *leading* small to medium software projects  - facilitating scrums performing code reviews, making architecture decisions, solving tech and people issues, distributing the work between the team members.
+* Experience in *leading* small to medium software projects - facilitating scrums performing code reviews, making architecture decisions, solving tech and people issues, distributing the work between the team members.
 * Experience in *mentoring* junior developers and other team members - performing induction trainings, conducting one-on-one meetings and reviews.
 * Experience in communicating with *clients*, grokking different domains, putting down and implementing business requirements, and in general keeping them happy.
 
 Domain knowledge
 ---
-* Experience with implementing ERP solutions.
-* Experience with implementing finance and trading platforms.
-* Experience with implementing accounting/bookkeeping software.
-* Experience with implementing software for handling reservations and event registration.
-* Experience with handling payments with Stripe. 
-* Experience with OAuth single-sign-on solutions.
+
+* Experience with implementing *ERP* solutions.
+* Experience with implementing *finance* and trading platforms.
+* Experience with implementing *accounting/bookkeeping* software.
+* Experience with implementing software for handling *reservations* and event registration.
+* Experience with handling payments with *Stripe*. 
+* Experience with *OAuth* single-sign-on solutions.
 
 Misc
 ----
