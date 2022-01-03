@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="modality.svg"
-   inkscape:export-filename="/home/boris/pr/boris-marinov.github.io/images/synthesis/01.png"
+   inkscape:export-filename="/home/boris/pr/boris-marinov.github.io/images/world/04.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9563839"
-     inkscape:cx="459.55381"
-     inkscape:cy="145.47529"
+     inkscape:zoom="1.5635263"
+     inkscape:cx="432.56361"
+     inkscape:cy="143.68628"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,6 +64,13 @@
        height="79.650635"
        x="80.637733"
        y="217.46069" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect823"
+       width="78.236748"
+       height="79.349876"
+       x="0.034824178"
+       y="217.76439" />
     <path
        style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:14;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="M 0.03777071,217.76734 H 78.089855 L 0.03777071,297.41798 Z"
@@ -126,5 +133,18 @@
        d="m 237.43183,219.5294 -75.03782,75.99442"
        id="path5546-7-9"
        inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.79410803;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path895-6-6-4-4-3"
+       cx="180.59482"
+       cy="245.4081"
+       r="8.2374725" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96533132;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path895-6-4-3-2-7-3-6"
+       cx="216.68767"
+       cy="275.99677"
+       rx="8.9655724"
+       ry="9.0820589" />
   </g>
 </svg>
