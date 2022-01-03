@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Limited and universal knowledge - on the concept of the world in Kant's categories"
+title: "Limited and universal knowledge - on the idea of the world in Kant's categories"
 layout: blog
 ---
 
@@ -42,11 +42,11 @@ The reason for there being three members, (this is my idea and not Kant's) that 
 
 To understand my point, consider the problem of induction which I talk about in my [text about Gettier](/gettier). You can formulate this problem in the following way: We all know that our knowledge becomes obsolete all the time and that what is valid in one place isn't valid for another. So how can we justify the generalizations that we make about how things are? The simple answer is that that we cannot - that has been known for millenia. The answer is so simple that I am inclined to ask another question: How and why are we even capable of making such claims?
 
-The answer lies in the concept of *the world*, or of substance (I will use the term "the world" as nobody is sure what substance means). The world is a concept that, although it sounds obvious, is a bit weird, if you think about it. Like, why do we even have a concept of something that we cannot ever possibly observe in full? 
+The answer lies in the idea of *the world*, or of substance (I will use the term "the world" as nobody is sure what substance means). The world is an idea that, although it sounds obvious, is a bit weird, if you think about it. Like, why do we even have an idea of something that we cannot ever possibly observe in full? 
 
-It is the concept of the world that allows us to make general claims, and to act as if we know it all. And general claims about the world shape our understanding in a way that is wrong but useful for us. It allows us to make predictions about the world (which are also wrong but useful.)
+It is the idea of the world that allows us to make general claims, and to act as if we know it all. And general claims about the world shape our understanding in a way that is wrong but useful for us. It allows us to make predictions about the world (which are also wrong but useful.)
 
-To see how this happens, let's examine the reincarnations of the concept of the world in each third category of the four triads.
+To see how this happens, let's examine the reincarnations of the idea of the world in each third category of the four triads.
 
 Quantity
 ---
@@ -112,7 +112,7 @@ Here if we replace "the sphere of the cognition" with "the world" we wouldn't be
 
 What is this community then? Later in the book he defines it as a reciprocal cause and effect. He says that that two substances exist simultaneously in community is indicated by the fact that each of them "contains within itself the causality of certain determinations in the other substance and, at the same time, the effects of the causality of that other substance." 
 
-And where do the two approaches meet? Although the way Kant frames it is a little different, I view community as the concept of the world as a system in which everything is in a causal relationship to everything else, including the things that are simultaneous (on which Kant stresses on the most.) It is the main "causal chain" which does not allow for the existence of other causal chain and demands that everything be connected to it in order to be considered real. 
+And where do the two approaches meet? Although the way Kant frames it is a little different, I view community as the idea of the world as a system in which everything is in a causal relationship to everything else, including the things that are simultaneous (on which Kant stresses on the most.) It is the main "causal chain" which does not allow for the existence of other causal chain and demands that everything be connected to it in order to be considered real. 
 
 We don't talk about this causal chain but intuitively we are always aware of it. For example, we see a phenomena that is at the same time unexplained and very real (it affects our senses very much), we often say that there *must* be some explanation for it. And I believe that the reason why we say that is because *we are operating withing the bounds of the category of community*. 
 
@@ -132,25 +132,29 @@ Modality
 
 <img src="/images/synthesis/modality.svg" width="100%">
 
-If the categories of relation are concerned with the way objects relate to one another, the categories of modality are concerned with the way objects relate to us, to the observer.
+The category of modality is unlike all other categories in that unlike them it is concerned with the way objects relate to us, to the observer. Already, this poses a question - why are the modality categories categories, aren't categories supposed to be objective? 
 
 > The apodeictical proposition cogitates the assertorical as determined by these very laws of the understanding, consequently as affirming à priori, and in this manner it expresses logical necessity. Now because all is here gradually incorporated with the understanding—inasmuch as in the first place we judge problematically; then accept assertorically our judgment as true; lastly, affirm it as inseparably united with the understanding, that is, as necessary and apodeictical
 
+>We could now say that our methodological decision, sometimes metaphysically interpreted as the principle of causality—is to leave nothing unexplained, i.e. always to try to deduce statements from others of higher universality. This decision is derived from the demand for the highest attainable degree of universality and precision, and it can be reduced to the demand, or rule, that preference should be given to those theories which can be most severely tested.*2
 
-Immanuel
-Gettier
-millenia
-intuitionistic
-un-B
-Inherence
-inherence
-assertorically
-assertorical
-apodeictical
-disjunctions
-everpresent
-priori
-à
-survivorship
-anthropic
-Antrophically
+> Not for nothing do we call the laws of nature “laws”: the more they prohibit, the more they say
+
+The idea of the world is not a pure concept of understanding
+===
+
+Now let's tackle the question we started with: does each third category just a corrolary from the existence of the other two, or is it different. According to Kant both are true, as he says in the quote with which we started at:
+
+> Thus totality is nothing else but plurality contemplated as unity; limitation is merely reality conjoined with negation; community is the causality of a substance, reciprocally determining, and determined by other substances; and finally, necessity is nothing but existence, which is given through the possibility itself. Let it not be supposed, however, that the third category is merely a deduced, and not a primitive conception of the pure understanding. For the conjunction of the first and second, in order to produce the third conception, requires *a particular function of the understanding*, which is by no means identical with those which are exercised in the first and second.
+
+My thesis is that in this quote the *particular function of the understanding* for which Kant talks about is precisely the idea of the world that I am trying to put forward. I call it idea, not *concept*, because (like Kant, I don't think that it is a pure concept of understanding. So my thesis is that the world is an idea (hello Schopenhauer) and that each third category is just the application of the other two categories in the context of this idea.
+
+If I am correct, than it would mean that we would be able to have understanding without the third categories, which I think that we do (and this was actually the idea that got me started with this exploration.) 
+
+If we remove the third categories, we would still be able to identify different kinds of phenomena (unity/plurality), we would still be able to clasify some of these phenomena are as present and absent from our views (reality/negation) and we still be able to identify relations between those phenomena that allow us to perceive them as objects (inherence/causality). Finally, we would be able to make up different possible interpretations of what we see and then clasify some of them as actual (possibility/existence.) 
+
+You might say that this is not enough to achieve true understanding because we cannot make up any predictions, but I beg to disagree. Consider simple living organisms. There are definitely ones that most certainly don't have the concept of totality, limitation, community and necessity. But that doesn't stop them from making predictions and in general living.
+
+
+https://brill.com/view/journals/hpla/aop/article-10.30965-26664275-02400005/article-10.30965-26664275-02400005.xml?language=en
+

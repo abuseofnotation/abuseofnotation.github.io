@@ -4,6 +4,9 @@ title: "How does knowledge work: using logic to model real-world communication"
 layout: blog
 ---
 
+It is by logic that we prove, but by intuition that we discover
+Henri Poincare
+
 > Hello and welcome to the moment that you (all two of you) have been waiting for - the second installment of "How does knowledge work". This is exciting right? Riight? OK, at least it might be benefitial for you. So this time we will examine how people communicate. And I mean communicate in the broadest sense, from spoken communication to written or drawn, from informal to formal (in the sense of logically formal). We will look into all of that and we will present a whole theory of how communication happens that is based on [the first installment of "How does knowledge work"](/logic-thought). You remember that, right? Right? Oh, OK, I better start a little earlier.
 
 <!--more-->
