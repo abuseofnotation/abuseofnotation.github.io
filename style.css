@@ -47,6 +47,10 @@ blockquote {
   color: #666;
 }
 
+h1, h2, h3, h4 {
+  margin-bottom: 0px;
+}
+
 h1 {  
   font-size: 40px;
 }

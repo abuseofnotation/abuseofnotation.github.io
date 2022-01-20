@@ -1,27 +1,93 @@
 ---
 layout: default
 ---
-<!--
-<h1 class="hello">
+
+<div class="background">
+<h3 class="hello">
   "I take my <a href="#job">job</a> very seriously, althought I don't take <a href="/about">myself</a> very seriously."
-</h1>
-<h1 style="text-align:right">
-  Isabel Ice
-</h1>
--->
+</h3>
+<img src="/images/background.jpg"/>
+</div>
 
-
-<div class="posts">
-  {% for post in site.categories['blog'] %}
+<div class="container">
+<div class="posts"> {% assign post = site.categories['blog'].first %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><i>Last post: </i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}blog" class="read-more">Read Blog</a>
     </article>
-  {% endfor %}
+<h1>Blogroll</h1>
+<ul>
+<li><a target="_blank" href="http://abby.how">
+  Abby
+</a></li>
+
+<li><a target="_blank" href="http://proses.id/">
+Theresia
+</a></li>
+
+<li><a target="_blank" href="https://wiki.xxiivv.com/">
+  Linvega
+</a></li>
+
+<li><a target="_blank" href="https://prabros.com/">
+  Pratiush
+</a></li>
+
+<li><a target="_blank" href="https://alternativebit.fr/">
+  Ninja
+</a></li>
+
+<li><a target="_blank" href="https://robertpaulwolff.blogspot.com/">
+  Wolff
+</a></li>
+
+<li><a target="_blank" href="http://luc.devroye.org/">
+  Luc
+</a></li>
+
+<li><a target="_blank" href="https://www.themathcitadel.com/">
+  The Math Citadel
+</a></li>
+
+<li><a target="_blank" href="http://www.applet-magic.com/">
+    Thayer Watkins
+</a></li>
+
+<li><a target="_blank" href="http://adelelopez.com">
+    Adele Lopez
+</a></li>
+
+<li><a target="_blank" href="https://existentialcomics.com/">
+    Existential Comics
+</a></li>
+
+<li><a target="_blank" href="https://sites.google.com/view/jadeedenstarmaster/home">
+    Jade
+</a></li>
+
+<li><a target="_blank" href="https://math.ucr.edu/home/baez/">
+    Baez
+</a></li>
+
+<li><a target="_blank" href="http://rin.io/">
+    Rin
+</a></li>
+
+<li><a target="_blank" href="https://www.math3ma.com/">
+    Math3ma
+</a></li>
+
+</ul>
+
+<p>
+<a href="/blogroll">What is a blogroll?</a>
+</p>
+
+<h1>Books and contacts in the footer</h1>
 </div>

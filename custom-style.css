@@ -1,10 +1,7 @@
-.hello {
-    font-size: 80px;
-
+body{
+  font-family: 'mell_regular';
 }
-.hello a {
-    font-size: 100px;
-}
+/*header */
 .header {
     position: fixed;
     z-index: -1;
@@ -18,16 +15,44 @@
 
 
 
+/*index page*/
+.background {
+  position: relative;
+}
+.background img {
+  width: 100%;
+}
+
+.hello {
+  text-shadow: 2px 2px white;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-10%, -50%);
+  margin: 0;
+}
+.hello a {
+    font-size: 80px;
+}
+
 
 @font-face {
-    font-family: 'mell_sanssemibold';
-    src: url('MellSans3-Black.otf') format('opentype');
+    font-family: 'mell_ultra';
+    src: url('mellsans/MellSans3-Ultra.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'mell_regular';
+    src: url('mellsans/MellSans3-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'mell_sanssemibold';
+  font-family: 'mell_ultra';
   font-weight: bold;
 }
 
