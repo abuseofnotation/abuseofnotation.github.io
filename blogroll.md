@@ -9,7 +9,7 @@ Although it is simple, the blogroll performs a variety of functions.
 - As a website visitor, you can use it to find about some interesting websites from interesting people.
 - As the website's author, you can check your friends' websites for updates (yes, you can also get updates them delivered to you, but this approach has some advantages too, like you only see the updates from a given website of a given person when you are actually in the mood to read stuff from that person. And the updates aren't scrambled together with one another.)
 
-- As an author of a website that is included in a blogroll, you can rejoice that someone appreciates your efforts and follow that person back, if you like them.
+- As an author of a website that is included in a blogroll, you can rejoice that someone appreciates your efforts and follow that person back if you like them.
 
 Blogrolls also help you verify your identity in a decentralized manner e.g. my mom has my website on her blogroll this lets everyone know that I (I as the author of the website) am indeed her son (nevermind, perhaps that's not that important.)
 
