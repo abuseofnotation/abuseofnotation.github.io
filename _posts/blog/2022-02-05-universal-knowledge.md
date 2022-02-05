@@ -197,8 +197,11 @@ In short, at stage 3 the observer *thinks* that they understand the fabric of re
 
 The concept of necessity, is the idea that we are able to do that. The idea that the universe is understandable and, furthermore, that *we* are able to to understand it.
 
-Third categories as logical biases
+The metaprinciple of knowledge
 ===
+
+Third categories as logical biases
+---
 
 Whether or not we are capable of having understanding without the categories of totality, limitation, community and necessity depends on how do you define understanding, but what we can be sure of is that if we are to remove these categories from our brains, we would still be able able to do quite a lot: we would be able to identify different kinds of phenomena (unity/plurality), we would still be able to clasify some of these phenomena are as present and absent from our views (reality/negation) and we still be able to identify relations between those phenomena that allow us to perceive them as objects (inherence/causality). Finally, we would be able to make up different possible interpretations of what we see and then clasify some of them as actual (possibility/existence.) 
 
@@ -214,20 +217,36 @@ Simple living organisms that most certainly are able to get by without the conce
 
 So, if you take understanding to mean having an unbiased view of what we perceive, one can even make the point that not only it is possible without the third categories, but that these categories cloud our understanding.
 
-In search of an alternative metaprinciple of knowledge
+In search of a metaprinciple of knowledge
 ---
 
-As we said at the beginning, the existence of each third category follows from that of the other two, so on first sight that might look like a good-enough reason for them to not be wrong, but if you think about it this line of thought is just an application to the same principle of universal knowledge that is embedded in all of those categories - considering something true just because it follows from other things that we consider true i.e. thinking of the things as *universal*. So just because we have the first category and we have the second one, does not mean that we have one that is a combination of the two. This is a problem that Kant himself acknowledges and talks about a lot in the transcedental dialectic - the problem that each piece of knowledge has a scope of validity and if you go outside of that scope, then the piece of knowledge becomes irrelevant. 
+As we said at the beginning, the existence of each third category follows from that of the other two, so on first sight that might look like a good-enough reason for them to not be wrong, but if you think about it this line of thought is just an application to the same principle of universal knowledge that is embedded in all of those categories - considering something as necessarily true just because it follows from other things that we consider true i.e. disregarding the fact that every piece of knowledge has scope of validite (so it's not universal.) So, just because we have the first category and we have the second one, does not mean that we have one that is a combination of the two. This is a problem that Kant himself acknowledges and talks about a lot in the transcedental dialectic - the problem that each piece of knowledge has a scope of validity and if you go outside of that scope, then the piece of knowledge becomes irrelevant. 
 
-But if the scope of our knowledge is not universal, then how do we *know* where does it end? That's the the root of all issues - we cannot know that. 
+But if the scope of our knowledge is not universal, then how do we *know* where does it end? 
+
+That's the the root of all issues - we cannot know that. 
 
 Perhaps the only satisfiable (albeit wrong) answer to this question that it doesn't end, and that we must be capable of somehow perceiving the whole world, the whole universe. This is the answer given by Plato, who says that there is this divine world of forms which we are somehow capable of "recollecting". And this is also the answer that Kant gives - to justify it, he resorting to a separation between things in themselves and things as they appear to us and talking about the second category.
 
 We can adopt this answer as some kind of metaprinciple of knowledge, a metaprinciple that Schopenhauer calls *causality* (I know that this name coincides with one of the categories, but still I will use it because it's very appropriate.) - it is the principle that the universe is ordered by nature, in exactly the way we perceive it to be. If we do that, then the concept of the universe and each third category would just follow from the other two and of this principle.
 
-Or alternatively, if we don't insist for our answer to be satisfiable (or we want it to be 100% true) we can go on the skeptic's road and say that it ends as soon as it begins, that we don't really know anything. That would mean that everything that we observe as a law is not permanent and our knowledge would slowly disintegrate with time - a principle that I dubbed with the often-misused word *entropy*.
+Or alternatively, if we don't insist for our answer to be satisfiable (or we want it to be 100% true) we can go on the skeptic's road and say that it ends as soon as it begins, that we don't really know anything. That would mean that everything that we observe as a law is not permanent and our knowledge would slowly disintegrate with time - a principle that I dubbed with the often-misused word *entropy* (which I am also probably misusing here.)
 
 The two different answers not only paint two different pictures of the universe that we are living in, but they describe two ways of seeing our role in this universe and our modus operanti.
+
+<!--
+Causality and entropy as dual concepts
+---
+
+Let's define the concepts of causality and entropy in terms of descriptions of the world. 
+
+We can say that the entropy of a given system corresponds to how easy it is to describe it's state. e.g. an ordered deck of cards has a low entropy because it is easy to describe, while the only way to describe a shuffled one is to just make a list of all cards in the order in which they appear in the deck. The second law of thermodynamics follows directly from this definition - there are billions of ways a deck of cards can be unordered, but there are a just a few ways that it can be ordered. So for this *reason the entropy increases with time* (provided that we fiddle with the deck) - that is, the more we shuffle it, the less accurate would be our description of its state.
+
+An amazing fact that is, I think, underappreciated, is that is valid regardles of the description that we use - no matter if we pick a precise one that describes the state completely (e.g. the it's 1, 2, 3, 4... etc) or a more imprecise one (e.g. "the first half of the deck is only red, the second one, only black"), no matter if the description is really simple, or massively complex, it will gradually become less and less valid when time passes.
+
+At the same time, 
+
+---> 
 
 Laplace's demon and its archnemesis
 ---
@@ -244,7 +263,7 @@ You might pity this incapable demon, but in fact it's situation is no worse than
 
 And, as it knows that nothing is universal, this demon does not feel attachment to any principle that it discovers, while Laplace's demon certainly is intimately tied with the principles of the universe. So, for Laplace's demon life is boring, and being the opposite demon is interesting.
 
-You might call this demon an agent of chaos, a villain (and this will be somewhat apt, as its personality resembles that of many movie villains), but it actually is very harmless, as it has no motivation for destroying anything or anyone. As a matter of fact, it has no motivation of doing anything - if he is reborn in a human form, he would probably become a really good buddist monk.
+You might call this demon an agent of chaos, a villain (as its personality resembles that of many movie villains), but it actually is very harmless, as it has no motivation for destroying anything or anyone. As a matter of fact, it has no motivation of doing anything - if he is reborn in a human form, he would probably become a really good buddist monk.
 
 The only evil thing about it, according to today's standards, is that it sees no inherent benefit to progress, and to action that is based on a given doctrine. But this is not and evil view. As a matter of fact, it would be good for some of us to adopt this view too.
 
