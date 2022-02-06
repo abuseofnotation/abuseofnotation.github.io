@@ -51,16 +51,16 @@ But if the third member of each triad is just a combination of the other two the
 
 > Thus totality is nothing else but plurality contemplated as unity; limitation is merely reality conjoined with negation; community is the causality of a substance, reciprocally determining, and determined by other substances; and finally, necessity is nothing but existence, which is given through the possibility itself. Let it not be supposed, however, that the third category is merely a deduced, and not a primitive conception of the pure understanding. For the conjunction of the first and second, in order to produce the third conception, requires a particular function of the understanding, which is by no means identical with those which are exercised in the first and second. Thus, the conception of a number (which belongs to the category of totality) is not always possible, where the conceptions of multitude and unity exist (for example, in the representation of the infinite). Or, if I conjoin the conception of a cause with that of a substance, it does not follow that the conception of influence, that is, how one substance can be the cause of something in another substance, will be understood from that. Thus it is evident that a particular act of the understanding is here necessary; and so in the other instances.
 
-But what is this *particular acts of the understanding* for which Kant talks about and which enables the creation of each third category from the other two. For me it has to do with a peculiar process which converts emirical knowledge to universal knowledge, using the concept of the (understandable) universe (the world). This process is based on faith, not knowledge, or more precisely, it is based on *faith of knowledge*. 
+But what is this *particular acts of the understanding* for which Kant talks about and which enables the creation of each third category from the other two. For me it has to do with a peculiar process which converts empirical knowledge to universal knowledge, using the concept of the (understandable) universe (the world). This process is based on faith, not knowledge, or more precisely, it is based on *faith of knowledge*. 
 
 If empirical knowledge is about creating models, universal knowledge is about accepting the models that we have created as *universally true*. This this is precisely what the third pure concepts of understanding enable us to do.
 
 Universal knowledge and the concept of the universe
 ===
 
-Here I will try to prove Kant wrong by putting forward the following theis: *the third member of each triad of categories is not a pure concept of understanding*. It rather represents a way to bridge the other two concepts of understanding to reason. That is, the third member allows us to form a mental image of the *understandable universe*, or of *substance * as philosophers call it and to apply the first two concepts to it.
+Here I will try to prove Kant wrong by putting forward the following thesis: *the third member of each triad of categories is not a pure concept of understanding*. It rather represents a way to bridge the other two concepts of understanding to reason. That is, the third member allows us to form a mental image of the *understandable universe*, or of *substance * as philosophers call it and to apply the first two concepts to it.
 
-To ellucidate my point, consider the problem of induction which I talk about in my [text about Gettier](/gettier) and almost everywhere else, which was also the problem which inspired Kant to write the critique in the first place. You can formulate this problem in the following way: We all know that our knowledge becomes obsolete all the time and that what is valid in one place isn't valid for another. So how can we justify the generalizations that we make about how things are? The simple answer is that that we cannot justify them - that has been known for millenia. The answer is so simple that I am inclined to ask another question: How and why are we even able to make such claims? From where do we have the logical apparatus for them (which other animals don't seem to have) and what does this logical apparatus looks like? 
+To elucidate my point, consider the problem of induction which I talk about in my [text about Gettier](/gettier) and almost everywhere else, which was also the problem which inspired Kant to write the critique in the first place. You can formulate this problem in the following way: We all know that our knowledge becomes obsolete all the time and that what is valid in one place isn't valid for another. So how can we justify the generalizations that we make about how things are? The simple answer is that that we cannot justify them - that has been known for millenia. The answer is so simple that I am inclined to ask another question: How and why are we even able to make such claims? From where do we have the logical apparatus for them (which other animals don't seem to have) and what does this logical apparatus looks like? 
 
 The answer lies in the metaconcept of *the understandable universe*, or of substance (I will use the term "universe" as nobody is sure what substance means). The universe is a concept that, although it sounds obvious, is a bit weird if you think about it. Like, why do we even have such a clear idea of something that we cannot ever possibly observe in full? This is why I use the term *metaconcept* - a concept that is there for the purpose of formulating a class of different concepts.
 
@@ -69,7 +69,7 @@ It is the metaconcept of the universe that allows us to make general claims, and
 Digging a bit into Kant's epistemology
 ---
 
-The section of the critique where Kant puts forward his theory of knowledge (and which occupies most of the book) is split into two parts - *transcedental analytics* and *transcedental dialectics* which correspond to the two main types of knowledge according to him - *understanding* and *reason*, the main distinction between those two being that the concepts of understanding (which are based on the categories) are related to possible experience, while concepts of reason (such as the concept of the soul, of God and the world) are not. And for that reason they are, according to Kant, kinda illusory.
+The section of the critique where Kant puts forward his theory of knowledge (and which occupies most of the book) is split into two parts - *transcendental analytics* and *transcendental dialectics* which correspond to the two main types of knowledge according to him - *understanding* and *reason*, the main distinction between those two being that the concepts of understanding (which are based on the categories) are related to possible experience, while concepts of reason (such as the concept of the soul, of God and the world) are not. And for that reason they are, according to Kant, kinda illusory.
 
 A key question: to which of the two faculties does the concept of the universe belong? Kant explicitly puts it under reason (the universe and the world being pretty similar.) But also implicitly puts it under the understanding (by including it in the categories). For me, it's place is somewhere between the two. It is not experience, because, while we all experience the universe all the time, nobody can ever know anything that is valid for all of it, in neither in practice, nor even in theory (many reasons for this, see general relativity for example.) At the same time, the universe is not a concept of reason, simply because it is a precondition for the existence of reason, (as causality is a precondition for the existence of experience.)
 
@@ -114,7 +114,7 @@ Well, a path for answering this question is examining [intuitionistic logic](/ca
 
 Anyways, classical logic is based on Platonic epistemology according to which we humans, can have universal knowledge - his view is that knowledge is given by God and that we are not investigating, but actually *recollecting* the ideas that are given to us. To postulate this universality, classical logic uses the category of *limitation* e.g. the predicate B is universal as everything is either B or *non-B* i.e. the B/non-B distinction is an inherent quality of each object in the universe. 
 
-Intuitionistic logic, represents the opposite view - the view that knowledge is subjective and it has a limite scope. For this reason, it contrasts reality not with limitation, but with *negation* i.e. a thing can be *B* or *not B*, but it doesn't have to be one or the other, because, since the predicate *B* is made up, there is no reason to think that it should apply to every object in the universe.
+Intuitionistic logic, represents the opposite view - the view that knowledge is subjective and it has a limited scope. For this reason, it contrasts reality not with limitation, but with *negation* i.e. a thing can be *B* or *not B*, but it doesn't have to be one or the other, because, since the predicate *B* is made up, there is no reason to think that it should apply to every object in the universe.
 
 Again, using reality and negation, I can only make a statement about a given object, e.g. saying that this object is **B** or saying that it is **not B**. While when using limitation, I am making a statement about the whole universe - postulating that it is divided into B's and non-B (or perhaps un-B).
 
@@ -133,7 +133,7 @@ Relation
 
 <img src="/images/world/relation.svg" width="100%">
 
-We are continuing with reviewing the so called *dynamic* categories which, unlike quantity and quantity, don't concern the phenomena themselves, but the way humans perceive them. In these triads, the relations between the third categories and the rest is a bit different from the first two, but it still ellucidates the idea of the universe.
+We are continuing with reviewing the so called *dynamic* categories which, unlike quantity and quantity, don't concern the phenomena themselves, but the way humans perceive them. In these triads, the relations between the third categories and the rest is a bit different from the first two, but it still elucidates the idea of the universe.
 
 The first such triad is the triad of the categories of *relation*, whose schema are the relationships between different events in time.
 
@@ -179,7 +179,7 @@ This quote describes the three stages of evolution of our understanding which fi
 
 1. We are playing - we make up explanations based on what we see, and hear without confronting these explanations with reality (we *don't* expect for things that we experience to make sense)
 2. We see that some of these theories are good and start basing some of our decisions on them (we think it *possible* for things to make sense)
-3. We accept these theories as true, thereby making them part of ourselves, we stop perceiving any pieces of knoledge that confronts to them (we insist that things should *necessarily* make sense)
+3. We accept these theories as true, thereby making them part of ourselves, we stop perceiving any pieces of knowledge that confronts to them (we insist that things should *necessarily* make sense)
 
 We can see that the differences between stages 2 and 3 are qualitative. Actually they are very similar to the differences between the categories of negation and limitation - possibility implies that something may be true some of the time, for some cases, while necessity implies that it is true for all cases.
 
@@ -195,7 +195,7 @@ In short, at stage 3 the observer *thinks* that they understand the fabric of re
 
 > That the connection of which with the actual is determined according to *universal conditions of experience* is (exists as) *necessary*.
 
-The concept of necessity, is the idea that we are able to do that. The idea that the universe is understandable and, furthermore, that *we* are able to to understand it.
+The concept of necessity, is the idea that we are able to do that. The idea that the universe is understandable and, furthermore, that *we* are able to understand it.
 
 The metaprinciple of knowledge
 ===
@@ -203,28 +203,28 @@ The metaprinciple of knowledge
 Third categories as logical biases
 ---
 
-Whether or not we are capable of having understanding without the categories of totality, limitation, community and necessity depends on how do you define understanding, but what we can be sure of is that if we are to remove these categories from our brains, we would still be able able to do quite a lot: we would be able to identify different kinds of phenomena (unity/plurality), we would still be able to clasify some of these phenomena are as present and absent from our views (reality/negation) and we still be able to identify relations between those phenomena that allow us to perceive them as objects (inherence/causality). Finally, we would be able to make up different possible interpretations of what we see and then clasify some of them as actual (possibility/existence.) 
+Whether or not we are capable of having understanding without the categories of totality, limitation, community and necessity depends on how do you define understanding, but what we can be sure of is that if we are to remove these categories from our brains, we would still be able to do quite a lot: we would be able to identify different kinds of phenomena (unity/plurality), we would still be able to classify some of these phenomena are as present and absent from our views (reality/negation) and we still be able to identify relations between those phenomena that allow us to perceive them as objects (inherence/causality). Finally, we would be able to make up different possible interpretations of what we see and then classify some of them as actual (possibility/existence.) 
 
 Simple living organisms that most certainly are able to get by without the concepts of totality, limitation, community and necessity. And even for us, turning them off can actually be humbling and, you might argue that it would make our thinking more objective, albeit less capable.
 
 - *Totality* represents the bias to make claims that are valid for all objects in the universe. without *totality*, we would remember that nothing we say is valid about *all* things or *all* people and at all times.
 
-- *Limitation* represents the bias of applying systems of predicates to objects that don't comfront to this system. The loss of *limitation*, would prevent us from thinking in a boolean manner, seeing everything as being either or, according to some subjective criteria, when in reality many things can be both and neither.
+- *Limitation* represents the bias of applying systems of predicates to objects that don't confront to this system. The loss of *limitation*, would prevent us from thinking in a boolean manner, seeing everything as being either or, according to some subjective criteria, when in reality many things can be both and neither.
 
-- *Community* represent the bies of thinking that all events must be causally connected with all other events and excludes everything what doesn't fit in this picture as unreal. So without it, we can have a richer understanding of the events around us.
+- *Community* represent the bias of thinking that all events must be causally connected with all other events and excludes everything what doesn't fit in this picture as unreal. So without it, we can have a richer understanding of the events around us.
 
-- *Necessity* is the bias of establishing inexisting hierarchical connection between different bits of knowledge. By abandoning the necessity for this hierarchy, we can put our preconceptions aside and see things more objectively.
+- *Necessity* is the bias of establishing inexistent hierarchical connection between different bits of knowledge. By abandoning the necessity for this hierarchy, we can put our preconceptions aside and see things more objectively.
 
 So, if you take understanding to mean having an unbiased view of what we perceive, one can even make the point that not only it is possible without the third categories, but that these categories cloud our understanding.
 
 In search of a metaprinciple of knowledge
 ---
 
-As we said at the beginning, the existence of each third category follows from that of the other two, so on first sight that might look like a good-enough reason for them to not be wrong, but if you think about it this line of thought is just an application to the same principle of universal knowledge that is embedded in all of those categories - considering something as necessarily true just because it follows from other things that we consider true i.e. disregarding the fact that every piece of knowledge has scope of validite (so it's not universal.) So, just because we have the first category and we have the second one, does not mean that we have one that is a combination of the two. This is a problem that Kant himself acknowledges and talks about a lot in the transcedental dialectic - the problem that each piece of knowledge has a scope of validity and if you go outside of that scope, then the piece of knowledge becomes irrelevant. 
+As we said at the beginning, the existence of each third category follows from that of the other two, so on first sight that might look like a good-enough reason for them to not be wrong, but if you think about it this line of thought is just an application to the same principle of universal knowledge that is embedded in all of those categories - considering something as necessarily true just because it follows from other things that we consider true i.e. disregarding the fact that every piece of knowledge has scope of validate (so it's not universal.) So, just because we have the first category and we have the second one, does not mean that we have one that is a combination of the two. This is a problem that Kant himself acknowledges and talks about a lot in the transcendental dialectic - the problem that each piece of knowledge has a scope of validity and if you go outside of that scope, then the piece of knowledge becomes irrelevant. 
 
 But if the scope of our knowledge is not universal, then how do we *know* where does it end? 
 
-That's the the root of all issues - we cannot know that. 
+That's the root of all issues - we cannot know that. 
 
 Perhaps the only satisfiable (albeit wrong) answer to this question that it doesn't end, and that we must be capable of somehow perceiving the whole world, the whole universe. This is the answer given by Plato, who says that there is this divine world of forms which we are somehow capable of "recollecting". And this is also the answer that Kant gives - to justify it, he resorting to a separation between things in themselves and things as they appear to us and talking about the second category.
 
@@ -232,7 +232,7 @@ We can adopt this answer as some kind of metaprinciple of knowledge, a metaprinc
 
 Or alternatively, if we don't insist for our answer to be satisfiable (or we want it to be 100% true) we can go on the skeptic's road and say that it ends as soon as it begins, that we don't really know anything. That would mean that everything that we observe as a law is not permanent and our knowledge would slowly disintegrate with time - a principle that I dubbed with the often-misused word *entropy* (which I am also probably misusing here.)
 
-The two different answers not only paint two different pictures of the universe that we are living in, but they describe two ways of seeing our role in this universe and our modus operanti.
+The two different answers not only paint two different pictures of the universe that we are living in, but they describe two ways of seeing our role in this universe and our modus operandi.
 
 <!--
 Causality and entropy as dual concepts
@@ -255,15 +255,15 @@ In one of his essays, the philosopher and mathematician Pierre Simon Laplace, de
 
 > We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.
 
-If we presume that our knowledge is (kinda) universal, this means we humans are some crippled versions of Laplace's demon that we are theoretically capable of predicting everything and knowing everything about the world we are living in, and are unable to do so only because of constraints in terms of perceptions and computing power. And (this is an an extension of this idea that we see all the time) even if a person by themselves is not able to be Laplace's demon, *the humanity as a whole* can collectively function as such. This thesis might sound weird, but it is the dream and promise of the human civilization and what many people are subconsciously subscribed to it.
+If we presume that our knowledge is (kinda) universal, this means we humans are some crippled versions of Laplace's demon that we are theoretically capable of predicting everything and knowing everything about the world we are living in, and are unable to do so only because of constraints in terms of perceptions and computing power. And (this is an extension of this idea that we see all the time) even if a person by themselves is not able to be Laplace's demon, *the humanity as a whole* can collectively function as such. This thesis might sound weird, but it is the dream and promise of the human civilization and what many people are subconsciously subscribed to it.
 
 But let's now look into the unnamed archnemesis of Laplace's demon that is hidden in a dark dual universe that is governed by entropy other than causality (I am not saying that it has to be called "Marinov's Demon", I am just putting the name out there and letting you make a decision). This demon might look inferior to the all-knowing demon of Laplace. Unlike Laplace's demon, who seems to know everything, this demon does not comprehend any general principle for the way the universe works (except for the lack of such principles.) Unlike Laplace's demon, which exist beyond time, this demon is always stuck in the present moment and it cannot really make any decision for the future, as it is not sure whether the knowledge it has in a given moment won't become obsolete in the next one. 
 
-You might pity this incapable demon, but in fact it's situation is no worse than that of it's more powerful counterpart: like Laplace's demon, it *cannot be disappointed by anything*, albeit for opposite reasons: Laplace's demon cannot be disappointed because it just knows everything and our other demon cannot be disappointed because it knows nothing. The principle of entropy teaches it that everything it knows and everything that it is is slowly disappearing. In fact at every instant, this demon sees everything disappearing before its eyes. 
+You might pity this incapable demon, but in fact it's situation is no worse than that of it's more powerful counterpart: like Laplace's demon, it *cannot be disappointed by anything*, albeit for opposite reasons: Laplace's demon cannot be disappointed because it just knows everything and our other demon cannot be disappointed because it knows nothing. The principle of entropy teaches it that everything it knows and everything that it is slowly disappearing. In fact at every instant, this demon sees everything disappearing before its eyes. 
 
 And, as it knows that nothing is universal, this demon does not feel attachment to any principle that it discovers, while Laplace's demon certainly is intimately tied with the principles of the universe. So, for Laplace's demon life is boring, and being the opposite demon is interesting.
 
-You might call this demon an agent of chaos, a villain (as its personality resembles that of many movie villains), but it actually is very harmless, as it has no motivation for destroying anything or anyone. As a matter of fact, it has no motivation of doing anything - if he is reborn in a human form, he would probably become a really good buddist monk.
+You might call this demon an agent of chaos, a villain (as its personality resembles that of many movie villains), but it actually is very harmless, as it has no motivation for destroying anything or anyone. As a matter of fact, it has no motivation of doing anything - if he is reborn in a human form, he would probably become a really good Buddhist monk.
 
 The only evil thing about it, according to today's standards, is that it sees no inherent benefit to progress, and to action that is based on a given doctrine. But this is not and evil view. As a matter of fact, it would be good for some of us to adopt this view too.
 

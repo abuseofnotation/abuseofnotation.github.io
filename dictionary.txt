@@ -1,3 +1,5 @@
+metaprinciple
+metaconcept
 Immanuel
 Gettier
 millenia
@@ -44,3 +46,6 @@ Kruder
 modi
 predecedes
 reasonings
+modus
+operanti
+Pandoc
