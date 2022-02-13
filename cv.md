@@ -23,11 +23,11 @@ Technical
 ---
 * Deep knowledge of the web platform.
 * Huge experience with *front-end* JavaScript development - coding single page applications with React, Angular and other frameworks, designing interfaces with HTML and CSS. Canvas API. 
-* Experience with *back-end* web development with node d Ruby on Rails. Experience with SQL database development.
+* Experience with *back-end* web development with *node* and *Ruby on Rails*. Experience with *SQL* database development.
 * Good knowledge of TypeScript. Huge interest in *type systems*.
+* Huge interest in *functional programming* experience with *Haskell* and *PureScript*.
 * Ability to construct technical solutions that span across multiple technologies.
 * Experience with creating and maintaining *software documentation*, both developer-oriented (API docs, product overviews and tutorials) and user-oriented (integrated tips, video tutorials).
-* Huge interest in *functional programming* experience with Haskell and PureScript.
 * Experience with designing *user interfaces* and user experience.
 * Experience with handling server administration, deployments etc. Good *Unix* skills, some AWS experience.
 
