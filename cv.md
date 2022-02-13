@@ -22,7 +22,7 @@ Skills
 Technical
 ---
 * Deep knowledge of the web platform.
-* Huge experience with *front-end* JavaScript development - coding single page applications with React, Angular and other frameworks, designing interfaces with HTML and CSS. Canvas API. 
+* Huge experience with *front-end* JavaScript development - coding single page applications with React, Angular and other frameworks, designing interfaces with HTML and CSS. D3. Canvas API. 
 * Experience with *back-end* web development with *node* and *Ruby on Rails*. Experience with *SQL* database development.
 * Good knowledge of TypeScript. Huge interest in *type systems*.
 * Huge interest in *functional programming* experience with *Haskell* and *PureScript*.
@@ -111,10 +111,9 @@ Worked on a [developer-facing documentation portal](http://documentation.bosch-s
 Education
 ==
 
-I have a bachelor's degree in PR and mass communication at the Sofia University.
+I have one formal education degree - a bachelor's degree in *PR and mass communication* at the *Sofia University*.
 
-Spare time
-==
+And I also have several informal ones:
 
-* Type design- I sometimes [design fonts](https://www.behance.net/evolutionfonts/).
-* Mathematics - I study mathematics as a hobby. Here is [a guide to category theory that I am working on](https://boris-marinov.gitbooks.io/category-theory-illustrated/content/).
+* Design - I have a very good visual literacy, besides UX design I have done graphic design. I also [design typefaces](https://www.behance.net/evolutionfonts/).
+* CS and mathematics - I have been passionate about learning CS since I started working in IT, even more so since I became interested in functional programming. I also study mathematics as a hobby. Here is [a guide to category theory that I am working on](https://boris-marinov.gitbooks.io/category-theory-illustrated/content/).
