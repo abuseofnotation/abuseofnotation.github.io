@@ -1,3 +1,8 @@
+---
+title: Misc
+layout: blog
+---
+
 Hokusai
 ---
 

@@ -1,3 +1,8 @@
+---
+title: Philosophy
+layout: blog
+---
+
 Science is philosophy
 ---
 

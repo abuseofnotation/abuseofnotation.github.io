@@ -1,3 +1,8 @@
+---
+title: Zen
+layout: blog
+---
+
 Worthwhile
 ---
 

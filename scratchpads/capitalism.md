@@ -1,3 +1,8 @@
+---
+title: Capitalism
+layout: blog
+---
+
 Capitalism is dead
 ---
 Capitalism is dead, the establishment are holding up the corpse and putting hat and sunglasses on it, in an effort to hide this fact (which is nevertheless quite obvious to anyone who is not living in a bubble)
