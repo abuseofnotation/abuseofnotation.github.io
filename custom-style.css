@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-.container h1 {
+.footer h1 {
   font-size: 101px;
   height: 57px;
   display: block;
@@ -78,3 +78,5 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 3px solid white;
   overflow: hidden;
   padding-left: 31px;
+  margin: 0;
+}
