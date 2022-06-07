@@ -3,6 +3,18 @@ title: Zen
 layout: blog
 ---
 
+Sitting
+---
+
+You ask me why I sit in silence.
+
+Why do you talk?
+Why do you listen to music?
+Why do you read, watch videos and do anything else?
+
+And most importantly, why do you seek justification from me for doing nothing.
+Instead of seeking justification in yourself for doing things.
+
 Worthwhile
 ---
 

@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Untitled post about Kant, the concept of the universe and the dual to Laplace's demon"
+title: "Where universality breaks: about Kant's triads and the dual to Laplace's demon"
 layout: blog
 ---
 
@@ -56,7 +56,7 @@ But what is this *particular acts of the understanding* for which Kant talks abo
 If empirical knowledge is about creating models, universal knowledge is about accepting the models that we have created as *universally true*. This this is precisely what the third pure concepts of understanding enable us to do.
 
 Universal knowledge and the concept of the universe
-===
+---
 
 Here I will try to prove Kant wrong by putting forward the following thesis: *the third member of each triad of categories is not a pure concept of understanding*. It rather represents a way to bridge the other two concepts of understanding to reason. That is, the third member allows us to form a mental image of the *understandable universe*, or of *substance * as philosophers call it and to apply the first two concepts to it.
 
@@ -197,10 +197,20 @@ In short, at stage 3 the observer *thinks* that they understand the fabric of re
 
 The concept of necessity, is the idea that we are able to do that. The idea that the universe is understandable and, furthermore, that *we* are able to understand it.
 
-The metaprinciple of knowledge
+Where universality breaks 
 ===
 
-Third categories as logical biases
+Let's examine the sentence from Kant's quote about negation and limitation: 
+
+> "the whole sphere of possible existences, the mortal occupies one part, and the immortal the other." 
+
+This sentence contains the assumption that all objects in the universe are either mortal or immortal, which is questionable e.g. what about the things that are not alive in the first place? e.g. is a chair mortal or immortal?
+
+This issue is not present in the dichotomy between reality and negation e.g. the dichotomy between "mortal" and "not mortal" - here it is easy to sort all possible objects to mortal, e.g. a chair is clearly not mortal. In my view this is the difference between reality and negation.
+
+This is one of the many examples where the principle of universality breaks i.e. cases where it leads us ashtray.
+
+Universality and logical biases
 ---
 
 Whether or not we are capable of having understanding without the categories of totality, limitation, community and necessity depends on how do you define understanding, but what we can be sure of is that if we are to remove these categories from our brains, we would still be able to do quite a lot: we would be able to identify different kinds of phenomena (unity/plurality), we would still be able to classify some of these phenomena are as present and absent from our views (reality/negation) and we still be able to identify relations between those phenomena that allow us to perceive them as objects (inherence/causality). Finally, we would be able to make up different possible interpretations of what we see and then classify some of them as actual (possibility/existence.) 
@@ -209,7 +219,7 @@ Simple living organisms that most certainly are able to get by without the conce
 
 - *Totality* represents the bias to make claims that are valid for all objects in the universe. without *totality*, we would remember that nothing we say is valid about *all* things or *all* people and at all times.
 
-- *Limitation* represents the bias of applying systems of predicates to objects that don't confront to this system. The loss of *limitation*, would prevent us from thinking in a boolean manner, seeing everything as being either or, according to some subjective criteria, when in reality many things can be both and neither.
+- *Limitation* represents the bias of applying systems of predicates to objects that don't confront to this system (AKA boolean thinking). The loss of *limitation*, would prevent us from thinking in a boolean manner, seeing everything as being either or, according to some subjective criteria, when in reality many things can be both and neither.
 
 - *Community* represent the bias of thinking that all events must be causally connected with all other events and excludes everything what doesn't fit in this picture as unreal. So without it, we can have a richer understanding of the events around us.
 
@@ -217,39 +227,34 @@ Simple living organisms that most certainly are able to get by without the conce
 
 So, if you take understanding to mean having an unbiased view of what we perceive, one can even make the point that not only it is possible without the third categories, but that these categories cloud our understanding.
 
-In search of a metaprinciple of knowledge
+Universality and entropy
 ---
 
-As we said at the beginning, the existence of each third category follows from that of the other two, so on first sight that might look like a good-enough reason for them to not be wrong, but if you think about it this line of thought is just an application to the same principle of universal knowledge that is embedded in all of those categories - considering something as necessarily true just because it follows from other things that we consider true i.e. disregarding the fact that every piece of knowledge has scope of validate (so it's not universal.) So, just because we have the first category and we have the second one, does not mean that we have one that is a combination of the two. This is a problem that Kant himself acknowledges and talks about a lot in the transcendental dialectic - the problem that each piece of knowledge has a scope of validity and if you go outside of that scope, then the piece of knowledge becomes irrelevant. 
+So if those principles (which are based on universality) are wrong, then why have we adopted them? Well, as we said at the beginning, the existence of each third category follows from that of the other two, so on first sight that might look like a good-enough reason for them to be correct. But if you think about it this line of thought is just an application to the same principle of universal knowledge that is embedded in all of those categories - considering something as necessarily true just because it follows from other things that we consider true i.e. disregarding the fact that every piece of knowledge has scope of validate (so it's not universal.) So, just because we have the first category and we have the second one, does not mean that we have one that is a combination of the two. This is a problem that Kant himself acknowledges and talks about a lot in the transcendental dialectic - the problem that each piece of knowledge has a scope of validity and if you go outside of that scope, then the piece of knowledge becomes irrelevant. 
 
 But if the scope of our knowledge is not universal, then how do we *know* where does it end? 
 
 That's the root of all issues - we cannot know that. 
 
-Perhaps the only satisfiable (albeit wrong) answer to this question that it doesn't end, and that we must be capable of somehow perceiving the whole world, the whole universe. This is the answer given by Plato, who says that there is this divine world of forms which we are somehow capable of "recollecting". And this is also the answer that Kant gives - to justify it, he resorting to a separation between things in themselves and things as they appear to us and talking about the second category.
+Perhaps the only satisfiable (albeit wrong) answer to this question that it somehow doesn't end, and that we must be capable of somehow perceiving the whole world, the whole universe. This is the answer given by Plato, who says that there is this divine world of forms which we are somehow capable of "recollecting". And this is also the answer that Kant gives - to justify it, he resorting to a separation between things in themselves and things as they appear to us and talking about the second category.
 
-We can adopt this answer as some kind of metaprinciple of knowledge, a metaprinciple that Schopenhauer calls *causality* (I know that this name coincides with one of the categories, but still I will use it because it's very appropriate.) - it is the principle that the universe is ordered by nature, in exactly the way we perceive it to be. If we do that, then the concept of the universe and each third category would just follow from the other two and of this principle.
+We can adopt this answer as some kind of axiom about the world the axiom of causality I can call it (I know that this name coincides with one of the categories, but still I will use it because it's very appropriate.) - it is the principle that the universe is ordered by nature, in exactly the way we perceive it to be. If we do that, then the concept of the universe and each third category would just follow from the other two and of this principle.
 
-Or alternatively, if we don't insist for our answer to be satisfiable (or we want it to be 100% true) we can go on the skeptic's road and say that it ends as soon as it begins, that we don't really know anything. That would mean that everything that we observe as a law is not permanent and our knowledge would slowly disintegrate with time - a principle that I dubbed with the often-misused word *entropy* (which I am also probably misusing here.)
+Or alternatively, if we don't insist for our answer to be satisfiable (or we want it to be 100% true) we can go on the skeptic's road and say that it ends as soon as it begins, that we don't really know anything. That would mean that everything that we observe as a law is not permanent and our knowledge would slowly disintegrate with time - a principle that I dub with the often-misused word *entropy* (which I am also probably misusing here.)
 
 The two different answers not only paint two different pictures of the universe that we are living in, but they describe two ways of seeing our role in this universe and our modus operandi.
 
-<!--
-Causality and entropy as dual concepts
+Entropy examined
 ---
 
-Let's define the concepts of causality and entropy in terms of descriptions of the world. 
+Let's define the concept of entropy in terms of descriptions of the world. 
 
 We can say that the entropy of a given system corresponds to how easy it is to describe it's state. e.g. an ordered deck of cards has a low entropy because it is easy to describe, while the only way to describe a shuffled one is to just make a list of all cards in the order in which they appear in the deck. The second law of thermodynamics follows directly from this definition - there are billions of ways a deck of cards can be unordered, but there are a just a few ways that it can be ordered. So for this *reason the entropy increases with time* (provided that we fiddle with the deck) - that is, the more we shuffle it, the less accurate would be our description of its state.
 
-An amazing fact that is, I think, underappreciated, is that is valid regardles of the description that we use - no matter if we pick a precise one that describes the state completely (e.g. the it's 1, 2, 3, 4... etc) or a more imprecise one (e.g. "the first half of the deck is only red, the second one, only black"), no matter if the description is really simple, or massively complex, it will gradually become less and less valid when time passes.
-
-At the same time, 
-
----> 
+An amazing fact that is, I think, underappreciated, is that is valid regardles of the description that we use - no matter if we pick a precise one that describes the state completely (e.g. the it's 1, 2, 3, 4... etc) or a more imprecise one (e.g. "the first half of the deck is only red, the second one, only black"), no matter if the description is really simple, or massively complex, it will gradually become less and less valid when time passes. This is entropy. And similar things happens when we move in space as well.
 
 Laplace's demon and its archnemesis
----
+----
 
 In one of his essays, the philosopher and mathematician Pierre Simon Laplace, describes a godlike creature known henceforth as *Laplace's Demon*. 
 

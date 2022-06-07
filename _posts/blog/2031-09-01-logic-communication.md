@@ -7,11 +7,16 @@ layout: blog
 It is by logic that we prove, but by intuition that we discover
 Henri Poincare
 
-> Hello and welcome to the moment that you (all two of you) have been waiting for - the second installment of "How does knowledge work". This is exciting right? Riight? OK, at least it might be benefitial for you. So this time we will examine how people communicate. And I mean communicate in the broadest sense, from spoken communication to written or drawn, from informal to formal (in the sense of logically formal). We will look into all of that and we will present a whole theory of how communication happens that is based on [the first installment of "How does knowledge work"](/logic-thought). You remember that, right? Right? Oh, OK, I better start a little earlier.
+> Hello and welcome to the moment that you (all two of you) have been waiting for - the second installment of "How does knowledge work". This is exciting right? Riight? OK, at least it might be benefitial for you. So this time we will examine how people communicate. And I mean communicate in the broadest sense, from spoken communication to written or drawn, from informal to formal (in the sense of logically formal). We will look into all of that and we will present a whole theory of how communication happens that is based on [the first installment of "How does knowledge work"](/logic-thought) where we basically established a logical framework for modelling how the human mind works.
+
+You remember that, right? Right? Well, maybe the reason you fell asleep was that you actually were more interested in how people communicate with one another. Could this be it?  Oh, you don't care? Well, listen up, it's actually interesting. Plus what better things you have to do, right?  Communicate with actual people? OK, cool, but listen up, how would you know that you are actually communicating with them, if you are not familiar with the logical foundations of human communication?
 
 <!--more-->
 
-A summary of what we said in the previous part
+
+We all communicate, or at least we think we do.
+
+What is a system 
 ===
 
 In the [previous installment](/logic-thought), we claimed that the way we think is inherently logical i.e. it is formal. Then we asked the question: But how, then it manages to be so impresice for example every person has thoughts that contradict one another, or opinions that are not boolean? We saw that the best way to answer this question is to postulate that human thought is not based on not one but multiple axiomatic systems which work in parralel to one another and in some cases compete, forming what we called the *system of systems* (or *metasystem* as we will call it here.)
@@ -29,21 +34,38 @@ We can view those systems as, for example, viewpoints that we are considering wh
 
 In this installment, we will see that not only our thinking, but our communication is formal as well, and that perhaps, it is that very ability (to communicate) which makes our thinking formal.
 
-What is communication - transfering systems between metasystems
+What is communication 
 ===
 
 If we view systems as something like *viewpoints* then communication between people would involve transfering those viewpoints from one person to another, or transfering those systems from one metasystem to another (there may be other kinds of communication this is the one that we will be looking at here.) As we all know, this transfer does not happen directly mind-to-mind (and we will see later why it *cannot ever* happen directly), but through a representation which we will call *picture*, as per Wittgenstein's Tractatus.
 
+Pictures
+---
+
 A picture need not be a literal Hasse diagram (although, as we shall see later, Hasse diagrams have certain benefits.) It may be expressed in text, video, conversation or any other media, what defines the picture of a system is just this - it contains a system within itself (at least that is intended by its creator.)
 
 Let's get a real-life example: we are sitting in a bar. I am going to get drinks for you and so I ask you what do you want. You tell me something and I get a drink for you based on your response. 
+
+
+Transfering pictures between agents
+---
 
 Fuziness
 ---
 
 Your mental process for choosing what to drink is logical (let's say) and the method I get from your description is also logical. But that does not mean that they are the same. This is an essential quality of almost all communication it tends to be fuzzy i.e. what you think is not what I think.
 
-Context
+
+Formal communication
+===
+
+Non-formal communication
+===
+
+Aestetics
+---
+
+Dogmas and stuff (self perpetuating systems)
 ---
 
 
