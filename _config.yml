@@ -34,6 +34,13 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 highlighter: rouge
 permalink: /:title/
 
+
+collections:
+  scratchpad:
+    output: true
+    permalink: scratchpad/:path/
+
+
 # The release of Jekyll Now that you're using
 version: v1.1.0
 

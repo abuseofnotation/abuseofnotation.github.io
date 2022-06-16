@@ -3,6 +3,24 @@ title: Misc
 layout: blog
 ---
 
+Lambda the ultimate
+---
+Say what you want about functional programming being just one way to look at things, good only for specific problems etc, but for me looking at code written by a someone who doesn't know lambda calculus is like looking at a blind person who is trying to find their way around the city - they might reach their destination eventually, but they would still be blind.
+
+1 + 1 and programming paradigms
+---
+
+You can understand a log about different programming paradigms from the way in which they implement `1 + 1`:
+
+- In *imperative* languages, such as C, it is just `1 + 1` - arithmetics is build in.
+- In *object-oriented* languages like Smalltalk and Ruby, it is `1.+(1)` - plus is a method of the object `1`.
+- In *functional* languages, like Haskell, it is actually `+(1, 1)` - plus is an inflix operator, which is actually a function.
+In Lisp you just cannot write `(+ 1  1)` directly.
+
+Inspiration
+---
+The only legit way to combat the writer's block and lack of inspiration that I have discovered: take a hour off, leave your work in front of you and start start reading some random book, or doing something else entirely, untill something in what you are reading/doing reminds you of your work.
+
 Hokusai
 ---
 
@@ -12,9 +30,11 @@ Notes
 ---
 Keeping notes is a good idea if you want a very large quantity of mediocre ideas.
 
-Tutorials
+Writing Tutorials
 ---
 Unpopular opinion: Art and writing tutorials that teach you how to find your audience, and say that commitment is the most important thing about art and that if you write/draw every day you would create great stuff etc. are fake, stupid and self-serving and they are part of the reason why 99% of all art is boring, mediocre and useless.
+
+I think I will write a writing tutorial about how you should not listen to writing tutorials. Oh, wait...
 
 Simplicity
 ---

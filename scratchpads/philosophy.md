@@ -2,11 +2,14 @@
 title: Philosophy
 layout: blog
 ---
+Godel-related strong AI refutations
+---
+Not sure who needs to hear this, but Penrose's theory and all other Godel-related strong AI refutations are stupid: "Human mind is different from a computer because humans are capable of detecting logically inconsistent theories and logical paradoxes and think outside the box in order to know that they are paradoxes." Not true at all - our mind actually does nothing more than what a computer operating system would do if it sees a process that occupies a lot of memory and doesn't produce a result - it would kill the process (or the thought that leads to paradox.)  We aren't able to escape an infinite cycle because we are more capable than computers - we are merely equipped with heuristics necessary to escape from a situation that does not benefit us in any way (sometimes).
 
 Science is philosophy
 ---
 
-Science  is just a special application of philosophy, in the same way in which the scientific method is an application to what philosophers call critical thinking:
+Science is just a special application of philosophy, in the same way in which the scientific method is an application to what philosophers call critical thinking:
 
 Critical thinking is just asking yourself "what would be the consequence if a given thing that we accept as true is actually false".
 
@@ -47,7 +50,7 @@ I think that the number one fallacy that is making people stupid is the idea tha
 
 Science today
 ---
-Reading books of #philosophy of #science from the (beginning of the) last century leaves you pretty disillusioned about the state of science today: seems that the efforts to unify different disciplines in order to answer the big questions have evolved to making up new fields where their authors can work undisturbed, or producing theories of everything, which don't explain anything more than their predecessors, all while voicing ridiculous opinions of philosophy and religion.
+Reading books of philosophy of science from the (beginning of the) last century leaves you pretty disillusioned about the state of science today: seems that the efforts to unify different disciplines in order to answer the big questions have evolved to making up new fields where their authors can work undisturbed, or producing theories of everything, which don't explain anything more than their predecessors, all while voicing ridiculous opinions of philosophy and religion.
 
 Formulas and text
 ---
@@ -113,18 +116,15 @@ Reading David Hume’s Treatise.
 
 I find it fascinating how similar it is to the Critique of Pure Reason, though the backgrounds of the two authors are so different.
 
-Kant and Hume  embody the religious and scientific schools in philosophy, Kant seeing belief as a transformative force and Hume seeing it as a peculiarly of the human character.
+Kant and Hume embody the religious and scientific schools in philosophy, Kant seeing belief as a transformative force and Hume seeing it as a peculiarly of the human character.
 
 The ultimate conclusion that you can reach when comparing their viewpoints is that causality is not a law, nor a meta law, but a belief which every thinking being must hold to some extend.
-
-
 
 
 Science = Philosophy + Mathematics
 ---
 
 This came because I learned that when writing “Principia Mathematica”, Newton was influenced by two books - “Principia Philosophiæ” by Rene Descartes, from which he took the subject matter (and the name) and “The Elements” by Euclid, from which he took the method of reasoning.
-Show thread
 
 Deepest chapter of the Critique
 ---
