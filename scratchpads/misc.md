@@ -3,19 +3,33 @@ title: Misc
 layout: blog
 ---
 
-Lambda the ultimate
----
-Say what you want about functional programming being just one way to look at things, good only for specific problems etc, but for me looking at code written by a someone who doesn't know lambda calculus is like looking at a blind person who is trying to find their way around the city - they might reach their destination eventually, but they would still be blind.
-
-1 + 1 and programming paradigms
+Genius/idiot
 ---
 
-You can understand a log about different programming paradigms from the way in which they implement `1 + 1`:
+Doing math leaves me feeling like a genius 10% of the time and like a complete idiot for the other 90%.
 
-- In *imperative* languages, such as C, it is just `1 + 1` - arithmetics is build in.
-- In *object-oriented* languages like Smalltalk and Ruby, it is `1.+(1)` - plus is a method of the object `1`.
-- In *functional* languages, like Haskell, it is actually `+(1, 1)` - plus is an inflix operator, which is actually a function.
-In Lisp you just cannot write `(+ 1  1)` directly.
+Learning programming
+---
+When learning programming it’s important to write a lot of code and also to read a lot of code. Writing is to understand you are retarded and reading is to understand everyone else is retarded as well.
+
+Code comments
+---
+
+Types of code comments by how useful they are:
+
+3 Comments that literary describe what the code does: `// Check if the user has 18 years`
+
+2 Comments that summarize the way a given function is intended to be used `// Checks if the user is eligible for an account and throws an error if they aren't`
+
+1  Comments that make fun of colleagues and their mess ups: `// Bill is a complete idiot that indexes in his objects start with 0 other than one, so we have to check for this here every time`
+
+Cars
+---
+It’s amazing how oblivious people are to how dangerous and harmful cars are to people - any life-threatening thing in the city, such as an hanging cable, open vent etc is big news. Cars - people get murdered every day and they don’t even report it.
+
+Banality of evil
+---
+I think that the principle of the banality of evil is also valid in the other way around: not only that evil is banal, but all banal things are evil (i.e. banal <=> evil)
 
 Inspiration
 ---
@@ -50,47 +64,3 @@ The people
 Nobody cares about the average person's opinion, but everyone is deeply concerned what "the people" think.
 
 
-Hard things in CS
----
-
-Finally got the final list of the three hard things in computer science!
-
-0. Naming artifacts
-1. <Item unavailable>
-2. Concurrent
-3. Off by one errors.
-data processing
-
-
-Genius/idiot
----
-
-Doing math leaves me feeling like a genius 10% of the time and like a complete idiot for the other 90%.
-
-
-Learning programming
----
-When learning #programming it’s important to write a lot of code and also to read a lot of code. Writing is to understand you are retarded and reading is to understand everyone else is retarded as well.
-
-Code comments
----
-
-Types of code comments by how useful they are:
-
-3 Comments that literary describe what the code does: `// Check if the user has 18 years`
-
-2 Comments that summarize the way a given function is intended to be used `// Checks if the user is eligible for an account and throws an error if they aren't`
-
-1  Comments that make fun of colleagues and their mess ups: `// Bill is a complete idiot that indexes in his objects start with 0 other than one, so we have to check for this here every time`
-
-
-Conway's game of life and the halting problem
----
-
-Conway's Game of Life" is the perfect setup for understanding the Halting Problem: 
-
-Given a pattern and a seed, producing an non-terminating sequence and the question, "Is this pattern a part of the sequence?"  you cannot always answer that question. 
-
-If the answer is "No" you have to check the whole sequence and you cannot do that because it's endless
-
-If the answer is "Yes", you can easily check it just as you can easily diagnose some issues with your code, but you cannot be sure it works.

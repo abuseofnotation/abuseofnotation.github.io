@@ -3,9 +3,31 @@ title: Capitalism
 layout: blog
 ---
 
+Work
+---
+
+People don't hate work, they hate executing the commands of some idiot and being harassed.
+
+
+What is capitalism about
+---
+
+And to think that people are fooled that capitalism is all about, hard work, entrepreneurship etc. Capitalism is about capital, folks - it's there in the name.
+
+Mental illness
+---
+
+It is not so much that capitalism leads to an epidemic of mental illness, it is more that there are many conditions, many people that are so incompatible with capitalism that making them comply will cause the system to lose any human face. We are categorized as sick,  because else the system would have to be categorized as such.
+
+
+
 Capitalism is dead
 ---
+
 Capitalism is dead, the establishment are holding up the corpse and putting hat and sunglasses on it, in an effort to hide this fact (which is nevertheless quite obvious to anyone who is not living in a bubble)
+
+Capitalism and innovation
+---
 
 Hard to defend the thesis that capitalism promotes innovation, when the main social discourse surrounding any innovation is how to deal with the people who would lose their jobs because of it.
 
@@ -15,7 +37,7 @@ Cars
 ---
 It’s amazing how oblivious people are to how dangerous and harmful cars are to people - any life-threatening thing in the city, such as an hanging cable, open vent etc is big news. Cars - people get murdered every day and they don’t even report it.
 
-Heart and brain
+That quote about the heart and the brain
 ---
 People who use that quote that if you aren't into communism as a youth you have no heart, but if you don't later drop it when you get older you have no brain, seem like they are so  desperate over the fact that they have lost their hearts that they made up the second part to soothe themselves.
 

@@ -2,6 +2,17 @@
 title: Philosophy
 layout: blog
 ---
+
+Science and philosophy
+---
+
+Science  is just a special application of philosophy, in the same way in which the scientific method is an application to what philosophers call critical thinking:
+
+Critical thinking is just asking yourself "what would be the consequence if a given thing that we accept as true is actually false".
+
+The scientific method is the practice of applying this question to empirical observations.
+
+
 Godel-related strong AI refutations
 ---
 Not sure who needs to hear this, but Penrose's theory and all other Godel-related strong AI refutations are stupid: "Human mind is different from a computer because humans are capable of detecting logically inconsistent theories and logical paradoxes and think outside the box in order to know that they are paradoxes." Not true at all - our mind actually does nothing more than what a computer operating system would do if it sees a process that occupies a lot of memory and doesn't produce a result - it would kill the process (or the thought that leads to paradox.)  We aren't able to escape an infinite cycle because we are more capable than computers - we are merely equipped with heuristics necessary to escape from a situation that does not benefit us in any way (sometimes).
