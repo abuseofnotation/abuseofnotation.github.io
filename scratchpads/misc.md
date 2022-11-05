@@ -3,10 +3,74 @@ title: Misc
 layout: blog
 ---
 
+Emotions
+---
+The fact that someone does not feel the same emotions as you, that does not make them less emotional.
+
+Doing things poorly
+---
+
+One of the best pieces of advice that I got:
+
+"Anything worth doing is worth doing poorly"
+
+And conversely, everything that is not worth doing poorly is not worth doing at all.
+
+Banality of evil
+---
+I think that the principle of the banality of evil is also valid in the other way around: not only that evil is banal, but all banal things are evil (i.e. banal <=> evil)
+
+Mathematics in daily life
+---
+
+We don’t use maths in our daily life because other people have solved all hard problems for us and the solutions are encoded on the tools that we use, however not knowing math means that you will be forever a consumer, bound to use those existing tools and solutions.
+
+Disclaimer: my definition of mathematics is much broader than the usual ones
+
+
+The meaning of life
+---
+
+Who came up with the idea of “*the* meaning of life”.
+
+Why does it have to be *one* meaning? Even a book has multiple meanings. 
+
+This desire to simplify things is what gets us in trouble.
+
+The best
+---
+
+Everyone wants to be the best, noone wats to question the criteria that determine what the best is.
+
+
+Borko's principle
+---
+
+People often claim to come up with a new idea, instead of recognizing prior art and using a name that is already there, because they are eager to attach their names to something, out of sheer vanity.
+
+I call this “Borko’s principle”
+
+Metahumour
+---
+
+The only type of humor that doesn’t offend anyone is the one that makes fun of itself (meta humour). Incidentally this is the only type of humor I find truly funny it’s like the opposite of “cheap laughs”.
+
+On being self-critical
+---
+
+My focus for the next year or so is to stop being so self-critical. No reason whatsoever to beat yourself for stupid shit, and it destroys your self-esteem, allowing you to be exploited by egomaniacs who don't even know what self-criticism means.
+
+My fear has always been that not being critical of myself will make me into one of those assholes, but actually there is no way for this to happen, as long as your intentions are good.
+
+
 Genius/idiot
 ---
 
 Doing math leaves me feeling like a genius 10% of the time and like a complete idiot for the other 90%.
+
+Bezos in space
+---
+I don't have any problem with Jeff Bezos going in space, the only thing I dislike is that he came back.
 
 Learning programming
 ---
@@ -54,6 +118,11 @@ Simplicity
 ---
 I am getting weary people's almost religious devotion to simplicity and briefness. "Use simpler language" "Can't you say the same thing in fewer words?" Well, if I say it with fewer and simpler words, it won't be the same thing, would it? What if I am crazy and I believe that all that matters? If the practice of summing human knowledge into short and accessible sentences worked, then everyone today would be brainiacs. And you are free to decide on your own to what extend that is true
 
+Advice to my 20-year-old-self
+---
+
+This is the only thing that I wish I could give to my 20 year-old self: you deserve respect not because you are smart/good at stuff etc., you deserve respect because you are a human being and you are doing your best to be a good person.
+
 Impressing others
 ---
 Don't try to impress others - they don't care.
@@ -64,3 +133,15 @@ The people
 Nobody cares about the average person's opinion, but everyone is deeply concerned what "the people" think.
 
 
+f someone does not feel the same emotions as you, that does not make him less emotional.
+
+More stuff
+---
+Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
+
+
+The army
+---
+Indeed, people who haven't served in the army are not real men. 
+
+Because is there anything more masculine than being proud of something that ABSOLUTELY ANYONE in your age and gender also accomplished, which was also not your decision at all?

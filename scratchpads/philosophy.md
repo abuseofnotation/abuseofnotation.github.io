@@ -3,6 +3,19 @@ title: Philosophy
 layout: blog
 ---
 
+Intelligence and freedom of thought
+---
+
+Intelligence is just the practice  of thinking freely about something, (without accepting any kind of external dogma as a-priori true.) Nobody can ever teach you to be intelligent.
+
+99 percent of being intelligent is realizing that all those fucktards who give you advice like “Don’t marry” or “Go study this and that” are just fucktards who don’t have anything better to do and are using you as a means to raise their self esteem m by having people listening to them. 
+
+Understanding
+---
+You only truly understand the things that you yourself made up.  And so if you think you truly understand something, either you are wrong or you made that thing up.
+
+
+
 Science and philosophy
 ---
 
@@ -43,9 +56,14 @@ The false one, is less connected to reality, so it is static. Nothing happens in
 
 Principle of triviality
 ---
-Marinov's principle of triviality: any self-consistent thesis can be trivially reduced to a (usually small) number of clear elementary postulates and what follows from them. 
+Marinov's principle of triviality: any self-consistent set of laws believes etc. can be reduced, at least theoretically, to a (usually small) number of clear elementary postulates and what follows from them. 
 
-Any thesis for which it is not immediately clear what these postulates are, is not self-consistent.
+Any set for which it is not immediately clear what these postulates are, is not self-consistent.
+
+Simply put: if you cannot explain the complete system using layman language and constructs there is probably inconsistency in it somewhere.
+
+Example: most religious doctrines.
+
 
 Roko's basilisk
 ---
@@ -141,7 +159,39 @@ Deepest chapter of the Critique
 ---
 At first I thought that the Transcendental Deduction was the heart of the matter of "The Critique of Pure Reason", but upon rereading, it's definitely not it. The deepest chapter is appropriately called "Systematic representation of All the Synthetic Principles of Pure Understanding" and is awesome. Especially the "Analogies of Experience" and the "Anticipation of Perception" are so deep that I did not understand a single word at first, but it all comes together with time.
 
+Positive nihilism
+---
+Nothing that you say or do matters in the grand scheme of things, and this is pathetic, but more pathetic is the refusal to accept that fact, instead of conforming to it and thus making it the only thing you conform to: 
+
+Your achievements don't matter, so no point in being dishonest.
+
+You failures don't matter, so no point in giving up.
+
+Your strive to perfection is vain, so no point in pressuring yourself.
 
 Rookie mistake
 ---
 Top one rookie mistake made by analytic philosophers: thinking that just because X can be represented by Y therefore X is Y. So for example, just because a given phenomena can be represented by maths, does not mean that it is "mathematical" by nature.
+
+The concept of self
+---
+Re-reading "I am a strange loop" and finding much stuff that I missed originally. I like the author's idea of an organism's concept of self as the central concept in an organism's system of thought, and the one that binds all other concepts together. 
+
+Like, a concept is considered true and real by us only if it relates to our concept of ourselves. Our concept of ourselves is the realest thing there exists for us (although it in actuality is completely objective).
+
+Spirituality
+---
+I wrote a very long article on capitalism  and solarpunk which I did not publish anywhere, but the gist of it all was that when (if) we humans start fearing spiritual death more than we fear physical death, our society will arrive at the next stage.
+
+Kant and Dogen
+---
+Dogen's concept of a "myriad of things" is very similar to Kant's concept of the "manifold of sensibility", essentially both are trying to highlight the novel, flux-like aspect of reality, the fact that the concept of objects are subjective (no pun intended). It would be a really cool plot twist if it turned out that Kant had read Dogen (very highly unlikely in real life).
+
+Non-determinism
+---
+"The world is non-deterministic" bugs people so much because it is another way of saying that all science theories that are and that can ever be created are just abstractions that will never get to the heart of the matter.
+
+
+Scientism
+---
+Scientism isn't a religion - it's a cult.
