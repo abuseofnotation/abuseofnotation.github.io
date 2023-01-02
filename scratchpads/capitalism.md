@@ -4,7 +4,6 @@ layout: blog
 ---
 
 
-
 Everything
 ---
 
@@ -33,6 +32,20 @@ By the same token, pursuing a goal as obtuse and meaningless as money makes you 
 e.g. a person who is sorry for whatever bad thing  they have done and wants to be a good person *already is* a good person, better than a billionaire who donates 10% of this fortune to charity.
 
 10-year-old-kid who has set their mind to become a great pianist *is* a great pianist, better than anyone who merely plays just for the money.
+
+
+Art under capitalism
+---
+Under capitalism art is a commodity like everything else and so the most valuable pieces are most expensive, however, as value in art is relative, this principle works the other way around - the most expensive pieces are most valuable i.e. the rich determine the criteria for what’s beautiful and ugly.
+
+This undermines art, reducing it to just another form of entertainment for the elite, and marginalizing all artists who want to be something different than that.
+
+The best thing a creative person can hope for, is to be like Stephen King - be so famous that a capitalist would consider your opinion when making their (his) business strategy.
+
+
+Capitalism and mentall illness
+---
+Actually, it is not so much that capitalism leads to an epidemic of mental illness, it is more that there are many conditions, many people that are so incompatible with capitalism that making them comply will cause the system to lose any human face. We are categorized as sick,  because else the system would have to be categorized as such.
 
 
 Work
@@ -225,3 +238,9 @@ Do I really need that item right now, or can I can buy it later so I have more t
 More stuff
 ---
 Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
+
+
+
+Countries and corporations
+---
+Most people agree that *countries* are ruled in a democratic fashion with the right to vote etc. but at the same time they think that *corporations* are better off as  dictatorships where most people are depraved of any rights.
