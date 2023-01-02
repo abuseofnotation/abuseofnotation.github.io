@@ -3,6 +3,36 @@ title: Misc
 layout: blog
 ---
 
+Time and money
+---
+
+Time is not money - you can convert time to money, but not the other way around.
+
+
+How artists settle
+---
+
+When an artist stops experimenting and settles for a specific type of content and aesthetics, critics say that it is because they “matured” and “found their voice”, “developed a unique style” etc.
+
+AFAIK, in most cases it’s because they lost their inspiration, became lazy, and decided to only do low effort remixes if the project that sells best. 
+
+And the reason why critics (both professional and self-proclaimed) and regular consumers like settled artists so much is because it make THEIR job easier - why get into a new thing every time and wonder how to react, when you could be just reading variations of the same old thing over and over again.
+
+
+Normal and non-normal people
+---
+
+Viewing people as merely normal and non-normal is like viewing drinks as alcoholic and non-alcoholic.
+
+
+The point of life
+---
+
+- I am so confused! If only I knew what is the point of my life!
+- Well it’s relative, but it probably has to do with being good, making a positive impact for the people around us, doing meaningful work having meaningful relationships etc.
+- Nah, I am pretty sure that’s not it.
+
+
 Genius/idiot
 ---
 
@@ -62,5 +92,6 @@ Don't try to impress others - they don't care.
 The people
 ---
 Nobody cares about the average person's opinion, but everyone is deeply concerned what "the people" think.
+
 
 
