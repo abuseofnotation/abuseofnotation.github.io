@@ -15,12 +15,12 @@ layout: blog
 
 <!--more-->
 
-Understanding communication is key to understanding our thought process - the only thoughts that we are sure we have, are the ones that we can communicate in some way to other people, or at least to ourselves. But at the same time communication sometimes feel very unreliable and error-prone and - the person whom you are speaking gets *somewhat* what we are saying, they (with the exception of some very trivial cases) never get it quite right.
+Understanding communication is key to understanding our thought process - the only thoughts that we are sure we have, are the ones that we can communicate in some way to other people, or at least to ourselves. But at the same time communication sometimes feel very unreliable and error-prone - in most cases the person whom we are speaking *somewhat* gets what we are saying, they (with the exception of some very trivial cases) never get it quite right. So why is that? 
 
 What is a viewpoint. A summary of the previous article
 ===
 
-In the [previous installment](/logic-thought) of this series, we claimed that the way we think is inherently logical i.e. it is formal. Then we asked the question: But why and how, then it (our thinking) manages to be so impresice, e.g. we have thoughts that contradict one another, or opinions that are more complex than simple yes/no. We saw that the best way to answer this question is to postulate that human thought is based on not one but multiple axiomatic systems that work in parralel, and in some cases compete, forming what we called the *system of systems* (or *metasystem* as we will call it here.)
+In the [previous installment](/logic-thought) of this series, we claimed that the way we think is inherently logical i.e. it is formal. Then we asked the question: But why and how, then it (our thinking) manages to be so imprecise, e.g. we have thoughts that contradict one another, or opinions that are more complex than simple yes/no. We saw that the best way to answer this question is to postulate that human thought is based on not one but multiple axiomatic systems that work in parralel, and in some cases compete, forming what we called the *system of systems* (or *metasystem* as we will call it here.)
 
 <figure>
   <img src="/images/logic/jump.svg" width="100%">
@@ -31,7 +31,7 @@ A system that is connected to two other systems (by different sets of assertions
   </figcaption>
 </figure>
 
-We said that we can view those systems as mental representations or explanations that we are considering when making a decision each of which carries some weight in the final result, using what we called *levels of relevance* to a given problem. 
+We said that we can view those systems as mental representations or *explanations* that we are considering when making a decision each of which carries some weight in the final result, using what we called *levels of relevance* to a given problem. 
 
 Finally, we mentioned two ways in which these levels of relevance are determined: 
 1. By elementary positive response from the body (e.g. instincts)
@@ -47,13 +47,13 @@ Systems are *theories* or *explanations* of some phenomena. In the context of th
 Viewpoint pictures 
 ===
 
-If we view systems as something like *viewpoints* then communication between people would involve transfering those viewpoints from one person to another, or, more formally, transfering those systems from one metasystem to another (you might argue that there are other kinds of communication this is the one that we will be looking at here.) But, as we all know, this transfer does not happen directly mind-to-mind (and we will see later why it *cannot ever* happen directly), but through crafting representations of those viewpoints, which we will call *picture*, as per Wittgenstein, who came up with most of this stuff originally.
+If we view systems as something like *viewpoints* then communication between people would involve transfering those viewpoints from one person to another, or, more formally, transfering those systems from one metasystem to another (you might argue that there are other kinds of communication this is the one that we will be looking at here.) But, as we all know, this transfer does not happen directly mind-to-mind (and we will see later why it *cannot ever* happen directly), but through crafting representations of those viewpoints, which we will call *picture*, as per Wittgenstein, who originally came up with most of this stuff.
 
 A logical system/viewpoint can be represented and thought of as a *Hasse diagram* (that is a set of points that are connected by arrows.) A *picture* of a viewpoint, then, is any object that represents the structure of such diagram.
 
-A picture need not be a literal Hasse diagram (although using literal Hasse diagrams has certain benefits) - it may be expressed in text, video, conversation or any other media. What defines the picture of a viewpoint is just the fact that it contains a viewpoint within itself in some way (at least that is intended by its creator.)
+A picture need not be a literal Hasse diagram (although using literal Hasse diagrams has certain benefits) - it may be expressed in text, video, conversation or any other media. What defines the picture of a viewpoint is just the fact that it contains the viewpoint within itself in some way (at least that is intended by its creator.)
 
-Immediately we can split pictures in two main categories - *formal* and *non-formal* (fuzzy) pictures. A working definition: formal are the pictures created by a person who has a Hasse diagram of what they want to represent, in their mind, and non-formal are the ones where they do not. Note that a formal picture *might* be misunderstood, i.e. the picture that is in the communicator's mind end up different from the one which is received, however, a non-formal one is (in some sense) *always* misunderstood, simply because it doesn't have a single logically sound interpretation.
+Immediately we can split pictures in two main categories - *formal* and *non-formal* (fuzzy) pictures. A working definition: formal are the pictures created by a person who has a Hasse diagram of what they want to represent in their mind, and non-formal are the ones where they do not. Note that a formal picture *might* be misunderstood, i.e. the picture that is in the communicator's mind end up different from the one which is received, however, a non-formal one is (in some sense) *always* misunderstood, simply because it doesn't have a single logically sound interpretation.
 
 Formal viewpoints
 ---
@@ -120,7 +120,9 @@ As we can see, these terms are not precisely defined i.e. they are opened to int
 
 As you can guess, what we call the context of a viewpoint is actually just a collection of other viewpoints that it depends on i.e. it's viewpoints all the way down.
 
-To formalize this context, and thus remove any chance of misunderstanding which might potentially result in me getting the wrong kind of drink, I would have to provide a description of the viewpoints that form this context e.g. provide a description of what I think is a reasonably-priced beer. This would certainly minimize the chance of error, but it *will not eradicate it*, because my viewpoint for a reasonably-priced beer would depend on some other, more basic viewpoints (e.g. the viewpoint of what is beer in the first place.)
+To formalize this context, and thus remove any chance of misunderstanding which might potentially result in me getting the wrong kind of drink, we would have to provide a description of the viewpoints that form this context e.g. provide a description of what I think is a reasonably-priced beer. This would certainly minimize the chance of error, but it *will not eradicate it*, because my viewpoint for a reasonably-priced beer would depend on some other, more basic viewpoints (e.g. the viewpoint of what is beer in the first place) which, in turn would depend on even more basic viewpoints and so on.
+
+For this reason, even if your mental process for choosing what to drink is logical (let's say) and the method I get from your description is also logical, that does not mean that they are the same. This is an essential quality of almost all communication it tends to be fuzzy i.e. what you think is not what I think.
 
 For a detailed description of how I believe the system of viewpoints function, refer to this quote from the first part of the article (there they are called "logical systems" instead of "viewpoints", as the context is different.)
 
@@ -135,15 +137,19 @@ For a detailed description of how I believe the system of viewpoints function, r
 
 > With each "jump" from one less abstract system to another more abstract one, more and more is "known" about a given situation, but at the same time, there are more and more possible interpretations, each giving us a separate system of analysing the situation. 
 
-And so the only way for us to be completely precise in our language is to start with the most basic terms there is and to communicate the whole tree of viewpoints that are relevant, as context to the one we are communicationg i.e. to transfer communicate to the other person the *complete contents of our brain*.
 
 What is communication
 ===
 
-Now that we have a basic understanding of the way information is transferred, let's outline the communication process itself (of which we already have some idea.) The process is two parts: transferring of *pictures* and transfer of their *contexts*.
+Now that we have a basic understanding of the way information is transferred, let's outline the communication process itself (of which we already have some idea.) 
+
+The process of communication comes in two parts: transferring of *pictures* and transfer of their *contexts*.
+
 
 Transfering pictures between agents
 ---
+
+The prerequisite for the occurence of communication is the existence of at least two *agents*. 
 
 <figure>
   <img src="/images/logic/transfering_pictures.svg" width="100%">
@@ -157,7 +163,10 @@ Transfering pictures between agents
 Transfering context between agents
 ---
 
-Your mental process for choosing what to drink is logical (let's say) and the method I get from your description is also logical. But that does not mean that they are the same. This is an essential quality of almost all communication it tends to be fuzzy i.e. what you think is not what I think.
+And so the only way for us to be completely precise in our language is to start with the most basic terms there is and to communicate the whole tree of viewpoints that are relevant, as context to the one we are communicationg i.e. to more or less transfer to the other person the *complete contents of our brain*. This is theoretically possible, but it is not what we are doing.
+
+
+
 
 Thoughts and communication
 ===
