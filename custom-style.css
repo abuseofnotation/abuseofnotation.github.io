@@ -39,14 +39,14 @@ body{
 
 @font-face {
     font-family: 'mell_ultra';
-    src: url('mellsans/MellSans3-Ultra.otf') format('opentype');
+    src: url('mell/display/MellDisplay0.5-Ultra.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'mell_regular';
-    src: url('mellsans/MellSans3-Regular.otf') format('opentype');
+    src: url('mell/sans/MellSans0.5-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
