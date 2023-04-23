@@ -66,6 +66,9 @@ h1, h2, h3, h4, h5, h6 {
 pre {
   font-family: 'mell_mono';
 }
+.highlight {
+  font-family: 'mell_mono';
+}
 
 .header {
   background-color: black!important;
