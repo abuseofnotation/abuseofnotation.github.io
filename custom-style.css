@@ -51,11 +51,21 @@ body{
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'mell_mono';
+    src: url('mell/mono/MellMono0.5-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'mell_ultra';
   font-weight: bold;
 }
 
+pre {
+  font-family: 'mell_mono';
+}
 
 .header {
   background-color: black!important;
