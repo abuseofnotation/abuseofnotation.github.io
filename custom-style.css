@@ -53,7 +53,7 @@ body{
 
 @font-face {
     font-family: 'mell_mono';
-    src: url('mell/mono/MellMono0.5-Bold.otf') format('opentype');
+    src: url('mell/mono/MellMono0.5-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-pre {
+code {
   font-family: 'mell_mono';
 }
 .highlight {
