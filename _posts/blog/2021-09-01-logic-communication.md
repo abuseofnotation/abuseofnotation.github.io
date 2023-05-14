@@ -34,15 +34,18 @@ A system that is connected to two other systems (by different sets of assertions
 We said that we can view those systems as mental representations or *explanations* that we are considering when making a decision each of which carries some weight in the final result, using what we called *levels of relevance* to a given problem. 
 
 Finally, we mentioned two ways in which these levels of relevance are determined: 
+
 1. By elementary positive response from the body (e.g. instincts)
 2. From family resemblance with systems that are already established as "true".
 
-In this installment, we will see that not only the way we think, but the way we communicate is formal as well, and that perhaps it is that very ability (to communicate) which makes our thinking formal.
+In this installment, we will see that not only the way we think, but the way we communicate is formal as well, and that perhaps it is that very ability (to communicate) which makes our thinking formal. 
+
+We will also examine in detail those two mechanisms for determining the relevance of a given theory in the light of what we discovered.
 
 Systems as viewpoints
 ---
 
-Systems are *theories* or *explanations* of some phenomena. In the context of the brain, which we examined in the previous installment, we thought of them as *mental images* (means of explaining somethig to *ourselves*). In the context of communication they are more appropriately likened to *viewpoints* (means of explaining something to *other people*). If you examine the two concepts closely, you will see that the difference is only superficial - a mental image at first belongs in the brain of a given person, but if it is shared by them with different people, the image becomes their viewpoint (although one person can have multiple viewpoints.)
+Systems are *theories* or *explanations* of some phenomena. In the context of the brain, which we examined in the previous installment, we thought of them as *mental images* (means of explaining somethig to *ourselves*). In the context of communication they are more appropriately likened to *viewpoints* (means of explaining something to *other people*). If you examine the two concepts closely, you will see that *the difference between them is only superficial* - when a theory belongs just in the mind of its creator, it is is a mental image, but if it is shared by them with different people, it becomes a *viewpoint* that this person has, about a given state of affairs (although one person can have multiple viewpoints.)
 
 Viewpoint pictures 
 ===
@@ -164,8 +167,6 @@ Transfering context between agents
 ---
 
 And so the only way for us to be completely precise in our language is to start with the most basic terms there is and to communicate the whole tree of viewpoints that are relevant, as context to the one we are communicationg i.e. to more or less transfer to the other person the *complete contents of our brain*. This is theoretically possible, but it is not what we are doing.
-
-
 
 
 Thoughts and communication
