@@ -160,11 +160,9 @@ The people
 ---
 Nobody cares about the average person's opinion, but everyone is deeply concerned what "the people" think.
 
-
-<<<<<<< HEAD
-
-=======
-f someone does not feel the same emotions as you, that does not make him less emotional.
+Emotions/neurodiversity
+---
+If someone does not feel the same emotions as you, that does not make him less emotional.
 
 More stuff
 ---
@@ -176,4 +174,3 @@ The army
 Indeed, people who haven't served in the army are not real men. 
 
 Because is there anything more masculine than being proud of something that ABSOLUTELY ANYONE in your age and gender also accomplished, which was also not your decision at all?
->>>>>>> d6241267cbc300425f3a0f85955a344eb7fb068d
