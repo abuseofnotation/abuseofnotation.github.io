@@ -7,7 +7,7 @@ AI
 ---
 AI can do our jobs, because under capitalism a “job” is necessary something that can be taught in a relatively short time (so the worker is expendable) and that has clear predefined criteria for what is a good and bad result (so they can be bossed around/fired). Every job under capitalism is a perfect target for a AI!
 
-Capitalism and spirituality
+Spirituality
 ---
 
 Why are today’s leading spiritual teachers be billionaires? I know people who know more about how to live a happy and fulfilled life than e.g. Naval, and most of them are broke.
@@ -26,10 +26,10 @@ Mayday
 ---
 - Hey, Captain is it just me, or is the airplane headed straight to this huge volcanic crater, full of hot lava?
 - Yup, we will likely be all dead in a minute!
-- OK, so will you try to maybe, you know, alter our couse?
+- OK, so will you try to maybe, you know, alter our course?
 - I won’t, because that didn’t work out when the Russians tried doing it the 1940s.
 
-The couse leading to drowning in lava might not be a *good* course, but it is the best one out there!
+The course leading to drowning in lava might not be a *good* course, but it is the best one out there!
 
 Free market
 ---
@@ -43,15 +43,13 @@ On the law of diminishing returns
 
 Reading a book on simple living and thinking the following -  what if diminishing returns just occur at a much smaller scale than economic textbooks tell us? What if working in teams of 1-6 people is the most optimal mode of production, (although huge corporations with marketing and PR departments are obviously capable of *selling* us more products). What would be the implications?
 
-When I say “most optimal” I mean that it brings the most value to people. Unfortunately this cannot be measured and put in concrete terms as “value” is too abstract concept to be used as a metric. Profit, on the other hand is simple to measure. However it is the wrong metric.
+When I say “most optimal” I mean that it brings the most value to people. Unfortunately this cannot be measured and put in concrete terms as “value” is too abstract concept to be used as a metric. Profit, on the other hand is simple to measure, however, it is the wrong metric.
  
 When you measure the value of a given transaction by profit, you only measure the effect it has on the people who actually *acquire* that profit. You don’t measure the effect on neither the workers (who aren’t shareholders), nor the consumers.
 
 So, for example a corporation that manufactures a very low-quality product with slave-like labor would do very well, if you are only looking at the spreadsheets - low expenses, high worker productivity, massive profit etc. But if we try to measure the (negative) value that this company brings to the people who work for it - their health and financial situation or the negative value that it brings to the consumers, who get something manufactured by someone who doesn't look after their interests.
 
-If we take these groups into account, then a small business venture that is owned by the people who work in it brings much more value than a big corporation. Bonus points if they produce stuff for  themselves. In this case instead of having three groups (shareholders, workers, consumers) and an organization that serves just one of these groups (not to mention it is often the smallest one), you have just one group that looks after it's own interests, e.g. even if twitter makes more profit than mastodon (although twitter is losing and Mastodon has no profit cause it is not a corporation), I argue that the value that masto brings to its users (consisting of information free of ads and hatespeech) as well as the value it brings to the people involved in its development is far greater than the value twitter brings to its users and employees. 
-
-(no info, about masto as place to work, but compared to twitter under Munsk everything is good, probably)
+If we take these groups into account, then a small business venture that is owned by the people who work in it brings much more value than a big corporation. Bonus points if they produce stuff for  themselves. In this case instead of having three groups (shareholders, workers, consumers) and an organization that serves just one of these groups (not to mention it is often the smallest one), you have just one group that looks after it's own interests, e.g. even if twitter makes more profit than mastodon (although twitter is losing and Mastodon has no profit cause it is not a corporation), I argue that the value that masto brings to its users (consisting of information free of ads and hates peech) as well as the value it brings to the people involved in its development is far greater than the value twitter brings to its users and employees. 
 
 Everything
 ---
@@ -60,11 +58,11 @@ Everything
 
 Well, that's because you *don't* have everything, you have just money (and things that you can buy with it)
 
-You don't have a job that satisfies you while letting you retain your piece of mind
+You don't have a job that satisfies you while letting you retain your piece of mind.
 
-You don't have quality relationships with people who will be there for you, even if you are broke
+You don't have quality relationships with people who will be there for you, even if you are broke.
 
-You don't have material objects that fulfil your needs without having maintenance costs that make you dependent on corporations that you don't want to depend on.
+You don't have material objects that fulfill your needs without having maintenance costs that make you dependent on corporations that you don't want to depend on.
 
 Or maybe you understand that you need all these things, but you are thought that you need them *in addition* to being rich. 
 
@@ -83,7 +81,7 @@ e.g. a person who is sorry for whatever bad thing  they have done and wants to b
 10-year-old-kid who has set their mind to become a great pianist *is* a great pianist, better than anyone who merely plays just for the money.
 
 
-Art under capitalism
+Art 
 ---
 Under capitalism art is a commodity like everything else and so the most valuable pieces are most expensive, however, as value in art is relative, this principle works the other way around - the most expensive pieces are most valuable i.e. the rich determine the criteria for what’s beautiful and ugly.
 
@@ -92,28 +90,16 @@ This undermines art, reducing it to just another form of entertainment for the e
 The best thing a creative person can hope for, is to be like Stephen King - be so famous that a capitalist would consider your opinion when making their (his) business strategy.
 
 
-Capitalism and mentall illness
+Mental illness
 ---
+
 Actually, it is not so much that capitalism leads to an epidemic of mental illness, it is more that there are many conditions, many people that are so incompatible with capitalism that making them comply will cause the system to lose any human face. We are categorized as sick,  because else the system would have to be categorized as such.
-
-
-Work
----
-
-People don't hate work, they hate executing the commands of some idiot and being harassed.
 
 
 What is capitalism about
 ---
 
 And to think that people are fooled that capitalism is all about, hard work, entrepreneurship etc. Capitalism is about capital, folks - it's there in the name.
-
-Mental illness
----
-
-It is not so much that capitalism leads to an epidemic of mental illness, it is more that there are many conditions, many people that are so incompatible with capitalism that making them comply will cause the system to lose any human face. We are categorized as sick,  because else the system would have to be categorized as such.
-
-
 
 Capitalism is dead
 ---
@@ -127,15 +113,12 @@ Hard to defend the thesis that capitalism promotes innovation, when the main soc
 
 Realize how ridiculous this looks in the grand schema of things: someone comes up with marvelous new technology that solves all your issues and your first reaction as a society is "but what would the people who used to work on that issue do for a living?"
 
-Cars
----
-It’s amazing how oblivious people are to how dangerous and harmful cars are to people - any life-threatening thing in the city, such as an hanging cable, open vent etc is big news. Cars - people get murdered every day and they don’t even report it.
-
 That quote about the heart and the brain
 ---
+
 People who use that quote that if you aren't into communism as a youth you have no heart, but if you don't later drop it when you get older you have no brain, seem like they are so  desperate over the fact that they have lost their hearts that they made up the second part to soothe themselves.
 
-Capitalism and christianity
+Capitalism and Christianity
 ---
 
 Was thinking that Plato allegedly said that ignorance is the only sin and if it's possible since the concept of a sin came later in history and I suddenly realized. That the concept of a sin is pure BS Like "There is this thing that you would really like to do but you should not do it because it is wrong (and God will punish you), so you should never ever do it and you should beat yourself (literary) when you go as far as to think about it."
@@ -145,8 +128,6 @@ That's like saying "you're guilty until proven innocent, and you will never be i
 The doctrine of the world's major religion is just totalitarian propaganda, thinly disguised as advice/prophecy.
 
 Like, if you take the fable about Adam and Eve and the apple. What does the apple represent? Sex? Knowledge? Or most probably just opposition to authority. Not clear what was God's purpose with putting the tree there. All we understand is that if we do wrong we will be punished and we already did wrong...
-
-
 
 Middle-class
 ---
@@ -252,43 +233,6 @@ Statistics that are most often displayed in the media:
 
 The fairy tale says that boosting the ones from below would inevitably result in boosting the ones from above. But is this really the case?
 
-Jeff Bezos
----
-I don't have any problem with Jeff Bezos going in space, the only thing I dislike is that he came back.
-
-
-Lazy Marx
----
-I assume that people who say that Karl Marx didn't have a job are all writing monumental 1000-page studies as a hobby.
-
-Productivity
----
-Seems that all this obsession with productivity that we have is due to the fact that we don’t believe in the things we do and so we want to at least do more of them.
-
-
-Questions I ask myself before buying something
----
-
-What’s the purpose of this item?
-
-Do I really need for an item which serves that purpose? How would it benefit me?
-
-Do I already own something that can be repurposed/fixed/made to serve the same purpose? 
-
-Can I borrow such thing from a friend who does not need it?
-
-Who is selling this item and do I want to endorse them by buying it from them?
-
-In what ways does the item make me dependent in therms of fixes, supplies, energy consumed etc. On whom?
-
-Do I really need that item right now, or can I can buy it later so I have more time to consider the above?
-
-
-More stuff
----
-Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
-
-
 
 Countries and corporations
 ---
@@ -298,11 +242,11 @@ Most people agree that *countries* are ruled in a democratic fashion with the ri
 The definition of nazism
 ---
 
-After reading about the last "Eloniada" (made this word up just now) about "cisgender" being a slur I finally understood what nazism/fashism is.
+After reading about the last "Eloniada" (made this word up just now) about "cisgender" being a slur I finally understood what nazism/fascism is.
 
 Nazism is a delusion where (a part of) the establishment is made to believe that they are the minority and that all their problems are caused by some other group of people, which they deem as the new establishment. Bonus point if that group of people are actually very weak, small and vulnerable.
 
-This delusion causes the the establishment to expect to solve their problems by repressing this group, and to repress it even more when their problems are not solved, leading to a feedback loop.
+This delusion causes the establishment to expect to solve their problems by repressing this group, and to repress it even more when their problems are not solved, leading to a feedback loop.
 
 Example: Hitler came to power by putting forward the conspiracy theory the Jews are solely responsible for all of Germany's issues [1] and that repressing them would solve them. And so when repressions didn't do lead to any improvement (jews were less than 1% of the population[2]) all he could do in order not to expose himself as a fraud was to repress them even more.
 

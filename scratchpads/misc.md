@@ -56,10 +56,6 @@ One of the best pieces of advice that I got:
 
 And conversely, everything that is not worth doing poorly is not worth doing at all.
 
-Banality of evil
----
-I think that the principle of the banality of evil is also valid in the other way around: not only that evil is banal, but all banal things are evil (i.e. banal <=> evil)
-
 Mathematics in daily life
 ---
 
@@ -83,12 +79,12 @@ The best
 Everyone wants to be the best, noone wats to question the criteria that determine what the best is.
 
 
-Borko's principle
+Jencel's principle
 ---
 
 People often claim to come up with a new idea, instead of recognizing prior art and using a name that is already there, because they are eager to attach their names to something, out of sheer vanity.
 
-I call this “Borko’s principle”
+I call this “Jencel’s principle”
 
 Metahumour
 ---
@@ -160,7 +156,7 @@ I am getting weary people's almost religious devotion to simplicity and briefnes
 Advice to my 20-year-old-self
 ---
 
-This is the only thing that I wish I could give to my 20 year-old self: you deserve respect not because you are smart/good at stuff etc., you deserve respect because you are a human being and you are doing your best to be a good person.
+You deserve respect not because you are smart/good at stuff etc., you deserve respect because you are a human being and you are doing your best to be a good person.
 
 Impressing others
 ---
@@ -172,11 +168,6 @@ The people
 Nobody cares about the average person's opinion, but everyone is deeply concerned what "the people" think.
 
 
-<<<<<<< HEAD
-
-=======
-f someone does not feel the same emotions as you, that does not make him less emotional.
-
 More stuff
 ---
 Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
@@ -184,7 +175,51 @@ Buying more stuff will not bring you closer to happiness, just like living longe
 
 The army
 ---
-Indeed, people who haven't served in the army are not real men. 
+Indeed, men who haven't served in the army are not real men. 
 
 Because is there anything more masculine than being proud of something that ABSOLUTELY ANYONE in your age and gender also accomplished, which was also not your decision at all?
->>>>>>> d6241267cbc300425f3a0f85955a344eb7fb068d
+
+
+Work
+---
+
+People don't hate work, they hate executing the commands of some idiot and being harassed.
+
+
+Jeff Bezos
+---
+I don't have any problem with Jeff Bezos going in space, the only thing I dislike is that he came back.
+
+
+Lazy Marx
+---
+I assume that people who say that Karl Marx didn't have a job are all writing monumental 1000-page studies as a hobby.
+
+Productivity
+---
+Seems that all this obsession with productivity that we have is due to the fact that we don’t believe in the things we do and so we want to at least do more of them.
+
+
+Questions I ask myself before buying something
+---
+
+What’s the purpose of this item?
+
+Do I really need for an item which serves that purpose? How would it benefit me?
+
+Do I already own something that can be repurposed/fixed/made to serve the same purpose? 
+
+Can I borrow such thing from a friend who does not need it?
+
+Who is selling this item and do I want to endorse them by buying it from them?
+
+In what ways does the item make me dependent in therms of fixes, supplies, energy consumed etc. On whom?
+
+Do I really need that item right now, or can I can buy it later so I have more time to consider the above?
+
+
+More stuff
+---
+Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
+
+

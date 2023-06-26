@@ -34,8 +34,6 @@ Finally got the final list of the three hard things in computer science:
 data processing
 
 
-
-
 Conway's game of life and the halting problem
 ---
 
