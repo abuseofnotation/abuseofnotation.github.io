@@ -3,6 +3,38 @@ title: Philosophy
 layout: blog
 ---
 
+
+The dual to Occam's razor 
+---
+The principle dual to Occam's razor is often under-looked:
+
+- Occam's razor (or *Negative* Occam's razor, as I sometimes think about it): Entities must not be *multiplied* beyond necessity i.e. when forming a theory, postulate no more than it is needed to explain the phenomena. 
+
+- Dual Occam's razor (or *Positive* Occam's razor): Entities must not be *removed* beyond necessity i.e. if something is indeed needed to better explain the phenomena, it *must* be postulated. 
+
+David Deutsch uses this to makes a very compelling argument in "The fabric of reality", regarding the Many-worlds hypothesis of #quantumMechanics  that goes roughly like this: "if the other universes don't exist, then where does the computation of quantum computing algorithms, such as Shor's alghorithm, takes place?"
+
+Short history of modern philosophy: 
+---
+
+The biggest discovery of 19-th century philosophy was due to Kant, who discovered that you can have a framework that is entirely consistent with Plato, Aristotel, Leibniz et al, and at the same time consistent with empiric data, and with itself, provided that you accept that this framework is kinda subjective.
+
+The biggest discovery of the 20-th century, due to Baudrillard, Barthes, et al (pardon my lack of French philosophy background), and at the same time by Wittgenstein, McLuhan and probably many other people, (actually, Hume was there all along) is that a framework that is subjective can actually be consistent with anything you want, as long as you don't pose any specific criteria to what "subjective" is.
+
+The biggest discovery of the 21-th century, is still due, I guess, but it would probably be some formalization of the idea of the subject, which would be a full circle towards the times before 19-th century.
+
+Meanwhile in the realm of science:
+
+Newton discovers a scientific framework that is entirely consistent with Plato et al, if only you have the concept of an absolute space, but the concept of absolute space doesn't agree with observation.
+
+Einstein discovers a framework that that doesn't include the concept of absolute time (which he doesn't admit is Kantian).
+
+Quantum mechanics discover that a framework that does not rely on the concept of absolute time is inherently subjective (depends on observer).
+
+Early and late Wittgenstein
+---
+Hot philosophy take: The big difference between the early and late Wittgenstein is that the early Wittgenstein thought that a picture is supposed to have a single interpretation that can be communicated between interested parties, whereas the later Wittgenstein realized that this can never actually happen.
+
 Intelligence and freedom of thought
 ---
 

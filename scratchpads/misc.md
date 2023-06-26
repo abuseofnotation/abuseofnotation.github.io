@@ -3,6 +3,17 @@ title: Misc
 layout: blog
 ---
 
+Not giving a fuck
+---
+
+Protip: people who don't give a fuck would rarely go through the trouble of writing a whole book explaining how not to give a fuck.
+
+Writer's block
+---
+Anxiety and writer's block come when you attach so much significance to your work that you start to feel that you just wouldn't do it justice if you work on it while not in your prime. This is a stupid idea - nobody will do your work, but you. Just do your best, you will delete it if it isn't good.
+
+If you do something and delete it, that is not the same as not doing anything (even if you don't ever rewrite or publish it).
+
 Time and money
 ---
 

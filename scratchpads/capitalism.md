@@ -3,6 +3,55 @@ title: Capitalism
 layout: blog
 ---
 
+AI
+---
+AI can do our jobs, because under capitalism a “job” is necessary something that can be taught in a relatively short time (so the worker is expendable) and that has clear predefined criteria for what is a good and bad result (so they can be bossed around/fired). Every job under capitalism is a perfect target for a AI!
+
+Capitalism and spirituality
+---
+
+Why are today’s leading spiritual teachers be billionaires? I know people who know more about how to live a happy and fulfilled life than e.g. Naval, and most of them are broke.
+
+Money simply does not play a part in your spiritual enlightenment, there may be some folks who are both enlightened *and* rich, but statistically most of them would not be rich.
+
+And that’s valid for all skills - if you are only learning from *successful* (rich) people you are missing out big time.
+
+e.g. one of the best software developers I know is just a guy who works as a regular developer in a regular software firm. He cannot/does not want to manage anyone.
+
+e.g. the best bike mechanic I know runs bike shop, that is only a moderately-popular (unfriendly location, and no marketing, except word-of-mouth)
+
+e.g. just went to work out in the park, and started talking to an old guy who gave me some very good advice - turned out he was a former professional athlete.
+
+Mayday
+---
+- Hey, Captain is it just me, or is the airplane headed straight to this huge volcanic crater, full of hot lava?
+- Yup, we will likely be all dead in a minute!
+- OK, so will you try to maybe, you know, alter our couse?
+- I won’t, because that didn’t work out when the Russians tried doing it the 1940s.
+
+The couse leading to drowning in lava might not be a *good* course, but it is the best one out there!
+
+Free market
+---
+
+In order for free market and capitalism to work, even theoretically, the rules of the game must be fair, they should not be set by the companies competing. So it only works when *businesses do not have any political power*. And that is just an utopia. 
+
+A communism state where human beings work for the benefit of their fellow human beings is far more likely, than a society in which rich powerful organizations work for the benefit of the people (which is what we are hoping for).
+
+On the law of diminishing returns
+----
+
+Reading a book on simple living and thinking the following -  what if diminishing returns just occur at a much smaller scale than economic textbooks tell us? What if working in teams of 1-6 people is the most optimal mode of production, (although huge corporations with marketing and PR departments are obviously capable of *selling* us more products). What would be the implications?
+
+When I say “most optimal” I mean that it brings the most value to people. Unfortunately this cannot be measured and put in concrete terms as “value” is too abstract concept to be used as a metric. Profit, on the other hand is simple to measure. However it is the wrong metric.
+ 
+When you measure the value of a given transaction by profit, you only measure the effect it has on the people who actually *acquire* that profit. You don’t measure the effect on neither the workers (who aren’t shareholders), nor the consumers.
+
+So, for example a corporation that manufactures a very low-quality product with slave-like labor would do very well, if you are only looking at the spreadsheets - low expenses, high worker productivity, massive profit etc. But if we try to measure the (negative) value that this company brings to the people who work for it - their health and financial situation or the negative value that it brings to the consumers, who get something manufactured by someone who doesn't look after their interests.
+
+If we take these groups into account, then a small business venture that is owned by the people who work in it brings much more value than a big corporation. Bonus points if they produce stuff for  themselves. In this case instead of having three groups (shareholders, workers, consumers) and an organization that serves just one of these groups (not to mention it is often the smallest one), you have just one group that looks after it's own interests, e.g. even if twitter makes more profit than mastodon (although twitter is losing and Mastodon has no profit cause it is not a corporation), I argue that the value that masto brings to its users (consisting of information free of ads and hatespeech) as well as the value it brings to the people involved in its development is far greater than the value twitter brings to its users and employees. 
+
+(no info, about masto as place to work, but compared to twitter under Munsk everything is good, probably)
 
 Everything
 ---
@@ -243,4 +292,24 @@ Buying more stuff will not bring you closer to happiness, just like living longe
 
 Countries and corporations
 ---
-Most people agree that *countries* are ruled in a democratic fashion with the right to vote etc. but at the same time they think that *corporations* are better off as  dictatorships where most people are depraved of any rights.
+Most people agree that *countries* are ruled in a democratic fashion with the right to vote etc. but at the same time they think that *corporations* are better off as dictatorships where most people are depraved of any rights.
+
+
+The definition of nazism
+---
+
+After reading about the last "Eloniada" (made this word up just now) about "cisgender" being a slur I finally understood what nazism/fashism is.
+
+Nazism is a delusion where (a part of) the establishment is made to believe that they are the minority and that all their problems are caused by some other group of people, which they deem as the new establishment. Bonus point if that group of people are actually very weak, small and vulnerable.
+
+This delusion causes the the establishment to expect to solve their problems by repressing this group, and to repress it even more when their problems are not solved, leading to a feedback loop.
+
+Example: Hitler came to power by putting forward the conspiracy theory the Jews are solely responsible for all of Germany's issues [1] and that repressing them would solve them. And so when repressions didn't do lead to any improvement (jews were less than 1% of the population[2]) all he could do in order not to expose himself as a fraud was to repress them even more.
+
+Now I am seeing the same thing with the so called attack on "wokeism" America, in particular with the attack of the trans community - Elon and co are getting deeper and deeper in their version of the same delusion/conspiracy theory according to which, one of the smallest and most vulnerable communities is actually in charge of everything e.g. they are able to "cancel" anyone that they don't like, which is perceived as dangerous (when in reality cancelling someone is just expressing their opinion).
+
+This definition of nazism clearly shows the contrast between nazism is from socialism/communism and shows why Hitler can never be deemed a socialist, even if nazism stands for "nationalsocialism" - socialism is all about helping repressed groups and *empowering* them, while nazism, on the contrary, is all about *repressing* such groups to the fullest.
+
+It is no coincidence that in both instances which I mentioned in the prev post, the group that is deemed as evil has to do with the political left.
+
+PS I don't understand how this delusion justifies itself... i.e. all nazis and capitalists are so fucking scared of socialists? They deem them weak, unworthy, stupid, crazy etc. but at the same time they dedicate spare no resource in trying to destroy them in every way possible. How can a group that is so weak do so much damage

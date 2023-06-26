@@ -5,6 +5,18 @@ layout: blog
 
 Give up everything.
 
+
+Success/happiness
+---
+Success does not cause happiness, it’s the other way around.
+
+
+Identifying yourself with what you create
+---
+
+Identifying yourself with what you create, is very bad for you -  99% of what you create will always turn out to be useless junk (even Einstein only managed to produce one great physical theory), and so you would be left with two options - believe that you are worthless 99% of the time or forcing yourself to believe that all you do is great and others are wrong. The best you can do is just *try* to be good and valuing the fact that you try.
+If you don't know how to keep trying, keep trying.
+
 Spirituality is an activity
 ---
 
