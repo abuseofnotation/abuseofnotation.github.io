@@ -39,21 +39,21 @@ body{
 
 @font-face {
     font-family: 'mell_ultra';
-    src: url('mell/display/MellDisplay0.5-Bold.otf') format('opentype');
+    src: url('mell/display/MellDisplay0.6-Bold.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'mell_regular';
-    src: url('mell/sans/MellSans0.5-Regular.otf') format('opentype');
+    src: url('mell/sans/MellSans0.6-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'mell_mono';
-    src: url('mell/mono/MellMono0.5-Regular.otf') format('opentype');
+    src: url('mell/mono/MellMono0.6-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }

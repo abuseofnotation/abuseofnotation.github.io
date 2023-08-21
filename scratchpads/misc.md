@@ -193,6 +193,9 @@ The people
 ---
 Nobody cares about the average person's opinion, but everyone is deeply concerned what "the people" think.
 
+Emotions/neurodiversity
+---
+If someone does not feel the same emotions as you, that does not make him less emotional.
 
 More stuff
 ---
@@ -204,7 +207,6 @@ The army
 Indeed, men who haven't served in the army are not real men. 
 
 Because is there anything more masculine than being proud of something that ABSOLUTELY ANYONE in your age and gender also accomplished, which was also not your decision at all?
-
 
 Work
 ---
@@ -247,5 +249,3 @@ Do I really need that item right now, or can I can buy it later so I have more t
 More stuff
 ---
 Buying more stuff will not bring you closer to happiness, just like living longer years will not bring you closer to immortality.
-
-
