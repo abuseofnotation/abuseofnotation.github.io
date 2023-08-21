@@ -3,6 +3,26 @@ title: Capitalism
 layout: blog
 ---
 
+Right-wing views and mental issues
+---
+
+The identifying yourself with your "success" and the idea that your worth derives only from what you produce causes so much stress, that it can break your psyche. 
+
+Not a psychologist, but I see this happening all the time: 
+
+1 People start to derive their self-esteem from their job.
+2 They put so much effort into being better at it, as it is the only way for them to *feel* better that their burn out.
+3. Later, they start losing some of their capability (either from burning out or from just getting old), and their entire ego is broken, as a result.
+
+Why am I radical
+---
+
+People that know me from before are baffled as to why I have become so radical politically, but actually the reason is perfectly logical: when the current state of affairs is so bad, you start to be more and more tolerating towards alternatives. 
+
+Noone can convince me that today's distopia can be turned to utopia with just a few small adjustments.
+
+If you are so sick that you are about to die, you should be willing to try any medicine with some chance to get you better, no matter the side effects.
+
 AI
 ---
 AI can do our jobs, because under capitalism a “job” is necessary something that can be taught in a relatively short time (so the worker is expendable) and that has clear predefined criteria for what is a good and bad result (so they can be bossed around/fired). Every job under capitalism is a perfect target for a AI!
@@ -129,12 +149,12 @@ The doctrine of the world's major religion is just totalitarian propaganda, thin
 
 Like, if you take the fable about Adam and Eve and the apple. What does the apple represent? Sex? Knowledge? Or most probably just opposition to authority. Not clear what was God's purpose with putting the tree there. All we understand is that if we do wrong we will be punished and we already did wrong...
 
-Middle-class
+Middle-class (servants)
 ---
 
-In society under capitalism nowadays, there is a third class between workers and the masters which is instrumental to keeping the regime working. It is the financially prospering, but emotionally and ideologically bankrupt middle class - people who have "succeeded" - managed to educate themselves and get a well-paid job - but have completely stripped themselves of their identity in order to do so, and are trapped by their fear to be thrown downwards and their inability to move upwards.
+In society under capitalism nowadays, there is a third class between workers and the masters which is instrumental to keeping the regime working. It is the financially prospering, but emotionally and ideologically bankrupt *middle class* or servants, as we can also call them --- people who have "succeeded" (managed to educate themselves and get a well-paid job) but have completely stripped themselves of their identity in order to do so, and are trapped by their fear to be thrown downwards and their inability to move upwards.
 
-Middle-class folks cannot have solidarity for their masters, because they know even more than everyone what the masters are. 
+Servants cannot have solidarity for their masters, because they know even more than everyone what the masters are. 
 
 And they cannot have solidarity with the workers, out of vanity and out of fear that they will be punished for their opinions and thrown in the working class.
 

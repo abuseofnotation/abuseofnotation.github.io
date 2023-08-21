@@ -131,3 +131,33 @@ It's important to schedule your sessions in advance and determine how much time 
 
 
 In order to avoid knee injuries while sitting in half-lotus, remember that the bending of the leg should come from the hip joints (which are designed to move and twist in all directions) and not from the knees (which are designed to move in only one direction).
+
+Back to the roots
+---
+When you decide you want to renounce everything and go "back to the roots" an important question becomes where the roots are? Where is the zero point in the coordinate system? what do you do when you don't do anything?
+
+Zen is not about just living in autopilot with the relationships, jobs, habits etc that you already have - although you accept them as the "default state" they are not. They require constant effort to maintain, it is just that you are used to that effort and so it doesn't stress you. The fact that it doesn't stress you is not because it is not stressful, but because you have gotten numb to the stress --- you need to regain your sensitivity.
+
+And zen is not about radical changes either, it is useless to try to quit all bad habits, to be perfect, to be more unlike yourself and more like some version of yourself that you think is more enlightened (if you knew what it meant to be more enlightened, you'd simply be more enlightened). "The renouncing of pleasure, becomes the pleasure of renouncing".
+
+So what do you do? Well, anything that doesn't fit in neither of those two extremes. Oh and also, don't be so obsessed with yourself, rather try to be good and kind with the others.
+
+Goals
+---
+
+ Having a specific goal in mind (or, in general, any idea of where you want to end up) automatically dismisses any attempt you make to think freely, as having a goal means being predisposed, means already having a criteria of what’s good and bad, and the rest are just technicalities. You may achieve your goal, but you won’t achieve #enlightenment 
+
+How much do we know
+---
+We are not wrong at what we know, but at how  much we know and don’t know, to what extent we know it all
+
+
+Important/non-important
+---
+
+The most important distinction is not good/bad, but important/non-important.
+- We all feel a certain distaste for certain ideas or people, but when you attach too much importance to this feeling, it becomes hate.
+
+- We all feel lost sometimes, but it is the importance you attach to this feeling that turns it into hopelessnes.
+
+
