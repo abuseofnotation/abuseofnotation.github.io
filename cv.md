@@ -59,6 +59,20 @@ Work Experience
 
 *(What I do from 9 to 5)* 
 
+
+Lead JS Developer - [Growyze](https://www.growyze.com/)
+--
+**from:** Apr 2022
+**to** Jul 2023
+
+I was involved at a very early-stage startup, where I did everything, from organizational, to product design to development.
+
+- Front-end development with React.js and TypeScript.
+- Designing new features, preparing wireframes with Figma
+- Supervising and mentoring junior developers
+
+
+
 Fullstack Ruby on Rails Developer- [Dext](https://dext.com/)
 --
 **from:** February 2021
@@ -76,6 +90,7 @@ I lead a small team of JS and SQL developers, working on the [Club Locker](https
 * Reimagined and refactored the Club Locker platform turning it from a US Squash-centered platform to one which serves the needs of various organizations [around](https://clublocker.com/ngbs/10000) [the](https://clublocker.com/ngbs/9999) [world](https://clublocker.com/ngbs/10142).
 * Facilitated a complete rewrite the platform's front-end, using Angular and TypeScript, and following the principles of component-based design.
 * Implemented Scrum in the team, improved the process of planning, task estimation, testing etc.
+
 
 Senior JavaScript Developer - [Royal Bank of Scotland](http://personal.rbs.co.uk/) (via [epam](https://www.epam.com/)).
 --

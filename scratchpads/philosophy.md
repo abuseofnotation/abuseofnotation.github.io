@@ -1,8 +1,75 @@
 ---
-title: Philosophy
+title: STEM
 layout: blog
 ---
 
+What's the deal with Godel's Second Incompleteness Theorem
+---
+
+I never understood what's the deal with for Godel's Second Incompleteness theorem in logic.
+
+The consistency of a theory cannot be proved within the theory itself.
+
+Duh! Did anyone thought that it could?
+
+Federated networks
+---
+
+If done right, a federated network like Mastodon would be much more reliable and cheap to run than a centralized one: when the scale is big, the network *has* to be federated under the hood anyways (i.e. you have to have several caches in different locations, several database nodes that copy data from one to the other, several moderation teams etc.) and so the network that is federated by design has many advantages over the one that pretends to be centralized.
+
+Maths and daily life
+---
+
+We don’t use maths in our daily life because other people have solved all hard problems for us and the solutions are encoded on the tools that we use, however not knowing math means that you will be forever a consumer, bound to use those existing tools and solutions.
+
+Disclaimer: my definition of mathematics is much broader than the usual ones
+
+
+Lambda the ultimate
+---
+Say what you want about functional programming being just one way to look at things, good only for specific problems etc, but for me looking at code written by a someone who doesn't know lambda calculus is like looking at a blind person who is trying to find their way around the city - they might reach their destination eventually, but they would still be blind.
+
+1 + 1 and programming paradigms
+---
+
+You can understand a log about different programming paradigms from the way in which they implement `1 + 1`:
+
+- In *imperative* languages, such as C, it is just `1 + 1` - arithmetics is build in.
+- In *object-oriented* languages like Smalltalk and Ruby, it is `1.+(1)` - plus is a method of the object `1`.
+- In *functional* languages, like Haskell, it is actually `+(1, 1)` - plus is an inflix operator, which is actually a function.
+In Lisp you just cannot write `(+ 1  1)` directly.
+
+
+Hard things in CS
+---
+
+Finally got the final list of the three hard things in computer science: 
+
+0. Naming artifacts
+1. <Item unavailable>
+2. Concurrent
+3. Off by one errors.
+data processing
+
+
+Conway's game of life and the halting problem
+---
+
+Conway's Game of Life" is the perfect setup for understanding the Halting Problem: 
+
+Given a pattern and a seed, producing an non-terminating sequence and the question, "Is this pattern a part of the sequence?"  you cannot always answer that question. 
+
+If the answer is "No" you have to check the whole sequence and you cannot do that because it's endless
+
+If the answer is "Yes", you can easily check it just as you can easily diagnose some issues with your code, but you cannot be sure it works.
+
+
+Good theories
+---
+
+Whenever I think about good physical theories, I immediately  think of Boltzmann's statistical mechanics, not because he basically discovered the science of atoms and molecules, but simply because every time I see an ice cube in a glass, I see the particles, the Brownian motion, the way the heat and coldness dissolve etc.
+
+And category theory is similar - it may not be a tool that I use to solve some important problems, that were otherwise unsolvable, but it is a tool that broadens my perception of the world, which is much more important and fruitful.
 
 The dual to Occam's razor 
 ---
