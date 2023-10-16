@@ -55,7 +55,7 @@ Misc
 ----
  
 * Besides UX design I have done graphic design and illustration. I also [design typefaces](https://www.behance.net/evolutionfonts/).
-* I study mathematics I wrote an open-source book about maths and programming called [Category Theory Illustrated](abuseofnotation.github.io/category-theory-illustrated/) whi
+* I study mathematics I wrote an open-source book about maths and programming called [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
 * I also maintain a [technical blog](https://abuseofnotation.github.io/blog/) where I write about programming, which is very popular, has been featured on HackerNews and other similar sites.
 
 Work Experience
