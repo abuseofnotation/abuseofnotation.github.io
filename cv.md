@@ -7,14 +7,11 @@ I like computers, art, and bringing ideas to life.
 
 Personal Info
 ==
-*(Contacts and stuff)*
 
-I am Boris Marinov, age 35.
-
-* **phone number:** is +359 883 420029 
+* **name:** Boris Marinov
+* **phone number:**  +359 883 420029 
 * **e-mail** - [marinovboris@protonmail.com](mailto:marinovboris@protonmail.com)
-* **Personal website** - [https://boris-marinov.github.io](https://boris-marinov.github.io)
-* **Github** - [boris-marinov](https://github.com/boris-marinov)
+* **Github** - [boris-marinov](https://github.com/abuseofnotation)
 
 Skills
 ===
@@ -22,21 +19,29 @@ Skills
 Technical
 ---
 * Deep knowledge of the web platform.
-* Huge experience with *front-end* JavaScript development - coding single page applications with React, Angular and other frameworks, designing interfaces with HTML and CSS. D3. Canvas API. 
-* Experience with *back-end* web development with *node* and *Ruby on Rails*. Experience with *SQL* database development.
-* Good knowledge of TypeScript. Huge interest in *type systems*.
-* Huge interest in *functional programming* experience with *Haskell* and *PureScript*.
+* Huge experience with *front-end* JavaScript development - coding single page applications with React, Angular and other frameworks, designing interfaces with HTML and CSS. Also D3, Canvas API. 
+* Experience with *back-end* web development with *express.js* and *Ruby on Rails*. * Experience with *SQL* database development.
+* Excellend command of JavaScript and TypeScript.
+* Some experience with Ruby, Java, Perl, PureScript.
 * Ability to construct technical solutions that span across multiple technologies.
 * Experience with creating and maintaining *software documentation*, both developer-oriented (API docs, product overviews and tutorials) and user-oriented (integrated tips, video tutorials).
 * Experience with designing *user interfaces* and user experience.
 * Experience with handling server administration, deployments etc. Good *Unix* skills, some AWS experience.
+* Experience with handling payments with *Stripe*. 
+* Experience with *OAuth* single-sign-on solutions.
+
 
 Project management
 ---
 
 * Experience in *leading* small to medium software projects - facilitating scrums performing code reviews, making architecture decisions, solving tech and people issues, distributing the work between the team members.
 * Experience in *mentoring* junior developers and other team members - performing induction trainings, conducting one-on-one meetings and reviews.
-* Experience in communicating with *clients*, grokking different domains, putting down and implementing business requirements, and in general keeping them happy.
+*  Experience in *mentoring* junior
+
+Product design
+---
+* Experience in working with business analysts - gaining domain knowledge, understanding requirements.
+* Experience in *creating software specifications* designing solutions to customers' problems.
 
 Domain knowledge
 ---
@@ -45,33 +50,28 @@ Domain knowledge
 * Experience with implementing *finance* and trading platforms.
 * Experience with implementing *accounting/bookkeeping* software.
 * Experience with implementing software for handling *reservations* and event registration.
-* Experience with handling payments with *Stripe*. 
-* Experience with *OAuth* single-sign-on solutions.
 
 Misc
 ----
+ 
+* Design - I have a very good visual literacy, besides UX design I have done graphic design. I also [design typefaces](https://www.behance.net/evolutionfonts/).
+* CS and mathematics - I have been passionate about learning CS since I started working in IT, even more so since I became interested in functional programming. I also study mathematics as a hobby. Here is [a guide to category theory that I am working on](https://boris-marinov.gitbooks.io/category-theory-illustrated/content/).
 
-* Background in *writing*, especially technical writing.
-* Background in web and graphic *design* art, typography, type design.
 
 Work Experience
 ==
-
-*(What I do from 9 to 5)* 
-
 
 Lead JS Developer - [Growyze](https://www.growyze.com/)
 --
 **from:** Apr 2022
 **to** Jul 2023
 
-I was involved at a very early-stage startup, where I did everything, from organizational, to product design to development.
+I was involved at a very early-stage startup, where I did everything, from product design to software development.
 
 - Front-end development with React.js and TypeScript.
 - Designing new features, preparing wireframes with Figma
 - Supervising and mentoring junior developers
-
-
+- Facilitating the establishment of Scrum processes in the organization. 
 
 Fullstack Ruby on Rails Developer- [Dext](https://dext.com/)
 --
@@ -90,7 +90,6 @@ I lead a small team of JS and SQL developers, working on the [Club Locker](https
 * Reimagined and refactored the Club Locker platform turning it from a US Squash-centered platform to one which serves the needs of various organizations [around](https://clublocker.com/ngbs/10000) [the](https://clublocker.com/ngbs/9999) [world](https://clublocker.com/ngbs/10142).
 * Facilitated a complete rewrite the platform's front-end, using Angular and TypeScript, and following the principles of component-based design.
 * Implemented Scrum in the team, improved the process of planning, task estimation, testing etc.
-
 
 Senior JavaScript Developer - [Royal Bank of Scotland](http://personal.rbs.co.uk/) (via [epam](https://www.epam.com/)).
 --
@@ -122,13 +121,3 @@ Worked on a [developer-facing documentation portal](http://documentation.bosch-s
 * **Documented API-s** of Bosch software development libraries.
 * Wrote **tutorials**  and **code examples** 
 * Developed a web-based information portal.
-
-Education
-==
-
-I have one formal education degree - a bachelor's degree in *PR and mass communication* at the *Sofia University*.
-
-And I also have several informal ones:
-
-* Design - I have a very good visual literacy, besides UX design I have done graphic design. I also [design typefaces](https://www.behance.net/evolutionfonts/).
-* CS and mathematics - I have been passionate about learning CS since I started working in IT, even more so since I became interested in functional programming. I also study mathematics as a hobby. Here is [a guide to category theory that I am working on](https://boris-marinov.gitbooks.io/category-theory-illustrated/content/).
