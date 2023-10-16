@@ -11,7 +11,7 @@ Personal Info
 * **name:** Boris Marinov
 * **phone number:**  +359 883 420029 
 * **e-mail** - [marinovboris@protonmail.com](mailto:marinovboris@protonmail.com)
-* **Github** - [boris-marinov](https://github.com/abuseofnotation)
+* **Github** - [abuseofnotation](https://github.com/abuseofnotation)
 
 Skills
 ===
@@ -54,9 +54,9 @@ Domain knowledge
 Misc
 ----
  
-* Design - I have a very good visual literacy, besides UX design I have done graphic design. I also [design typefaces](https://www.behance.net/evolutionfonts/).
-* CS and mathematics - I have been passionate about learning CS since I started working in IT, even more so since I became interested in functional programming. I also study mathematics as a hobby. Here is [a guide to category theory that I am working on](https://boris-marinov.gitbooks.io/category-theory-illustrated/content/).
-
+* Besides UX design I have done graphic design and illustration. I also [design typefaces](https://www.behance.net/evolutionfonts/).
+* I study mathematics I wrote an open-source book about maths and programming called [Category Theory Illustrated](abuseofnotation.github.io/category-theory-illustrated/) whi
+* I also maintain a [technical blog](https://abuseofnotation.github.io/blog/) where I write about programming, which is very popular, has been featured on HackerNews and other similar sites.
 
 Work Experience
 ==
