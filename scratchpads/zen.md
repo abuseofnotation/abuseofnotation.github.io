@@ -5,6 +5,11 @@ layout: blog
 
 Give up everything.
 
+Success and failure
+---
+
+One of the things I wrestle with is the idea that you will never be able to truly win and truly fail — all mistakes, weaknesses and missed opportunities do not matter, unless you *want* them to matter. And the positive things you do don’t matter as well
+
 
 Success/happiness
 ---

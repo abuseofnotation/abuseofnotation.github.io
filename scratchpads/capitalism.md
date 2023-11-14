@@ -1,9 +1,21 @@
 ---
-title: Capitalism
-layout: blog
+title: Services
+layout: microblog
+tags: capitalism economics
 ---
 
-Right-wing views and mental issues
+I talked about the service market being a scam. So why are services so popular. IMO it is not because people don't have time to do things themselves, but because they lack mental capacity to do it e.g. people don't order food because they don't have time to prepare it themselves (we have better technology for preparing food than ever), they just don't want to think about one more thing. Same for online services like Netflix and Spotify --- it's not that we don't have time to download our music and movies any more (if you are using Netflix you have at least one spare hour each day), we just don't want to be bothered, which is sad, as it is making us more and more dependent on these services.
+
+People are increasingly incapable of doing anything other than their "job" and the jobs themselves are increasingly dumber, due to the fact that they would have to service clients who are getting increasingly dumber --- "My job is to deal with idiots" rings truer and truer.
+
+And this situation hurts our social life as well, I am old enough to remember when friends got together to do stuff together --- we used to cook together, fix stuff together, hack stuff together, assemble furniture, or just carry some heavy crates from A to B. Before that we did farming and a gazzilion other fun activities Now it seems that we "outsourced" these in order to just do nothing.
+
+>>> 
+
+---
+title: Right-wing views and mental issues
+layout: microblog
+tags: capitalism philosophy
 ---
 
 The identifying yourself with your "success" and the idea that your worth derives only from what you produce causes so much stress, that it can break your psyche. 
@@ -14,7 +26,12 @@ Not a psychologist, but I see this happening all the time:
 2 They put so much effort into being better at it, as it is the only way for them to *feel* better that their burn out.
 3. Later, they start losing some of their capability (either from burning out or from just getting old), and their entire ego is broken, as a result.
 
-Why am I radical
+>>>
+
+---
+title: Why am I radical
+layout: microblog
+tags: capitalism 
 ---
 
 People that know me from before are baffled as to why I have become so radical politically, but actually the reason is perfectly logical: when the current state of affairs is so bad, you start to be more and more tolerating towards alternatives. 
@@ -23,11 +40,12 @@ Noone can convince me that today's distopia can be turned to utopia with just a 
 
 If you are so sick that you are about to die, you should be willing to try any medicine with some chance to get you better, no matter the side effects.
 
-AI
----
-AI can do our jobs, because under capitalism a “job” is necessary something that can be taught in a relatively short time (so the worker is expendable) and that has clear predefined criteria for what is a good and bad result (so they can be bossed around/fired). Every job under capitalism is a perfect target for a AI!
+>>>
 
-Spirituality
+---
+title: Wealth and skill
+layout: microblog
+tags: capitalism economics
 ---
 
 Why are today’s leading spiritual teachers be billionaires? I know people who know more about how to live a happy and fulfilled life than e.g. Naval, and most of them are broke.
@@ -42,8 +60,14 @@ e.g. the best bike mechanic I know runs bike shop, that is only a moderately-pop
 
 e.g. just went to work out in the park, and started talking to an old guy who gave me some very good advice - turned out he was a former professional athlete.
 
-Mayday
+>>>
+
 ---
+title: Mayday
+layout: microblog
+tags: capitalism joke
+---
+
 - Hey, Captain is it just me, or is the airplane headed straight to this huge volcanic crater, full of hot lava?
 - Yup, we will likely be all dead in a minute!
 - OK, so will you try to maybe, you know, alter our course?
@@ -51,15 +75,27 @@ Mayday
 
 The course leading to drowning in lava might not be a *good* course, but it is the best one out there!
 
-Free market
+
+>>>
+
+---
+title: Free market
+layout: microblog
+tags: capitalism economics
 ---
 
 In order for free market and capitalism to work, even theoretically, the rules of the game must be fair, they should not be set by the companies competing. So it only works when *businesses do not have any political power*. And that is just an utopia. 
 
 A communism state where human beings work for the benefit of their fellow human beings is far more likely, than a society in which rich powerful organizations work for the benefit of the people (which is what we are hoping for).
 
-On the law of diminishing returns
-----
+
+>>>
+
+---
+title: On the law of diminishing returns
+layout: microblog
+tags: capitalism economics
+---
 
 Reading a book on simple living and thinking the following -  what if diminishing returns just occur at a much smaller scale than economic textbooks tell us? What if working in teams of 1-6 people is the most optimal mode of production, (although huge corporations with marketing and PR departments are obviously capable of *selling* us more products). What would be the implications?
 
@@ -71,7 +107,12 @@ So, for example a corporation that manufactures a very low-quality product with 
 
 If we take these groups into account, then a small business venture that is owned by the people who work in it brings much more value than a big corporation. Bonus points if they produce stuff for  themselves. In this case instead of having three groups (shareholders, workers, consumers) and an organization that serves just one of these groups (not to mention it is often the smallest one), you have just one group that looks after it's own interests, e.g. even if twitter makes more profit than mastodon (although twitter is losing and Mastodon has no profit cause it is not a corporation), I argue that the value that masto brings to its users (consisting of information free of ads and hates peech) as well as the value it brings to the people involved in its development is far greater than the value twitter brings to its users and employees. 
 
-Everything
+>>>
+
+---
+title: Everything
+layout: microblog
+tags: capitalism spirituality
 ---
 
 "I have everything but I am still not happy."
@@ -100,15 +141,30 @@ e.g. a person who is sorry for whatever bad thing  they have done and wants to b
 
 10-year-old-kid who has set their mind to become a great pianist *is* a great pianist, better than anyone who merely plays just for the money.
 
+>>>
 
-Art 
 ---
+title: Art
+layout: microblog
+tags: capitalism 
+---
+
 Under capitalism art is a commodity like everything else and so the most valuable pieces are most expensive, however, as value in art is relative, this principle works the other way around - the most expensive pieces are most valuable i.e. the rich determine the criteria for what’s beautiful and ugly.
 
 This undermines art, reducing it to just another form of entertainment for the elite, and marginalizing all artists who want to be something different than that.
 
 The best thing a creative person can hope for, is to be like Stephen King - be so famous that a capitalist would consider your opinion when making their (his) business strategy.
 
+>>>
+---
+title: AI
+layout: microblog
+tags: capitalism 
+---
+
+AI can do our jobs, because under capitalism a “job” is necessary something that can be taught in a relatively short time (so the worker is expendable) and that has clear predefined criteria for what is a good and bad result (so they can be bossed around/fired). Every job under capitalism is a perfect target for a AI!
+
+>>>
 
 Mental illness
 ---

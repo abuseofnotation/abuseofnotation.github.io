@@ -3,6 +3,47 @@ title: STEM
 layout: blog
 ---
 
+
+Feedback loops
+---
+"Protest against trans people, cause they are insane."
+"Lock people in prison, cause they commit more crimes."
+"Ban burkas, cause islamic people are terrorist."
+Life would be much easier if more people understood feedback loops.
+
+
+On tech
+---
+Most people, after owning a laptop, or another piece of tech for more than 2 years:
+
+"Yeah, this things is getting outdated, doesn't support XYZ, I guess it's time for a replacement..."
+
+Me, after my 10-year laptop fails:
+
+"THIS IS BULLSHIT!"
+
+
+Critical and non-critical functionalities
+---
+
+Engineering protip: Know the difference between critical and non-critical functionalities of your product, e. g. between why your product MUST do and why it SHOULD e.g. for cars engines are critical, stereos are non-critical.
+
+Critical parts of the product should be designed to be simple and durable.  Non-critical parts should be cheap and easy to replace and remove. The failure of non-critical stuff should *never* affect critical stuff.
+
+Critical parts are your “core business”, as business people say — they give you competitive advantage.
+
+Dependent types
+---
+
+Dependent types are super confusing, but at the same time they feel easier than normal ones.
+
+I guess that makes sense for every advanced concept - as a concept wouldn't exist if it isn't making things easier when you finally get it.
+
+I think that they are hard to learn because we consider them as something fancy, but they actually are the simpler thing, and it's normal, first-order types that are weird. 
+
+With first-order types, you have two things --- types and values, #dependenttypes there is only one thing, type e.g. "Number" is a type of "Set" in the same way that 1 is a type of "Number".
+
+
 What's the deal with Godel's Second Incompleteness Theorem
 ---
 
@@ -81,6 +122,37 @@ The principle dual to Occam's razor is often under-looked:
 
 David Deutsch uses this to makes a very compelling argument in "The fabric of reality", regarding the Many-worlds hypothesis of #quantumMechanics  that goes roughly like this: "if the other universes don't exist, then where does the computation of quantum computing algorithms, such as Shor's alghorithm, takes place?"
 
+More on Occam's Razor. 
+---
+
+The most popular formulation of the principle says that you just have to seek for the simplest explanation.
+
+"We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances." --- Newton
+
+But there is a deeper formulation, that concerns the very nature of explanations, hinted here in Wittgenstein's Tractatus:
+
+3.328 "If a sign is not necessary then it is meaningless. That is the meaning of Occam's Razor."
+
+In a logically correct explanation of a phenomena, you are not allowed to invoke any entity without using some part of the phenomena as a justification for your claim.
+
+E.g. if your apartment has been robbed, you are allowed to say stuff like:
+
+1. "There is a rope hanging from my window, therefore the robber used it to enter" 
+
+or even less probable stuff like:
+
+2. "They didn't steel my shampoo, therefore they must be bald"
+
+But not: 
+
+3. "The thief is probably a person of color"
+
+The difference is that the claim 3) that the thief is a person of color, has no basis,  whereas there is *some* basis, for claiming 2) that they are bald, (although not much.) 
+
+Statistically, 3) might be probable, more probable than 2), but still 3) is forbidden and 2) is allowed, cause when we make claim 2) we are thinking, whereas when we make claim 3) we are just repeating stuff that we heard before.
+
+The scholastics (just like the Greeks) had faith that God left clues that would allow them to discover the truth about the world by themselves. This is the basis for Occam's razor - faith in one's own abilities. And this is what makes it important.
+
 Short history of modern philosophy: 
 ---
 
@@ -140,6 +212,7 @@ The scientific method is the practice of applying this question to empirical obs
 
 Dishonesty
 ---
+
 This morning I woke up with the following question in mind: What are the characteristics of the mental process that strips life from it's dreamlike properties and makes it dull and monotonous? 
 
 My theory is has to do with dishonesty.
@@ -155,6 +228,7 @@ The false one, is less connected to reality, so it is static. Nothing happens in
 
 Principle of triviality
 ---
+
 Marinov's principle of triviality: any self-consistent set of laws believes etc. can be reduced, at least theoretically, to a (usually small) number of clear elementary postulates and what follows from them. 
 
 Any set for which it is not immediately clear what these postulates are, is not self-consistent.

@@ -3,6 +3,27 @@ title: Misc
 layout: blog
 ---
 
+On the 10000 hour rule.
+---
+
+You won't get good at something by practicing it for 10000 hours --- you will get good by making 10000 mistakes.
+
+Deep work on Desktops
+----
+
+I arranged my desktops, inspired by the workspace organization method in  "Deep Work": to *entryway*, *preparation area* and *core workspace*.
+
+The idea: have 3 virtual desktops, or three computers each of which corresponds to a level of focus in your work.
+
+Desktop 1 - Entryway - can serve as an area for transitioning from the outside world to your work environment. Here we should store all distracting windows (social media, porn etc.), as well as administrative stuff, like issue trackers.
+
+Desktop 2 - Preparation Area: Should be arranged to prepare your mind for deep work. It might include some relevant resources (books, specialized message boards, inspirational galleries), as well as some experimental projects.
+
+Desktop 3 - Core Workspace: This space should be dedicated solely to deep work. It should be free from any potential distractions and have just the tools you use (consoles, IDE's drawing Software, you know what you use)
+
+The idea is to only go from one desktop to the one next to it, without fast context switches.
+
+
 On going back to the office
 ---
 
