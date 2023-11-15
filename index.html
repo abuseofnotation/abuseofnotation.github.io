@@ -2,12 +2,24 @@
 layout: default
 ---
 
+<script> 
+  console.log('hi')
+  fetch("https://aethy.com/api/v1/accounts/109822482244087271/statuses?exclude_replies=true")
+    .then((result) => result.json())
+    .then((quotes) => {
+        const content = quotes[0].content
+        document.getElementById('random-quote').innerHTML = content
+    })
+</script>
+
 <div class="background">
 <h3 class="hello">
   "I take my <a href="#job">job</a> very seriously, althought I don't take <a href="/about">myself</a> very seriously."
 </h3>
 <img src="/images/background.jpg"/>
 </div>
+
+
 
 <div class="container">
 <div class="posts"> 
@@ -20,7 +32,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}blog" class="read-more">Read</a>
+      <a href="{{ site.baseurl }}blog" class="read-more">More</a>
     </article>
 
 
@@ -33,8 +45,14 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}shorts" class="read-more">Read</a>
+      <a href="{{ site.baseurl }}shorts" class="read-more">More</a>
     </article>
+
+  <h1>Random quote</h1>
+  <div id="random-quote">
+  </div>
+  <a href="https://aethy.com/@abuseofnotation" target="_blank" class="read-more">More</a>
+
 
 
 
