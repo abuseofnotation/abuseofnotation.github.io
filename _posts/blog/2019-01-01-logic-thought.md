@@ -2,6 +2,7 @@
 category: blog
 title: "How does knowledge work: using logic to model real-world thinking"
 layout: blog
+tags: logic mathematics philosophy
 ---
 
 > "Hello, and welcome to another episode of "Logic for Y'all". Today we are going to tackle a rather controversial topic - "Using logic to model real-world thinking". Asked to comment on it, most people went: "Pff, logic!" and our resident logicians prepared the following summary: "Pff, the real world!". But still, among our listeners, there were some wannabe philosophers who insisted that this is the most important thing ever, so it appears that we have no choice but to get someone to talk about it (there will be booze at the end). So let's give a warm welcome to the only guy who agreed to speak about this boring topic, Boris Marinoooov!"

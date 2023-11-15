@@ -2,6 +2,7 @@
 category: blog
 title: Why is vim awesome
 layout: blog
+tags: programming 
 ---
 
 

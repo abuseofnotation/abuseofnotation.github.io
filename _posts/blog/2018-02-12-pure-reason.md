@@ -2,6 +2,7 @@
 category: blog
 title: Booknotes - The critique of pure reason
 layout: blog
+tags: philosophy kant
 ---
 
 Lately, I've been exploring this book, which I will refer to as simply "The critique" from now on, by following the lectures by [Robert Paul Wolff](https://www.youtube.com/watch?v=d__In2PQS60) and decided to put my notes here in case someone finds them useful. This is a summary. The ideas expressed in it belong to Immanuel Kant. The phrase "Kant thinks" can accompany each sentence from it, but it is omitted for brevity and ease of reading. But at the same time, it is *not objective* - I am interpreting the ideas in the book the way *I* understand them, which may or may not be the way your philosophy professor interprets them. Also, the text is *not in any way a substitute of reading the book itself* - rather my aim was for it to help people who read the book by providing an additional viewpoint into what is happening in it.

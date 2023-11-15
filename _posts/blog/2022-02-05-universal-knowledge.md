@@ -2,6 +2,7 @@
 category: blog
 title: "Where universality breaks: about Kant's triads and the dual to Laplace's demon"
 layout: blog
+tags: philosophy kant
 ---
 
 Hi. Let's wait for more people to show up... Or it's just us? OK. So listen up, I wrote this very cool post that gathers almost all my mathematical and philosophical interests in one place... 

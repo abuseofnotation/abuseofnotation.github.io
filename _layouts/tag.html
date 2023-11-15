@@ -1,0 +1,47 @@
+---
+layout: default
+---
+    {% assign articles = site.tags[page.tag] | where: "category", "blog" %}
+    {% assign shorts = site.tags[page.tag] | where: "category", "microblog" %}
+
+    {% if articles.size > 1 %}
+    <h1>{{ page.tag }} articles</h1>
+      {% for post in articles %}
+
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+
+      {% endfor %}
+
+      <h2><a href="{{ site.baseurl }}/blog" class="read-more">all articles</a></h2>
+    {% endif %}
+
+    {% if shorts.size > 1 %}
+
+    <h1>{{page.tag}} shorts</h1>
+
+    <article class="post">
+
+      {% for post in shorts %}
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+    </article>
+
+    {% endfor %}
+
+    <h2><a href="{{ site.baseurl }}/shorts" class="read-more">all shorts</a></h2>
+    {% endif %}
+
+
+      <h2><a href="{{ site.baseurl }}/tags">all topics</a></h2>
+

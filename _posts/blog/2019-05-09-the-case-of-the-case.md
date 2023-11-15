@@ -2,6 +2,7 @@
 category: blog
 title: The case of "The case". Why did I spend 7 years writing a 27000-word novel
 layout: blog
+tags: personal
 ---
 
 A couple of months ago I finished the first part of my first self-published novel which I had started writing 7 years ago, at the age of 25 (I am 32 now if you are too lazy to do the math). I am not a fast writer, but I can still write the same amount of words in a few months, so why did it took me so long? This is the story.

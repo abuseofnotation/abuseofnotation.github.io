@@ -25,21 +25,19 @@
         </div>
       </div>
       <div class="content">
-        {{content}}
+
+        <div class="container">
+          {{content}}
+        </div>
+        <script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('K3K539YDO');counterwidget.draw();</script>
+      </div>
+
+</div>
+
       </div>
       </div>
       <div class="footer">
 
-
-        <div class="container">
-          <h1>Scratchpads</h1>
-          <ul>
-            <li><a href="/scratchpads/philosophy">STEM</a></li>
-            <li><a href="/scratchpads/zen">zen</a></li>
-            <li><a href="/scratchpads/capitalism">capitalism</a></li>
-            <li><a href="/scratchpads/misc">misc</a></li>
-          </ul>
-        </div>
 
         <div class="container">
           <h1 id="job">Books</h1>
@@ -86,6 +84,15 @@
           <p><a target="_blank" href="https://twitter.com/AlexanderKatt/">twitter</a></p>
 
         </div>
+        <div class="container">
+          <h1>topics</h1>
+            <ul>
+              {% for tag in site.tags %}
+                <li><a href="{{ site.baseurl }}/tags/{{tag[0]}}">{{tag[0]}}</a></li>
+              {% endfor %}
+            </ul>
+        </div>
+
 
         <div class="container">
           This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

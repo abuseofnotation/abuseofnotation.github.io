@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+{% assign vids = tag[1] | sort %}
+
+  <h1 id="{{tag[0] | uri_escape | downcase}}">{{tag[0]}}</H1>
+     <p>
+      {% for p in vids %}
+     <p>
+     <a href="{{ p.url }}">{{ p.title }}</a> 
+    </p>
+      {% endfor %}
+    </p>
+  
+
+{% endfor %}

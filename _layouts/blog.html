@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<div class="container">
   <article class="post">
     <h1>{{ page.title }}</h1>
 
@@ -16,17 +15,11 @@ layout: default
     </div>
    {% endif %}
   </article>
-  <div class="prev-next">
-  {% if page.previous.url %}
-    <a class="prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo;prev</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{site.baseurl}}{{page.next.url}}">next&raquo;</a>
-  {% endif %}
 
-        </div>
-        <script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('K3K539YDO');counterwidget.draw();</script>
-      </div>
 
-</div>
+  {% for tag in page.tags%}
+        <h2>More on <a href="{{ site.baseurl }}/tags/{{tag}}">{{tag}}</a></h2>
+  {% endfor %}
+
+
 

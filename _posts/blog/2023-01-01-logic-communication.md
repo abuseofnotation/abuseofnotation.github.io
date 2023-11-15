@@ -1,6 +1,7 @@
 category: blog
 title: "How does knowledge work: using logic to model real-world communication"
 layout: blog
+tags: philosophy mathematics
 ---
 
 

@@ -10,24 +10,39 @@ layout: default
 </div>
 
 <div class="container">
-<div class="posts"> {% assign post = site.categories['blog'].first %}
+<div class="posts"> 
+  {% assign post = site.categories['blog'].first %}
     <article class="post">
 
-      <h1><i>Last post: </i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><i>Last article: </i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}blog" class="read-more">Read Blog</a>
+      <a href="{{ site.baseurl }}blog" class="read-more">Read</a>
     </article>
 
-<h1>Scratchpads</h1>
+
+  {% assign post = site.categories['microblog'].first %}
+    <article class="post">
+
+      <h1><i>Last short: </i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}shorts" class="read-more">Read</a>
+    </article>
+
+
+
+<h1>Topics</h1>
 <ul>
-  <li><a href="/scratchpads/philosophy">STEM</a></li>
-  <li><a href="/scratchpads/zen">zen</a></li>
-  <li><a href="/scratchpads/capitalism">capitalism</a></li>
-  <li><a href="/scratchpads/misc">misc</a></li>
+  {% for tag in site.tags %}
+    <li><a href="{{ site.baseurl }}/tags/{{tag[0]}}">{{tag[0]}}</a></li>
+  {% endfor %}
 </ul>
 
 <h1>Blogroll</h1>
