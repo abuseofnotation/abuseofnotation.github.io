@@ -1,8 +1,15 @@
 #!/usr/bin/env stack
 -- stack --resolver lts-19.6 script --package text --package turtle --package containers --package base --package directory
                                     
-{-# LANGUAGE OverloadedStrings #-}  
-                                    
+{-# LANGUAGE OverloadedStrings #-}
+
+{- Scan all Jekyll posts in the "_posts" folder, 
+ - extract all tags that are used in them
+ - and create an empty template file of the form "tags/<tagname>.html"
+ - for each tag.
+ -
+ - If you want to use it, you would probably also want "_layouts/tag.html" -}
+
 import Turtle                       
 import Data.Text 
 import qualified Data.Set as Set
