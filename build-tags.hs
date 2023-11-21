@@ -25,16 +25,18 @@ matchLine pattern' line =
     return matching
   where matching = match (pattern') (lineToText line)
 
-getTags :: Turtle.FilePath -> Shell Text
-getTags path = getFiles path isMarkdown
-  >>= (matchLine ("tags: " *> chars))
+
+extractYamlHeader header >>= (matchLine (header ++ ": " *> chars))
+
+tagsInDir :: Turtle.FilePath -> Shell Text
+tagsInDir path = (getFiles path isMarkdown) >>= extractYamlHeader "tags"
   >>= (\a -> select (a >>= splitOn " "))
 
 set :: Ord a => Fold a (Set.Set a)
 set = Fold (flip Set.insert) Set.empty id
 
-getTagSet :: Shell Text -> Shell Set Text
-getTagSet tags = (Turtle.fold tags set)
+unique :: Shell a -> Shell (Set.Set a)
+unique shell = (Turtle.fold shell set)
 
-main = sh (getTagsSet (getTags "_posts")
+main = sh (unique (tagsInDir "_posts")
   >>= liftIO . print)
