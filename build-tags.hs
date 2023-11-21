@@ -33,5 +33,8 @@ getTags path = getFiles path isMarkdown
 set :: Ord a => Fold a (Set.Set a)
 set = Fold (flip Set.insert) Set.empty id
 
-main = sh ((Turtle.fold (getTags "_posts") set)
+getTagSet :: Shell Text -> Shell Set Text
+getTagSet tags = (Turtle.fold tags set)
+
+main = sh (getTagsSet (getTags "_posts")
   >>= liftIO . print)
