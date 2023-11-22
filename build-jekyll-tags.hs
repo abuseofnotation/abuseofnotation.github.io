@@ -24,18 +24,9 @@ checkFileType fileType path = Prelude.not (Prelude.null (match (chars <> (fileTy
 getFiles :: Turtle.FilePath -> Pattern Text -> Shell Line
 getFiles path fileType = (mfilter (checkFileType fileType) (lstree path)) >>= Turtle.input 
 
--- Accepts a pattern and returns all shell lines that match the pattern
-matchLine :: Pattern a -> Line -> Shell [a]
-matchLine pattern' line = 
-  if (Prelude.null matching)
-  then
-    Turtle.empty
-  else
-    return matching
-  where matching = match (pattern') (lineToText line)
-
 -- Retrieves the values of all YAML headers in the shell
-getYamlHeader header shell = (matchLine (header *> chars) shell)
+getYamlHeader :: Pattern Text -> Line -> [Text]
+getYamlHeader header line = (match (header *> chars) (lineToText line))
 
 -- Fold to a set
 set :: Ord a => Fold a (Set.Set a)
@@ -64,8 +55,9 @@ createTagFiles files =  Turtle.liftIO (traverse_ createTagFile files )
 
 main = sh $
   (getFiles "_posts" "md")
-    >>= getYamlHeader "tags: "
-    >>= (\a -> select (a >>= splitOn " "))
+    >>= return . getYamlHeader "tags: "
+    >>= (select . (>>= splitOn " "))
     & mfilter (not . Data.Text.null)
     & unique
+    -- >>= liftIO . print
     >>=createTagFiles
