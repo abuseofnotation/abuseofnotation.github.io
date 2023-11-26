@@ -4,7 +4,7 @@ layout: default
     {% assign articles = site.tags[page.tag] | where: "category", "blog" %}
     {% assign shorts = site.tags[page.tag] | where: "category", "microblog" %}
 
-    {% if articles.size > 1 %}
+    {% if articles.size > 0 %}
     <h1>{{ page.tag }} articles</h1>
       {% for post in articles %}
 
@@ -17,12 +17,17 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
 
+    {% for tag in post.tags%}
+          <a href="{{ site.baseurl }}/tags/{{tag}}">{{tag}}</a>
+    {% endfor %}
+
+
       {% endfor %}
 
       <h2><a href="{{ site.baseurl }}/blog" >all articles</a></h2>
     {% endif %}
 
-    {% if shorts.size > 1 %}
+    {% if shorts.size > 0 %}
 
     <h1>{{page.tag}} shorts</h1>
 
@@ -37,11 +42,14 @@ layout: default
 
     </article>
 
+    {% for tag in post.tags%}
+          <a href="{{ site.baseurl }}/tags/{{tag}}">{{tag}}</a>
     {% endfor %}
 
-    <h2><a href="{{ site.baseurl }}/shorts">all shorts</a></h2>
+    {% endfor %}
+
     {% endif %}
 
-
-      <h2><a href="{{ site.baseurl }}/tags">all topics</a></h2>
+    <h2><a href="{{ site.baseurl }}/shorts">all shorts</a></h2>
+    <h2><a href="{{ site.baseurl }}/tags">all topics</a></h2>
 
