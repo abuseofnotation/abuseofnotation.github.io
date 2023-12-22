@@ -61,7 +61,8 @@ A system of systems
 
 The above approach will work up to a certain level, but not entirely - there are many statements that we cannot verify with our own eyes but we consider true in *some* sense. Like mathematical statements, for example. You may argue that simpler math statements like 1 + 1 = 2 reside in the visible spectra, but there is no way to "see" the truth of statements such as "the square root of 2 is irrational", for example. Depending on context and background, such statements can be considered to be anything between, "the closest thing we have to absolute truth" and "abstract nonsense". But one thing is for certain - they are not true *in the same way* as statements about everyday objects that we see. Based on this, we can conclude that *in real-life thinking there are not one, but many concepts of truth*, that is, there are many ways in which a given statement can be marked true (and as we shall see later, actually the whole unique characteristic of thinking arises from the way in which those concepts connect).
 .
-Our power to observe stuff is the base source of truth, but there are an infinite number of other sources, such as truths based on the sciences, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endorse, but belief in authorities, on which all people rely). And I don't mean just official sources like "Mathematically True" (or even as "It's in the Bible") - for example, a child may have "My father told me so" as a legitimate concept of truth, and there can be a million other nameless sources with a varying degree of complexity. Each of them brings with itself its own notion of objects (such as "one", "God", and "apple") a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. 
+
+Our power to *observe* stuff, to *sense* things, is the base source of truth. This is the simple part. We know when we feel pain or pleasure, just because we know it and we all know that we, for example, cannot walk through walls, simply because we all subconsciously remember the pain from that time we tried to do it. However, our power to think abstractly provides an infinite number of other sources of truth, such as truths based on the sciences, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endorse, but belief in authorities, on which all people rely). And I don't mean just official sources like "Mathematically True" (or even as "It's in the Bible") - for example, a child may have "My father told me so" as a legitimate concept of truth, and there can be a million other nameless sources with a varying degree of complexity. Each of them brings with itself its own notion of objects (such as "one", "God", and "apple") a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. 
 
 <figure>
   <img src="/images/logic/systems.svg" width="100%">
@@ -71,6 +72,7 @@ Our power to observe stuff is the base source of truth, but there are an infinit
 </figure>
 
 The brain rarely uses just one of these systems to judge how to react in a given situation - it uses a multitude of systems (or even it can use one system in a multitude of ways): in a single decision mathematics, religion, can all play a role, as well as one's sense of duty. 
+
 The result is a mesh which captures the concept of "everyday thinking" where nothing is true in general but everything is true in some context (and in which perceiving a statement often involves finding out the context in which it is true).
 
 It would also explain is why logical paradoxes, being as problematic as they are in logic, are a non-issue in our everyday thinking - it is just that the paradoxes arise within the boundaries of a single logical system or family of systems, systems which we can safely ignore when they fail us.
@@ -138,9 +140,7 @@ In our example, the percentages represented a degree of certainty, but in a more
   </figcaption>
 </figure>
 
-But how is the relevance of a given system determined? I think that there are at least two ways. The more obvious one is by direct *positive body responses*. The other is by complex links of family resemblances between different systems which also no doubt exist. 
-
-But this is a topic of another article, where I might also explore ideologies and other the self-perpetuating families of systems in which a positive response is achieved by just applying the system and making decisions based on it, even if the outcome of these decisions is not favourable. So I will close with this cliffhanger.
+But how is the relevance of a given system determined? I think that there are at least two ways. The more obvious one is by observing *positive responses* i.e. by measuring how often the system works in providing us with true statements. The other is by complex links of family resemblances between different systems which also no doubt exist. But this is a topic of another article, where I might also explore ideologies and other the self-perpetuating families of systems in which a positive response is achieved by just applying the system and making decisions based on it, even if the outcome of these decisions is not favourable. So I will close with this cliffhanger.
 
 Sources
 ===

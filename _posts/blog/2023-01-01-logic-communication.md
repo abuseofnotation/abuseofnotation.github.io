@@ -68,7 +68,7 @@ Note that a while a formal picture *might* be misunderstood, i.e. the picture th
 
 To understand the distinction better, consider this real-life example: we are sitting in a bar. I am going to get drinks for you and so I ask you what do you want and you reply the following:
 
-> Get me a beer, low alcoholic one, if there isn't such, or if it's very expensive, I just want a glass of water.
+> Buy me a beer, low alcoholic one, if there isn't such, or if it's very expensive, I just want a glass of water.
 
 You notice that your picture describes your wishes in a way that would allow the listener to replicate your thinking process in a way that would guarantee that they would always reach the exact same conclusion that you intended them to reach, provided that they understand the words in the same way as you do. This is what we mean when we say that it is *formal*. 
 
@@ -78,10 +78,9 @@ And it is my thesis that it having these qualities implies that the picture can 
   <img src="/images/logic/formal_picture.svg" width="100%">
   <figcaption>
 
-A Hasse diagram, representing the (formal) logical picture, that is also represented by the sentence: "Get me a beer, low alcoholic one, if there isn't such, or if it's very expensive, I just want a box of water." - <b>b</b> is the symbol for (low-alcoholic) beer. and <b>w</b> for water, and negation is symbolized by <b>¬</b>. The diagram is decidable (a choice can be made at all circumstance) , if we presume that the law of excluded middle - <b>b or ¬b</b> - holds (and that the bar serves water.)
+A Hasse diagram, representing the (formal) logical picture, that is also represented by the sentence: "Buy me a beer, low alcoholic one, if there isn't such, or if it's very expensive, I just want a box of water." - <b>b</b> is the symbol for (low-alcoholic) beer. and <b>w</b> for water, and negation is symbolized by <b>¬</b>. The diagram is decidable (a choice can be made at all circumstance) , if we presume that the law of excluded middle - <b>b or ¬b</b> - holds (and that the bar serves water.)
   </figcaption>
 </figure>
-
 
 A non-formal picture, in contrast, is one that cannot be adequally represented by a Hasse diagram: 
 
@@ -121,7 +120,7 @@ Viewpoint Contexts
 
 We will start off the discussion by posing the following question: Does the facts that pictures can be completely formal imply that communication can be completely formal? The answer is "No", because although the *viewpoint* the person expresses can be specified formally, the *context* in which this viewpoint lives, cannot. To see why, we examine our example formal picture (and, in particular, it's constituents (the points in the Hasse diagram)).
 
-> Get me a beer, **low-alcoholic one**, if there isn't such, or if it's **very expensive**, I just want a glass of water.
+> Buy me a beer, **low-alcoholic one**, if there isn't such, or if it's **very expensive**, I just want a glass of water.
 
 As we can see, these terms are not precisely defined i.e. they are opened to interpretation --- e.g. if the person who we are sending to get us drinks is significantly wealthier than us, or a heavier drinker, their idea of "cheap" and "low-alcoholic", respectively, would not match ours. This will not be due to an error in communicating the viewpoint itself, but an error which result from the presumptions about where this viewpoint is to be positioned, where it fits in the whole system of systems that is the brain.
 
@@ -154,13 +153,11 @@ From this description we realize that the only way for us to be completely preci
 What is communication
 ===
 
-Now that we have a basic understanding of the way information is transferred, let's outline the communication process itself (of which we already have some idea).
+Now that we have a basic understanding of the way information is transferred, let's outline the communication process itself (of which we already have some idea)
 
-The prerequisite for the occurence of communication is the existence of at least two systems of systems, that we can call *agents*, or just *sender* and *receiver*. 
+The prerequisite for the occurence of communication is the existence of at least two systems of systems, that we can call *agents*, or just *sender* and *receiver*. And the process of communication comes in two parts: establishing a *context* where there would be communicating and transferring a *viewpoint* from one agent to the other.
 
-And the process of communication comes in two parts: the transfer of *viewpoint* from one agent to the other and the transfer of its *context*.
-
-Viewpoints 
+Transfering viewpoints 
 ---
 
 Transfering a viewpoint involves:
@@ -176,15 +173,42 @@ Sender, transcribing a viewpoint into a picture and receiver transcribing the pi
 
 It is a relatively simple process, the only complication being that both the sender and the receiver have to be familiar with basic logic (i.e. they need to make sense) and have to know the notation used for communicating (not hard, since formal systems are, at their core, quite simple and, in most cases, equivalent to one another). 
 
-Contexts
+Establishing contexts
 ---
 
-The (much) harder part of the process (and the one that is non-formal (which is definitely connected)) is the part of *transferring* the *context* of the viewpoint from the sender to the receiver. We can equate this with the everyday concept of "understanding what the other person talks about" e.g if they are speaking methaphorically or literary.
+The (much) harder part of the process (and the one that is non-formal (which is definitely related)) is the part of establishing the *context* of the viewpoint. We can equate this with the everyday concept of "understanding what the other person talks about" e.g if they are speaking methaphorically or literary.
 
-And understanding contexts is actually much harder than it seems to be from the first glance. 
+Understanding contexts is actually much harder than it seems to be from the first glance. There is a deeper question here, namely *why do we communicate* and the way contexts are transferred is very connected with this question.
 
-Why do we communicate
-===
+Interlude: why do we communicate
+---
+
+Imagine you get a chance to communicate with a being who live in another planet. At first you are hesitant, because you aren't sure what to say and what you expect in return, so you just say:
+
+"Hello."
+
+And to your surprise, you get back a:
+
+"Hi"
+
+That's splendid. The being apparently knows English. That would make things much easier. Because how do you translate an alien language at all? Is this even possible? Well, apparently you wouldn't have to worry about that, as someone else did the hard work for us. You say:
+
+"You leaned English? That's great!"
+
+"Yes I did. But I don't know what you mean by "great" in this context."
+
+At this point you might employ a variety of tacticts in order to resolve the issue. --- you might say you are happy, at which point you would have to explain the concept of happiness and why is it important for people --- doesn't work. You might make some joke, related to how you are lazy and prefer someone else to do the work --- doesn't work either (we sometimes have issue getting jokes across to people, let alone aliens). After that, you desperately try to connect with this being on *some* level, sharing as many of your thoughts as you can, from personal, to religios and political, however, you discover that the world in which this being lives is not at all similar with ours: e.g. they don't have countries, they don't have the concept of love and friendship, even their physics is different (you are not sure whether it is because the physical reality is different or just the way they describe it is peculiar). 
+
+The more topics you try to bring up, the more you realize that your excitement from the fact that this being speaks perfect English was premature. Learning a language from scratch is actually not that hard, you are thinking in retrospect, even babies manage to do it. It is much harder to communicate, without having anything to talk *about*, without a common ground for communication. Communicating without a common language makes it *difficult* to map the points of the picture you receive to the corresponding points in a system of your brain, but, communicating without an establishing context, on the other hand, is just *impossible* --- you may take some of your viewpoints, construct pictures of them and transfer them successfully to your receiver, but your receiver simply wouldn't have a place in it in their system of systems, just as you wouldn't have a place to put *it's* viewpoints. You have a perfectly-working channel of communication between your brains, but there is nothing you can transfer.
+
+We might frame the situation between me and this being in a different way and say that we *can* communicate with one-another, we just *choose* not to do it, because there is nothing we want to say to each other. This establishes how instrumental *intend* is to communication e.g. babies aren't intelligent, and they don't know a word of any language, however they have a pretty strong intend to communicate with their mothers (their whole life depends on it), so they learn to communicate quite easily. The beings from another planet, in contrast, don't have any itend, and so (according to my theory) they can never communicate, even if they are super developed brain and know English perfectly (the only way for such beings to "communicate" is for them to pretend they are human and act in a way that a human would, in the same way in which chatbots pretend they are human, however, I would argue that that is not a real communication, but just a "language game"(real communication is also based on language games, but there is also intend)).
+
+What I am trying to say is that *intend is at the core of communication*, in the same way in which *perception is at the core of thought* --- just as you cannot think without first perceiving something for which to think about, you cannot ever communicate without first having something you want, (need) to communicate to someone.
+
+Establishing context contd
+---
+
+When a baby weeps or makes other sounds, its mother knows it is not doing literary analysis of the lyrics of the lullaby that she is singing, but rather that it demands from her attention on some specific set of things. This is how the babies intend sets up the *context* of the conversation and makes it so narrow enough for their mother to understand it by just a few sounds.
 
 
 Self-communication
@@ -219,7 +243,7 @@ On mind-to-mind communication
 
 
 
-Feelings are a stronger form of knowledge
+Appendix: Feelings are a stronger form of knowledge
 ===
 
 Folks who are good at something, be it basketball, chess, programming or anything else cannot fully explain how do they do the thing they do, even to people who are equally good at the same thing. i.e. I cannot determine if someone is a good programmer just by talking to them.
