@@ -49,3 +49,5 @@ reasonings
 modus
 operanti
 Pandoc
+Hasse
+Morphism

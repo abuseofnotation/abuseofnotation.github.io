@@ -1,5 +1,5 @@
 ---
-title: Shorts
+title: Epigrams
 layout: blog
 ---
 
@@ -12,8 +12,6 @@ I don't have any problem with Jeff Bezos going in space, the only thing I dislik
 I assume that people who say that Karl Marx didn't have a job are all writing monumental 1000-page studies as a hobby.
 
 Nobody cares about the average person's opinion, but everyone is deeply concerned what "the people" think.
-
-When learning programming it’s important to write a lot of code and also to read a lot of code. Writing is to understand you are retarded and reading is to understand everyone else is retarded as well.
 
 Doing math leaves me feeling like a genius 10% of the time and like a complete idiot for the other 90%.
 
@@ -35,10 +33,19 @@ If someone does not feel the same emotions as you, that does not make him less e
 
 You won't get good at something by practicing it for 10000 hours --- you will get good by making 10000 mistakes.
 
-Anything worth doing is worth doing poorly
+Anything worth doing is worth doing poorly.
 
-The clearest sign that they do not feel content with themselves is their desire to convert others to be like them.
+The clearest sign that people do not feel content with themselves is their desire to convert others to be like them.
 
 And to think that we live in the best of all possible worlds, I mean, imagine what the rest of them look like.
 
 Scientism isn't a religion - it's a cult.
+
+When learning programming it’s important to write a lot of code and also to read a lot of code. Writing is to understand you are retarded and reading is to understand everyone else is retarded as well.
+
+Hannah Arendt's principle of the banality of evil is also valid in the other way around: not only that evil is banal, but all banal things are evil i.e. a thing is banal if and only if it is evil.
+
+
+Any self-consistent system of knowledge can be reduced, at least theoretically, to a small number of clear elementary postulates and what follows from them. So, any system for which it is not immediately clear what these postulates are, is not self-consistent.
+
+Every body of knowledge, for which it is not immediately clear what are the postulates on which it is based on, is not self-consistent.

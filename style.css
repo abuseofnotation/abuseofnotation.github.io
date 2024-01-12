@@ -141,3 +141,12 @@ code {
 body {
   font-family: 'mell_regular';
 }
+
+input {
+  font-family: 'mell_regular';
+  font-size: 20px;
+}
+
+.textfield {
+  height: 68px;
+}
