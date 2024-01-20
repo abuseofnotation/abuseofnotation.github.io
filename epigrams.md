@@ -45,7 +45,8 @@ When learning programming it’s important to write a lot of code and also to re
 
 Hannah Arendt's principle of the banality of evil is also valid in the other way around: not only that evil is banal, but all banal things are evil i.e. a thing is banal if and only if it is evil.
 
-
 Any self-consistent system of knowledge can be reduced, at least theoretically, to a small number of clear elementary postulates and what follows from them. So, any system for which it is not immediately clear what these postulates are, is not self-consistent.
 
-Every body of knowledge, for which it is not immediately clear what are the postulates on which it is based on, is not self-consistent.
+The less you have, the more valuable it is, this is a vision circle that leaves you obsessed for not losing your nothing.
+
+Free time is the most precious resource that you can have in your life

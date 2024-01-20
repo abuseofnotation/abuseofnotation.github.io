@@ -3,7 +3,6 @@ layout: default
 ---
 
 <script> 
-  console.log('hi')
   fetch("https://aethy.com/api/v1/accounts/109822482244087271/statuses?exclude_replies=true")
     .then((result) => result.json())
     .then((quotes) => {
