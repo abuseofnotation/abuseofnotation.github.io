@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'mell_ultra';
-    src: url('mell/display/MellDisplay0.6-Regular.otf') format('opentype');
+    src: url('mell/MellDisplay-Regular.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'mell_regular';
-    src: url('mell/sans/MellSans0.6-Regular.otf') format('opentype');
+    src: url('mell/MellSans-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'mell_regular';
-    src: url('mell/sans/MellSans0.6-Bold.otf') format('opentype');
+    src: url('mell/MellSans-Bold.otf') format('opentype');
     font-weight: Bold;
     font-style: normal;
 }
@@ -23,7 +23,7 @@
 
 @font-face {
     font-family: 'mell_mono';
-    src: url('mell/mono/MellMono0.6-Regular.otf') format('opentype');
+    src: url('mell/MellMono-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
