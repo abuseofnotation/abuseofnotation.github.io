@@ -5,7 +5,6 @@ layout: blog
 tags: logic mathematics philosophy category-theory
 ---
 
-
 > "ALL OUR SIMPLE IDEAS IN THEIR FIRST APPEARANCE ARE DERIVED FROM SIMPLE IMPRESSIONS, WHICH ARE CORRESPONDENT TO THEM, AND WHICH THEY EXACTLY REPRESENT." 
 >
 > David Hume, Treatise on Human Nature

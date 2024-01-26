@@ -1,4 +1,3 @@
-
 ---
 title: "Plato's Republic and anarchy"
 layout: microblog

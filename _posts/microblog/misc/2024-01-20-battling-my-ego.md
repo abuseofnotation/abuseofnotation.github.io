@@ -1,4 +1,3 @@
-
 ---
 title: Battling my ego
 layout: microblog
