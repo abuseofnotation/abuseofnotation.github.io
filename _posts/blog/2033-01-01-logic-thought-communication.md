@@ -1,35 +1,29 @@
 ---
 category: blog
-title: "How does knowledge work: thinking and communication" 
+title: "How does knowledge work: From thinking to communication to logic" 
 layout: blog
 tags: logic mathematics philosophy category-theory
 ---
+
+<!--more-->
 
 > "ALL OUR SIMPLE IDEAS IN THEIR FIRST APPEARANCE ARE DERIVED FROM SIMPLE IMPRESSIONS, WHICH ARE CORRESPONDENT TO THEM, AND WHICH THEY EXACTLY REPRESENT." 
 >
 > David Hume, Treatise on Human Nature
 
-Self-communication
+
+
+Thinking
 ===
 
-I think that communication works in the same way when it happens between different areas of one and the same system of systems i.e. in the mind of the same agent. 
+Now let's first define our terms right: when I say "thinking" I do means everything that the brain does, which includes feelings. 
 
 
-Thoughts and communication
-===
-
-We tend to think of logical pictures as existing in an individual first and being transferred second, but it makes a lot of sense for things to be reversed - that is that communication enables us to be logical.
 
 
-The dark side of the mind
-===
 
-In contrast with the part (or parts) of the mind that we are able to pinpoint and describe with logical pictures that we can use to enlighten the others, there is also the part that is indescribable, the part whose internals are hidden even to us. The *dark side of the mind* is not dark in the sense of the dark side in Star Wars i.e. evil, but rather in the sense of the *dark side of the moon* (mysterious, unseen).
-
-Right off the bat, I want to say that I don't think that the dark side has a different modus operandi than the light one, that is, I think that it, like it is also just as logical 
-
-Appendix: Feelings are a stronger form of knowledge
-===
+Feelings and knowledge
+---
 
 Folks who are good at something, be it basketball, chess, programming or anything else cannot fully explain how do they do the thing they do, even to people who are equally good at the same thing. i.e. I cannot determine if someone is a good programmer just by talking to them.
 
@@ -57,6 +51,33 @@ Learning what a monad is, means feeling a given feeling. And, this is why, there
 This is why for a layperson, reading a math textbook is often unnerving and unpleasant, in the same way as a child who never experienced romantic love, would find reading love stories (or any other book for grown-ups) unpleasant. 
 
 But once it "clicks" it suddenly makes sense - everyone knows that, but many don't realize that this clicking has nothing to do with memorization, it is just the experience of a feeling.
+
+
+The dark side of the mind
+---
+
+In contrast with the part (or parts) of the mind that we are able to pinpoint and describe with logical pictures that we can use to enlighten the others, there is also the part that is indescribable, the part whose internals are hidden even to us. The *dark side of the mind* is not dark in the sense of the dark side in Star Wars i.e. evil, but rather in the sense of the *dark side of the moon* (mysterious, unseen).
+
+Right off the bat, I want to say that I don't think that the dark side has a different modus operandi than the light one, that is, I think that it, like it is also just as logical 
+
+Communication
+===
+
+Thoughts and communication
+---
+
+We tend to think of logical pictures as existing in an individual first and being transferred second, but it makes a lot of sense for things to be reversed - that is that communication enables us to be logical.
+
+
+Logic
+===
+
+Self-communication
+---
+
+I think that communication works in the same way when it happens between different areas of one and the same system of systems i.e. in the mind of the same agent. 
+
+
 
 Comparison to Wittgenstein's philosophy
 ===
