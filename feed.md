@@ -4,568 +4,6 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
-[Test fediverse via activitypub](http://proses.id/test-fediverse-via-activitypub/)
----
-
-Proses.ID --- 11/8/2023
-
-test to mastodon?
-
-
-[Nsncd, Anniversary Updates](https://alternativebit.fr/posts/nixos/nsncd-some-updates/)
----
-
-AlternativeBit --- 10/30/2023
-
-Last year, flokli and I worked towards re-using TwoSigma’s Nsncd as the main NixOS Nscd daemon. What is that even about? Well, Nscd is a Glibc daemon that was originally meant to cache the host/user resolution requests. It’s mostly obsolete by now,...
-
-
-[The limit of (your) language](http://proses.id/lol/)
----
-
-Proses.ID --- 10/18/2023
-
-“The limits of my language means the limits of my world.” — Ludwig Wittgenstein I’ve always taken this to mean I need to extend and…
-
-
-[Short form content is not making us stupid and more distracted](http://proses.id/short-form/)
----
-
-Proses.ID --- 7/14/2023
-
-I think short form content has been unfairly demonised and long form overly romanticised Short form is NOT making us stupid and distracted. shorter content…
-
-
-[Short form vs long form](http://proses.id/short-form-long-form/)
----
-
-Proses.ID --- 7/14/2023
-
-Again about the previous post: I think short form content has been unfairly demonised and long form overly romanticised A better way to think about…
-
-
-[text is a temporary lossy workaround](http://proses.id/text-as-tech/)
----
-
-Proses.ID --- 7/14/2023
-
-as an extremely text-biased person with an unjustifiable fetish of long-form text, it pains me to have to start to accept that text (hence writing…
-
-
-[our phones didn’t destroy our attention span](http://proses.id/attention-span/)
----
-
-Proses.ID --- 7/14/2023
-
-perhaps this “social media and smartphones have ruined our attention span” issue is really just FOMO on steroid and less an actual neurological change? do…
-
-
-[The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
----
-
-AlternativeBit --- 4/20/2023
-
-In this article, we’re about to dive into the uncharted OpenGL on Linux waters. After briefly explaining how the OpenGL calls are routed from your application to the GPU, we’ll look at the NixOS special case. We’ll then explore how we can run the...
-
-
-[A vegan thinks “I’m killing it”.](http://proses.id/on-language/)
----
-
-Proses.ID --- 2/16/2023
-
-a hardcore vegan friend said that she thinks “I killed it” in a webinar I gave. ofc I’m overanalysing but can’t help but find it…
-
-
-[What makes human, human? (First braindump on AI)](http://proses.id/human-and-ai/)
----
-
-Proses.ID --- 1/28/2023
-
-“AI has by now succeeded in doing essentially everything that requires ‘thinking’ but has failed to do most of what people and animals do ‘without…
-
-
-[Ask, don’t tell](http://proses.id/ask-dont-tell/)
----
-
-Proses.ID --- 1/27/2023
-
-Saying “I’m doing a couple of projects on Content, L&D, and Knowledge Management consulting now” is less effective than “do let me know if you…
-
-
-[The power of saying something out loud](http://proses.id/say-it-out-loud/)
----
-
-Proses.ID --- 1/15/2023
-
-At the risk of sounding socially inept and imperceptive, until very recently I’ve underestimated the magic and power of the act of 1) saying something…
-
-
-[Nix Substitution: the Way Forward](https://alternativebit.fr/posts/nixos/future-of-nix-substitution/)
----
-
-AlternativeBit --- 3/31/2022
-
-Abstract Nix and Guix have the unfortunate reputation to require a lot of bandwidth to distribute software. This reputation is sadly grounded. It seems like explicitly pointing to your dependencies comes with an overhead cost in terms of download...
-
-
-[Ex-Hack: a Haskell Example-based Documentation](https://alternativebit.fr/posts/haskell/ex-hack-alpha/)
----
-
-AlternativeBit --- 11/15/2018
-
-Abstract Ex-Hack is an example-based documentation automatically generated using the packages posted on Stackage. There’s a live demo here. We’ve just released the alpha version; you can have a look to the code here. We are actively looking for new...
-
-
-[Ultimate Writer: an Open Digital Typewriter](https://alternativebit.fr/posts/ultimate-writer/)
----
-
-AlternativeBit --- 10/17/2018
-
-TL;DR: A digital typewriter based on a Raspberry Pi and an E-Ink screen. The code/build instructions are available on GitHub. I am easily distracted. This is both a blessing and a curse. On one hand, I can deal with a large amount of boredom...
-
-
-[Loading a Cabal module in the GHC API](https://alternativebit.fr/posts/haskell/cabal-ghc-api/)
----
-
-AlternativeBit --- 8/8/2018
-
-If you plan to build some Haskell tooling or any kind of static code analyzer, chances are you’ll need to use the GHC API at some point. While loading a simple module into GHC’s API is quite trivial and well documented, loading complex modules...
-
-
-[Silver Searcher: Useful Regexes for a Haskell Code-Base](https://alternativebit.fr/posts/haskell/ag/)
----
-
-AlternativeBit --- 7/22/2018
-
-TL;DR I use 4 Perl Regex patterns most of the time when it comes to search some Haskell code: Functions:    "\b\b[ \t\n]+::" Types:        "(data|newtype|type)(\ +)\b\b" TypeClasses:  "class(\ +)(.*)(=>)*(\ *)\b\b" Constructors: "\|[\t\ ]+\b\b" I...
-
-
-[Please, Keep your Blog Light](https://alternativebit.fr/posts/lightweight-blog/)
----
-
-AlternativeBit --- 1/24/2018
-
-TL;DR: keeping your blog lightweight is important, I show you how to design a blog fitting in less than 10kB. You’re already convinced weight really matters when it comes to web pages? You can skip the introduction and directly see how you can...
-
-
-[Bracket: a Tale of Partially Applied Functions](https://alternativebit.fr/posts/haskell/bracket/)
----
-
-AlternativeBit --- 11/29/2017
-
-TL;DR In this post, we describe how we can use partially applied functions as a design building block though the study of a practical example: the bracket function. I’ll use the Haskell programming language to illustrate this post. Just keep in...
-
-
-[Writing a Twitch Overlay using Haskell](https://alternativebit.fr/posts/keywar/)
----
-
-AlternativeBit --- 10/21/2017
-
-I have been watching Jessica’s Mak streams lately. She is an indie game developper, but most of all, she has a kick ass overlay that shows what she is typing in real time. I wanted the same one, I made it using Haskell, Gloss and Chipmunk via the...
-
-
-[Wireguard-Haskell: Getting Started](https://alternativebit.fr/posts/wireguard/wireguardrpc/)
----
-
-AlternativeBit --- 10/16/2017
-
-Why Starting this Project? After finishing DobadoBots, I was looking for a Haskell project in which I could be confronted with some performance and parallelism problems. Wireguard seemed to be the perfect project for that. At the time, no userspace...
-
-
-[DobadoBots: Project Wrap Up](https://alternativebit.fr/posts/dobadobots/dobadowrappingup/)
----
-
-AlternativeBit --- 9/28/2017
-
-Yet another post about DobadoBots: my programming video-game. Right, let’s face it: it is done for two months now, this blog post is long overdue! The video-game is now completely playable, I reached the MVP stage. Here’s a short video presenting...
-
-
-[DobadoBots: Writing a Text Editor](https://alternativebit.fr/posts/dobadobots/dobadoeditor/)
----
-
-AlternativeBit --- 9/4/2017
-
-Yup, yet another post on my programming videogame: Dobadobots.  Today, we are going to dig into the editor’s implementation. Motivations I wanted the game to be as enjoyable as possible, I wanted a quick write/feedback loop. Using an external...
-
-
-[DobadoBots: Implementing the Parser](https://alternativebit.fr/posts/dobadobots/dobadoparser/)
----
-
-AlternativeBit --- 7/20/2017
-
-Lately, I have been working on a video-game called DobadoBots. This game is about programming a robot’s artificial intelligence to solve mazes.  The robot is materialized by a white triangle. The goal is to reach the objective (orange square)...
-
-
-[DobadoBots: Specifying the Language](https://alternativebit.fr/posts/dobadobots/dobadolanguage/)
----
-
-AlternativeBit --- 6/25/2017
-
-Lately, I have been working on a video-game called DobadoBots. This game is about programming a robot’s articial intelligence to solve mazes.  The robot is materialized by a white triangle. The goal is to reach the objective (orange square)...
-
-
-[One Year of FOSS](https://alternativebit.fr/posts/sabatical/)
----
-
-AlternativeBit --- 6/18/2017
-
-One Year of FOSS Hello internet friends, long time no see. After doing a total revamp of this weblog, I think it is finally time to explain what’s happening in my life. Two months ago, I decided to quit my job. I was tired of Paris’s pollution. I...
-
-
-[Real World Haskell Chapter 9 Solutions](https://alternativebit.fr/posts/real-word-haskell-chapter-9/)
----
-
-AlternativeBit --- 4/4/2017
-
-Exercise P.221 Is the order in which we call bracket and handle important? Yup, it is pretty important: the code executed during the in-between statement of bracket still can raise an exception. We do not want our application to crash in case of an...
-
-
-[Real World Haskell Chapter 8 Solutions](https://alternativebit.fr/posts/real-word-haskell-chapter-8-efficient-file-processing/)
----
-
-AlternativeBit --- 3/28/2017
-
-Hello, it’s been a long time. Despite having done some progress on the resolution of the exercises of this book, I haven’t blogged about my solutions, which is a shame. The solutions are available in this git repository though. Let’s start again...
-
-
-[Real World Haskell Chapter 4 Solutions](https://alternativebit.fr/posts/real-word-haskell-chapter-4-functionnal-programming/)
----
-
-AlternativeBit --- 12/18/2016
-
-Okay, in this chapter, we will apparently learn more about common techniques in FP, can’t wait! Exercises page 84 Let’s rewrite safe versions of partial list functions The first two functions are very straightforward: a bit of pattern...
-
-
-[Open recipe database: how to gather, cure and store data](https://alternativebit.fr/posts/open-receipe-database-how-to-gather-and-cure-data/)
----
-
-AlternativeBit --- 7/8/2016
-
-I recently started to think about creating an open recipe database. The major consideration coming with this project is how to gather, cure and store recipes. Gathering data Let’s start with something obvious: we cannot rely on users to create...
-
-
-[Some thoughts about building an open recipe database](https://alternativebit.fr/posts/some-thoughts-about-an-open-receipes-database/)
----
-
-AlternativeBit --- 6/23/2016
-
-Lately, I have been thinking about creating an open recipe database. It is just not possible to find any good quality recipes database. Often, the website indexing recipes does not expose its data using any kind of API. When it does - and very few...
-
-
-[How to configure TLS Let's Encrypt Certificates with Nginx](https://alternativebit.fr/posts/lets-encrypt-nginx-certonly-autommatized-config/)
----
-
-AlternativeBit --- 12/4/2015
-
-Let’s encrypt beta is public since yesterday. I already use their certificates for several domains. The main problem I actually face is certificates renewal. I want to be able to renew automatically my certificates without turning off Nginx. Let’s...
-
-
-[An Illustration of Applied Stochastic Geometry: Coverage Probability in a Simple ALOHA MANET](https://www.themathcitadel.com/articles/aloha-manet-coverage.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article weaves high level concepts from stochastic geometry into a practical description of wireless network coverage under the Aloha protocol.
-
-
-[Markov Decision Process Basics](https://www.themathcitadel.com/articles/mdp-basics.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses the practical basics of Markov decision processes, with machine repair and a garden fertilization examples.
-
-
-[An Interesting Prisoner's Dilemma](https://www.themathcitadel.com/articles/prisoner-dilemma.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article will explore a generalization of a problem Traylor found in S. Ross's "Applied Probability Models with Optimization Applications" involving a strange prison and some basic probability reasoning.
-
-
-[Concatenation as an Operation](https://www.themathcitadel.com/articles/concatenation-operation.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article explores the definition of an operation using the familiar notion of concatenation.
-
-
-[Defining an Anomaly](https://www.themathcitadel.com/articles/defining-an-anomaly.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article details some of the challenges in anomaly detection, particularly in defining an anomaly "globally".
-
-
-[Taking Things for Granted: Elementary Properties of Groups](https://www.themathcitadel.com/articles/elementary-properties-groups.html)
----
-
-The Math Citadel --- Invalid Date
-
-Many concepts in basic algebra are also taken for granted, such as cancellation of terms, and commutativity. This post will revisit some basic algebra (think solving for x), but with some of those things we took for granted removed.
-
-
-[Group Theory, XOR, and Binary Codes: Introducing Coding Theory](https://www.themathcitadel.com/articles/group-theory-xor.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives an introduction to coding theory by looking at the group structure of binary words under the exclusive-or operation.
-
-
-[Interventions, not Anomalies](https://www.themathcitadel.com/articles/interventions-not-anomalies.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a suggestion for dealing with time series anomalies.
-
-
-[Maximum-Likelihood Decoding](https://www.themathcitadel.com/articles/maximum-likelihood-decoding.html)
----
-
-The Math Citadel --- Invalid Date
-
-This post will now allow us to explore some more interesting topics in coding theory, courtesy of Pinter's A Book of Abstract Algebra. We'll introduce the notion of a code, informations, and parity check equations.
-
-
-[Like Clockwork: Modulo Addition And Finite Groups Of Integers](https://www.themathcitadel.com/articles/mod-add-groups-integers.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article eases a reader into finite groups and modulo arithmetic.
-
-
-[A Partition By Any Other Name](https://www.themathcitadel.com/articles/partition-other-name.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article looks at cosets of a group and notes how they partition a set, then mentions an application of the result to coding theory.
-
-
-[All the Same Opposites](https://www.themathcitadel.com/articles/all-the-same-opposites.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article examines the surprising richness in the field of two elements.
-
-
-[Applications of Reflections: Taking a Group to its Abelian Form](https://www.themathcitadel.com/articles/application-reflection-abelian.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article looks at the definition of the categorical concept of a reflection and gives a clear application with full construction.
-
-
-[Beyond Cookbook Mathematics, Part 1](https://www.themathcitadel.com/articles/beyond-cookbook-math-1.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a more colloquial introduction to the importance of mathematical definitions and framing practical problems mathematically.
-
-
-[Beyond Cookbook Mathematics, Part 2](https://www.themathcitadel.com/articles/beyond-cookbook-math-2.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article continues colloquially discussing how to look at and read mathematical proofs.
-
-
-[Building a Ground Floor: Topology Basics, Part 1](https://www.themathcitadel.com/articles/topology-basics-1.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a short introduction to basic topological concepts, with concrete examples.
-
-
-[Cauchy Sequences: The Importance of Getting Close](https://www.themathcitadel.com/articles/cauchy-sequences-close.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a short exposition of a Cauchy sequence of real numbers.
-
-
-[Energy Levels of Molecules are Bounded Below](https://www.themathcitadel.com/articles/energy-levels-molecules-bounded.html)
----
-
-The Math Citadel --- Invalid Date
-
-This guest submission is from Nikita Lisitsa, a professional software developer and mathematician.
-
-
-[Equivalence v. Isomorphisms in Category Theory](https://www.themathcitadel.com/articles/equivalence-isomorphisms-category.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses the difference between equivalence and isomorphisms among categories, with concrete examples.
-
-
-[Using Theoretical Chemistry to Engineer Better Packet Flow](https://www.themathcitadel.com/articles/exploiting-chemistry-packet-flow.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article reviews a technical report on the application of chemical kinetics to packet flow management in computer networks. Much more detail is given.
-
-
-[The Convenience of Isomorphisms](https://www.themathcitadel.com/articles/isomorphisms-convenient.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a simple introduction to the utility of isomorphisms, using an example on Z_4 and a group of complex numbers.
-
-
-[Mailbox Answers: Calculating New Parity After an Overwrite](https://www.themathcitadel.com/articles/mailbox-answers-parity.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article is inspired by an e-mail question regarding parity for a data stripe on a storage system. It provides motivation for an elegant mod 2-based proposition and proof.
-
-
-[On the Optimal Storage of Bulk Cargoes](https://www.themathcitadel.com/articles/optimal-storage-bulk-cargo.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives an extremely practical application of basic (though nontrivial) calculus involving the optimization of storing bulk cargoes on ships.
-
-
-[Networking Mathematics: Random Early Detection and TCP Synchronization](https://www.themathcitadel.com/articles/networking-math-tcp.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses some computer networking basics and reviews an interesting algorithm for buffering and queue management.
-
-
-[Paper Review: Active Queue Management with Non-Linear Packet Dropping Function](https://www.themathcitadel.com/articles/paper-review-packet-drop.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article reviews a network engineering paper and points out some issues.
-
-
-[Reduce the Problem: Permutations and Modulo Arithmetic](https://www.themathcitadel.com/articles/permutation-mod-arithmetic.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article explores the elegant connections between permutations and modulo arithmetic.
-
-
-[Should I Accept This Shipment?](https://www.themathcitadel.com/articles/accept-ship.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a manufacturing application of the hypergeometric distribution in shipment sampling and acceptance.
-
-
-[Sequences and Tendency: Topology Basics Part 2](https://www.themathcitadel.com/articles/topology-basics-2.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article helps the reader to understand what convergence means when we strip the idea of "distance" away.
-
-
-[The Cartesian Product of Two Graphs](https://www.themathcitadel.com/articles/cartesian-prod-graph.html)
----
-
-The Math Citadel --- Invalid Date
-
-An exploration of what "multiplication" can mean for          two graphs.
-
-
-[The Red-Headed Step-Distributions](https://www.themathcitadel.com/articles/red-head-step-dist.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses the notion of singular          continuous distributions, and a lone constructive example.
-
-
-[Regression and Time Series](https://www.themathcitadel.com/articles/time-series-regression.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses the similarities and          differences between ordinary linear regression and time series          models.
-
-
-[Topologies v. sigma-algebras](https://www.themathcitadel.com/articles/topologies-sigma-algebras.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses the similarities and          differences between topologies and σ−algebras, aiming to clear up          the two definitions with explicit examples.
-
-
-[Using Boolean Algebra to Find all Maximal Independent Sets 
-        in a Graph](https://www.themathcitadel.com/articles/maximal-independent-set-graph.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article details some frustration in finding          maximal independent sets of a graph.
-
-
-[Using Dirac Delta Formalism to Calculate Shear Force and 
-        Bending Moment](https://www.themathcitadel.com/articles/dirac-delta-moment.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a very interesting application of          the Dirac delta function to a common mechanics problem.
-
-
-[Welcome to GF(4)](https://www.themathcitadel.com/articles/welcome-to-gf4.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses the Galois field on 4 elements,         with an emphasis on solving linear equations with altered          definitions of addition and multiplication.
-
-
-[Poisson Processes and Data Loss](https://www.thecommathcitadel.com/articles/poisson-processes-data-loss.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article discusses the Poisson process as it may          (or may not) apply to data loss in enterprise storage systems.
-
-
-[The Hathlor Classification System](https://www.themathcitadel.com/articles/hathlor-system.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article explains our novel technical book         classification system that we employ in our library.
-
-
-[Simulating Soundscapes Using Convolutions](https://www.themathcitadel.com/articles/simulating-soundscapes.html)
----
-
-The Math Citadel --- Invalid Date
-
-This article gives a fantastic application of          convolutions as applied to music and signal processing. Audio is          included.
-
-
 [Gödel incompleteness, graduate course, Notre Dame, Fall 2024](https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/)
 ---
 
@@ -638,6 +76,14 @@ Joel David Hamkins --- 11/23/2023
 This will be a talk for the Rutgers University Logic Seminar, December 4, 2023. Abstract. I shall discuss the computable model theory of forcing. To what extent can we view forcing as a computational process on the models of set … Continue reading →
 
 
+[Test fediverse via activitypub](http://proses.id/test-fediverse-via-activitypub/)
+---
+
+Proses.ID --- 11/8/2023
+
+test to mastodon?
+
+
 [The Wordle and Absurdle numbers, CUNY Logic Workshop, November 2023](https://jdh.hamkins.org/the-wordle-and-absurdle-numbers-cuny-logic-workshop-november-2023/)
 ---
 
@@ -652,6 +98,22 @@ This will be a talk for the CUNY Logic Workshop, 17 November 2023. Abstract. We 
 Joel David Hamkins --- 11/3/2023
 
 This will be a talk for the First-order Modal Logic (FoMoLo) Seminar, 12 February 2024. The talk will take place online via Zoom—contact the organizers for access. Abstract. What is or should be the potentialist account of classes? There are …...
+
+
+[Nsncd, Anniversary Updates](https://alternativebit.fr/posts/nixos/nsncd-some-updates/)
+---
+
+AlternativeBit --- 10/30/2023
+
+Last year, flokli and I worked towards re-using TwoSigma’s Nsncd as the main NixOS Nscd daemon. What is that even about? Well, Nscd is a Glibc daemon that was originally meant to cache the host/user resolution requests. It’s mostly obsolete by now,...
+
+
+[The limit of (your) language](http://proses.id/lol/)
+---
+
+Proses.ID --- 10/18/2023
+
+“The limits of my language means the limits of my world.” — Ludwig Wittgenstein I’ve always taken this to mean I need to extend and…
 
 
 [The surprising strength of second-order reflection in urelement set theory, Luminy, October 2023](https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/)
@@ -702,6 +164,46 @@ Joel David Hamkins --- 8/15/2023
 This will be a talk 16 October 2023 (Note new date!) for the Colloquium of the Harvard Center for Mathematical Sciences and Applications (CMSA). Abstract: Let us explore the nature of strategic reasoning in infinite games, focusing on the cases of...
 
 
+[Short form content is not making us stupid and more distracted](http://proses.id/short-form/)
+---
+
+Proses.ID --- 7/14/2023
+
+I think short form content has been unfairly demonised and long form overly romanticised Short form is NOT making us stupid and distracted. shorter content…
+
+
+[Short form vs long form](http://proses.id/short-form-long-form/)
+---
+
+Proses.ID --- 7/14/2023
+
+Again about the previous post: I think short form content has been unfairly demonised and long form overly romanticised A better way to think about…
+
+
+[text is a temporary lossy workaround](http://proses.id/text-as-tech/)
+---
+
+Proses.ID --- 7/14/2023
+
+as an extremely text-biased person with an unjustifiable fetish of long-form text, it pains me to have to start to accept that text (hence writing…
+
+
+[our phones didn’t destroy our attention span](http://proses.id/attention-span/)
+---
+
+Proses.ID --- 7/14/2023
+
+perhaps this “social media and smartphones have ruined our attention span” issue is really just FOMO on steroid and less an actual neurological change? do…
+
+
+[The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
+---
+
+AlternativeBit --- 4/20/2023
+
+In this article, we’re about to dive into the uncharted OpenGL on Linux waters. After briefly explaining how the OpenGL calls are routed from your application to the GPU, we’ll look at the NixOS special case. We’ll then explore how we can run the...
+
+
 [New Video Podcast: fAQ](https://www.math3ma.com/blog/new-video-podcast-faq)
 ---
 
@@ -750,6 +252,38 @@ Math3ma --- 3/15/2023
 Recently on The Math3ma Institute's blog, I announced an upcoming event that will be hosted at The Master's University (TMU), which is a small private university in Santa Clarita, California. I wanted to briefly mention it here, too, in case it...
 
 
+[A vegan thinks “I’m killing it”.](http://proses.id/on-language/)
+---
+
+Proses.ID --- 2/16/2023
+
+a hardcore vegan friend said that she thinks “I killed it” in a webinar I gave. ofc I’m overanalysing but can’t help but find it…
+
+
+[What makes human, human? (First braindump on AI)](http://proses.id/human-and-ai/)
+---
+
+Proses.ID --- 1/28/2023
+
+“AI has by now succeeded in doing essentially everything that requires ‘thinking’ but has failed to do most of what people and animals do ‘without…
+
+
+[Ask, don’t tell](http://proses.id/ask-dont-tell/)
+---
+
+Proses.ID --- 1/27/2023
+
+Saying “I’m doing a couple of projects on Content, L&D, and Knowledge Management consulting now” is less effective than “do let me know if you…
+
+
+[The power of saying something out loud](http://proses.id/say-it-out-loud/)
+---
+
+Proses.ID --- 1/15/2023
+
+At the risk of sounding socially inept and imperceptive, until very recently I’ve underestimated the magic and power of the act of 1) saying something…
+
+
 [A New Perspective of Entropy](https://www.math3ma.com/blog/a-new-perspective-of-entropy)
 ---
 
@@ -764,6 +298,14 @@ Hello world! Last summer I wrote a short paper entitled "Entropy as a Topologica
 Math3ma --- 1/1/2023
 
 Welcome to our third and final installment on the Yoneda lemma! In the past couple of weeks, we've slowly unraveled the mathematics behind the Yoneda perspective, i.e. the categorical maxim that an object is completely determined by its...
+
+
+[Nix Substitution: the Way Forward](https://alternativebit.fr/posts/nixos/future-of-nix-substitution/)
+---
+
+AlternativeBit --- 3/31/2022
+
+Abstract Nix and Guix have the unfortunate reputation to require a lot of bandwidth to distribute software. This reputation is sadly grounded. It seems like explicitly pointing to your dependencies comes with an overhead cost in terms of download...
 
 
 [Stop Staring and Compute! Automorphism Groups of Rational Curves](https://rin.io/stop-staring-and-compute-automorphism-groups-of-curves/)
@@ -1414,12 +956,28 @@ Math3ma --- 11/18/2018
 Once upon a time, while in college, I decided to take my first intro-to-proofs class. I was so excited. "This is it!" I thought, "now I get to learn how to think like a mathematician." You see, for the longest time, my mathematical upbringing was...
 
 
+[Ex-Hack: a Haskell Example-based Documentation](https://alternativebit.fr/posts/haskell/ex-hack-alpha/)
+---
+
+AlternativeBit --- 11/15/2018
+
+Abstract Ex-Hack is an example-based documentation automatically generated using the packages posted on Stackage. There’s a live demo here. We’ve just released the alpha version; you can have a look to the code here. We are actively looking for new...
+
+
 [Portrait Practice](https://rin.io/portrait-practice/)
 ---
 
 Good Fibrations --- 11/13/2018
 
 
+
+
+[Ultimate Writer: an Open Digital Typewriter](https://alternativebit.fr/posts/ultimate-writer/)
+---
+
+AlternativeBit --- 10/17/2018
+
+TL;DR: A digital typewriter based on a Raspberry Pi and an E-Ink screen. The code/build instructions are available on GitHub. I am easily distracted. This is both a blessing and a curse. On one hand, I can deal with a large amount of boredom...
 
 
 [Is the Square a Secure Polygon?](https://www.math3ma.com/blog/is-the-square-a-secure-polygon)
@@ -1668,4 +1226,140 @@ Not too long ago, my college-algebra students and I were chatting about graphing
 Math3ma --- 9/11/2018
 
 Last time we proved that the pseudo-hyperbolic metric on the unit disc in ℂ is indeed a metric. In today’s post, we use this fact to verify Lindelöf’s inequality which says, "Hey! Want to apply Schwarz's Lemma but don't know if your function fixes...
+
+
+[Loading a Cabal module in the GHC API](https://alternativebit.fr/posts/haskell/cabal-ghc-api/)
+---
+
+AlternativeBit --- 8/8/2018
+
+If you plan to build some Haskell tooling or any kind of static code analyzer, chances are you’ll need to use the GHC API at some point. While loading a simple module into GHC’s API is quite trivial and well documented, loading complex modules...
+
+
+[Silver Searcher: Useful Regexes for a Haskell Code-Base](https://alternativebit.fr/posts/haskell/ag/)
+---
+
+AlternativeBit --- 7/22/2018
+
+TL;DR I use 4 Perl Regex patterns most of the time when it comes to search some Haskell code: Functions:    "\b\b[ \t\n]+::" Types:        "(data|newtype|type)(\ +)\b\b" TypeClasses:  "class(\ +)(.*)(=>)*(\ *)\b\b" Constructors: "\|[\t\ ]+\b\b" I...
+
+
+[Please, Keep your Blog Light](https://alternativebit.fr/posts/lightweight-blog/)
+---
+
+AlternativeBit --- 1/24/2018
+
+TL;DR: keeping your blog lightweight is important, I show you how to design a blog fitting in less than 10kB. You’re already convinced weight really matters when it comes to web pages? You can skip the introduction and directly see how you can...
+
+
+[Bracket: a Tale of Partially Applied Functions](https://alternativebit.fr/posts/haskell/bracket/)
+---
+
+AlternativeBit --- 11/29/2017
+
+TL;DR In this post, we describe how we can use partially applied functions as a design building block though the study of a practical example: the bracket function. I’ll use the Haskell programming language to illustrate this post. Just keep in...
+
+
+[Writing a Twitch Overlay using Haskell](https://alternativebit.fr/posts/keywar/)
+---
+
+AlternativeBit --- 10/21/2017
+
+I have been watching Jessica’s Mak streams lately. She is an indie game developper, but most of all, she has a kick ass overlay that shows what she is typing in real time. I wanted the same one, I made it using Haskell, Gloss and Chipmunk via the...
+
+
+[Wireguard-Haskell: Getting Started](https://alternativebit.fr/posts/wireguard/wireguardrpc/)
+---
+
+AlternativeBit --- 10/16/2017
+
+Why Starting this Project? After finishing DobadoBots, I was looking for a Haskell project in which I could be confronted with some performance and parallelism problems. Wireguard seemed to be the perfect project for that. At the time, no userspace...
+
+
+[DobadoBots: Project Wrap Up](https://alternativebit.fr/posts/dobadobots/dobadowrappingup/)
+---
+
+AlternativeBit --- 9/28/2017
+
+Yet another post about DobadoBots: my programming video-game. Right, let’s face it: it is done for two months now, this blog post is long overdue! The video-game is now completely playable, I reached the MVP stage. Here’s a short video presenting...
+
+
+[DobadoBots: Writing a Text Editor](https://alternativebit.fr/posts/dobadobots/dobadoeditor/)
+---
+
+AlternativeBit --- 9/4/2017
+
+Yup, yet another post on my programming videogame: Dobadobots.  Today, we are going to dig into the editor’s implementation. Motivations I wanted the game to be as enjoyable as possible, I wanted a quick write/feedback loop. Using an external...
+
+
+[DobadoBots: Implementing the Parser](https://alternativebit.fr/posts/dobadobots/dobadoparser/)
+---
+
+AlternativeBit --- 7/20/2017
+
+Lately, I have been working on a video-game called DobadoBots. This game is about programming a robot’s artificial intelligence to solve mazes.  The robot is materialized by a white triangle. The goal is to reach the objective (orange square)...
+
+
+[DobadoBots: Specifying the Language](https://alternativebit.fr/posts/dobadobots/dobadolanguage/)
+---
+
+AlternativeBit --- 6/25/2017
+
+Lately, I have been working on a video-game called DobadoBots. This game is about programming a robot’s articial intelligence to solve mazes.  The robot is materialized by a white triangle. The goal is to reach the objective (orange square)...
+
+
+[One Year of FOSS](https://alternativebit.fr/posts/sabatical/)
+---
+
+AlternativeBit --- 6/18/2017
+
+One Year of FOSS Hello internet friends, long time no see. After doing a total revamp of this weblog, I think it is finally time to explain what’s happening in my life. Two months ago, I decided to quit my job. I was tired of Paris’s pollution. I...
+
+
+[Real World Haskell Chapter 9 Solutions](https://alternativebit.fr/posts/real-word-haskell-chapter-9/)
+---
+
+AlternativeBit --- 4/4/2017
+
+Exercise P.221 Is the order in which we call bracket and handle important? Yup, it is pretty important: the code executed during the in-between statement of bracket still can raise an exception. We do not want our application to crash in case of an...
+
+
+[Real World Haskell Chapter 8 Solutions](https://alternativebit.fr/posts/real-word-haskell-chapter-8-efficient-file-processing/)
+---
+
+AlternativeBit --- 3/28/2017
+
+Hello, it’s been a long time. Despite having done some progress on the resolution of the exercises of this book, I haven’t blogged about my solutions, which is a shame. The solutions are available in this git repository though. Let’s start again...
+
+
+[Real World Haskell Chapter 4 Solutions](https://alternativebit.fr/posts/real-word-haskell-chapter-4-functionnal-programming/)
+---
+
+AlternativeBit --- 12/18/2016
+
+Okay, in this chapter, we will apparently learn more about common techniques in FP, can’t wait! Exercises page 84 Let’s rewrite safe versions of partial list functions The first two functions are very straightforward: a bit of pattern...
+
+
+[Open recipe database: how to gather, cure and store data](https://alternativebit.fr/posts/open-receipe-database-how-to-gather-and-cure-data/)
+---
+
+AlternativeBit --- 7/8/2016
+
+I recently started to think about creating an open recipe database. The major consideration coming with this project is how to gather, cure and store recipes. Gathering data Let’s start with something obvious: we cannot rely on users to create...
+
+
+[Some thoughts about building an open recipe database](https://alternativebit.fr/posts/some-thoughts-about-an-open-receipes-database/)
+---
+
+AlternativeBit --- 6/23/2016
+
+Lately, I have been thinking about creating an open recipe database. It is just not possible to find any good quality recipes database. Often, the website indexing recipes does not expose its data using any kind of API. When it does - and very few...
+
+
+[How to configure TLS Let's Encrypt Certificates with Nginx](https://alternativebit.fr/posts/lets-encrypt-nginx-certonly-autommatized-config/)
+---
+
+AlternativeBit --- 12/4/2015
+
+Let’s encrypt beta is public since yesterday. I already use their certificates for several domains. The main problem I actually face is certificates renewal. I want to be able to renew automatically my certificates without turning off Nginx. Let’s...
 
