@@ -180,22 +180,6 @@ Abuse of Notation --- 1/21/2024
 “Oh, in Haskell this app is just a one-liner!” The one-liner: app a b c d e= runMonadT  ( (LiftValue a b c) *!* stop) . \a -> d(a) $ e
 
 
-[The things you fear](http://abuseofnotation.github.io/fear/)
----
-
-Abuse of Notation --- 1/21/2024
-
-The things you fear will happen are already happening (else there would be no way to fear them). The only way to stop them from happening is to stop fearing them
-
-
-[Haskell](http://abuseofnotation.github.io/haskell/)
----
-
-Abuse of Notation --- 1/21/2024
-
-“Oh, in Haskell this app is just a one-liner!” The one-liner: app a b c d e= runMonadT  ( (LiftValue a b c) *!* stop) . \a -> d(a) $ e
-
-
 [Bash](http://abuseofnotation.github.io/bash-language/)
 ---
 
@@ -218,38 +202,6 @@ Battling my ego. The stage is set. I turn to it and say “It’s gonna hurt ME 
 Abuse of Notation --- 1/20/2024
 
 The more I reread The Republic, the more I think that the guy who argued with Socrates at the beginning had a solid point — justice is whatever the rulers say. Incidentally, this argument leads straight to anarchy (the system which is taken to be...
-
-
-[Bash](http://abuseofnotation.github.io/bash-language/)
----
-
-Abuse of Notation --- 1/20/2024
-
-I think that bash is so popular because it is so terrible language and hard to work with, that every time you make something work you feel like a wizard and your dopamine is to the roof
-
-
-[Battling my ego](http://abuseofnotation.github.io/battling-my-ego/)
----
-
-Abuse of Notation --- 1/20/2024
-
-Battling my ego. The stage is set. I turn to it and say “It’s gonna hurt ME a lot more than it hurts YOU”.
-
-
-[Plato’s Republic and anarchy](http://abuseofnotation.github.io/plato-anarchy/)
----
-
-Abuse of Notation --- 1/20/2024
-
-The more I reread The Republic, the more I think that the guy who argued with Socrates at the beginning had a solid point — justice is whatever the rulers say. Incidentally, this argument leads straight to anarchy (the system which is taken to be...
-
-
-[The concept of maturity as a means of societal control](http://abuseofnotation.github.io/maturity/)
----
-
-Abuse of Notation --- 1/16/2024
-
-If you’re not a socialist before you’re twenty-five, you have no heart; if you are a socialist after twenty-five, you have no head. – anonymous I am young enough that there are still people telling me that they too were...
 
 
 [The concept of maturity as a means of societal control](http://abuseofnotation.github.io/maturity/)
@@ -266,14 +218,6 @@ If you’re not a socialist before you’re twenty-five, you have no heart; if y
 Joel David Hamkins --- 1/14/2024
 
 Please enjoy my conversation with Rahul Sam for his podcast, a sweeping discussion of topics in the philosophy of mathematics—potentialism, pluralism, Gödel incompleteness, philosophy of set theory, large cardinals, and much more.
-
-
-[How does knowledge work: using logic to model real-world communication](http://abuseofnotation.github.io/logic-communication/)
----
-
-Abuse of Notation --- 1/12/2024
-
-Hello and welcome to the moment that you (yes, all two of you) have been waiting for - the second installment of “How does knowledge work”. This is exciting right? Riight? We all communicate, or at least we think we do. And I mean communicate in...
 
 
 [How does knowledge work: using logic to model real-world communication](http://abuseofnotation.github.io/logic-communication/)
@@ -308,22 +252,6 @@ Abuse of Notation --- 12/14/2023
 People claim that that you cannot have an anarchist organization, as “anarchist organization” is an oxymoron, and anarchism by definition rejects any form of organization. That’s not true — anarchism rejects authority. And you can have...
 
 
-[On non-authoritarian organizations](http://abuseofnotation.github.io/non-authoritarian-hierarchies/)
----
-
-Abuse of Notation --- 12/14/2023
-
-People claim that that you cannot have an anarchist organization, as “anarchist organization” is an oxymoron, and anarchism by definition rejects any form of organization. That’s not true — anarchism rejects authority. And you can have...
-
-
-[Roles](http://abuseofnotation.github.io/roles/)
----
-
-Abuse of Notation --- 12/2/2023
-
-At that moment I knew what the plebs were, much more clearly than when, years earlier, she had asked me. The plebs were us. The plebs were that fight for food and wine, that quarrel over who should be served first and better, that dirty floor on...
-
-
 [Roles](http://abuseofnotation.github.io/roles/)
 ---
 
@@ -338,14 +266,6 @@ At that moment I knew what the plebs were, much more clearly than when, years ea
 Joel David Hamkins --- 11/23/2023
 
 This will be a talk for the Rutgers University Logic Seminar, December 4, 2023. Abstract. I shall discuss the computable model theory of forcing. To what extent can we view forcing as a computational process on the models of set … Continue reading →
-
-
-[Elon and capitalism](http://abuseofnotation.github.io/elon-capitalism/)
----
-
-Abuse of Notation --- 11/23/2023
-
-People who read the Economist seem to be the embodiment of middle classs folks, who see themselves as “temporary-challenged billionaires” who deserve to be rich because they are smarter than everyone else. Like, they believe than one day Elon will...
 
 
 [Elon and capitalism](http://abuseofnotation.github.io/elon-capitalism/)
