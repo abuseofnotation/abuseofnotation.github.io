@@ -1,0 +1,6 @@
+
+echo '---
+title: Feed
+layout: blog
+---' > feed.md
+cat feed-sites | static-feed-aggregator >> feed.md
