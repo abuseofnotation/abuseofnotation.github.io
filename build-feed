@@ -2,7 +2,7 @@
 echo '---
 title: Feed Aggregator
 layout: blog
----' > feed.md
-echo 'Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)' >> feed.md
+---' > feed-aggregator.md
+echo 'Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)' >> feed-aggregator.md
 cat feed-sites | node ../static-feed-aggregator/index.js >> feed-aggregator.md
 
