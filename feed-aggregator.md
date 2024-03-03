@@ -4,6 +4,14 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[Sunday photoblogging: Salisbury cathedral](https://crookedtimber.org/2024/03/03/sunday-photoblogging-salisbury-cathedral/)
+---
+
+Crooked Timber --- 3/3/2024
+
+
+
+
 [Gödel incompleteness, graduate course, Notre Dame, Fall 2024](https://jdh.hamkins.org/godel-incompleteness-graduate-course-notre-dame-fall-2024/)
 ---
 
@@ -146,14 +154,6 @@ Crooked Timber --- 2/11/2024
 Joel David Hamkins --- 2/10/2024
 
 This will be a talk at the conference Challenging the Infinite, March 11-12 at Oxford University. (Please register now to book a place.) Abstract Many commonly considered forms of potentialism, I argue, are implicitly actualist in the sense that a...
-
-
-[What’s wrong with free public college?](https://crookedtimber.org/2024/02/05/whats-wrong-with-free-public-college/)
----
-
-Crooked Timber --- 2/5/2024
-
-My paper with Kailey Mullane on what’s wrong with free public college has been published in Educational Theory, open access so anybody who wants to can read it. Obsessive readers of CT (are there any?) will know that I’ve had a bit of a bee in my...
 
 
 [The covering reflection principle, Notre Dame Logic Seminar, February 2024](https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/)
