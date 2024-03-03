@@ -60,6 +60,14 @@ Crooked Timber --- 2/25/2024
 
 
 
+[Spans and the Categorified Heisenberg Algebra](https://golem.ph.utexas.edu/category/2024/02/spans_and_the_categorified_hei_2.html)
+---
+
+The n-Category Café --- 2/23/2024
+
+Slides of a talk on Morton and Vicary's approach to Khovanov's categorifed Heisenberg algebra.
+
+
 [Platforms, Polarization and Democracy](https://crookedtimber.org/2024/02/21/52438/)
 ---
 
@@ -106,6 +114,14 @@ There is a great gap between the overthrow of authority and the creation of a su
 Crooked Timber --- 2/15/2024
 
 Over the last few years, the Australian and UK Labor/Labour[1] parties, have followed strikingly parallel paths. A better-than expected result with a relatively progressive platform (Oz 2016, UK 2017) A demoralizing defeat in 2019, followed by the...
+
+
+[Cartesian versus Symmetric Monoidal](https://golem.ph.utexas.edu/category/2024/02/from_cartesian_to_symmetric_mo.html)
+---
+
+The n-Category Café --- 2/15/2024
+
+Two conjectures about how to turn a symmetric monoidal category into a cartesian one.
 
 
 [Moving to Rwanda](https://crookedtimber.org/2024/02/14/moving-to-rwanda/)
@@ -156,12 +172,44 @@ Joel David Hamkins --- 2/10/2024
 This will be a talk at the conference Challenging the Infinite, March 11-12 at Oxford University. (Please register now to book a place.) Abstract Many commonly considered forms of potentialism, I argue, are implicitly actualist in the sense that a...
 
 
+[The Atom of Kirnberger](https://golem.ph.utexas.edu/category/2024/02/the_atom_of_kirnberger.html)
+---
+
+The n-Category Café --- 2/5/2024
+
+The atom of Kirnberger is a number very close to 1 that shows up in music theory.
+
+
+[Axioms for the Category of Finite-Dimensional Hilbert Spaces and Linear Contractions](https://golem.ph.utexas.edu/category/2024/01/axioms_for_the_category_of_fin.html)
+---
+
+The n-Category Café --- 2/4/2024
+
+Guest post by Matthew di Meglio.
+
+
+[Space-filling curves, constructively]()
+---
+
+Mathematics and Computation --- 1/30/2024
+
+In 1890 Giuseppe Peano discovered a square-filling curve, and a year later David Hilbert published his variation. In those days people did not waste readers' attention with dribble – Peano explained it all on 3 pages, and Hilbert on just 2 pages,...
+
+
 [The covering reflection principle, Notre Dame Logic Seminar, February 2024](https://jdh.hamkins.org/the-covering-reflection-principle-notre-dame-logic-seminar-february-2024/)
 ---
 
 Joel David Hamkins --- 1/29/2024
 
 This will be a talk for the Notre Dame Logic Seminar on 6 February 2024, 2:00 pm. Abstract. The principle of covering reflection holds of a cardinal $\kappa$ if for every structure $B$ in a countable first-order language there is … Continue reading →
+
+
+[Summer Research at the Topos Institute](https://golem.ph.utexas.edu/category/2024/01/summer_research_at_the_topos_i.html)
+---
+
+The n-Category Café --- 1/24/2024
+
+Applications for summer research positions at the Topos Institute are due by February 1st.
 
 
 [The things you fear](http://abuseofnotation.github.io/fear/)
@@ -236,6 +284,14 @@ Good Fibrations --- 12/31/2023
 This post is written together with Josh Mundinger. Last time, we compared the Harish-Chandra isomorphism \(Z(U\mathfrak g) \cong (\text{Sym} \mathfrak h)^{W,\cdot}\) for \(\mathfrak g= \mathfrak{sl}_2\) to the Duflo isomorphism \(Z(U\mathfrak g)...
 
 
+[Magnitude 2023](https://golem.ph.utexas.edu/category/2023/12/magnitude_2023.html)
+---
+
+The n-Category Café --- 12/28/2023
+
+Live-blogging a conference on magnitude in Osaka.
+
+
 [Pluralism in the foundations of mathematics, ASL invited address, joint APA/ASL meeting, New York, January 2024](https://jdh.hamkins.org/pluralism-in-the-foundations-of-mathematics-asl-apa-nyc-january-2024/)
 ---
 
@@ -260,6 +316,30 @@ Abuse of Notation --- 12/2/2023
 At that moment I knew what the plebs were, much more clearly than when, years earlier, she had asked me. The plebs were us. The plebs were that fight for food and wine, that quarrel over who should be served first and better, that dirty floor on...
 
 
+[Adjoint School 2024](https://golem.ph.utexas.edu/category/2023/12/adjoint_school_2024.html)
+---
+
+The n-Category Café --- 12/1/2023
+
+The Adjoint School is a way to learn applied category theory.  This year it will lead up to an in-person research week at the University of Oxford on June 10 - 14, 2024.  Apply now!
+
+
+[Seminar on This Week's Finds](https://golem.ph.utexas.edu/category/2023/12/seminar_on_this_weeks_finds_1.html)
+---
+
+The n-Category Café --- 12/1/2023
+
+You can see 18 videos of lectures based on my column This Week's Finds.
+
+
+[Classification of Metric Fibrations](https://golem.ph.utexas.edu/category/2023/11/classification_of_metric_fibra.html)
+---
+
+The n-Category Café --- 11/24/2023
+
+Guest post by Yasuhiko Asao.
+
+
 [The computable model theory of forcing, Rutgers Logic Seminar, December 2023](https://jdh.hamkins.org/computable-model-theory-of-forcing-rutgers-december-2023/)
 ---
 
@@ -274,6 +354,22 @@ This will be a talk for the Rutgers University Logic Seminar, December 4, 2023. 
 Abuse of Notation --- 11/23/2023
 
 People who read the Economist seem to be the embodiment of middle classs folks, who see themselves as “temporary-challenged billionaires” who deserve to be rich because they are smarter than everyone else. Like, they believe than one day Elon will...
+
+
+[MLIR — A Global Optimization and Dataflow Analysis](https://jeremykun.com/2023/11/15/mlir-a-global-optimization-and-dataflow-analysis/)
+---
+
+Math ∩ Programming --- 11/15/2023
+
+Table of Contents In this article we’ll implement a global optimization pass, and show how to use the dataflow analysis framework to verify the results of our optimization. The code for this article is in this pull request, and as usual the commits...
+
+
+[Mathematics for Climate Change](https://golem.ph.utexas.edu/category/2023/11/mathematics_for_climate_change.html)
+---
+
+The n-Category Café --- 11/13/2023
+
+The Fields Institute is starting a program called Mathematics for Climate Change.
 
 
 [Test fediverse via activitypub](http://proses.id/test-fediverse-via-activitypub/)
@@ -300,12 +396,44 @@ Joel David Hamkins --- 11/3/2023
 This will be a talk for the First-order Modal Logic (FoMoLo) Seminar, 12 February 2024. The talk will take place online via Zoom—contact the organizers for access. Abstract. What is or should be the potentialist account of classes? There are …...
 
 
+[MLIR — Lowering through LLVM](https://jeremykun.com/2023/11/01/mlir-lowering-through-llvm/)
+---
+
+Math ∩ Programming --- 11/1/2023
+
+Table of Contents In the last article we lowered our custom poly dialect to standard MLIR dialects. In this article we’ll continue lowering it to LLVM IR, exporting it out of MLIR to LLVM, and then compiling to x86 machine code. The code for this...
+
+
 [Nsncd, Anniversary Updates](https://alternativebit.fr/posts/nixos/nsncd-some-updates/)
 ---
 
 AlternativeBit --- 10/30/2023
 
 Last year, flokli and I worked towards re-using TwoSigma’s Nsncd as the main NixOS Nscd daemon. What is that even about? Well, Nscd is a Glibc daemon that was originally meant to cache the host/user resolution requests. It’s mostly obsolete by now,...
+
+
+[Grothendieck--Galois--Brauer Theory (Part 6)](https://golem.ph.utexas.edu/category/2023/10/grothendieckgaloisbrauer_theor_5.html)
+---
+
+The n-Category Café --- 10/27/2023
+
+Let's classify all separable algebras over fields!
+
+
+[MLIR — Dialect Conversion](https://jeremykun.com/2023/10/23/mlir-dialect-conversion/)
+---
+
+Math ∩ Programming --- 10/23/2023
+
+Table of Contents In previous articles we defined a dialect, and wrote various passes to optimize and canonicalize a program using that dialect. However, one of the main tenets of MLIR is “incremental lowering,” the idea that there are lots of...
+
+
+[The Flora Philip Fellowship](https://golem.ph.utexas.edu/category/2023/10/the_flora_philip_fellowship.html)
+---
+
+The n-Category Café --- 10/20/2023
+
+Fellowship at Edinburgh for mathematicians from under-represented groups.
 
 
 [The limit of (your) language](http://proses.id/lol/)
@@ -316,6 +444,22 @@ Proses.ID --- 10/18/2023
 “The limits of my language means the limits of my world.” — Ludwig Wittgenstein I’ve always taken this to mean I need to extend and…
 
 
+[Grothendieck--Galois--Brauer Theory (Part 5)](https://golem.ph.utexas.edu/category/2023/10/grothendieckgaloisbrauer_theor_4.html)
+---
+
+The n-Category Café --- 10/14/2023
+
+The geometrical meaning of a separable commutative algebra: it's one whose spectrum $X$ has the property that $X \times X$ can be separated into the diagonal and the rest.
+
+
+[Socks, a matching game based on an additive combinatorics problem](https://jeremykun.com/2023/10/14/socks-a-matching-game-based-on-an-additive-combinatorics-problem/)
+---
+
+Math ∩ Programming --- 10/14/2023
+
+Can you find a set of cards among these six, such that the socks on the chosen cards can be grouped into matching pairs? (Duplicate pairs of the same sock are OK) This is the objective of the game Socks, a card game originally designed by Anna...
+
+
 [The surprising strength of second-order reflection in urelement set theory, Luminy, October 2023](https://jdh.hamkins.org/the-surprising-strength-of-second-order-reflection-in-urelement-set-theory-luminy-october-2023/)
 ---
 
@@ -324,12 +468,36 @@ Joel David Hamkins --- 10/11/2023
 This will be a talk at the XVII International Luminy Workshop in Set Theory at the Centre International de Rencontres Mathématiques (CIRM) near Marseille, France, held 9-13 October 2023. Abstract. I shall give a general introduction to urelement...
 
 
+[The Free 2-Rig on One Object](https://golem.ph.utexas.edu/category/2023/10/the_free_2rig_on_one_object.html)
+---
+
+The n-Category Café --- 10/4/2023
+
+What is a 2-rig, and why is the free 2-rig on one object the category of Schur functors?
+
+
+[Lectures on Applied Category Theory](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
+---
+
+The n-Category Café --- 9/28/2023
+
+77 lectures on applied category theory, for your reading pleasure.
+
+
 [What is potentialist second-order logic? Konstanz Actualism and Potentialism Conference 2023](https://jdh.hamkins.org/what-is-potentialist-second-order-logic-konstanz-2023/)
 ---
 
 Joel David Hamkins --- 9/20/2023
 
 This is a talk for the Actualism and Potentialism Conference at the University of Konstanz, 28-29 September 2023. Also on Zoom: 928 0804 3434. Abstract. What is or should be the potentialist account of classes? It turns out that there … Continue...
+
+
+[MLIR — Canonicalizers and Declarative Rewrite Patterns](https://jeremykun.com/2023/09/20/mlir-canonicalizers-and-declarative-rewrite-patterns/)
+---
+
+Math ∩ Programming --- 9/20/2023
+
+Table of Contents In a previous article we defined folding functions, and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll see how to add more general canonicalization patterns....
 
 
 [Infinite-Games Workshop](https://jdh.hamkins.org/infinite-games-workshop/)
@@ -364,6 +532,30 @@ Joel David Hamkins --- 8/15/2023
 This will be a talk 16 October 2023 (Note new date!) for the Colloquium of the Harvard Center for Mathematical Sciences and Applications (CMSA). Abstract: Let us explore the nature of strategic reasoning in infinite games, focusing on the cases of...
 
 
+[On indefinite truth values]()
+---
+
+Mathematics and Computation --- 8/13/2023
+
+In a discussion following a MathOverflow answer by Joel Hamkins, Timothy Chow and I got into a chat about what it means for a statement to “not have a definite truth value”. I need a break from writing the paper on countable reals (coming soon in a...
+
+
+[Variations on Weihrauch degrees (CiE 2023)]()
+---
+
+Mathematics and Computation --- 7/28/2023
+
+I gave a talk “Variations on Weihrauch degrees” at Computability in Europe 2023, which took place in Tbilisi, Georgia. The talk was a remote one, unfortunately. I spoke about generalizations of Weihrauch degrees, a largely unexplored territory that...
+
+
+[Continuity principles and the KLST theorem]()
+---
+
+Mathematics and Computation --- 7/19/2023
+
+On the occasion of Dieter Spreen's 75th birthday there will be a Festschrift in the Journal of Logic and Analysis. I have submitted a paper “Spreen spaces and the synthetic Kreisel-Lacombe-Shoenfield-Tseitin theorem”, available as a preprint...
+
+
 [Short form content is not making us stupid and more distracted](http://proses.id/short-form/)
 ---
 
@@ -394,6 +586,14 @@ as an extremely text-biased person with an unjustifiable fetish of long-form tex
 Proses.ID --- 7/14/2023
 
 perhaps this “social media and smartphones have ruined our attention span” issue is really just FOMO on steroid and less an actual neurological change? do…
+
+
+[Isomorphism invariance and isomorphism reflection in type theory (TYPES 2023)]()
+---
+
+Mathematics and Computation --- 6/15/2023
+
+At TYPES 2023 I had the honor of giving an invited talk “On Isomorphism Invariance and Isomorphism Reflection in Type Theory” in which I discussed isomorphism reflection, which states that isomorphic types are judgementally equal. This strange...
 
 
 [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
@@ -460,6 +660,22 @@ Proses.ID --- 2/16/2023
 a hardcore vegan friend said that she thinks “I killed it” in a webinar I gave. ofc I’m overanalysing but can’t help but find it…
 
 
+[Formalizing invisible mathematics]()
+---
+
+Mathematics and Computation --- 2/13/2023
+
+I am at the Machine assisted proofs workshop at the UCLA Institute for Pure and Applied Mathematics, where I am about to give a talk on “Formalizing invisible mathematics”. Here are the slides with speaker notes and the video recording of the talk.
+
+
+[Exploring strange new worlds of mathematics]()
+---
+
+Mathematics and Computation --- 2/10/2023
+
+On February 10, 2023, I gave my Levi L. Conant Lectur Series talk “Exploring strange new worlds of mathematics”, at the math department of Worcester Polytechnic Institute. Here are the slides with speaker notes and the video recording of the talk.
+
+
 [What makes human, human? (First braindump on AI)](http://proses.id/human-and-ai/)
 ---
 
@@ -500,6 +716,22 @@ Math3ma --- 1/1/2023
 Welcome to our third and final installment on the Yoneda lemma! In the past couple of weeks, we've slowly unraveled the mathematics behind the Yoneda perspective, i.e. the categorical maxim that an object is completely determined by its...
 
 
+[Happy birthday, Dana!]()
+---
+
+Mathematics and Computation --- 10/11/2022
+
+Today Dana Scott is celebrating the 90th birthday today. Happy birthday, Dana! I am forever grateful for your kindness and the knowledge that I received from you. I hope to pass at least a part of it onto my students. On the occasion Steve Awodey...
+
+
+[One syntax to rule them all]()
+---
+
+Mathematics and Computation --- 5/20/2022
+
+I am at the Syntax and Semantics of Type Theory workshop in Stockholm, a kickoff meeting for WG6 of the EuroProofNet COST network, where I am giving a talk “One syntax to rule them all” based on joint work with Danel Ahman.
+
+
 [Nix Substitution: the Way Forward](https://alternativebit.fr/posts/nixos/future-of-nix-substitution/)
 ---
 
@@ -522,6 +754,14 @@ Let’s compute the automorphism groups of some curves. Often presented as an in
 Math3ma --- 2/22/2022
 
 Today I'm happy to share that the Math3ma platform has recently grown in a small yet personal way. This new endeavor is in its early stages, but it is one that is close to my heart and gives life to the reasons I started this blog six years ago. A...
+
+
+[Two new doctors!]()
+---
+
+Mathematics and Computation --- 1/12/2022
+
+Within a month two of my students defended their theses: Dr. Anja Petković Komel just before Christmas, and Dr. Philipp Haselwarter just yesterday. I am very proud of them. Congratulations!
 
 
 [Chu are you?](http://adelelopez.com/chu-are-you)
