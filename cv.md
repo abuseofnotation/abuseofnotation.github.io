@@ -3,7 +3,7 @@ title: CV
 layout: blog
 ---
 
-I like computers, art, and bringing ideas to life.
+I like computers, art, and bringing ideas to life --- a full-stack web developer, experienced also in UX, design, project management and technical writing.
 
 Personal Info
 ==
