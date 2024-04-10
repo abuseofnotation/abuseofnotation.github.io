@@ -5,7 +5,12 @@ category: microblog
 tags: philosophy
 ---
 
-The most popular formulation of the principle says that you just have to seek for the simplest explanation.
+Let's talk about Occam's Razor. The most popular formulation of Occam's Razor says that "the simplest explanation is usually right", but I think this is a huge oversimplification of Occam's razor.
+
+Firstly, I think it is apt to say the simplest explanation *that explains the most amount of effects that are observed*, e.g. saying that some God created the world is much simpler than coming up with a cosmology, but it doesn't account for many of the things that we observe.
+
+Secondly, Occam's Razor wouldn't indicate that such explanation is "usually right" (Why "usually"? What is a "right" explanation anyways?), it says that it should be *preferred*, as in that is *better* than an explanation that contains details that don't explain anything.
+
 
 "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances." --- Newton
 
