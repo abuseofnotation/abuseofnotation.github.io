@@ -9,6 +9,11 @@
     background: white;
     margin-top: 300px!important;
 }
+@media print {
+  .content {
+      margin-top: 0px!important;
+  }
+}
 
 .date { font-size: 12px;}
 

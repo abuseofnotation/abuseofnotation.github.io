@@ -23,8 +23,6 @@ The fact that someone does not feel the same emotions as you, that does not make
 
 People often claim to come up with a new idea, instead of recognizing prior art and using a name that is already there, because they are eager to attach their names to something, out of sheer vanity (I call this “Jencel’s principle”)
 
-I consider Hokusai the greatest artist of all time, because he contributed to the two most prominent genres in visual art  - landscapes and porn.
-
 Keeping notes is a good idea if you want a very large quantity of mediocre ideas.
 
 Don't try to impress others - they don't care.
@@ -50,3 +48,7 @@ Any self-consistent system of knowledge can be reduced, at least theoretically, 
 The less you have, the more valuable it is, this is a vision circle that leaves you obsessed for not losing your nothing.
 
 Free time is the most precious resource that you can have in your life
+
+Note to self: In order to have better ideas, I have to stop wasting my time with trying to categorize the ideas I already have and fit them in boxes --- you either spend your effort to appear as brilliant or be brilliant, no time for both. 
+
+If you are feeling sad, you are thinking of yourself too much.
