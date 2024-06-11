@@ -7,6 +7,6 @@ echo 'Generated with [static-feed-aggregator](https://github.com/abuseofnotation
 
 cat feed-sites | node ../static-feed-aggregator/index.js >> feed-aggregator.md
 
-git add feed-aggregator.md
-git commit -am feed
-git push
+#git add feed-aggregator.md
+#git commit -am feed
+#git push

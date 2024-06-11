@@ -4,6 +4,22 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[What is addiction](http://abuseofnotation.github.io/addiction/)
+---
+
+Abuse of Notation --- 6/11/2024
+
+Today’s topic of discussion is addiction. Why do we get addicted? The simple answer is that addictive stuff is pleasurable and we just like to do stuff that is pleasurable, but that’s not complete, e.g. nobody goes to rehab for patting kittens. The...
+
+
+[Is the world discrete or continuous](http://abuseofnotation.github.io/continuous/)
+---
+
+Abuse of Notation --- 6/11/2024
+
+I have always been awed and confused by the apparent divide between number theory and the other algebraic fields of mathematics. Look closely between any two regions of mathematical study and you will find numerous dualities weaving a dense web of...
+
+
 [CFG-Kolm-complexity is singleton sets with Lance and Bill](https://blog.computationalcomplexity.org/feeds/6106497621529232897/comments/default)
 ---
 
@@ -818,22 +834,6 @@ I think that bash is so popular because it is so terrible language and hard to w
 Abuse of Notation --- 1/20/2024
 
 Battling my ego. The stage is set. I turn to it and say “It’s gonna hurt ME a lot more than it hurts YOU”.
-
-
-[Plato’s Republic and anarchy](http://abuseofnotation.github.io/plato-anarchy/)
----
-
-Abuse of Notation --- 1/20/2024
-
-The more I reread The Republic, the more I think that the guy who argued with Socrates at the beginning had a solid point — justice is whatever the rulers say. Incidentally, this argument leads straight to anarchy (the system which is taken to be...
-
-
-[The concept of maturity as a means of societal control](http://abuseofnotation.github.io/maturity/)
----
-
-Abuse of Notation --- 1/16/2024
-
-If you’re not a socialist before you’re twenty-five, you have no heart; if you are a socialist after twenty-five, you have no head. – anonymous I am young enough that there are still people telling me that they too were...
 
 
 [The Gödel incompleteness phenomenon, interview with Rahul Sam](https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/)
