@@ -96,7 +96,7 @@ Presenting things that way makes my point more obvious - statements that have on
 
 Statements with universal scope, on the other hand, are axiomatic by their nature. Note that although, `All A-s are B` and `Some A-s are B` are very different statements, the basis/evidence from which I conclude that `All A-s are B` is not at all different from my basis for saying `Some A-s are B`.
 
-If I enjoy apples and I have never eaten a bad one, I might say that "All apples are tasty" and someone that has the same experience as me, but who is in a more sceptic mood might say that "All apples are tasty". Our experiences are the same, what is different is my decision to assume that this piece of knowledge is universal.
+If I enjoy apples and I have never eaten a bad one, I might say that "All apples are tasty" and someone who has the same experience as me, but who is in a more sceptic mood might say that "All apples that I have eaten are tasty". Our experiences are the same, what is different is my decision to assume that this piece of knowledge is universal.
 
 In other words, despite the fact that they contain just two variables (`A` and `B`), statements of the form `All A-s are B`, reference a "secret third thing" that is not mentioned explicitly - a thing that we called the *universe* i.e. you can rewrite `All A-s are B` to `All A-s in this universe are B`.
 
