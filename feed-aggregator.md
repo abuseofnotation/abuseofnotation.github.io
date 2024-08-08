@@ -4,6 +4,14 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[Matrix multiplication doesn’t work like that](https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/)
+---
+
+The Aperiodical --- 8/8/2024
+
+Earlier this week I posted a matrix multiplication worksheet on Mastodon. If you do some of these, you might spot what’s funny about them. For example. \[ \Large \begin{bmatrix}\color{navy}{4} & \color{navy}{8}\\\color{navy}{2} &...
+
+
 [The not-so-strange shortage of conservative professors](https://crookedtimber.org/2024/08/08/the-not-so-strange-shortage-of-conservative-professors/)
 ---
 
@@ -442,14 +450,6 @@ Here’s the third quarter-final match of The Big Internet Math-Off. Today, we�
 Blog - Logic Matters --- 7/11/2024
 
 I was tempted, just for a moment, to preface all that abstract nonsense, all those higher ramblings, with καὶ παίζειν ὅτε καιρός, ἐπαίξαμεν• ἡνίκα καιρὸς οὐκέτι, λωιτέρης φροντίδος ἁψόμεθα. When it was time for play, we played. Now that is no...
-
-
-[The Big Internet Math-Off 2024, Quarter-final 2](https://aperiodical.com/2024/07/the-big-internet-math-off-2024-quarter-final-2/)
----
-
-The Aperiodical --- 7/11/2024
-
-Here’s the second quarter-final match of The Big Internet Math-Off. Today, we’re pitting Angela Tabiri against Howie Hua. Take a look at both pitches, vote for the bit of maths that made you do the loudest “Aha!”, and if you know any more cool...
 
 
 [Favorite Theorems: Extracting Ramsey Graphs](https://blog.computationalcomplexity.org/feeds/7923396283869695639/comments/default)
