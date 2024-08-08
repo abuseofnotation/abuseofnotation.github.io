@@ -51,3 +51,5 @@ After you app or feature is finally done, the time comes to communicate what it 
 * Communicate to your partners how they can integrate their apps with yours. 
 
 This can be done as text, graphics, videos, interactive tutorials, popups inside your app and with many other even more innovative ways.
+
+I have reasonable rates and I am opened for all kings of offers, contact me at marinovboris@protonmail.com.
