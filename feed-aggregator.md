@@ -4,6 +4,70 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[Skew Monoidal Categories Through Triangulations and Examples](https://golem.ph.utexas.edu/category/2024/08/skew_monoidal_categories_throu.html)
+---
+
+The n-Category Café --- 8/12/2024
+
+Guest post by Thea Li and Pablo S. Ocal.
+
+
+[Sunday photoblogging: Cranes](https://crookedtimber.org/2024/08/11/sunday-photoblogging-cranes/)
+---
+
+Crooked Timber --- 8/11/2024
+
+
+
+
+[The combinatorics of Game Shows](https://blog.computationalcomplexity.org/feeds/3593941461040824201/comments/default)
+---
+
+Computational Complexity --- 8/11/2024
+
+(Inspired by Pat Sajak stepping down from Wheel of Fortune)How many different game show are there? Many. How many could there be?1) Based on Knowledge or something else. Jeopardy is knowledge. Wheel and Deal-No Deal are something else. The oddest...
+
+
+[Prismatic Category Theory](https://golem.ph.utexas.edu/category/2024/08/prismatic_category_theory.html)
+---
+
+The n-Category Café --- 8/10/2024
+
+Guest post by C. B. Aberl� and Rub�n Maldonado.
+
+
+[Waiting for God(b)ot](http://proses.id/god-b-ot/)
+---
+
+Proses.ID --- 8/10/2024
+
+Story 1: Who plans better? You or LLM? I was watching this interview on Machine Learning Street Talk where Prof Subbarao Kambhapati argued that LLMs…
+
+
+[Fascist violence and the imaginative failure of the Labour government](https://crookedtimber.org/2024/08/10/fascist-violence-and-the-imaginative-failure-of-the-labour-government/)
+---
+
+Crooked Timber --- 8/10/2024
+
+Often on a Friday evening, we order a curry from our local “Indian” takeaway. They deliver, but it is easier and quicker for me to walk round and collect, and, anyway, I enjoy chatting to the guy behind the counter. He’s a Man United fan, I’m...
+
+
+[Dimensional Analysis in Algebra and Geometry](https://golem.ph.utexas.edu/category/2024/08/dimensional_analysis_in_algebr.html)
+---
+
+The n-Category Café --- 8/9/2024
+
+A look at how various mathematicians dealt with the idea that quantities have 'dimensions', in the sense of dimensional analysis.
+
+
+[Marshalling the grey cells …](https://www.logicmatters.net/2024/08/08/marshalling-the-grey-cells/)
+---
+
+Blog - Logic Matters --- 8/8/2024
+
+You now know why I wrapped up work on Introducing Category Theory a bit prematurely, and paperbacked what I frankly admitted was/is a beta version, broadly functional but surely not bug-free. I got an earlier-than-expected slot for my scheduled...
+
+
 [Matrix multiplication doesn’t work like that](https://aperiodical.com/2024/08/matrix-multiplication-doesnt-work-like-that/)
 ---
 
@@ -113,7 +177,7 @@ Hi! My name is Colin, and I am a PROPER mathematician now. I’ve made a contrib
 
 Math ∩ Programming --- 7/31/2024
 
-Last update: 2024-08-06T15:13:12-0700 In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field. If you have any information about...
+Last update: 2024-08-08T21:56:17-0700 In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field. If you have any information about...
 
 
 [Troubled by Google Maps Reviews](https://crookedtimber.org/2024/07/31/troubled-by-google-maps-reviews/)
@@ -412,14 +476,6 @@ Proses.ID --- 7/13/2024
 Hi friends, welcome back. In the first two posts of this series, we have discussed pain, pleasure, then danger, and discomfort. Now let’s switch gear…
 
 
-[Empathy: a feature or a bug? Yes.](http://proses.id/empathy/)
----
-
-Proses.ID --- 7/13/2024
-
-Last week I stumbled upon this post on Instagram For accessibility purpose, here’s the text in the image: soracities: – “the ‘humans are inherently selfish’…
-
-
 [The Big Internet Math-Off 2024, Quarter-final 4](https://aperiodical.com/2024/07/the-big-internet-math-off-2024-quarter-final-4/)
 ---
 
@@ -492,28 +548,12 @@ Computational Complexity --- 7/8/2024
 Trump is pondering who to pick for his vice president. For a recent podcast about it go here. Spoiler alert: Doug B or Marco R or J.D. Vance. In 2008 I did a blog post titled I would bet on INTRADE that INTRADE will do badly picking VP...
 
 
-[Sunday photoblogging: Swift](https://crookedtimber.org/2024/07/07/sunday-photoblogging-swift-3/)
----
-
-Crooked Timber --- 7/7/2024
-
-I’ve spent many hours trying to take pictures of these over the past three years and have a large collection of indistinct blurs as a result. But I went back to basics, studied the camera setting, watched a bunch of “how to” videos on YouTube and...
-
-
 [Favorite Theorems: Algebraic Circuits](https://blog.computationalcomplexity.org/feeds/4092307034002251339/comments/default)
 ---
 
 Computational Complexity --- 7/6/2024
 
 May EditionMost of my favorite theorems tell us something new about the world of complexity. But let's not forget the greatest technical challenges in our area: proving separations that are "obviously" true. Here's the most exciting such result...
-
-
-[Bye bye, Tories, hello what?](https://crookedtimber.org/2024/07/05/bye-bye-tories-hello-what/)
----
-
-Crooked Timber --- 7/5/2024
-
-In the UK, we’re all waking up to the prospect of a new government. The election was an oddity: Labour has converted a modest 35% vote share into a whopping Parliamentary majority; the Tories did somewhat better than suggested, on around 24%, but...
 
 
 [Why is called the Turing Award (revisited)?](https://blog.computationalcomplexity.org/feeds/396959762903841165/comments/default)
@@ -554,14 +594,6 @@ There is now, at last, a full draft of Introducing Category Theory. You can down
 Computational Complexity --- 7/1/2024
 
 In 2013 I wrote a blog to celebrate Lance's 50th birthday by contrasting what things were like when Lance was 10 to when he was 50. That post is here.But life has even changed from 2006 to 2023. I will tell three stories, one from 1966, one from...
-
-
-[Postcard from Aldeburgh](https://www.logicmatters.net/2024/06/27/postcard-from-aldeburgh/)
----
-
-Blog - Logic Matters --- 6/27/2024
-
-A few days away, staying in a familiar cottage near Aldeburgh, less than two hours from home. And the best weather we have ever had here. Usually, at least in our memory, it is windswept and intermittent rain: this time, warm sun and welcome...
 
 
 [E versus EXP](https://blog.computationalcomplexity.org/feeds/5468069270589011298/comments/default)
@@ -812,14 +844,6 @@ Math ∩ Programming --- 5/13/2024
 POSSE stands for Publish (on your) Own Site, Syndicate Elsewhere. I first heard about it from Cory Doctorow. I’m experimenting with automation to convert posts tagged shortform into Mastodon threads (I’m mathstodon.xyz/@j2kun). I’m using Hugo as a...
 
 
-[What is Closed Form? The Horse Numbers are an illustration](https://blog.computationalcomplexity.org/feeds/4992994049965930699/comments/default)
----
-
-Computational Complexity --- 5/12/2024
-
-In the book Those Fascinating Numbers by Jean-Marie De Konick they find interesting (or `interesting') things to say about many numbers. I reviewed the book in a SIGACT News book review column here. The entry for 13 is odd: 13 is the third Horse...
-
-
 [Remez and function approximations](https://www.jeremykun.com/shortform/2024-05-06-1018/)
 ---
 
@@ -836,14 +860,6 @@ Good Fibrations --- 5/6/2024
 We outline connections between the gut microbiome, autoimmune conditions, neuropathic pain, eye pain, chemical intolerance, and a specific set of “overactive” mental illnesses. All seem to be connected to a sensory processing disorder. This is...
 
 
-[Line Bundles on Complex Tori (Part 4)](https://golem.ph.utexas.edu/category/2024/04/post_2.html)
----
-
-The n-Category Café --- 5/4/2024
-
-Today I'll head toward an explicit bijection between principal polarizations of the Eisenstein surface and centers of hexagons in the hexagonal tiling honeycomb.  I won't quite get there, but I'll lay the groundwork.
-
-
 [Line Bundles on Complex Tori (Part 5)](https://golem.ph.utexas.edu/category/2024/04/line_bundles_on_complex_tori_p_2.html)
 ---
 
@@ -858,22 +874,6 @@ We prove the main conjecture from last time: a description of the hexagonal tili
 Math ∩ Programming --- 5/4/2024
 
 About two years ago, I switched teams at Google to focus on fully homomorphic encryption (abbreviated FHE, or sometimes HE). Since then I’ve got to work on a lot of interesting projects, learning along the way about post-quantum cryptography,...
-
-
-[Line Bundles on Complex Tori (Part 3)](https://golem.ph.utexas.edu/category/2024/04/line_bundles_on_complex_tori_p_1.html)
----
-
-The n-Category Café --- 4/28/2024
-
-Today I'll compute the Néron--Severi group of a very symmetrical abelian surface built from the Eisenstein integers.  Then I'll begin to explain a nice picture of a 'slice' of this group.
-
-
-[Moving On From Kent](https://golem.ph.utexas.edu/category/2024/04/moving_on_from_kent.html)
----
-
-The n-Category Café --- 4/23/2024
-
-Kent Philosophy comes to an end
 
 
 [Unusual Tips for Parenting Toddlers](https://www.jeremykun.com/2024/04/01/unusual-tips-for-parenting-toddlers/)

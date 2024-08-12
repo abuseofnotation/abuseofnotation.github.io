@@ -79,8 +79,15 @@ Freelance
 **from** Jul 2023
 **to:** Present
 
-I worked on various software development and design projects.
+Providing consulting services in web application development for clients across various industries.
 
+* Conducted market research and technology assessments to guide project decisions.
+* Advised on UI/UX design, ensuring intuitive and user-friendly interfaces.
+* Authored technical specifications and provided programming support in JavaScript, TypeScript, and Ruby on Rails.
+* Assisted in business analysis to enhance user engagement and streamline workflows.
+* Developed technical documentation and communication materials for diverse audiences.
+
+For more info, see my [consulting](/consulting) page.
 
 Lead JS Developer - [Growyze](https://www.growyze.com/)
 --
