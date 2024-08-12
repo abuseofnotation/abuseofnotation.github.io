@@ -19,49 +19,50 @@ Skills
 Technical
 ---
 * Deep knowledge of the web platform.
-* *Front-end JavaScript* development - coding single page applications with *React*, *Angular* and other frameworks, designing interfaces with HTML and CSS. Some experience with D3, Canvas API.
-* *Back-end* web development with *node.js* and *Ruby on Rails*. * Experience with *SQL* database development.
-* Unit and integration tests with *Moca*, *Jest*, *Pupeteer* and other frameworks.
-* Excellent command of *JavaScript* and *TypeScript*.
-* Some experience with *Ruby*, *Java*, *Perl*, *PureScript*, *Haskell*, *Clojure*.
+* **Front-end JavaScript** development - coding single page applications with **React**, **Angular** and other frameworks, designing interfaces with **HTML** and **CSS**. Some experience with *D3*, **Canvas API**.
+* **Back-end** web development with **node.js** and **Ruby on Rails**. 
+* **SQL** database development.
+* Unit and integration tests with **Moca**, **Jest**, **Pupeteer** and other frameworks.
+* Excellent command of **JavaScript** and **TypeScript**.
+* Some experience with **Ruby**, **Java**, **Perl**, **PureScript**, **Haskell**, **Clojure**.
 * Ability to construct technical solutions that span across multiple technologies.
-* Designing *user interfaces* and user experience.
-* Handling server administration, deployments etc. Good *Unix* skills, some AWS experience.
-* Handling payments with *Stripe*. 
-* *OAuth* single-sign-on solutions.
+* Designing **user interfaces** and **user experience**.
+* Handling server administration, deployments etc. Good **Unix** skills, some AWS experience.
+* Handling payments with **Stripe**. 
+* **OAuth** single-sign-on solutions.
 
 
 Project management
 ---
 
 * Led small to medium software projects - facilitating daily and other meetings performing code reviews, making architecture decisions, solving tech and people issues, distributing the work between the team members.
-* *Mentoring* junior developers and other team members - performing induction trainings, conducting one-on-one meetings and reviews.
-* Strong understanding of Scrum and Kanban project methodologies.
+* **Mentoring** junior developers and other team members - performing induction trainings, conducting one-on-one meetings and reviews.
+* Strong understanding of **Scrum** and **Kanban** project methodologies.
 
 Product design
 ---
 * Collaborated with business analysts - gaining domain knowledge, understanding requirements, solving user problems.
-* Experience in *creating software specifications* designing solutions to customers' problems.
+* Experience in **creating software specifications** designing solutions to customers' problems.
 
 Domain knowledge
 ---
 
-* *ERP* solutions.
-* *Finance* and trading platforms.
-* *Accounting/bookkeeping* software.
-* Software for handling *reservations* and event registration.
+* **ERP** solutions.
+* **Finance** and trading platforms.
+* **Accounting/bookkeeping** software.
+* Software for handling **reservations** and event registration.
 
 Graphic design
 ----
  
-* Graphic design and illustration, designing icons, logos, fonts (Figma, Adobe Photoshop and Illustrator, Inkscape, Glyphs)
+* Graphic design and illustration, designing icons, logos, fonts (**Figma, Adobe Photoshop** and **Illustrator, Inkscape, Glyphs**)
 
 Documentation
 ---
 
-* Developer-oriented *software documentation* (API docs, product overviews and tutorials) 
+* Developer-oriented **software documentation** (API docs, product overviews and tutorials) 
 
-* User-oriented *software documentation* (integrated tips, video tutorials).
+* User-oriented **software documentation** (integrated tips, video tutorials).
 
 Open-source projects
 ===
