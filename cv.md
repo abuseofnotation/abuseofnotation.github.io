@@ -39,8 +39,9 @@ Project management
 * **Mentoring** junior developers and other team members - performing induction trainings, conducting one-on-one meetings and reviews.
 * Strong understanding of **Scrum** and **Kanban** project methodologies.
 
-Product design
+Product management
 ---
+
 * Collaborated with business analysts - gaining domain knowledge, understanding requirements, solving user problems.
 * Experience in **creating software specifications** designing solutions to customers' problems.
 
@@ -48,9 +49,9 @@ Domain knowledge
 ---
 
 * **ERP** solutions.
-* **Finance** and trading platforms.
+* **Finance** and **trading** platforms.
 * **Accounting/bookkeeping** software.
-* Software for handling **reservations** and event registration.
+* Software for handling **payments** and **subscription**.
 
 Graphic design
 ----
@@ -90,7 +91,7 @@ Providing consulting services in web application development for clients across 
 
 For more info, see my [consulting](/consulting) page.
 
-Lead JS Developer - [Growyze](https://www.growyze.com/)
+Lead Front-end Developer - [Growyze](https://www.growyze.com/)
 --
 **from:** Apr 2022
 **to** Jul 2023
@@ -118,7 +119,7 @@ Worked on a cutting-edge solution for accounting and bookkeeping with Ruby on Ra
 
 * Full-stack development with Ruby on Rails with React front-end.
 
-Fullstack JS Developer/Project manager - [US Squash](https://www.ussquash.org/)
+Full-stack Developer/Product manager - [US Squash](https://www.ussquash.org/)
 --
 **from:** January 2017
 **to:** February 2021
