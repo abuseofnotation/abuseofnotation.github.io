@@ -4,6 +4,150 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[Against the Sleep=Boring Analogy](https://crookedtimber.org/2024/08/20/against-the-sleepboring-analogy/)
+---
+
+Crooked Timber --- 8/20/2024
+
+This is a midsummer short and light hearted post, but I find that Summer is often the time when I am most reminded of my bodily existence, and of how naïve us philosophers are in forgetting (de facto, if not in principle) how much our thoughts and...
+
+
+[Henry James Opposes Wildly Unlikeable Guys](https://crookedtimber.org/2024/08/19/henry-james-opposes-wildly-unlikeable-guys/)
+---
+
+Crooked Timber --- 8/20/2024
+
+Henry James: girl, you are so cool and smart, and well-dressed, and beautiful. And I mean this in the least-sexual, but not sassy-gay-best-friend way, exactly, but more like just, your good friend who is also gay? And do you know, that guy is the...
+
+
+[New Work on Gender and Development: Soledad Artiz Prillaman’s The Patriarchal Political Order](https://crookedtimber.org/2024/08/19/new-work-on-gender-and-development-soledad-artiz-prillamans-the-patriarchal-political-order/)
+---
+
+Crooked Timber --- 8/19/2024
+
+The value of individualism often comes up in attempts to make sense of the elusiveness of women’s empowerment. “Investing in women” has not uniformly yielded either the quick reduction in women’s poverty or the decrease in women’s adherence to...
+
+
+[Book note: Moerdijk and van Oosten, Sets, Models and Proofs](https://www.logicmatters.net/2024/08/19/short-book-note-moerdijk-and-van-oosten-sets-models-and-proofs/)
+---
+
+Blog - Logic Matters --- 8/19/2024
+
+Back (slowly, slowly) to logical matters. My plan for the rest of the year is to put together a second edition of what is consistently the most downloaded of the Big Red Logic Books (and also, surprisingly, the second-best paperback seller), namely...
+
+
+[Let’s remember how benign the internet can be](https://www.logicmatters.net/2024/08/19/lets-remember-how-benign-the-internet-can-be/)
+---
+
+Blog - Logic Matters --- 8/19/2024
+
+In 2002, when the internet was still in its infancy, the philosopher Bernard Williams wrote: Moreover, the Internet shows signs of creating for the first time what Marshall McLuhan prophesied as a consequence of television, a global village,...
+
+
+[Request open problems in honor of Luca Trevisan](https://blog.computationalcomplexity.org/feeds/3995032929363357995/comments/default)
+---
+
+Computational Complexity --- 8/19/2024
+
+Request for Open Problems In Memory of Luca TrevisanLuca Trevisan passed away on June 19, 2024 at the age of 52, of cancer.I am putting together an open problems column of open problems in his honor.If you are interested in contributing then please...
+
+
+[Sunday photoblogging: gull](https://crookedtimber.org/2024/08/18/sunday-photoblogging-gull/)
+---
+
+Crooked Timber --- 8/18/2024
+
+
+
+
+[Infinite-time computable analogues of the universal algorithm, Generalized Computability Theory Workshop, Spain, August 2014](https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/)
+---
+
+Joel David Hamkins --- 8/18/2024
+
+This will be a talk at the Generalized Computability Theory workshop in Castro Urdiales, Spain, a beautiful setting on the sea near Bilbao, 19-23 August 2024. Abstract. I shall present infinite-time computable analogues of the universal algorithm,...
+
+
+[Bernoulli Numbers and the Harmonic Oscillator](https://golem.ph.utexas.edu/category/2024/08/bernoulli_numbers_and_the_harm.html)
+---
+
+The n-Category Café --- 8/17/2024
+
+The zeroth Bernoulli number is telling us the energy over temperature of a quantum harmonic oscillator in the high-temperature limit.  The rest of the Bernoulli numbers are telling us all the 'low-temperature corrections' to the oscillator's energy...
+
+
+[Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
+---
+
+The n-Category Café --- 8/15/2024
+
+Notes, videos, problems and multiple choice questions for a Galois theory course.
+
+
+[Young men aren’t shifting right …](https://crookedtimber.org/2024/08/15/young-men-arent-shifting-right/)
+---
+
+Crooked Timber --- 8/15/2024
+
+… at least in the “Anglosphere” One of the striking features of the racist riots in Britain has been the wide spread of ages among those (nearly all men) convicted so far[1]. This is unusual, since criminal violence of all kinds is most commonly...
+
+
+[Side discussion](https://crookedtimber.org/2024/08/15/side-discussion/)
+---
+
+Crooked Timber --- 8/15/2024
+
+As requested by a couple of commenters, I’ve created a separate thread to discuss the issues raised by commenter “closet conservative” in response to my post on US academia. I’ll moderate, but not participate
+
+
+[Favorite Theorems: Random Oracles](https://blog.computationalcomplexity.org/feeds/4066846424758672535/comments/default)
+---
+
+Computational Complexity --- 8/14/2024
+
+July EditionThis months favorite theorem is a circuit result that implies the polynomial-time hierarchy is infinite relative to a random oracle, answering an open question that goes back to the 80's. An Average-Case Depth Hierarchy Theorem for...
+
+
+[Green Border](https://crookedtimber.org/2024/08/14/green-border/)
+---
+
+Crooked Timber --- 8/14/2024
+
+I spent yesterday evening watching Agnieszka Holland’s remarkable film “Green Border” which has just been released to streaming in the UK after spending about 30 seconds in cinemas. The episode that provides the film’s context is the 2021 decision...
+
+
+[Confluence in Graph Rewriting](https://golem.ph.utexas.edu/category/2024/08/conditions_for_local_confluenc.html)
+---
+
+The n-Category Café --- 8/14/2024
+
+How to apply the ideas of term rewriting to graph rewriting.
+
+
+[P-Sets in Philosophy](https://crookedtimber.org/2024/08/13/p-sets-in-philosophy/)
+---
+
+Crooked Timber --- 8/13/2024
+
+Earlier this week, I received my contributor copy of The Art of Teaching Philosophy: Reflective Values and Concrete Practices, edited by Brynn Welch.[1] It’s an exciting book, and I’m proud to have gotten to contribute to it. My chapter on advising...
+
+
+[Introduction to Categorical Probability](https://golem.ph.utexas.edu/category/2024/08/introduction_to_categorical_pr.html)
+---
+
+The n-Category Café --- 8/13/2024
+
+Guest post by Utku Boduroğlu, Drew McNeely, and Nico Wittrock
+
+
+[Can you trust LLMs with books? Perplexity vs Chat GPT vs Iain McGilchrist](http://proses.id/can-llms-help-me-read-books/)
+---
+
+Proses.ID --- 8/13/2024
+
+I was listening to this interview of Iain McGilchrist. He was explaining how the mechanistic metaphors that we often use in our daily lives could…
+
+
 [Skew Monoidal Categories Through Triangulations and Examples](https://golem.ph.utexas.edu/category/2024/08/skew_monoidal_categories_throu.html)
 ---
 
@@ -196,14 +340,6 @@ Blog - Logic Matters --- 7/31/2024
 With huge thanks to the terrific (and uniformly kind) medical staff at the much admired Royal Papworth Hospital, here I am back home, after needed but non-urgent open-heart surgery, complete with a patched ascending aorta and a new heart valve....
 
 
-[Europop](https://crookedtimber.org/2024/07/29/europop/)
----
-
-Crooked Timber --- 7/29/2024
-
-One reaction I heard to the Olympic opening ceremony was that continental Europe has been rubbish at popular music for the past century. Given that Céline Dion had just nailed Edith Piaf’s Hymne d’amour the timing of this opinion wasn’t great, but...
-
-
 [FLT solution annouement had its 31's anniv was about a month ago. Some poems about FLT NOT from ChatGPT](https://blog.computationalcomplexity.org/feeds/6986208603456574594/comments/default)
 ---
 
@@ -220,22 +356,6 @@ Computational Complexity --- 7/28/2024
 In response to my blog post about how its easier to FIND novelty songs (and other things) than it used to be (see here) Lance showed how easy it is to CREATE a novelty song using AI. He had an AI write lyrics and music for THE BILL, see here.The...
 
 
-[Sunday photoblogging: Liverpool](https://crookedtimber.org/2024/07/28/sunday-photoblogging-liverpool-2/)
----
-
-Crooked Timber --- 7/28/2024
-
-
-
-
-[Flow](https://crookedtimber.org/2024/07/27/flow/)
----
-
-Crooked Timber --- 7/28/2024
-
-Do you all experience flow? Or rather, as I think everyone does at times, do you experience it often? Obviously I have written plenty of words in my life, but this is not generally something you experience when writing blog posts unless you are...
-
-
 [Ben Recht on Meehl's Philosophical Psychology](https://www.jeremykun.com/shortform/2024-07-27-1149/)
 ---
 
@@ -250,14 +370,6 @@ Ben Recht, a computer science professor at UC Berkeley, recently wrapped up a 3-
 Proses.ID --- 7/26/2024
 
 I’m having a little celebration moment right now for my information detective skill. Allow me to share it with you. Earlier this week I saw…
-
-
-[The era of privatisation is nearly over. But cleaning up the mess left behind will take years](https://crookedtimber.org/2024/07/25/the-era-of-privatisation-is-nearly-over-but-cleaning-up-the-mess-left-behind-will-take-years/)
----
-
-Crooked Timber --- 7/25/2024
-
-From The Guardian Among many other challenges in dealing with the failure of urban policy in Australia, the Minns (NSW state) government is faced with the task of renegotiating, or repudiating, the disastrous set of contracts for toll roads in New...
 
 
 [Complexity in Michigan](https://blog.computationalcomplexity.org/feeds/948304751345278166/comments/default)
@@ -300,28 +412,12 @@ The Aperiodical --- 7/23/2024
 Here’s the final match of The Big Internet Math-Off. Over the past month, we’ve heard from 16 interesting mathematicians and whittled them down to just 2. Today, we’re pitting Matt Enlow against Angela Tabiri to determine The World’s Most...
 
 
-[Getting old and being old](https://crookedtimber.org/2024/07/23/getting-old-and-being-old/)
----
-
-Crooked Timber --- 7/23/2024
-
-Joe Biden’s withdrawal from the US presidential election has prompted me to write down a few thoughts about getting old and being old. First up, I’m going to rant a bit (in classic old-person mode) about how much I loathe the various prissy...
-
-
 [How we might have viewed the continuum hypothesis as a fundamental axiom necessary for mathematics, Oxford Phil Maths seminar, May 2025](https://jdh.hamkins.org/how-we-might-have-viewed-ch-oxford-may-2025/)
 ---
 
 Joel David Hamkins --- 7/22/2024
 
 This will be a talk for the Philosophy of Mathematics Seminar at the University of Oxford, 19 May 2025. Abstract. I shall describe a simple historical thought experiment showing how our attitude toward the continuum hypothesis could easily have...
-
-
-[Sunday photoblogging: pigeon](https://crookedtimber.org/2024/07/21/sunday-photoblogging-pigeon/)
----
-
-Crooked Timber --- 7/21/2024
-
-
 
 
 [The Story of Shor's Algorithm](https://blog.computationalcomplexity.org/feeds/3103016214493120243/comments/default)
@@ -444,36 +540,12 @@ Computational Complexity --- 7/14/2024
 In a post from 2015 I noted that the word quantum is often misused (see here). Have things gotten better since then? I think you know the answer. But two uses of the word quantum caught my attention1) The episode Subspace Rhapsody of Star Trek-...
 
 
-[Sunday photoblogging: house martins](https://crookedtimber.org/2024/07/14/sunday-photoblogging-house-martins/)
----
-
-Crooked Timber --- 7/14/2024
-
-
-
-
-[Sex, lies and Videotape](https://crookedtimber.org/2024/07/14/sex-lies-and-videotape/)
----
-
-Crooked Timber --- 7/14/2024
-
-What to do when we can’t trust our own eyes (or at least, the videos we are looking at. I spoke last weekend at a panel discussion on Navigating Lies, Deepfakes & Fake News, organised by McPherson Independent. This a group promoting the idea of an...
-
-
 [How the continuum hypothesis could have been a fundamental axiom](https://www.logicmatters.net/2024/07/13/how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom/)
 ---
 
 Blog - Logic Matters --- 7/13/2024
 
 Like many, I greatly admire Joel Hamkins’s terrific combination of technical prowess and expository ability as a mathematician. I’ve learnt a great deal from him. And I hope to learn more: he is promising us a book on ten ways of proving Gödelian...
-
-
-[Addictech, anestechia, and attentech](http://proses.id/attentech/)
----
-
-Proses.ID --- 7/13/2024
-
-Hi friends, welcome back. In the first two posts of this series, we have discussed pain, pleasure, then danger, and discomfort. Now let’s switch gear…
 
 
 [The Big Internet Math-Off 2024, Quarter-final 4](https://aperiodical.com/2024/07/the-big-internet-math-off-2024-quarter-final-4/)
@@ -532,14 +604,6 @@ The n-Category Café --- 7/9/2024
 We discuss some of the limitations that the measure-theoretic probability framework has in handling uncertainty and present some other formal approaches to modelling it, an introduction to the study of imprecise probabilities from a mathematical...
 
 
-[Introducing Category Theory — the paperback!](https://www.logicmatters.net/2024/07/09/introducing-category-theory-the-paperback/)
----
-
-Blog - Logic Matters --- 7/9/2024
-
-The headline news: there is now an inexpensive (but quite acceptably produced) paperback of Introducing Category Theory. Amazon-only to minimize cost, ISBN 978-1916906396: US $14.99, UK £10.99, DE €14.82, IT €14.40, etc. I’m very sure this could be...
-
-
 [The combinatorics of picking a Vice President](https://blog.computationalcomplexity.org/feeds/5396108704898332922/comments/default)
 ---
 
@@ -578,14 +642,6 @@ Joel David Hamkins, "How the continuum hypothesis could have been a fundamental 
 Joel David Hamkins --- 7/2/2024
 
 Joel David Hamkins and Theodor Nenu, "Did Turing prove the undecidability of the halting problem?", 18 pages, 2024, arxiv:2407.00680.  Continue reading →
-
-
-[Introducing Category Theory — a full draft, at last!](https://www.logicmatters.net/2024/07/01/introducing-category-theory-a-full-draft-at-last/)
----
-
-Blog - Logic Matters --- 7/1/2024
-
-There is now, at last, a full draft of Introducing Category Theory. You can download the PDF here. The second half still needs more proof-reading and needs indexing. But I don’t envisage adding significantly to the content. After all — rather...
 
 
 [Technology: 1966, 2006, 2023.](https://blog.computationalcomplexity.org/feeds/7887114814966871167/comments/default)
@@ -732,14 +788,6 @@ Computational Complexity --- 6/3/2024
 The call for nominations for the Test of Time Award at FOCS 2024 has been posted here.Eligibility and past winners are here.Points1) It is good to have an award that waits until the dust settles and we can see what was really important.2) The...
 
 
-[Lanthanides and the Exceptional Lie Group G<sub>2</sub>](https://golem.ph.utexas.edu/category/2024/05/lanthanides_and_the_exceptiona.html)
----
-
-The n-Category Café --- 5/30/2024
-
-What the connection between the 14 lanthanide elements and the exceptional Lie group G2?
-
-
 [Daniel Solow Author’s Award 2024](https://jdh.hamkins.org/daniel-solow-authors-award-2024/)
 ---
 
@@ -772,14 +820,6 @@ Computational Complexity --- 5/26/2024
 After my post on different holiDAYS, here, such as Talk like a Pirate Day, and Raegan Revor day, two other Days were brought to my attention1) Lance emailed me about National BBQ day, which is May 16. See here2) While at a Quantum Computing Prelim...
 
 
-[Wild Knots are Wildly Difficult to Classify](https://golem.ph.utexas.edu/category/2024/05/wild_knots_are_wildly_difficul.html)
----
-
-The n-Category Café --- 5/26/2024
-
-Wild knots are wildly difficult to classify.  This is a theorem.
-
-
 [Forcing is simply the iterative conception undertaken with multivalued logic, ForcingFest, Oslo, June 2024](https://jdh.hamkins.org/forcing-is-simply-the-iterative-conception-undertaken-with-multivalued-logic-forcingfest-oslo-june-2024/)
 ---
 
@@ -796,14 +836,6 @@ Joel David Hamkins --- 5/25/2024
 I shall be giving a keynote lecture for the CFORS Grad Conference at the University of Oslo, 19-20 June 2024. Abstract. I shall describe a simple historical thought experiment showing how our attitude toward the continuum hypothesis could easily...
 
 
-[3d Rotations and the 7d Cross Product (Part 1)](https://golem.ph.utexas.edu/category/2024/05/3d_rotations_and_the_cross_pro.html)
----
-
-The n-Category Café --- 5/23/2024
-
-Apparently there's an SO(3) subgroup of the automorphism group of the octonions that acts irreducibly on the imaginary octonions.
-
-
 [Peer Review](https://blog.computationalcomplexity.org/feeds/6812912401541529486/comments/default)
 ---
 
@@ -812,28 +844,12 @@ Computational Complexity --- 5/22/2024
 Daniel Lemire wrote a blog post Peer Review is Not the Gold Standard in Science. I wonder who was claiming it was. There is whole section of an online Responsible Conduct in Research we are required to take on peer review which discussing its...
 
 
-[I don't do that well when the Jeopardy category is Math](https://blog.computationalcomplexity.org/feeds/8938799245865772881/comments/default)
----
-
-Computational Complexity --- 5/20/2024
-
-Bill and Darling are watching Jeopardy.DARLING: Bill, one of the categories is MATH TALK. You will kick butt!BILL: Not clear. I doubt they will have the least number n such that R(n) is not known. They will ask things easy enough so that my math...
-
-
 [Math databases](https://www.jeremykun.com/shortform/2024-05-17-1555/)
 ---
 
 Math ∩ Programming --- 5/18/2024
 
 Steven Clontz informed me of an effort he’s involved in called code4math. It’s described as a professional organization for the advancement of mathematical research through building non-research software infrastructure. By that he means, for...
-
-
-[Jim Simons (1938-2024)](https://blog.computationalcomplexity.org/feeds/5789051896891651132/comments/default)
----
-
-Computational Complexity --- 5/15/2024
-
-Jim Simons passed away Friday at the age of 86. In short he was a math professor who quit to use math to make money before it was fashionable and used part of his immense wealth to start the Simons Foundation to advance research in mathematics and...
 
 
 [Experiments with POSSE](https://www.jeremykun.com/shortform/2024-05-12-2028/)
@@ -858,14 +874,6 @@ I’ve been learning recently about how to approximate functions by low-degree p
 Good Fibrations --- 5/6/2024
 
 We outline connections between the gut microbiome, autoimmune conditions, neuropathic pain, eye pain, chemical intolerance, and a specific set of “overactive” mental illnesses. All seem to be connected to a sensory processing disorder. This is...
-
-
-[Line Bundles on Complex Tori (Part 5)](https://golem.ph.utexas.edu/category/2024/04/line_bundles_on_complex_tori_p_2.html)
----
-
-The n-Category Café --- 5/4/2024
-
-We prove the main conjecture from last time: a description of the hexagonal tiling lattice using Eisenstein integers.
 
 
 [A High-Level Technical Overview of Fully Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
@@ -1026,14 +1034,6 @@ I think that bash is so popular because it is so terrible language and hard to w
 Abuse of Notation --- 1/20/2024
 
 Battling my ego. The stage is set. I turn to it and say “It’s gonna hurt ME a lot more than it hurts YOU”.
-
-
-[The Gödel incompleteness phenomenon, interview with Rahul Sam](https://jdh.hamkins.org/the-godel-incompleteness-phenomenon-interview-with-rahul-sam/)
----
-
-Joel David Hamkins --- 1/14/2024
-
-Please enjoy my conversation with Rahul Sam for his podcast, a sweeping discussion of topics in the philosophy of mathematics—potentialism, pluralism, Gödel incompleteness, philosophy of set theory, large cardinals, and much more.
 
 
 [Half Haunted: The 1/2 in Harish-Chandra via the Fourier Transform](https://rin.io/fourier-harish-chandra/)
