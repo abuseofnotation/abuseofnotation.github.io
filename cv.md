@@ -3,7 +3,7 @@ title: CV
 layout: blog
 ---
 
-I like computers, art, and bringing ideas to life --- a full-stack web developer, experienced also in UX, design, project management and technical writing.
+I like computers, art, and bringing ideas to life. Highly skilled software developer and technical leader with over 10 years of experience in front-end and full-stack development. Extensive expertise in JavaScript, TypeScript, and modern frameworks such as React and Angular, paired with a strong background in Ruby on Rails. Proven track record of leading small to medium-sized teams, implementing scalable solutions, and enhancing product design. Adept at collaborating with cross-functional teams, mentoring junior developers, and driving projects to successful completion. Experienced in various domains, including finance, ERP, and event registration platforms. Passionate about open-source contributions, technical writing, and continuous learning.
 
 Personal Info
 ==
@@ -19,52 +19,59 @@ Skills
 Technical
 ---
 * Deep knowledge of the web platform.
-* Huge experience with *front-end* JavaScript development - coding single page applications with React, Angular and other frameworks, designing interfaces with HTML and CSS. Some experience with D3, Canvas API.
-* Experience with *back-end* web development with *express.js* and *Ruby on Rails*. * Experience with *SQL* database development.
-* Experience with writing unit and integration tests with Moca, Jest, Pupeteer and other frameworks.
-* Excellend command of JavaScript and TypeScript.
-* Some experience with Ruby, Java, Perl, PureScript.
+* **Front-end JavaScript** development - coding single page applications with **React**, **Angular** and other frameworks, designing interfaces with **HTML** and **CSS**. Some experience with *D3*, **Canvas API**.
+* **Back-end** web development with **node.js** and **Ruby on Rails**. 
+* **SQL** database development.
+* Unit and integration tests with **Moca**, **Jest**, **Pupeteer** and other frameworks.
+* Excellent command of **JavaScript** and **TypeScript**.
+* Some experience with **Ruby**, **Java**, **Perl**, **PureScript**, **Haskell**, **Clojure**.
 * Ability to construct technical solutions that span across multiple technologies.
-* Experience with designing *user interfaces* and user experience.
-* Experience with handling server administration, deployments etc. Good *Unix* skills, some AWS experience.
-* Experience with handling payments with *Stripe*. 
-* Experience with *OAuth* single-sign-on solutions.
+* Designing **user interfaces** and **user experience**.
+* Handling server administration, deployments etc. Good **Unix** skills, some AWS experience.
+* Handling payments with **Stripe**. 
+* **OAuth** single-sign-on solutions.
 
 
 Project management
 ---
 
-* Experience in *leading* small to medium software projects - facilitating daily and other meetings performing code reviews, making architecture decisions, solving tech and people issues, distributing the work between the team members.
-* Experience in *mentoring* junior developers and other team members - performing induction trainings, conducting one-on-one meetings and reviews.
-* Good understanding of Scrum and Kanban project methodologies.
+* Led small to medium software projects - facilitating daily and other meetings performing code reviews, making architecture decisions, solving tech and people issues, distributing the work between the team members.
+* **Mentoring** junior developers and other team members - performing induction trainings, conducting one-on-one meetings and reviews.
+* Strong understanding of **Scrum** and **Kanban** project methodologies.
 
-Product design
+Product management
 ---
-* Experience in working with business analysts - gaining domain knowledge, understanding requirements, solving user problems.
-* Experience in *creating software specifications* designing solutions to customers' problems.
+
+* Collaborated with business analysts - gaining domain knowledge, understanding requirements, solving user problems.
+* Experience in **creating software specifications** designing solutions to customers' problems.
 
 Domain knowledge
 ---
 
-* Experience with implementing *ERP* solutions.
-* Experience with implementing *finance* and trading platforms.
-* Experience with implementing *accounting/bookkeeping* software.
-* Experience with implementing software for handling *reservations* and event registration.
+* **ERP** solutions.
+* **Finance** and **trading** platforms.
+* **Accounting/bookkeeping** software.
+* Software for handling **payments** and **subscription**.
 
-Misc
+Graphic design
 ----
  
-* Experience with graphic design and illustration, designing icons, logos, fonts (Figma, Adobe Photoshop and Illustrator, Inkscape, Glyphs)
+* Graphic design and illustration, designing icons, logos, fonts (**Figma, Adobe Photoshop** and **Illustrator, Inkscape, Glyphs**)
 
-* Experience with creating and maintaining *software documentation*, both developer-oriented (API docs, product overviews and tutorials) and user-oriented (integrated tips, video tutorials).
+Documentation
+---
+
+* Developer-oriented **software documentation** (API docs, product overviews and tutorials) 
+
+* User-oriented **software documentation** (integrated tips, video tutorials).
 
 Open-source projects
 ===
 
-* I [design typefaces](https://www.behance.net/evolutionfonts/), experience with Fontlab and Glyps.
-* I study CS and mathematics, I wrote an open-source book about maths and programming called [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
-* I also maintain a [technical blog](https://abuseofnotation.github.io/blog/) where I write about programming, which is very popular, has been featured on HackerNews and other similar sites.
-* I have done various other small projects, and contributed to some. Check my [Github](https://github.com/abuseofnotation) 
+* [Typeface design](https://www.behance.net/evolutionfonts/), experience with Fontlab and Glyps.
+* CS and mathematics, I wrote an open-source book about maths and programming called [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+* [Technical blog](https://abuseofnotation.github.io/blog/) where I write about programming, which is very popular, has been featured on HackerNews and other similar sites.
+* Check my [Github](https://github.com/abuseofnotation) 
 
 Work Experience
 ==
@@ -74,10 +81,17 @@ Freelance
 **from** Jul 2023
 **to:** Present
 
-I worked on various software development and design projects.
+Providing consulting services in web application development for clients across various industries.
 
+* Conducted market research and technology assessments to guide project decisions.
+* Advised on UI/UX design, ensuring intuitive and user-friendly interfaces.
+* Authored technical specifications and provided programming support in JavaScript, TypeScript, and Ruby on Rails.
+* Assisted in business analysis to enhance user engagement and streamline workflows.
+* Developed technical documentation and communication materials for diverse audiences.
 
-Lead JS Developer - [Growyze](https://www.growyze.com/)
+For more info, see my [consulting](/consulting) page.
+
+Lead Front-end Developer - [Growyze](https://www.growyze.com/)
 --
 **from:** Apr 2022
 **to** Jul 2023
@@ -90,7 +104,7 @@ I was involved at a very early-stage startup, where I did everything, from produ
 
 * Supervised and mentored junior developers
 
-* Helped with the establishment of Scrum processes in the organization. 
+* Established Scrum processes in the organization. 
 
 Fullstack Ruby on Rails Developer- [Dext](https://dext.com/)
 --
@@ -105,12 +119,12 @@ Worked on a cutting-edge solution for accounting and bookkeeping with Ruby on Ra
 
 * Full-stack development with Ruby on Rails with React front-end.
 
-Fullstack JS Developer/Project manager - [US Squash](https://www.ussquash.org/)
+Full-stack Developer/Product manager - [US Squash](https://www.ussquash.org/)
 --
 **from:** January 2017
 **to:** February 2021
 
-I lead a small team of JS and SQL developers, working on the [Club Locker](https://about.clublocker.com/) - a web-based platform for everything related to squash. 
+I lead a team of JS and SQL developers, working on the [Club Locker](https://about.clublocker.com/) - a web-based platform for everything related to squash. 
 
 * Reimagined and refactored the Club Locker platform turning it from a US Squash-centered platform to one which serves the needs of various organizations [around](https://clublocker.com/ngbs/10000) [the](https://clublocker.com/ngbs/9999) [world](https://clublocker.com/ngbs/10142).
 
