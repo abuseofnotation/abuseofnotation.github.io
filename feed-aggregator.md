@@ -4,6 +4,14 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[What went wrong with the Silicon Valley right](https://crookedtimber.org/2024/08/20/what-went-wrong-with-the-silicon-valley-right/)
+---
+
+Crooked Timber --- 8/20/2024
+
+“To promote open inquiry and free, market-based technological progress, you need an open society, not one founded on the enemy principle. The understandable desire to escape criticism, misunderstanding, and the frustrations of ordinary politics...
+
+
 [Against the Sleep=Boring Analogy](https://crookedtimber.org/2024/08/20/against-the-sleepboring-analogy/)
 ---
 
@@ -322,14 +330,6 @@ Hi! My name is Colin, and I am a PROPER mathematician now. I’ve made a contrib
 Math ∩ Programming --- 7/31/2024
 
 Last update: 2024-08-08T21:56:17-0700 In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field. If you have any information about...
-
-
-[Troubled by Google Maps Reviews](https://crookedtimber.org/2024/07/31/troubled-by-google-maps-reviews/)
----
-
-Crooked Timber --- 7/31/2024
-
-We just got home from a wonderful trip to Prague, Budapest, and Krakow. All three cities have a rich history of Jewish communities, and one can visit synagogues, musea, and Jewish cemeteries. We visited a number of them, including the very...
 
 
 [Back, and in reasonable working order …](https://www.logicmatters.net/2024/07/31/in-more-than-reasonable-working-order/)
@@ -892,12 +892,12 @@ Math ∩ Programming --- 4/1/2024
 It’s April Cools! Last year I wrote about friendship bracelets and the year before about cocktails. This year it’s parenting. Parenting articles are a dime a dozen and always bury the lede behind a long story. I’ll skip that. How to think about...
 
 
-[Communism Is Better](http://abuseofnotation.github.io/communism-is-better/)
+[Which is better](http://abuseofnotation.github.io/communism-is-better/)
 ---
 
 Abuse of Notation --- 3/10/2024
 
-title: Which is better layout: microblog category: microblog tags: capitalism joke — Too much of the left wing/right wing discussion is about which is better, when every ideology is bad when pushed to the extreme: If you lean to the far right you...
+Too much of the left wing/right wing discussion is about which is better, when every ideology is bad when pushed to the extreme: If you lean to the far right you get wars, genocide, people dying on the street etc. and in the far left you get...
 
 
 [Conformity is not the way](http://abuseofnotation.github.io/conformism/)
@@ -916,12 +916,12 @@ Abuse of Notation --- 3/10/2024
 I consider Hokusai the greatest artist of all time, because he contributed to the two most prominent genres in visual art - landscapes and porn.
 
 
-[Nothing To Prove](http://abuseofnotation.github.io/nothing-to-prove/)
+[Nothing to prove](http://abuseofnotation.github.io/nothing-to-prove/)
 ---
 
 Abuse of Notation --- 3/10/2024
 
-title: Nothing to prove layout: microblog category: microblog tags: joke math — “I think I will stop doing logic, I feel like I have nothing to prove.”
+“I think I will stop doing logic, I feel like I have nothing to prove.”
 
 
 [Tabletop Games Based on Math Problems](https://www.jeremykun.com/2024/03/08/tabletop-games-based-on-math-problems/)
