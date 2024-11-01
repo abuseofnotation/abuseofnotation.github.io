@@ -72,7 +72,7 @@ Offering consulting services in web application development, collaborating with 
 - Conducted business analysis to improve user engagement and streamline workflows.
 - Developed technical documentation and communication materials.
 
-**Lead of Front-End Development - [Growyze](https://www.growyze.com/)**  
+**Product Manager - [Growyze](https://www.growyze.com/)**  
 _Apr 2022 – Jul 2023_  
 Contributed to early-stage product design and development.
 
@@ -81,15 +81,15 @@ Contributed to early-stage product design and development.
 - Front-end development with React.js and TypeScript.
 - Established Scrum processes.
 
-**Full-Stack Developer - [Dext](https://dext.com/)**  
+**Product Manager/Full-Stack Developer - [Dext](https://dext.com/)**  
 _Feb 2021 – Jul 2021_  
 Worked on an innovative accounting and bookkeeping solution with Ruby on Rails.
 
-- Contributed to an internal UI framework using React.
 - Collaborated with product teams, designers, and business analysts.
+- Contributed to an internal UI framework using React.
 - Full-stack development with Ruby on Rails and React front-end.
 
-**Technical Product Manager/Developer - [US Squash](https://www.ussquash.org/)**  
+**Technical Product Manager - [US Squash](https://www.ussquash.org/)**  
 _Jan 2017 – Feb 2021_  
 Led a development team on the [Club Locker](https://about.clublocker.com/) platform.
 
