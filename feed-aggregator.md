@@ -4,12 +4,116 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[Higher Education Under Trump](https://blog.computationalcomplexity.org/feeds/6955995954501607175/comments/default)
+---
+
+Computational Complexity --- 11/7/2024
+
+It feels eerie as pretty much everyone seemingly avoided talking about the election. But Trump back in the White House will likely have a profound effect on US Colleges and Universities. Trump is no fan of universities and his vice-president once...
+
+
+[The Icosahedron as a Thurston Polyhedron](https://golem.ph.utexas.edu/category/2024/11/the_icosahedron_as_a_thurston.html)
+---
+
+The n-Category Café --- 11/6/2024
+
+How can you get a regular icosahedron using Thurston's method?
+
+
+[Double Maths First Thing: Issue 9](https://aperiodical.com/2024/11/double-maths-first-thing-issue-9/)
+---
+
+The Aperiodical --- 11/6/2024
+
+Double Maths First Thing is like a diet MathsJam, some of the flavour but only a hint of the joy. Hello! My name is Colin and I am a mathematician on a mission to spread delight in my beloved subject. I spent the weekend at Big MathsJam in...
+
+
+[A new Mersenne Prime Has Been Found. When will we find the next one?](https://blog.computationalcomplexity.org/feeds/573646624396308694/comments/default)
+---
+
+Computational Complexity --- 11/5/2024
+
+(Lance posted on the search for Mersenne primes in 2006 after a new one was discovered. I will comment on his post later. ADDED LATER- You Tube Video by Matt Parker on the new prime, here)A Mersenne Prime is a prime of the form \(2^n-1\) where n is...
+
+
+[Random Thoughts on the Election](https://blog.computationalcomplexity.org/feeds/7756094337922847120/comments/default)
+---
+
+Computational Complexity --- 11/5/2024
+
+Here are my random thoughts on the election:1) Here is a list of things I DONT care about a) Candidates Gender or Race. The people who say its about time we had a female president might not want to vote for a President Marjorie Taylor Green. (A...
+
+
+[Carnival of Maths 233](https://aperiodical.com/2024/11/carnival-of-maths-233/)
+---
+
+The Aperiodical --- 11/4/2024
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of October 2024, is now online at Math Intersect Programming. The Carnival rounds up maths blog posts from all over the internet, including some from our...
+
+
+[Aperiodical News Roundup – October 2024](https://aperiodical.com/2024/11/aperiodical-news-roundup-october-2024/)
+---
+
+The Aperiodical --- 11/3/2024
+
+Here’s a roundup of some of the maths-related news from this month we didn’t otherwise cover here! Maths News The obvious big maths news this month is that a new Mersenne prime has been found: it’s now official that 2¹³⁶²⁷⁹⁸⁴¹−1 is a prime, an...
+
+
+[Sunday photoblogging: Nîmes, the Maison Carrée](https://crookedtimber.org/2024/11/03/sunday-photoblogging-nimes-the-maison-caree/)
+---
+
+Crooked Timber --- 11/3/2024
+
+
+
+
+[Summer Research at the Topos Institute](https://golem.ph.utexas.edu/category/2024/11/topos_institute_summer_researc.html)
+---
+
+The n-Category Café --- 11/3/2024
+
+You can now apply for the 2025 Summer Research Associate program at the Topos Institute!  The deadline to apply is January 17, 2025.
+
+
 [Adjoint School 2025](https://golem.ph.utexas.edu/category/2024/10/adjoint_school_2025.html)
 ---
 
 The n-Category Café --- 11/1/2024
 
 Want to work on applied category theory?  Apply to the Adjoint School before December 1, 2024!
+
+
+[First-Year Cohort Classes for PhD Students](https://crookedtimber.org/2024/11/01/first-year-cohort-classes-for-phd-students/)
+---
+
+Crooked Timber --- 11/1/2024
+
+In the spring, I’ll be teaching the second semester of our philosophy grad program’s first-year seminar. This is the seminar all PhD students in the philosophy department take together as a cohort during their first year in the program. The fall...
+
+
+[Axiomatic Set Theory 7: Number Systems](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_7_number.html)
+---
+
+The n-Category Café --- 11/1/2024
+
+Defining N, Z, Q and R in the Elementary Theory of the Category of Sets.
+
+
+[Axiomatic Set Theory 6: Gluing](https://golem.ph.utexas.edu/category/2024/10/axiomatic_set_theory_6_gluing.html)
+---
+
+The n-Category Café --- 11/1/2024
+
+Quotients, disjoint unions, families of sets, and the Cantor-Bernstein theorem.
+
+
+[Carnival of Mathematics #233](https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/)
+---
+
+Math ∩ Programming --- 11/1/2024
+
+Welcome to the 233rd Carnival of Mathematics! Who can forget 233, the 6th Fibonacci prime? Hey, not all numbers are interesting. Don’t ask me about the smallest positive uninteresting number. You can’t make it interesting with your feeble mind...
 
 
 [What happens if Americans claim asylum from a Trump regime?](https://crookedtimber.org/2024/10/31/what-happens-if-americans-claim-asylum-from-a-trump-regime/)
@@ -26,14 +130,6 @@ Donald Trump has made very public threats to persecute his political opponents s
 Math ∩ Programming --- 10/31/2024
 
 This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features. Table of Contents: Motivation Structure and Deployment Static search index Running scripts via GitHub Actions Social...
-
-
-[ACT 2025 and the Adjoint School](https://golem.ph.utexas.edu/category/2024/09/act_2025_and_the_adjoint_schoo.html)
----
-
-The n-Category Café --- 10/31/2024
-
-Here's some basic information about the next big annual applied category theory conference --- Applied Category Theory 2025 --- and the school that goes along with that: the Adjoint School. James Fairbanks will hold ACT2025 and the Adjoint School...
 
 
 [“Wirklich, ich lebe in finsteren Zeiten!”, some random thoughts on our responsibility as intellectuals / poets / writers / researchers / teachers](https://crookedtimber.org/2024/10/30/wirklich-ich-lebe-in-finsteren-zeiten-some-random-thoughts-on-our-responsibility-as-intellectuals-poets-writers-researchers-teachers/)
@@ -100,14 +196,6 @@ Crooked Timber --- 10/28/2024
 There’s not much I can do about it, but I still spend a lot of time thinking about what I, and others outside the US, should do if that country ceases to be a democracy. But, it doesn’t seem as if lots of other people are thinking this way. One...
 
 
-[Random Thoughts on the Election](https://blog.computationalcomplexity.org/feeds/7756094337922847120/comments/default)
----
-
-Computational Complexity --- 10/27/2024
-
-Here are my random thoughts on the election:1) Here is a list of things I DONT care about a) Candidates Gender or Race. The people who say its about time we had a female president might not want to vote for a President Marjorie Taylor Green. (A...
-
-
 [Sunday photoblogging: Nîmes](https://crookedtimber.org/2024/10/27/sunday-photoblogging-nimes/)
 ---
 
@@ -122,14 +210,6 @@ Crooked Timber --- 10/27/2024
 The n-Category Café --- 10/26/2024
 
 In Week 5 of my ETCS-based set theory course, I explained how to specify subsets and functions by formulas.
-
-
-[Axiomatic Set Theory 6: Gluing](https://golem.ph.utexas.edu/category/2024/10/axiomatic_set_theory_6_gluing.html)
----
-
-The n-Category Café --- 10/26/2024
-
-Quotients, disjoint unions, families of sets, and the Cantor-Bernstein theorem.
 
 
 [On the The Teach-In and its role in Academic Freedom. From Arnold Kaufman to Meena Krishnamurthy](https://crookedtimber.org/2024/10/25/on-the-the-teach-in-and-its-role-in-academic-freedom-from-arnold-kaufman-to-meena-krishnamurthy/)
@@ -364,14 +444,6 @@ The Aperiodical --- 10/7/2024
 Here’s a round-up of mathematical news stories from last month. Maths Research News A claimed proof has been published by Vigleik Angeltveit and Brendan D. McKay that the Ramsey number R(5,5) is at most 46. More detail can be found in this blog...
 
 
-[Philosophy & Public Affairs is not dead yet](https://crookedtimber.org/2024/10/07/philosophy-public-affairs-is-not-dead-yet/)
----
-
-Crooked Timber --- 10/7/2024
-
-One of the most interesting developments in the little world of political theory / philosophy in recent years has been the mass resignation of the editorial teams of both Philosophy & Public Affairs, and Journal of Political Philosophy. Public...
-
-
 [Book note: Kunen, Foundations of Mathematics](https://www.logicmatters.net/2024/10/07/book-note-kunen-foundations-of-mathematics/)
 ---
 
@@ -386,22 +458,6 @@ Finally, here’s the last book in my ‘must-revisit’ stack! — Kenneth Kune
 Computational Complexity --- 10/6/2024
 
 (Thanks to James De Santis for pointing the article that inspired this post on Post. The article is pointed to in this post.) What is Emil Post known for? I know of him for the following: a) Post's Problem: Show that there is an r.e. set A that is...
-
-
-[Sunday photoblogging: Salt at Gruissan](https://crookedtimber.org/2024/10/06/sunday-photoblogging-salt-at-gruissan/)
----
-
-Crooked Timber --- 10/6/2024
-
-
-
-
-[Carnival of Maths 232](https://aperiodical.com/2024/10/carnival-of-maths-232/)
----
-
-The Aperiodical --- 10/5/2024
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of September 2024, is now online at Storm Bear World. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
 [On de Swart’s Philosophical and Mathematical Logic](https://www.logicmatters.net/2024/10/05/on-de-swart/)
@@ -452,28 +508,12 @@ Computational Complexity --- 10/2/2024
 September EditionWho thought the algorithm behind machine learning would have cool complexity implications?The Complexity of Gradient Descent: CLS = PPAD ∩ PLSJohn Fearnley, Paul Goldberg, Alexandros Hollender and Rahul SavaniLet's unpack these...
 
 
-[Double Maths First Thing: Issue 4](https://aperiodical.com/2024/10/double-maths-first-thing-issue-4/)
----
-
-The Aperiodical --- 10/2/2024
-
-Double Maths First Thing is Colin’s weekly news bulletin. Although it’s more like a nerfpelletin, honestly. Hello! My name is Colin and I am a mathematician on a mission to help everyone find the joy and delight in figuring things out. Art! Up in...
-
-
 [The Space of Physical Frameworks (Part 5)](https://golem.ph.utexas.edu/category/2024/09/the_space_of_physical_framewor_3.html)
 ---
 
 The n-Category Café --- 10/2/2024
 
 Let's think about how classical statistical mechanics reduces to thermodynamics in the limit where Boltzmann's constant \(k\) approaches zero, by looking at an example.
-
-
-[The Space of Physical Frameworks (Part 4)](https://golem.ph.utexas.edu/category/2024/09/the_space_of_physical_framewor_2.html)
----
-
-The n-Category Café --- 9/30/2024
-
-I'll explain exactly what I mean by 'classical statistical mechanics', and how free entropy is defined in this subject.  Then I'll show that as Boltzmann's constant approaches zero, this free entropy  approaches the free entropy we've already seen...
 
 
 [Two shorter book notes](https://www.logicmatters.net/2024/09/30/three-shorter-book-notes/)
@@ -506,22 +546,6 @@ I was sorry to hear of the death a few days ago of Max Cresswell. In his long ph
 Blog - Logic Matters --- 9/27/2024
 
 I’m revisiting a number of older logic books with a view to seeing if/how they should feature in the new edition of the Study Guide. Next up, the text by René Cori and Daniel Lascar, whose French original was published in 1993, later translated in...
-
-
-[Axiomatic Set Theory 1: Introduction](https://golem.ph.utexas.edu/category/2024/09/axiomatic_set_theory_1_introdu.html)
----
-
-The n-Category Café --- 9/27/2024
-
-Set theory course based on everyday principles for sets and functions.
-
-
-[Mathematical Objects: Space-filling curves](https://aperiodical.com/2024/09/mathematical-objects-space-filling-curves/)
----
-
-The Aperiodical --- 9/27/2024
-
-A conversation about mathematics inspired by a space-filling curve. Presented by Katie Steckles and Peter Rowlett.
 
 
 [LeetCode and AI](https://blog.computationalcomplexity.org/feeds/2502491932873778983/comments/default)
@@ -676,14 +700,6 @@ Proses.ID --- 8/13/2024
 I was listening to this interview of Iain McGilchrist. He was explaining how the mechanistic metaphors that we often use in our daily lives could…
 
 
-[The combinatorics of Game Shows](https://blog.computationalcomplexity.org/feeds/3593941461040824201/comments/default)
----
-
-Computational Complexity --- 8/11/2024
-
-(Inspired by Pat Sajak stepping down from Wheel of Fortune)How many different game show are there? Many. How many could there be?1) Based on Knowledge or something else. Jeopardy is knowledge. Wheel and Deal-No Deal are something else. The oddest...
-
-
 [Waiting for God(b)ot](http://proses.id/god-b-ot/)
 ---
 
@@ -698,14 +714,6 @@ Story 1: Who plans better? You or LLM? I was watching this interview on Machine 
 Math ∩ Programming --- 8/8/2024
 
 This blog now accepts webmentions. I used webmention.io and webmention.js for live rendering. You can see an example at the end of my old Bezier Curves post. After my initial experiments with POSSE, I’ve made a few improvements to the system. Now...
-
-
-[Determing which math problems are hard is a hard problem](https://blog.computationalcomplexity.org/feeds/5329945089839495048/comments/default)
----
-
-Computational Complexity --- 8/5/2024
-
-I was wondering what the hardest math problems were, and how to define it. So I googled Hardest Math ProblemsThe first hit is here. The 10 problems given there bring up the question of what is meant by hard?I do not think the order they problems...
 
 
 [MLIR — Defining Patterns with PDLL](https://www.jeremykun.com/2024/08/04/mlir-pdll/)
