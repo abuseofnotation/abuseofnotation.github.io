@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'mell_ultra';
-    src: url('mell/MellDisplay-Italic.otf') format('opentype');
+    src: url('mell/MellDisplay-RegularItalic.otf') format('opentype');
     font-weight: normal;
     font-style: italic;
 }
@@ -23,7 +23,7 @@
 
 @font-face {
     font-family: 'mell_regular';
-    src: url('mell/MellSans-Italic.otf') format('opentype');
+    src: url('mell/MellSans-RegularItalic.otf') format('opentype');
     font-weight: normal;
     font-style: italic;
 }
