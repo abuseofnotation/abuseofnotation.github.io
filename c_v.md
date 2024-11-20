@@ -1,4 +1,3 @@
-
 ---
 title: CV
 layout: blog
