@@ -1,9 +1,18 @@
 @font-face {
     font-family: 'mell_ultra';
     src: url('mell/MellDisplay-Regular.otf') format('opentype');
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'mell_ultra';
+    src: url('mell/MellDisplay-RegularItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
 
 @font-face {
     font-family: 'mell_regular';
@@ -14,11 +23,24 @@
 
 @font-face {
     font-family: 'mell_regular';
+    src: url('mell/MellSans-RegularItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'mell_regular';
     src: url('mell/MellSans-Bold.otf') format('opentype');
     font-weight: Bold;
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'mell_regular';
+    src: url('mell/MellSans-BoldItalic.otf') format('opentype');
+    font-weight: Bold;
+    font-style: italic;
+}
 
 
 @font-face {
