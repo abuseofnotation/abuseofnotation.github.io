@@ -32,7 +32,7 @@ I am passionate about merging technology and art to bring innovative ideas to li
 #### Technical
 
 - Extensive knowledge of web platforms.
-- Front-end JavaScript development for single-page applications with **React** and **Angular**. Experienced in UI/UX design with **HTML** and **CSS**; some proficiency with _D3_, **Canvas API**.
+- Front-end JavaScript development for single-page applications with **React** and **Angular** and **vue.js**. Experienced in UI/UX design with **HTML** and **CSS**; some proficiency with _D3_, **Canvas API**.
 - Back-end expertise with **Node.js** and **Ruby on Rails**.
 - Database development using **SQL**.
 - Advanced in **JavaScript** and **TypeScript**; exposure to **Ruby**, **Java**, **Perl**, **PureScript**, **Haskell**, and **Clojure**.
@@ -56,7 +56,7 @@ I am passionate about merging technology and art to bring innovative ideas to li
 ### Work Experience
 
 **Freelance**  
-_Jul 2023 – Present_  
+_Dec 2023 – Present_  
 Offering consulting services in web application development, collaborating with various industries.
 
 - Conducted market research and technology assessments to guide project decisions.
@@ -64,6 +64,16 @@ Offering consulting services in web application development, collaborating with 
 - Authored technical specifications and contributed to JavaScript, TypeScript, and Ruby on Rails development.
 - Conducted business analysis to improve user engagement and streamline workflows.
 - Developed technical documentation and communication materials.
+
+**Contract Front-End Developer – Optima ERP Solutions**
+_Jul 2023 – Dec 2023_
+
+Worked with a small, fast-paced team to develop and enhance features for an innovative ERP platform tailored to small and medium-sized businesses.
+
+- Developed the front-end of the platform using Vue.js, building responsive and dynamic user interfaces.
+- Collaborated closely with the founding team to iterate on design and functionality, ensuring alignment with customer needs and business objectives.
+- Integrated third-party APIs and services to extend the platform's capabilities, improving overall user experience.
+- Contributed to setting up an efficient development workflow using Git and Agile methodologies, enabling smooth collaboration and faster delivery cycles.
 
 **Lead of Front-End Development - [Growyze](https://www.growyze.com/)**  
 _Apr 2022 – Jul 2023_  
