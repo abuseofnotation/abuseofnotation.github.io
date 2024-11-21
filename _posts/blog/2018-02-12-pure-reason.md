@@ -471,6 +471,3 @@ Intuitions - The data which is obtained by sensibility, in its most unprocessed 
 Manifold of intuition - The sum total of intuitions that are being perceived by an individual. The term highlights the fact that intuitions are not unified with one another, e.g. the sound of a bird flapping its wings and the sight of that same bird are two completely different intuitions which, in so far as they are viewed as just intuitions and not in their relation to concepts, have nothing to do with each other.
 
 Understanding - the mind's faculty of producing knowledge by mapping concepts to intuitions.  
-
-> If you find some errors in this article, you want to tell me how great it is, etc. you can [mail me](mailto:marinovboris@gmail.com). If you found this article useful in some way, or if you really want to see it finished, consider [sending me a tip](https://www.paypal.me/borismarinov/10).
-
