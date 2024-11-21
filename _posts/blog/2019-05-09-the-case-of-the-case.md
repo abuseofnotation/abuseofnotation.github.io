@@ -100,5 +100,5 @@ About this article
 
 Thanks for reading, this article was my attempt to advertise my novel. The chapters in the article correspond to the chapters of my novel from where the quotes are. Each chapter of the novel was written roughly at the stage described in the corresponding chapter of the article. You can see how my understanding of my characters developed, particularly in the last chapter.
 
-> If you liked this article, you can [read the "The Case" (the novel in question) too](https://boris-marinov.github.io/the-case/) (I will probably publish part 2 someday) or [mail me](mailto:marinovboris@gmail.com) your words. 
+> If you liked this article, you can [read the "The Case" (the novel in question) too](https://abuseofnotation.github.io/the-case/) (I will probably publish part 2 someday) or [mail me](mailto:marinovboris@gmail.com) your words. 
 
