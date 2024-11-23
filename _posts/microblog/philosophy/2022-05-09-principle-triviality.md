@@ -5,12 +5,12 @@ category: microblog
 tags: philosophy logic
 ---
 
-Jencel's principle of triviality: 
+I find this principle very useful in my thinking, particularily when you want to determine if something is legit. It is based party on elementary logic laws and partly on a rule of thumb. I call it the principle of triviality: 
 
-Any self-consistent body of knowledge can be reduced to a number of clear elementary postulates and everything else would follow from them. So, any body of knowledge for which it is not immediately clear what these postulates are, is not self-consistent.
+Any self-consistent body of knowledge can be reduced to a number of clear elementary postulates from which everything else logically follows. Therefore, if the foundational postulates of a system are not immediately apparent, the system is likely not self-consistent.
 
-Also, the number of those postulates is usually small.
+Also, the number of those postulates is usually small (this is the rule of thumb part).
 
-Simply put: if you cannot explain the system using very elementary language and constructs, then there is probably inconsistency in it somewhere.
+Simply put: if you cannot explain something using very elementary language and constructs, then there is probably inconsistency in it somewhere.
 
-Example: most religious doctrines, astrology, cryptocurrenciesetc.
+Example: most religious doctrines, political ideologies, astrology, cryptocurrencies etc.

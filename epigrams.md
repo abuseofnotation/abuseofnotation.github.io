@@ -52,3 +52,5 @@ Free time is the most precious resource that you can have in your life
 Note to self: In order to have better ideas, I have to stop wasting my time with trying to categorize the ideas I already have and fit them in boxes --- you either spend your effort to appear as brilliant or be brilliant, no time for both. 
 
 If you are feeling sad, you are thinking of yourself too much.
+
+The default fallacy is the bias of questioning the logic of people who make different choices, but not the logic of the people who make the "default" choice.
