@@ -127,23 +127,23 @@ img {
   }
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'mell_ultra';
+  font-family: 'MellDisplay';
   font-weight: bold;
 }
 
 code {
-  font-family: 'mell_mono';
+  font-family: 'MellMono';
 }
 .highlight {
-  font-family: 'mell_mono';
+  font-family: 'MellMono';
 }
 
 body {
-  font-family: 'mell_regular';
+  font-family: 'MellSans';
 }
 
 input {
-  font-family: 'mell_regular';
+  font-family: 'MellSans';
   font-size: 20px;
 }
 
