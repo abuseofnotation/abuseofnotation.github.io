@@ -43,7 +43,7 @@
 
 @font-face {
     font-family: 'MellSans';
-    src: url('mell/MellSans-Italic.otf') format('opentype');
+    src: url('mell/MellSans-RegularItalic.otf') format('opentype');
     font-weight: normal;
     font-style: italic;
 }
