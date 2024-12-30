@@ -94,34 +94,3 @@
 
 
 
-
-@font-face {
-    font-family: 'MellContrast';
-    src: url('mell/MellContrast-Regular.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'MellContrast';
-    src: url('mell/MellContrast-Italic.otf') format('opentype');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'MellContrast';
-    src: url('mell/MellContrast-Bold.otf') format('opentype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'MellContrast';
-    src: url('mell/MellContrast-BoldItalic.otf') format('opentype');
-    font-weight: bold;
-    font-style: italic;
-}
-
-
-
