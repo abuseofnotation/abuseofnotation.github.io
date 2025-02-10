@@ -4,6 +4,62 @@ layout: blog
 ---
 Generated with [static-feed-aggregator](https://github.com/abuseofnotation/static-feed-aggregator/)
 
+[The Moral Development Index](https://crookedtimber.org/2024/12/30/the-moral-development-index/)
+---
+
+Crooked Timber --- 12/30/2024
+
+Cabo Verde is not a rich country. To have an idea, the minimum wage is €130 a month and a meal in a restaurant costs around €10. The IMF classifies Cabo Verde as a developing country. Development has long ceased to be defined in exclusively...
+
+
+[A Puzzle about a Calculator](https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/)
+---
+
+The Aperiodical --- 12/28/2024
+
+It’s now been a year since I took over the puzzle column at New Scientist and turned it into the BrainTwisters column. By way of celebration, I thought I’d write up an interesting bit of maths behind one of the puzzles, which I made a note of at...
+
+
+[Double Maths First Thing: Issue 10](https://aperiodical.com/2024/12/double-maths-first-thing-issue-10/)
+---
+
+The Aperiodical --- 12/25/2024
+
+Because there’s really no excuse for ho-ho-ho-CAH-TOA Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight, without recourse to magical reindeer. Somewhat embarrassingly, I’ve shown up for class...
+
+
+[A Christmas card](https://www.logicmatters.net/2024/12/24/a-christmas-card-13/)
+---
+
+Blog - Logic Matters --- 12/24/2024
+
+What the Donkey Saw No room in the inn, of course,And not that much in the stable,What with the shepherds, Magi, Mary,Joseph, the heavenly host —Not to mention the babyUsing our manger as a cot.You couldn’t have squeezed another cherub inFor love...
+
+
+[Plutocrats and Authoritarian Leaders: Like Flies to Flypaper](https://crookedtimber.org/2024/12/24/plutocrats-and-authoritarian-leaders-like-flies-to-flypaper/)
+---
+
+Crooked Timber --- 12/24/2024
+
+Curtis Yarvin, darling authoritarian ideologue of many tech billionaires, is back in the news, along with his deep links to J.D. Vance, via Peter Thiel. It’s no secret that plutocrats tend to be off-the-charts economic libertarians, with extreme...
+
+
+[Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
+---
+
+Computational Complexity --- 12/23/2024
+
+(I wrote this post without any AI help. OH- maybe not- I used spellcheck. Does that count? Lance claims he proofread it and found some typos to correct without any AI help.) Random Thought on AII saw a great talk on AI recently by Bill Regli, who...
+
+
+[Complexity Year in Review](https://blog.computationalcomplexity.org/feeds/385077908305240116/comments/default)
+---
+
+Computational Complexity --- 12/23/2024
+
+Back in the day (circa 1989) we studied locally random reductions which would lead to all those exciting interactive proof results. Somehow locally random reductions got rebranded as locally correctable codes and this year's result of the year...
+
+
 [Sunday photoblogging: squirrel](https://crookedtimber.org/2024/12/22/sunday-photoblogging-squirrel/)
 ---
 
@@ -90,14 +146,6 @@ If you’ve got a mathematical friend you need to buy a Christmas gift for but h
 The Aperiodical --- 12/18/2024
 
 Double Maths First Thing is the biscotti to your Wednesday morning coffee Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. This week’s links I have a difficult relationship with AI. I wrote about it...
-
-
-[Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
----
-
-Computational Complexity --- 12/17/2024
-
-(I wrote this post without any AI help. OH- maybe not- I used spellcheck. Does that count? Lance claims he proofread it and found some typos to correct without any AI help.) Random Thought on AII saw a great talk on AI recently by Bill Regli, who...
 
 
 [Exciting new maths of 2024](https://aperiodical.com/2024/12/exciting-new-maths-of-2024/)
@@ -220,28 +268,12 @@ Computational Complexity --- 12/6/2024
 Now in one place all of my sixty favorite theorems from the six decades of computational complexity (1965-2024).2015-2024Graph Isomorphism (Babai)Sensitivity (Huang)Quantum Provers (Ji-Natarajan-Vidick-Wright-Yuen)Dichotomy (Bulatov, Zhuk)Algebraic...
 
 
-[Mathematical Objects: An object with Tai-Danae Bradley](https://aperiodical.com/2024/12/mathematical-objects-an-object/)
----
-
-The Aperiodical --- 12/6/2024
-
-A conversation about mathematics inspired by … an object. Presented by Katie Steckles and Peter Rowlett, with special guest Tai-Danae Bradley. Katie mentions Peter’s The unplanned impact of mathematics, free to read at Nature.
-
-
 [In defense of a minimum referee ratio](https://crookedtimber.org/2024/12/05/in-defense-of-a-minimum-referee-ratio/)
 ---
 
 Crooked Timber --- 12/5/2024
 
 Editors of academic journals have been reporting that they find it increasingly hard to secure referees for papers that have been submitted to their journals. When I’ve been discussing this issue over the years with colleagues, I’ve heard a few...
-
-
-[Double Maths First Thing: Issue D](https://aperiodical.com/2024/12/double-maths-first-thing-issue-d/)
----
-
-The Aperiodical --- 12/4/2024
-
-Double Maths First thing is much less effort than an advent calendar. Hello! My name is Colin and I am a mathematician, on a mission to spread joy and delight, like a sort of Father Christmaths. I’m sure December is a conspiracy in which Big Diary...
 
 
 [ACT 2025](https://golem.ph.utexas.edu/category/2024/12/act_2025.html)
@@ -316,28 +348,12 @@ Crooked Timber --- 11/24/2024
 by Rutger Claassen and Ingrid Robeyns Let’s establish an upper limit on the personal wealth any individual can possess. This is the core principle behind ‘limitarianism’. Limitarianism represents one of the more radical proposals in the debate on...
 
 
-[Taiwan and Romania join a very special club](https://crookedtimber.org/2024/11/24/taiwan-and-romania-join-a-very-special-club/)
----
-
-Crooked Timber --- 11/24/2024
-
-So in the last three years or so — since COVID, basically — Romania and Taiwan have both joined a very special club of countries. There are not a lot of countries in this club. If you’re very generous, you could include perhaps a dozen or so. But...
-
-
 [Arnie Koslow, 1933–2024](https://www.logicmatters.net/2024/11/24/arnie-koslow-1933-2024/)
 ---
 
 Blog - Logic Matters --- 11/24/2024
 
 I was really saddened to learn yesterday of the death last month of Arnie Koslow at the age of 91. I got to know Arnie well when I returned to Cambridge where he was a regular summer visitor for quite a few years. He became a warm friend and we...
-
-
-[Sunday photoblogging: Handy Mini-Market](https://crookedtimber.org/2024/11/24/sunday-photoblogging-handy-mini-market/)
----
-
-Crooked Timber --- 11/24/2024
-
-
 
 
 [Axiomatic Set Theory 9: The Axiom of Choice](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_9_the_axi.html)
@@ -684,14 +700,6 @@ Computational Complexity --- 10/6/2024
 (Thanks to James De Santis for pointing the article that inspired this post on Post. The article is pointed to in this post.) What is Emil Post known for? I know of him for the following: a) Post's Problem: Show that there is an r.e. set A that is...
 
 
-[On de Swart’s Philosophical and Mathematical Logic](https://www.logicmatters.net/2024/10/05/on-de-swart/)
----
-
-Blog - Logic Matters --- 10/5/2024
-
-I have mixed feelings about Harrie de Swart’s Philosophical and Mathematical Logic (Springer, 2018). For this long book really is a strange mish-mash, supposedly aimed at philosophers. There are chapters (not very good) on e.g. the philosophy of...
-
-
 [Progress on R(5). Will there be more?](https://blog.computationalcomplexity.org/feeds/3119974858044789011/comments/default)
 ---
 
@@ -714,14 +722,6 @@ September EditionWho thought the algorithm behind machine learning would have co
 Computational Complexity --- 9/26/2024
 
 I often do LeetCode problems for fun. This site mainly provides short coding problems for students and others to train for the kinds of question that come up in technical job interviews. I use the site to keep up my programming skills and it often...
-
-
-[I thought I knew what  pizza was...](https://blog.computationalcomplexity.org/feeds/6476692104331014359/comments/default)
----
-
-Computational Complexity --- 9/23/2024
-
-On Page 75 of The Existential Theory of the Reals as a Complexity Class: A Compendiumby Marcus Schaefer, Jean Cardinal, Tillmann Mitzow(see here for the paper) I came across the following definition:a pizza is a mass distribution (measure) on \(...
 
 
 [Dynamic Programming Fail](https://www.jeremykun.com/shortform/2024-09-12-1502/)
