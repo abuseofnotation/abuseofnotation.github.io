@@ -54,3 +54,8 @@ Note to self: In order to have better ideas, I have to stop wasting my time with
 If you are feeling sad, you are thinking of yourself too much.
 
 The default fallacy is the bias of questioning the logic of people who make different choices, but not the logic of the people who make the "default" choice.
+
+Everything worth doing is worth doing badly.
+
+Never be impressed by someone's ability to follow a rule.
+
