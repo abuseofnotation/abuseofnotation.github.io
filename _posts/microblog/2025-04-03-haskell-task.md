@@ -5,7 +5,7 @@ category: microblog
 tags: haskell programming
 ---
 
-Haskell is great. And I want more people to know it, so this is just a quick overview of it's capabilities, and of  code to solve a simple [task I saw on Mastodon](https://recurse.social/@redmp/114232802896990485).
+Haskell is great. And I want more people to know it, so this is just a quick overview of it's capabilities, using the code to solve a simple [task I saw on Mastodon](https://recurse.social/@redmp/114232802896990485).
 
 The task is the following:
 
@@ -33,7 +33,7 @@ foo (a : Int) : Int -> a + 1
 we do:
 
 ``` haskell
-foo -> Int -> Int
+foo :: Int -> Int
 foo a = a + 1
 ```
 
@@ -69,8 +69,10 @@ Oh, and I forgot one thing --- `a`, `b` and `c` are all abstract types, but you 
 uncurry <a, b, c> :: (a -> b -> c) -> (a, b) -> c
 
 ```
+Haskell figures that out by itself.
 
-So, let's continue with our task namely:
+
+So, let's continue with our task, namely:
 
 > Return a list of all combinations (i.e. order doesn't matter) of the given length.
 > Example: Given "abc" and 2 the answer is ["ab","ac","bc"] but order doesn't matter at either level.
@@ -128,19 +130,20 @@ Base cases
 
 So, back to our task (again). 
 
-In a recursive definition, we clear out the base cases first. There are two of them, as we have two values that we operate on one list (of letters) and one number (the length of the sequence). 
+In a recursive definition, we clear out the base cases first. In our case there are two of them, as we have two values that we operate on: one list (of letters) and one number (the length of the sequence). 
 
-We know that there are no combinations of an empty list of letters (we don't even care what the length is).
+We know that there are no combinations of an empty list of letters (we don't care what the length is, so we use the underscore).
 
 ```haskell
 combinations [] _ = []
 ```
 
-What about combinations of length 0? You might think that this is also empty, but there is one such combination, namely the empty list:
+What about combinations of length 0? You might think that this is also empty, but there is one such combination, namely the empty string (it is important to return it, else the whole thing won't work):
 
 ```haskell
 combinations _ 0 = [[]]
 ```
+
 
 You'd notice that we write those two definitions separately. That's because...
 
@@ -169,7 +172,7 @@ Actual Solution
 And now let's finally solve this task. 
 
 
-The solution is just:
+Excluding the base cases, the solution is:
 
 ```haskell
 combinations (letter : letters) n = 
@@ -199,7 +202,7 @@ We find the combinations that don't include the `letter`, letter by calling `com
   combinations letters n
 ```
 
-Now, the most complicated case is finding the combinations that *do* include the letter. They are just the combinations that do not include it, with length - 1 with the letter prepended.
+Now, the most complicated case is finding the combinations that *do* include the letter. To find them, we take the combinations that do not include it, with length - 1 and then prepend the letter to each of them.
 
 ```
     ++ map (letter :) (combinations letters (n -1))
@@ -215,16 +218,16 @@ Conclusion
 
 We verify that our code leads to the base cases, subtracting `1` from `n` and taking letters from the `letters` array, until both are 0. 
 
-We reach the first base case:
+If we reach the first base case:
 
 ```haskell
 combinations [] _ = []
 ```
 
-This means our solution is not valid. In this case, the expression would evaluate to`map (letter :) []` which would evaluate to `[]`.
+This means our solution is not valid (we ran out of letters and we still don't have a combination). In this case, the expression would evaluate to `map (letter :) []` which would evaluate to `[]`.
 
 
-If we reach the second one i.e. if we run our of space
+If we reach the second one (where the length is zero)
 
 ```haskell
 combinations _ 0 = [[]]
