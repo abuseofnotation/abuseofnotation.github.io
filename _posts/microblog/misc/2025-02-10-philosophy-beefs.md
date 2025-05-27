@@ -98,8 +98,6 @@ Chalmers: *"Dennett’s materialism is a shallow evasion of the real mystery of 
 
 ---
 
-### **Žižek vs. Peterson (2017)**  
-**Beef**: A public debate on capitalism, Marxism, and the meaning of happiness.  
-Žižek: *"Peterson, your Jungian archetypes are a reactionary fantasy."* (Source: Žižek-Peterson debate, *Happiness: Capitalism vs. Marxism*, 2017)  
-Peterson: *"Žižek, your Marxism is a utopian delusion that leads to tyranny."* (Source: Žižek-Peterson debate, *Happiness: Capitalism vs. Marxism*, 2017)
+Conclusion: Heraclitus is probably the greatest philosopher ever, as he is involved in not one, but two of the greatest beefs of all time, Heraclitus VS Parmenides and Heraclitus VS Democritus.
+
 

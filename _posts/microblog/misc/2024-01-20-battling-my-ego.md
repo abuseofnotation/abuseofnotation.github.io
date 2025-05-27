@@ -1,13 +1,12 @@
 ---
-title: Battling my ego
+title: Wresling  my ego
 layout: microblog
 category: microblog
-tags: personal joke 
+tags: personal joke haiku poerty
 ---
 
-Battling my ego.
+When wresling with my ego, 
+it’s gonna hurt me a lot more,
+than it hurts YOU.
 
-The stage is set.
-
-I turn to it and say “It’s gonna hurt ME a lot more than it hurts YOU”.
 
