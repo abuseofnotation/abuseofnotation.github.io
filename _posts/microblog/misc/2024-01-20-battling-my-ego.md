@@ -2,11 +2,11 @@
 title: Wresling  my ego
 layout: microblog
 category: microblog
-tags: personal joke haiku poerty
+tags: personal joke haiku poetry
 ---
 
-When wresling with my ego, 
-it’s gonna hurt me a lot more,
-than it hurts YOU.
+Wresling with my ego, 
 
+"It’s gonna hurt me a lot more,
 
+than it hurts *you*."
