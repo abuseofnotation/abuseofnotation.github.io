@@ -21,19 +21,29 @@
           <h1 style="font-size:80px;font-weight:bold">∅f</h1>
           <h1>ℕotλtion</h1>
           -->
-          <h3>{{site.description}}</h3>
+          <h3>{{site.description}}...{{site.baseurl}}</h3>
+
           </a>
         </div>
       </div>
       <div class="content">
 
+        <img src="{{site.baseurl}}/images/{{page.slug}}.svg" class="article-image" onerror="this.parentNode.removeChild(this)">
+
         <div class="container">
           {{content}}
         </div>
+      </div>
 
-        <div class="container widget">
+</div>
 
-          <h1>Subscribe for updates</h1>
+      </div>
+      </div>
+
+      <div class="footer">
+
+      <div class="container">
+          <h1>Subscribe</h1>
           <form
             action="https://buttondown.email/api/emails/embed-subscribe/abuseofnotation"
             method="post"
@@ -48,88 +58,25 @@
               <a  href="https://buttondown.email/refer/abuseofnotation" target="_blank">Powered by Buttondown.</a>
             </p>
           </form>
-
-        </div>
-        <div class="container widget">
-
-          <h1>Support the site</h1>
-          <script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('K3K539YDO');counterwidget.draw();</script>
-        </div>
       </div>
 
-</div>
-
-      </div>
-      </div>
-      <div class="footer">
-
-        <div class="container">
-          <p><a href="/epigrams">Epigrams</a></p>
-          <p>
-            Misc short thoughts.
-          </p>
-        </div>
-
-        <div class="container">
-          <h1 id="job">Books</h1>
-
-          <p><a href="/category-theory-illustrated">Category Theory Illustrated</a></p>
-          <p>
-            This is a little book about Category Theory that I started writing.
-          </p>
-          <p><a href="/time">Notes on Time and Causality</a></p>
-          <p>
-            A collection of philosophical essays on the above topics.
-          </p>
-
-          <p><a href="/humane-tech">Humane Technology</a></p>
-          <p>
-            A collection of philosophical essays about technology, sustainability and capitalism.
-          </p>
-
-          <p><a href="/x-notes">The notes of X </a></p>
-          <p>
-            My first novel.
-          </p>
-
-
-        </div>
-
-        <div class="container">
-          <h1>Support me</h1>
+      <div class="container">
+          <h1>Support</h1>
           <p><a href="https://patreon.com/abuseofnotation">Patreon</a></p>
           <p><a href="https://ko-fi.com/borismarinov">Ko-fi</a></p>
+      </div>
 
-          <!--
-          <p><a href="/the-case">The Case of Den Lee and the Japanese dolls</a></p>
-          <p>
-            My first book, which I started writing when I was 20 A sci-fi detective novel.
-          </p>
-          -->
-
-        </div>
-
-        <div class="container">
-          <h1>Contacts</h1>
+      <div class="container">
+          <h1>Contact</h1>
           <p><a href="mailto:marinovboris@protonmail.com">email</a></p>
           <p><a rel="me" target="_blank" href="https://mathstodon.xyz/@abuseofnotation">Mastodon</a></p>
           <p><a target="_blank" href="https://twitter.com/AlexanderKatt/">twitter</a></p>
+      </div>
 
-        </div>
-        <div class="container">
-          <h1>topics</h1>
-            <ul>
-              {% for tag in site.tags %}
-                <li><a href="{{ site.baseurl }}/tags/{{tag[0]}}">{{tag[0]}}</a></li>
-              {% endfor %}
-            </ul>
-        </div>
-
-
-        <div class="container">
-          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-        </div>
-
+      <div class="container">
+        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+      </div>
+        
       </div>
     </body>
 

@@ -150,3 +150,6 @@ input {
 .textfield {
   height: 68px;
 }
+.article-image {
+  width: 100%;
+}

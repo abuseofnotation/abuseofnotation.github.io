@@ -11,51 +11,67 @@ layout: default
     })
 </script>
 
-<div class="background">
-<h3 class="hello">
-  "I take my <a href="#job">job</a> very seriously, althought I don't take <a href="/about">myself</a> very seriously."
-</h3>
-<img src="/images/background.jpg"/>
+  <div class="container">
+    {% assign post = site.categories['microblog'].first %}
+    <article class="post">
+
+      <h1><i>Last blog post: </i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}shorts" class="read-more">blog</a>
+    </article>
+  </div>
+
+<div class="container">
+  <h1>Essays</h1>
+  {% for post in site.categories['blog'] %}
+      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+  {% endfor %}
+
+  <a href="{{ site.baseurl }}blog" class="read-more">Details</a>
 </div>
 
 
 
-<div class="container">
-<div class="posts"> 
-  {% assign post = site.categories['blog'].first %}
-    <article class="post">
+          <h1 id="job">Books</h1>
 
-      <h1><i>Last article: </i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+          <p><a href="/category-theory-illustrated">Category Theory Illustrated</a></p>
+          <p>
+            This is a little book about Category Theory that I started writing.
+          </p>
+          <p><a href="/time">Notes on Time and Causality</a></p>
+          <p>
+            A collection of philosophical essays on the above topics.
+          </p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+          <p><a href="/humane-tech">Humane Technology</a></p>
+          <p>
+            A collection of philosophical essays about technology, sustainability and capitalism.
+          </p>
 
-      <a href="{{ site.baseurl }}blog" class="read-more">More</a>
-    </article>
+          <p><a href="/x-notes">The notes of X </a></p>
+          <p>
+            My first novel.
+          </p>
 
+          <p><a href="/epigrams">Epigrams</a></p>
+          <p>
+            Misc short thoughts.
+          </p>
 
-  {% assign post = site.categories['microblog'].first %}
-    <article class="post">
-
-      <h1><i>Last short: </i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}shorts" class="read-more">More</a>
-    </article>
-
-  <h1>Random quote</h1>
-  <div id="random-quote">
-  </div>
-  <a href="https://aethy.com/@abuseofnotation" target="_blank" class="read-more">More</a>
-
+          <p><a href="{{ site.baseurl }}blog">Essays</a></p>
+          <p>
+            A collection of essays on various topics
+          </p>
 
 
+      
 
-<h1>Topics</h1>
+
+<h1>By topic</h1>
 <ul>
   {% for tag in site.tags %}
     <li><a href="{{ site.baseurl }}/tags/{{tag[0]}}">{{tag[0]}}</a></li>
@@ -142,5 +158,13 @@ Theresia
 <p>
 <a href="/blogroll">What is a blogroll?</a>
 </p>
+
+
+  <h1>Random quote</h1>
+  <div id="random-quote" class="quote">
+  </div>
+  <a href="https://aethy.com/@abuseofnotation" target="_blank" class="read-more">More</a>
+
+
 
 </div>
