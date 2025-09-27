@@ -59,3 +59,4 @@ Everything worth doing is worth doing badly.
 
 Never be impressed by someone's ability to follow a rule.
 
+Vibe coding sucks, cause the whole point of programming is to be able to do your job without talking to anybody.
