@@ -132,18 +132,19 @@ So, back to our task (again).
 
 In a recursive definition, we clear out the base cases first. In our case there are two of them, as we have two values that we operate on: one list (of letters) and one number (the length of the sequence). 
 
-We know that there are no combinations of an empty list of letters (we don't care what the length is, so we use the underscore).
-
-```haskell
-combinations [] _ = []
-```
-
-What about combinations of length 0? You might think that this is also empty, but there is one such combination, namely the empty string (it is important to return it, else the whole thing won't work):
+First, we know there's exactly one way to combine zero letters: the empty string (we don't care what letters are left, because we
+aren't using any of them, so we use the underscore to indicate that argument's value doesn't matter).
 
 ```haskell
 combinations _ 0 = [[]]
 ```
 
+And if we want to combine a nonzero number of letters, but there are no letters left, then there are no solutions, so we return
+the empty list.
+
+```haskell
+combinations [] _ = []
+```
 
 You'd notice that we write those two definitions separately. That's because...
 
@@ -212,25 +213,24 @@ So, for our data, this be `map ('a':) (combinations ['b', 'c'] 1)` which would g
 
 You should know enough to understand what this code does: we use the higher-order function `map` to prepend the letter, and we feed it the function `letter :`, which is short (curried) for `\a -> letter : a`.  
 
-
 Conclusion
 ===
 
 We verify that our code leads to the base cases, subtracting `1` from `n` and taking letters from the `letters` array, until both are 0. 
 
-If we reach the first base case:
+If we reach the first base case, where the goal length is zero:
+
+```haskell
+combinations _ 0 = [[]]
+```
+
+This means our solution is valid (we've already selected enough letters). The previous recursive calls will prepend all letter
+which make up the resulting combination. 
+
+If we reach the second one, there are no letters left to choose from but we still need at least one:
 
 ```haskell
 combinations [] _ = []
 ```
 
-This means our solution is not valid (we ran out of letters and we still don't have a combination). In this case, the expression would evaluate to `map (letter :) []` which would evaluate to `[]`.
-
-
-If we reach the second one (where the length is zero)
-
-```haskell
-combinations _ 0 = [[]]
-
-```
-In this case, we would have reached a valid solution. The previous clauses would prepend all letters which make up the combination.
+In this case, the expression would evaluate to `map (letter :) []` which would evaluate to `[]`.
