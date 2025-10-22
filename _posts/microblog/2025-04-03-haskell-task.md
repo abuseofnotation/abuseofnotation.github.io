@@ -1,4 +1,4 @@
----
+--
 title: A small Haskell task
 layout: microblog
 category: microblog
@@ -37,7 +37,7 @@ foo :: Int -> Int
 foo a = a + 1
 ```
 
-Secondly, there is no syntactic difference the parameter of the function and the return types i.e. instead of 
+Secondly, there is no syntactic difference between the parameter of the function and the return types i.e. instead of 
 
 ```haskell
 combinations :: ([a], Int) -> [[a]]
