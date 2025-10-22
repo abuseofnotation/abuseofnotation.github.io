@@ -5,7 +5,7 @@ category: microblog
 tags: haskell programming
 ---
 
-Haskell is great. And I want more people to know it, so this is just a quick overview of it's capabilities, using the code to solve a simple [task I saw on Mastodon](https://recurse.social/@redmp/114232802896990485).
+Haskell is great. And I want more people to know it, so this is just a quick overview of its capabilities, using the code to solve a simple [task I saw on Mastodon](https://recurse.social/@redmp/114232802896990485).
 
 The task is the following:
 
@@ -216,7 +216,7 @@ You should know enough to understand what this code does: we use the higher-orde
 Conclusion
 ===
 
-We verify that our code leads to the base cases, subtracting `1` from `n` and taking letters from the `letters` array, until both are 0. 
+We verify that our code leads to the base cases, subtracting `1` from `n` and taking letters from the `letters` list, until both are 0. 
 
 If we reach the first base case:
 
