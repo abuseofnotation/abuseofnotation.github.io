@@ -1,7 +1,26 @@
 Don't Fear  
 ====
 
-NOTE: I dedicate this to all engineers (they know who they are).  
+A programmer sees the impossible over Vitosha. An anarchic philosopher sees a puzzle. Together, they chase a truth that could shatter their reality.
+
+But this is more than a sci-fi thriller. At its heart, it’s a gripping duel of minds: the logical Engineer versus the speculative Philosopher. One builds systems; the other deconstructs them. Their clash isn't just about solving a cosmic mystery—it’s about the very way we seek truth.
+
+"The idea with two irreconcilable images is quite a clever writer's lure... because one of the popular myths is that a person cannot be both a curious creator and a logical pragmatist."
+
+Dive into a story praised for its authentic dialogue, clever tension (like a memorable escape from a sauna), and its brave, philosophical conclusion that will leave you thinking long after the last page.
+
+In a world obsessed with data and definitive answers, Don't fear is a thrilling antidote. A man of pure logic, as he is forced to confront the illogical, the spiritual, and the fundamentally inexplicable. This is a story for anyone who has ever felt the limits of their own understanding, a tense and thought-provoking journey that explores:
+
+- The clash between scientific empiricism and transcendent experience.
+
+- The architecture of thought and the prisons of our own logic.
+
+- The corrosive and addictive nature of the search for ultimate truth.
+
+- A uniquely Bulgarian take on a global sci-fi premise, grounded in specific, gritty reality.
+
+
+> I dedicate this to all engineers (they know who they are).  
 
 
 >...FOR ME, THE TRUE STRIVING FOR SELF-IMPROVEMENT DOES NOT COME FROM AN AMBITION TO BE BETTER, BUT FROM THE REALIZATION OF HOW PITIFUL WE ACTUALLY ARE.  
