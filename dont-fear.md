@@ -18,297 +18,253 @@ Another thing you should know about my time in school is that I met the Curious 
 
 After school, I went to study at the Technical University. I almost managed to graduate. Because of that, some friends started calling me The Engineer. And the nickname stuck. Along with the characteristic way of thinking that spawned it.  
 
-Do Not Fear  
-===
+I started working as a software developer about a year ago. There was no reason to complain—my salary was good, the place was also OK (at least I thought so back then), but despite that I felt like I hadn’t achieved enough on a personal level. On the contrary—I felt like my level was dropping. Sometimes it seemed to me that I was missing something very important from life. Something that it seemed everyone else knew and was hiding from me, to laugh at me behind my back. In such cases, I liked to write. I did it since I was little. In a black notebook I would jot down thoughts and ideas that came to mind. One or two sentences written in a rush. The idea was for them to be like advice to myself, like the one you see above and the ones you’ll see regularly throughout the text. My notes helped me concentrate (at least I thought so back then), and gave an opportunity for the strange ideas, which kept coming to me anyway, to be put to use.
 
-I started working as a software developer about a year ago. There was no reason to complain - my salary was good, the place was OK too (at least I thought so then), but despite that, I felt I hadn't achieved enough personally. On the contrary - I felt my level was dropping. Sometimes it seemed to me that I was missing something very important in life. Something that everyone else seemed to know and was hiding from me, to laugh at me behind my back. In such cases, I liked to write. I'd been doing it since I was little. In a small black notebook, I would jot down thoughts and ideas that came to mind. A sentence or two written on the go. The idea was for them to be something like advice to my future self, like the one you saw above and those you will see regularly throughout the text. My notes helped me concentrate (at least I thought so then), and gave the strange ideas, which came to me constantly anyway, a chance to be put to use.  
+In short, this is my story from birth to the last three days. For them, I think I’ll tell you in a bit more detail:
 
-In short, that is my story from birth until the last three days. For them, I think I'll tell you in a bit more detail:  
-
-The Phenomenon  
+The phenomenon
 ---
 
-I parked in my spot in front of the office, greeted the doorman, and entered the elevator. On the way, I picked up a newspaper, but there was nothing interesting in it and I threw it away. I was late for work and entered my boss's office to offer my apologies:  
-- Sorry I'm late. - I told him. - The transport here...  
-- It's fine. Sit down and work. - He didn't even look at me. I immediately turned and headed out.  
+I parked in my spot in front of the office, greeted the doorman, and entered the elevator. On the way, I grabbed a newspaper, but there was nothing interesting in it, so I threw it away. I was late for work and went into my boss’s office to apologize:  
+“Sorry I’m late.”  
+“It’s fine. Sit down and work.” – He didn’t even look at me.  
+I immediately turned and left.
 
-"Yeah, that's right – enthusiastic at the start of the day, but then you calm down bit by bit," I thought to myself, while grabbing the door handle. I entered our department's room, and a familiar picture unfolded before me. I would title it something like: "My Colleagues, Huddled at Their Computers." This view sometimes annoyed me terribly, simply because I saw it every day.  
+“Yeah, that’s how it is—enthusiastic at the start of the day, but then slowly you calm down,” I thought, while grabbing the doorknob. I entered our department’s room, and before me unfolded a familiar scene. I’d title it something like: “My colleagues, sitting at their computers.” This sight sometimes annoyed me terribly, simply because I saw it every day.
 
-I made myself a coffee and sat down in front of the computer. At the moment, I was expected to be working on a project for software that could think independently. Or something like that. The task had arrived yesterday and was so vague that I even gave up trying to understand it and spent the whole day reading random stuff on the Internet.  
+I made myself a coffee and sat in front of the computer. At the moment, I was expected to work on a project for software that could think independently. Or something like that. The task came yesterday and was so unclear that I even gave up trying to understand it and spent the whole day reading random stuff on the Internet.
 
-NOTE: There's no point in developing artificial intelligence – there are enough real ones that aren't being used for anything.  
+**NOTE:**  
+“There’s no point in developing artificial intelligence—there are enough real ones, who aren’t being used for anything.”
 
-During the lunch break, I found that my colleagues weren't much more oriented than I was. But I knew that would soon change, because unlike me, they adapted to what was required of them. Every time we picked up a project, they started taking an interest in the field we had to work in, and talked about it during breaks. And if we worked long enough, they even changed as people, depending on the circumstances. It seems to me that the better a person masters this skill, the more diligently and confidently they work, occupy a higher position, and in general, if Darwin had been born these days, he could probably prove the theory of natural selection by tracking people's rise in the corporate hierarchy and the melting away of their individuality, in exchange for their ability to adapt to the environment.  
+During the lunch break, I found out that my colleagues weren’t much more oriented than I was. But I knew that this would soon change, because unlike me, they adapted to what was asked of them. Every time we started a project, they would start getting interested in the field we had to work in, and talk about it during breaks. And if we worked long enough, they’d even change as people, depending on the circumstances. It seemed to me that the better a person mastered this skill, the more diligently and confidently they worked, held a higher position, and generally, if Darwin were born nowadays, he could probably prove the theory of natural selection by tracing people’s rise in the corporate hierarchy and the melting away of their individuality, in exchange for their ability to adapt to the environment. And then sell me the ship tickets to Galapagos. I need a little break.
 
-And then he could sell me the ship tickets to the Galapagos. I need a little break.  
+There were ten minutes left until the end of the workday, and my script was empty as a brain operated on by lobotomy. “You can’t commit it like that.” – I told myself. – “That would mean officially admitting you haven’t done any work.”  
+I took a deep breath and typed a few lines of code, but they were so wrong that I couldn’t even answer the question why they didn’t work. I tried again. “Why?” now even on the second symbol. And every letter my hand touched spawned thousands of questions, which I couldn’t even grasp, let alone answer.  
+I got up from my computer and decided to walk. “It’s clear you won’t finish anything today.” I thought while putting on my jacket.  
+On my way out, I turned one last time to the monitor and for a second started to get uncontrollably irritated at the sight of the empty file.
 
-There were ten minutes left until the end of the workday, and my script was as empty as a brain operated on by a lobotomy. "You can't commit it like that," I said to myself. "That would mean officially admitting you haven't done any work." I took a deep breath and entered a few lines of code, but they were so wrong I couldn't even answer the question of why they didn't work. I tried again. "Why?" struck me again on the second symbol. And every letter my hand touched generated thousands of questions I couldn't even conceive of, let alone answer.  
+**don’t be afraid**
 
-I got up from my computer and started pacing. "It's clear you won't get anything done today," I thought as I put on my jacket. On my way out, I turned for a last look at the monitor and for a second began to get uncontrollably irritated at the sight of the empty file.  
+I grabbed the keyboard and lifted it over my head, intending to throw it to the other end of the room, or even hit the monitor with it. But then my anger at not having done anything all day disappeared in favor of the desire to do something, the next day. So I carefully put the keyboard back in its place, and prepared to leave with the idea of going to bed early, to wake up early. I became interested. And just before leaving the room, I turned, brought my hand to the keyboard, and entered into the file exactly one symbol:
 
-I grabbed the keyboard and lifted it above my head, intending to throw it across the room, or even hit the monitor with it. But then my anger that I hadn't accomplished anything all day disappeared, replaced by the desire to accomplish something, the next day. So I carefully placed the keyboard back in its place, and prepared to leave with the idea of going to bed early to wake up early. I got interested. And right before leaving the room, I turned around, brought my hand to the keyboard, and entered into the file exactly one symbol:  
+The symbol “?”
 
-The symbol "?"  
+I saved it like that, then turned off the computer and headed to the elevator. A couple-three of my colleagues got in with me (the ones who didn’t stay late at work) and together we traveled the distance from the top floor to the ground floor.  
+“This building isn’t bad.”  
+“You! Didn’t you hear they’re moving the office.”  
+“Where? Hopefully it’s easy to get to.”  
+I didn’t join the conversation.  
+The doors opened, we found ourselves outside, and as if on command headed toward our cars. And it was then, just as I took my first breath of air not processed by the AC, when I saw for the first time what I actually want to tell about.
 
-I saved it like that, then turned off the computer and headed for the elevator. A couple of my colleagues (the ones who didn't stay at work later) got in with me, and together we traveled the distance from the top floor to the ground floor.  
-- Not a bad building, this. - One of them said as we were going down.  
-- Oh, you! Didn't you hear they're moving our office.  
-- Where? Hope it's easy to get to.  
-I didn't join the conversation.  
+Here’s what I saw then: from one of the slopes of Vitosha came concentrated light, similar to a laser. It was directed straight up and was so strong that it went through the clouds, and I couldn’t see where it ended. At first I didn’t ask about the source. Because no one else was doing it, I decided that everyone else knew what this was and I was once again the last idiot who didn’t quite get something.  
+Soon, however, I realized I wasn’t the only one—while walking aimlessly through the parking lot, I noticed another colleague looking in the direction of the light just like I was, while waiting for the parking barrier to open...  
+“Hey Sasho. Did they mount some kind of spotlight there?”  
+“It’s definitely not a spotlight.” – I replied. – “Or at least I haven’t heard of a spotlight whose light is distributed like that.”  
+“Well, maybe they made one.”  
+“Well, there’s only one way to find out.”  
+“No time...” – My colleague replied. The barrier opened and he sped off.
 
-The doors opened, we found ourselves outside, and as if on command, headed to our cars. And it was then, just as I was inhaling my first breath of air not processed by the air conditioner, when I first saw what I actually want to tell you about.  
+A few more people were looking at the light, but they soon left too. I followed them and together we formed quite a traffic jam, as if preparing for the journey to Sofia.  
+While stopped at a traffic light, I looked again at the mountain, and for a few seconds focused my gaze on the light. Then the horn from the car behind made me turn my head forward and continue. This repeated a few times, until finally my curiosity prevailed. I hit the brakes. Dozens of horns honked behind me like a choir, and with difficulty I parked the car so the others could pass.  
+When I got out, I realized I had parked in front of a garage. I knew I had to find another spot, but the scandals related to parking were so annoying to me that I decided to ignore them, and leave it as it was.
 
-Here's what I saw then: from one of the slopes of Vitosha came a concentrated light, like a laser. It was pointed straight up and was so strong that it passed through the clouds, and I couldn't see where it ended at all. At first, I didn't question its source. Since no one else was doing it, I decided that everyone else knew what it was and I was again the last dunce who hadn't quite figured something out.  
-
-But after a while, I realized I wasn't the only one – while wandering aimlessly around the parking lot, I noticed another colleague looking in the direction of the light just like I was, while waiting for the parking barrier to open...  
-- Hey, Sasho. Did they install some kind of spotlight there? - He asked me.  
-- Definitely not a spotlight. - I replied. - Or at least, I haven't heard of a spotlight whose light is distributed like that.  
-- Well, maybe they made one. - He said.  
-- Well, there's only one way to find out.  
-- No time... - My colleague replied. The barrier opened and he sped off.  
-
-A few more people were looking towards the light, but they soon left too. I followed them and together we formed a decent traffic jam, as if preparing for the road to Sofia.  
-
-While stopped at a traffic light, I looked again at the mountain, and for a few seconds focused my gaze on the light. Then the horn of the car behind me made me turn my head forward and continue. This repeated several times, until finally my curiosity overcame me. I hit the brakes. Dozens of horns sounded behind me like a choir, and with difficulty I parked the car so others could pass.  
-
-When I got out, I realized I had parked in front of a garage. I knew I should find another spot, but the scandals related to illegal parking were so annoying that I decided to ignore them and leave it as it was.  
-
-NOTE: Only 5 min. Sorry, but I need to know what it is!  
+**NOTE:**  
+“Just 5 min. Sorry, but I need to know what it is!”
 
 I stuck this one on the car window.  
-
-The air was cold and damp and the wind whistled in my ears. I crossed the mental boundary of the city (where the asphalt ended), and started walking across the field to the highway. When I judged I was close enough, I looked up. The light was still there and at that moment all my theories with which I had been explaining its origin evaporated. I felt how infinitely large the world is, and how small we are, and I had the feeling that I even bowed my head slightly, like people bowing when praying to God. One part of me filled with curiosity. Another - with an unadulterated fear, which I guess gripped people even before the homo sapiens period. Because the light did not come from Vitosha and was not directed at the sky.  
-
+The air was cold and damp and the wind whistled in my ears. I crossed the mental border of the city (where the asphalt ended), and started walking across the meadow to the highway. When I estimated I was close enough, I looked up.  
+The light was still there and instantly all my theories, with which I had explained its origin, evaporated. I felt how infinitely big the world is, and how small we are, and I had the feeling that I even slightly bowed my head, like people do when they pray to god. One part of me filled with curiosity. Another—with a raw fear, which I assume engulfed people even before the homo sapiens period. Because the light didn’t come from Vitosha and wasn’t directed at the sky.  
 It was exactly the opposite.  
-
-The beam was strong, and at the same time concentrated. I could see its end clearly: a large area of the mountain with a radius of about a hundred meters, which was illuminated so well I felt I could count the blades of grass and pebbles there. However, its beginning was not visible – it passed through the clouds, and its primary source was lost there among the stars, light-years away from our humble planet.  
-
-Scientists say the universe is infinite, but I don't think they're convinced of that. Rather, they accept it because it's easier for them to claim it's infinite, than to try to imagine what's at the end. And they can easily dismiss the claim that there is SOMETHING there, based on the lack of arguments supporting that thesis. But it's not so easy when the argument is standing in front of me.  
-
-From the prolonged staring, my head had started to hurt. I also knew my eyes could get damaged, but I couldn't take them off it, and when my gaze got used to it, it was the only thing I saw. Gradually, I began to accept the Phenomenon – I couldn't explain it, but I accepted it, just as I accepted everything else I didn't understand. Then the light intensified, and besides the large beam, two smaller ones came from the sky. One of them directed itself somewhere far among the apartment blocks of Sofia.  
-
-The other – onto me.  
-
-The moment the light enveloped me, I felt a very strong headache, which was apparently connected to it. The pain signaled my body to move, and I took a few steps forward. To my surprise, the beam changed its location in accordance with mine. I panicked and started running to get away from it, but it followed me like searchlights following a criminal escaping from prison.  
-
-After a while, my strength left me. I collapsed on the field and mentally drifted along the current of what was happening, whatever it was. Then the light intensified. It took me a few seconds to get used to it, and to realize that it was expanding its scope, first encompassing the highway I had driven on, along with the houses built around it, then the entire city. After that, it continued to expand even faster.  
-
-But the real surprise overcame me when I looked around: I realized I could see through the walls of the buildings illuminated by the beam. For example, in the house in front of which I had parked my car, an elderly couple, a man and a woman, were watching TV and discussing the appearance of the show's host. In the house behind it - a lonely old man. The next house was shared by many boys and girls - students studying at the university two blocks away. And the aforementioned university? I could see it too - it was empty, except for a lone janitor who was walking nervously along one of the corridors, frightened by the noise his own coat's buttons were making. And then...  
-
-I looked at the city from a bird's eye view - the beam had already encompassed the entire country, and was continuing at a rapid pace to "show me" the neighboring ones. And besides sight, it enriched my hearing too. The speech of millions of people merged into one slightly irritating buzz. For a few seconds, I saw each one of them, and could sneak into their brain, and understand what was troubling them, and what they wanted to achieve.  
-
-People were constantly discussing each other - they attached definitions to each other, thus striving to unite into one, and at the same time to separate. All the time they discussed the direction they should take. And everyone was trying to see more than the others. Only I saw everything and my new abilities intoxicated me and made me feel like some higher form of life....  
-
-That, as I said, lasted only a few seconds (the best in my life!), because then the light intensified even more, and everything became white again. I collapsed on the ground from the pain. And when I got used to it again, the only thing I saw were tunnels.  
-
-And if we assume it wasn't before, here it really becomes difficult to tell.  
-
-I stood up and tried to brush the dust off myself, but my hand passed through my body. Apparently, I had been transported to a place that wasn't material. The houses and people around me had disappeared, and were replaced by endless winding paths, forming a huge labyrinth. I sat for a while to survey the landscape - the surroundings seemed familiar. I had the feeling that I had visited this place before, and many times, but couldn't remember when, and on what occasion. I shrugged and took one of the tunnels.  
-
-As soon as I stepped into it, the first in a series of memories flooded my head. What was special about these memories was that they weren't about things that had happened to me, but rather about things I had thought about. This one specifically was from my childhood, but I didn't remember the time or place. In exchange, I could crystal clearly reconstruct the reasoning I had then, done with elementary child's logic. They were general thoughts - something like "what is mom doing at work?" or "Why don't they let me come with them?" but at that time these things were apparently important to me. The further I went along the tunnel, the more clearly I remembered the thoughts that had passed through my head at that given moment. I advanced in my reasoning faster and faster, until finally, I couldn't continue, because my child's logic reached an unresolvable contradiction. At the same moment, the tunnel ended. And that wasn't a coincidence - the contradiction WAS the wall that put an end to the corridor. And I was locked in my own mind.  
-
-With my expanded vision, I faintly saw the other people, as before. Each of them had their own labyrinth. And each was banging against their walls alone.  
-
-I went back and tried the next tunnel. This one I had carved out as a teenager, and in it, I reasoned about girls and love. But when I was a teenager, I didn't know enough about the subject, so this tunnel was also a dead end.  
-
-I continued on, to more recent thoughts, but they already contained only programmer's dilemmas and were occupied with walls at every corner. I had already decided that I would never get out of this place. On the other hand, I hadn't gotten out before either, and now at least it was bright.  
-
-I lightly stepped towards the last tunnel - the one I had carved out a few hours ago, while working on the thinking program. This tunnel was more special - in it, the contradictions were more than in the others, and I circled in it like a fish in an aquarium. And new contradictions constantly appeared, narrowing the tunnel, and making me feel claustrophobic.  
-
-For a few seconds, I felt there was no way out anywhere. I remember what I thought: "Fuck it, why do I even have to reason logically, if we can't reach anything. Can't I just be free?"  
-
-Suddenly, all the contradictions began to disappear, and with them, all logical opposites. Black became white, minus became plus, evil became good. The impossible became possible. The walls disappeared. My entire horizon filled with figures, impossible to classify through geometry and all the factors that had kept thought on a leash suddenly withdrew. For a second, I saw it floating freely in all its brilliance. And then...  
-
-Then the light turned into darkness.  
-
-I could no longer see anything, and the only thing I felt was the pain – continuous, strong pain, which seemed to come directly from my brain. The fear gradually turned into panic. This state lasted for some time, the duration of which I cannot determine because I have no reference point to measure it by. But then the external world became accessible to my perceptions again. Slowly, I began to regain the sensation of my body, and in the darkness, dozens of tiny lights began to appear. I smiled mentally. These lights were a signal that my eyes were fine, and besides, a few of them were arranged in a way that seemed hellishly familiar from somewhere.  
-
-Soon, I could also feel the force of gravity, as a result of which I concluded that I was in a lying position. Gradually, I began to feel my arms and legs, the pain began to decrease, and the lights I saw became stronger and stronger.  
-
-Suddenly, I remembered where I had seen their arrangement – it was the constellation "Ursa Major." My little discovery allowed me to conclude with almost one hundred percent certainty that I was lying on the earth's surface. And when I started to feel my limbs, I confirmed that with certainty. The strange figures and the light were now only in my memories. I felt simultaneous relief and disappointment that it was all over.  
-
-I got up from the ground and looked around. The landscape around me seemed familiar and at the same time strange, as if I were entering my apartment for the first time after a two-week vacation. With a little thought, I remembered where I had come from, and set off to return. I almost ran to the first house that appeared in my view, and pressed the doorbell for a long time. A man of about fifty opened the door. The same one I had seen a little while ago.  
-
-- The light! - I shouted. - Have you found out what the light is!? Did they say anything about it on the news?  
-- They said nothing on the news. - The man said slowly. - And now, would you mind moving your car from my garage!  
-
-I felt that the conversation with this person was exhausted, headed to my car, and left. I turned on the radio to catch the news, but they were talking about the things they usually talk about, and didn't mention anything about the Phenomenon. I was overcome with a desire to call someone, but quickly drove that thought out of my head - my acquaintances were probably sleeping and were hardly likely to wake up to hear about my vision. "Maybe I'll wait until tomorrow and then, with a fresh mind, I'll think about it again," I thought. "If there's anything to think about." I stopped at the entrance to my apartment, as I had done thousands of times, and then the pain in my head completely disappeared. I have the feeling that saddened me a little. The strange gave way to the everyday. "Was there even anything there?" I thought. "Or is this some psychological mechanism for coping with boredom?" But before I seriously doubted my normality, my doubts were dispelled by a brief radio report dedicated to the Phenomenon:  
-
-"Hello." - The host said. - "Several of our viewers informed us about a strange phenomenon, in the outskirts of Vitosha, consisting of a strong light, directed at the sky. Initially, it was thought to have been initiated as part of the advertising campaign for the new non-alcoholic drink 'Nutra Sweet', but these rumors were refuted by the manufacturers. So, what is this light, and why is it there? We hope Dr. Ivan Abrashev - head of the Bulgarian meteorological station Sofia - will answer these questions for us. Mr. Abrashev, can you hear us?"  
-
-- Yes, I can hear you fine, can you hear me... - He said. Judging by his tone, the remark could be interpreted more as: "I was sleeping a little while ago and I hope to sleep again soon."  
-
-- Mr. Abrashev, how would you comment on the signals from our viewers about a strong beam of light, which illuminated from Vitosha?  
-- What to comment on? Aaa, yes. Look... Unfortunately, no one has given us information that such an event would be organized, so at the moment I can't say anything.  
-- And can you tell us anything about the technology needed to reproduce such a strong light.  
-- There was probably some strong spotlight, which was powered by a gasoline generator, or something like that. But I personally wasn't a witness, so I can't say anything more.  
-- Okay... - The host's voice trailed off for a few seconds and she compensated for the pause by saying the next line twice as fast as normal - "And what is your message to the citizens who perceive the phenomenon as some kind of threat warning?"  
-- No, nonsense... Look, citizens don't need to worry. That's nonsense. We have everything under control.  
-- Your message to them?  
-This is my message: Do not fear.  
-- That is probably reassuring for some of our viewers...  
-- Yes, we will investigate the event and will provide additional information if there is any.  
-
-He hung up the phone. The host started stuttering because she didn't know what to say, and in the end, her statement sounded roughly like this:  
-
-I repeat, the light is not being used for military purposes and does not represent a danger. More information on the topic... in tomorrow's broadcast of "Express"... if there is any, of course...  
-
-The guest's last remark echoed in my head a second after I turned off the radio: "Do not fear." That's what he had said. But what would he have said if he were in my place?  
-
-Suddenly, I remembered again what had happened to me and the desire to share it with someone returned to me. Not tomorrow, not the day after, but now. So I decided not to go home, but to call someone to meet. I started looking through the contacts on my mobile phone, but out of 200 people recorded there, there was only one who was awake now. Only one who would be free-thinking enough to hear my story, and say his opinion about it. But unfortunately, this person was now most likely on at least three joints, and had many other things he wanted to listen to.  
-
-The Curious One lived in a dilapidated house at the end of the city, which he had bought for a song because the previous owner had convinced himself it was haunted by ghosts. I never understood how he had managed to acquire it without any financial help from his parents (his mother worked a miserable job, and his father had been dead for ten years) and at one point, I settled for the explanation that he was one of those people to whom such things just happen. The rooms in the house he didn't use, Anton rented out and as a result, the house was always full of people, who were so many, and changed so often, that I perceived them as part of the interior. Although, once upon a time, I was one of them...  
-
-Okay, let me structure my thoughts into points:  
-
-1. In school, I didn't belong to any group, but since I had to be friends with someone, I forced myself to hang out with the other kids who also didn't belong to any group. And one of them was Anton.  
-
-2. Anton loved to ask stupid questions, and as a result, the teachers and our classmates gave him the nickname the Curious One. And since this nickname suited him very well, I still call him that to this day.  
-
-3. After school, the Curious One bought the aforementioned house. Then he decided he had made the deal of his life and decided to become a rentier and spend his free time (that is, all the time) smoking marijuana and drinking.  
-
-4. By a twist of fate, I had to move out of my parents' house at all costs. And since Anton and I were school buddies, he gave me the best room in the house for a floating rent (I gave him as much as I could spare) and my company.  
-
-5. After a few years, I decided to build a career at the company where I still work. Due to the fact that the workload there was high and the office was on the other end of Sofia, I was systematically exhausted from all the noise in the house.  
-
-6. After a while, I found a new apartment and gradually lost touch with the Curious One.  
-
-I can't believe how quickly we had stopped communicating. It seems to me I hadn't seen him for two months. But interestingly, despite that, I headed straight to his house without calling him to warn him. Realistically, I had no idea; he could have found a job requiring him to get up early, or he could have gone somewhere, but something told me he was still constant in his inconstancy.  
-
-As always, the door to the house was open. I entered the huge hall, which occupied almost the entire first floor, and greeted the guys and girls sitting there as I tried to shout over the loud music flowing from five shiny "Infinity" speakers - a legacy from the previous owner. I stepped forward and shouted in fright. A man was lying on the floor. He was unconscious and in his hand he was clutching a branded KFC bag.  
-
-- What's wrong with this guy? – I asked one of the people.  
-
-Instead of answering me, he and several of his friends started laughing at my question, and gradually almost everyone in the room joined the laughter (even those who had no idea what was going on). After a while, one of them started explaining to me that at the beginning of the evening, the man in question had bet someone else that he could without a problem...  
-
-NOTE: Don't ask stupid questions, unless you want stupid answers.  
-
-I looked at the people again and after not finding anyone I knew, I headed towards the back of the room. The Curious One was in the corner, sitting in a huge leather armchair, which he had built himself, shortly after moving in here. He was dressed in a T-shirt and shorts, and his head was covered with a cap with a visor, which darkened his entire face and hid from his view everything else except a thick book lying on his lap, which he was turning the pages of so fiercely that they were tearing at the corners. I stood next to him and said "Hello." He turned to me for a second, just enough to establish my identity, and then buried his nose in the volume again, while at the same time speaking to me:  
-
-- How are you, little Engineer. What's up?  
-- Nothing special.  
-
-NOTE: This question seems to have become redundant.  
-
-- These guys are really bad... - The Curious One said after a while.  
-- Who?  
-- These, the ones who wrote this book, how should I know who they are!  
-
-I leaned over, simultaneously to look him in the eyes and to read the title of the book, which was something like "Quantum Physics for Beginners." When he saw me looking, the Curious One made a face and pulled the visor even lower.  
-
-- Nothing special. Just some university professors decided to explain their discoveries to the common people.  
-- Well, they're trying to gain an audience...  
-- Screw them! I didn't pay 20 lev to have the Big Bang compared to a recipe for fried eggs.  
-- On the other hand... - He seemed to be urging me to contradict him. - Well, it's good for knowledge to be more accessible.  
-- But it's impossible! - He closed the textbook and threw it towards the trash can, but instead hit a girl sitting on the other side of the room.  
-
-NOTE: Arguments with Anton seem to be pointless by definition.  
-
-- Ow, what the... Hey, Anton, what's this book? – The girl asked.  
-- About the creation of the world. - He replied. - I'm giving it to you.  
-
-Then he grabbed a glass of vodka, poured its contents down his throat, and began to survey the scene, as if he were here for the first time.  
-
-- Anything interesting with you? - He asked.  
-- Yes. - I said, after coming to my senses.  
-- What?  
-- Actually, it's one of the most interesting things that has ever happened to me.  
-- And aren't you going to tell me what?  
-- I'll tell you, brother. That's why I came.  
-
-With this remark, I managed to engage his attention. His gaze stopped roaming the room and focused on me, while I mentally went through the entire experience, trying to systematize the information. While I was telling it, he listened attentively and interrupted me only to make me repeat certain passages – something I had never seen him do.  
-
-Actually, he didn't say anything even after I finished the story. At first, I thought he was contemplating his response (another thing he never did) and by the time I realized, five minutes had passed, during which the music was playing, the people around us were having fun, and the two of us were sitting like two reproductions of the statue of "The Thinker" and exchanging meaningful looks.  
-
-- Well? - I finally said.  
-- Do you have any idea what would have happened next?  
-- Pardon? - I made him repeat, because the music was loud and his question was unclear.  
-- Well, you stopped at the most interesting part. After the contradictions disappeared and the light became darkness. What was going to happen? Do you know?  
-- I have absolutely no idea. - I said. - Have you heard of anything like this?  
-- I've read about it somewhere.  
-- Where?  
-- No, you won't take it seriously.  
-- I don't have much of a choice. Is it in one of those books about contact with aliens?  
-- Worse. - He said.  
-
-And despite that, he got up from his chair and headed to the library. The books there weren't arranged by any system, but despite that, he immediately found the one he wanted to show me. He brought it and slammed it on the table. Then sat back in his armchair and turned to me:  
-
-- First of all. - He said. - You must be aware that most likely what you saw is a product of your imagination.  
-- You think I made it up?  
-- Do you hear yourself? - He said. - An engineer imagining a world where the laws of logic don't apply? The option of contact with aliens is more likely.  
-- Don't joke!  
-
-He took another sip of the vodka and moved closer to me:  
-- I'm not joking at all.  
-
-Then he started to explain what he meant:  
-- Now, what do you see in my hand?  
-- A glass of vodka.  
-- How did you know it's vodka?  
-- Because that's what you drink.  
-- You're right. - He said. But I asked you what you see, didn't I?  
-- Okay, I see a glass with a transparent liquid. - I said. - If I didn't know you, I would have thought it was water. Especially considering the amount...  
-- You're absolutely right... - He interrupted me. - To assimilate what we see, we liken it to what is most familiar to us. And these are probably the two things we humans know best - water and...  
-- And what?  
-- Think a little. You'll figure it out yourself...  
-
-Then someone from the table interrupted us with a shriek:  
-- Anton. Is this Bible yours?  
-
-NOTE: Never think you know someone.  
-
-At the time, I was open to accepting new things, but from a young age, I had a distrust of religion bordering on disgust, and the spiritual scriptures seemed to me to be composed by someone who had previously taken large quantities of drugs. But what annoyed me most was the fact that there were people who considered all this to be true. People who believed that someone had created them, and someone guided their LIFE. How could Anton be one of these people? It was probably best to ask him:  
-- Bible? - I said. - Is this your explanation? I thought you would produce some scientific literature, or at least pseudo-scientific. Maybe everything is better than that.  
-- What do you mean?  
-- Nothing, just that you believe...  
-- Little Engineer, listen. You are a very good friend of mine. That's why I want to admit to you that sometimes you're very stupid.  
-- What?  
-- No, I expressed myself wrongly. You're not stupid, but you miss things that are very important...  
-- For example? – I asked.  
-
-But the Curious One didn't answer me because he was too busy arguing with the guy who had asked him about the Bible – he had spilled a bottle of red wine on it:  
-- Idiot, this book costs over a hundred lev. - Anton was shouting. - Not to mention the wine is another twenty...  
-- I don't know how it happened...  
-- Well, in the state you're in, probably someone could have passed by behind you without you realizing how it happened!  
-- Sorry, Anton... I don't know what to say...  
-- Don't talk, go to the bathroom, get the rag...  
-- Okay. But where is it?  
-- So, there's a cabinet, to your right as you enter. Next to it...  
-
-I stopped listening to this conversation, trying to come to terms with the fact that on this day, things were often interrupted exactly at the moment that was most interesting to me.  
-
-- Okay. - I said to the Curious One after the wine crisis was contained. - So you believe in God, is that it?  
-
-NOTE: Atheists are allowed to write "god" with a lowercase letter.  
-
-- You could say...  
-- And you reject the theory of Evolution?  
-- Those are two different things, little Engineer.  
-- Why?  
-
-The Curious One fired the answer, as if he had repeated it in thousands of arguments with thousands of people:  
-- Because the theory of evolution does not answer the question of how life originated. OK, humans descended from monkeys, monkeys descended from some other animals there. But how did the first living organism arise?  
-- Well...  
-- So there is at least one organism whose existence is not a result of evolution. - The Curious One said.  
-- And?  
-- If there is certainly one, is it so impossible for there to be several?  
-- I need to think about this.  
-
-I took the bottle of vodka, unscrewed the cap, and took a big sip.  
-- Okay. - I continued. - Let's assume we humans were created by a higher form of life. But then who created that form?  
-- Some even higher one?  
-- And who created it?  
-- Considering you're a mathematician, you seem to be quite uncomfortable with the concept of infinity. - The Curious One burst into laughter.  
-
-With this remark, he broke the ice in our relationship, which had formed in the last two months and the conversation between us started flowing. We began to discuss the role of religion through the ages. We even laughed a little at how disoriented and small people are. Gradually, the memory of the Phenomenon began to fade from my head, and even started to seem more pleasant than confusing.  
-
-I realized I was having one of those conversations that have no real practical benefit, and which only distract me far from my work and the other things I had to think about during the day, but despite that, I was genuinely having fun. In the middle of some sentence, Anton shared with me that he had started writing poetry. When he saw my incredulous look, he offered to read me one of his poems. From the first sentence, I understood why I had looked at him with disbelief – he had taken a very famous poem we studied in school and very cleverly adapted it so that it sounded like a praise of marijuana and laziness.  
-
-- Okay, let's end today's meeting with this. - I said while wiping tears that had come from laughter. - I'm going to steal a few hours of sleep before work. - Because (as much as I didn't want to) the fact that I had witnessed one of the most puzzling phenomena in my life and the existence of god in no way changed the fact that the next day I was at work.  
-
-While driving in the car, I suddenly remembered what Anton meant when he said that everything was a product of my imagination: "To assimilate what we see," - He had said. - "We liken it to what is most familiar to us. And these are probably the two things we humans know best - water and..."  
-
-...and light.  
+The beam was strong, and at the same time concentrated. I could see its end clearly: a large area of the mountain with a radius of about a hundred meters, which was illuminated so well that I had the feeling I could count the grass blades and pebbles there. Its beginning, however, wasn’t visible—it passed through the clouds, and its primary source was lost there among the stars, light years away from our modest planet.  
+Scientists say the universe is infinite, but I don’t think they’re convinced of that. Rather, they accept it’s so, because it’s easier for them to claim it’s infinite than to try to imagine what’s at the end. And they can easily dismiss the claim that there’s SOMETHING there, based on lack of arguments supporting that thesis. But it’s not that easy when the argument is standing in front of me.
+
+From the long staring, my head started to hurt. I knew too that my eyes could get damaged, but I couldn’t tear them away from it, and when my gaze got used to it, it was the only thing I saw. Gradually I started to accept the Phenomenon—I couldn’t explain it, but I accepted it, as I accepted everything else that I didn’t understand. Then the light intensified, and besides the big beam, two more smaller ones came from the sky. One of them was directed somewhere far away among the blocks of Sofia. The other—onto me.  
+The moment the light enveloped me, I felt a very strong headache, which was apparently connected to it. The pain signaled my body to move aside and I took a few steps forward. To my surprise, the beam changed its location in accordance with mine. I panicked and started running to get away from it, but it followed me like the spotlights of guards following an escaping prisoner.  
+After a while, my strength left me. I stumbled onto the meadow and mentally drifted along the current of what was happening, whatever it was. Then the light intensified. It took me a few seconds to get used to it, and to realize that it was expanding its range, first enveloping the highway I drove on, along with the houses built around it, then the whole city. Afterwards, it continued expanding even faster.
+
+But the real surprise hit me when I looked around: I realized I could see through the walls of the buildings, which were illuminated by the beam. For example, in the house, in front of which I had parked the car, an elderly man and woman were watching TV and discussing the appearance of the show’s host. In the house behind it—a lonely old man. The next house was shared by many boys and girls—students studying at the university two streets away. And the said university? I saw it too—it was empty, except for a lone doorman, who was walking nervously along one of the corridors, frightened by the noise made by the heels of his own coat. And then...  
+I looked at the city from a bird’s eye view—the beam had already enveloped the whole country, and continued at a rapid pace to “show me” the neighboring ones. And besides sight, it enriched my hearing. The speech of millions of people merged into one slightly annoying buzz.  
+For a few seconds, I saw every single one of them, and could slip into their brain, and find out what worried them, and what they wanted to achieve.  
+People constantly discussed each other—they attached definitions to each other, thus striving to unite into one, and simultaneously to separate. Throughout they discussed the direction they should take. And everyone tried to see more than the others. Only I saw everything and my new abilities intoxicated me and made me feel like some higher form of life....  
+This, as I said, was only for a few seconds (the best in my life!), because then the light intensified even more, and everything became white again. I stumbled on the ground from pain. And when I got used to it again, the only thing I saw were tunnels.  
+And if we accept it wasn’t already, here it really becomes difficult to tell.
+
+I stood up, and tried to brush off the dust, but my hand passed through my body. Apparently I had transferred to a place that wasn’t material. The houses and people around me had disappeared, and were replaced by endless winding paths, forming a huge labyrinth. I sat for a bit to look at the landscape—the surroundings seemed familiar. I had the feeling that I had visited this place before, and many times, but I couldn’t remember when, and on what occasion. I shrugged and set off along one of the tunnels.  
+As soon as I stepped into it, the first of a series of memories invaded my head. The peculiar thing about these memories was that they weren’t about things that had happened to me, but rather about things I had thought about. This one specifically was from my childhood, but I didn’t remember the time or place. Instead I could crystal clearly reconstruct the reasoning I had back then, done with elementary child logic. They were general reasonings—something like “what does mom do at work?” or “Why don’t they let me come with them?“ but at that time these things were apparently important to me. The more I advanced through the tunnel, the clearer I remembered the thoughts that had passed through my head at that given moment. I advanced in my reasoning faster and faster, until finally, I couldn’t continue, because my child logic reached an irresolvable contradiction. At the same moment, the tunnel ended. And that wasn’t a coincidence—the contradiction WAS the wall that marked the end of the corridor. And I was locked in my own brain.
+
+With my expanded vision, I dimly saw the other people, as before. Each of them had their own labyrinth. And each was bumping into its walls alone.  
+I went back and tried the next tunnel. This one I had hollowed out as a teenager and in it I reasoned about girls and love. But when I was a teenager, I didn’t know enough about the topic, so this tunnel was also a dead end.  
+I continued onward, to my more recent thoughts, but they now contained only programming dilemmas, and were occupied with walls at every corner. I already decided I would never escape this place. On the other hand, I hadn’t escaped before either, and now at least it was bright.  
+I lightly stepped toward the last tunnel—the one I had hollowed out a few hours ago, while working on the thinking program. This tunnel was more special—in it, the contradictions were more than in the others, and I spun in it like a fish in an aquarium. And new contradictions constantly appeared, narrowing the tunnel, and making me feel claustrophobic.  
+For a few seconds, I felt there was no way out. I remember, what I thought: “Damn it, why do I even have to reason logically, if we can’t reach anything. Can’t I just be free.”  
+Suddenly all the contradictions began to disappear, and with them all logical opposites. Black became white, minus became plus, evil became good. The impossible became possible. The walls disappeared. My entire horizon filled with figures, impossible to classify through geometry and all the factors that kept thought on a leash suddenly withdrew. For a second, I saw it soaring freely in all its splendor. And then...  
+Then the light turned into darkness.
+
+Now I saw nothing, and the only thing I felt was the pain—continuous strong pain, which seemed to come directly from my brain. Fear slowly turned into panic.  
+This state lasted for some time, whose duration I can’t determine, because I have no reference point to measure it by. But then the surrounding world again became accessible to my perceptions. Little by little I started regaining the sensation of my body, and in the darkness dozens of small lights began to appear. I smiled mentally. These lights were a signal that my eyes were fine, and besides a few of them were arranged in a way that seemed damn familiar from somewhere.  
+Soon I could also feel the force of gravity, as a result of which I concluded I was in a lying position. Gradually I started feeling my arms and legs, the pain began to subside, and the lights I saw became stronger and stronger.  
+Suddenly I remembered where I had seen their arrangement—it was the constellation “Ursa Major.” My little discovery allowed me to conclude with almost one hundred percent certainty that I was lying on the earth’s surface. And when I started feeling my limbs, I confirmed that with certainty. The strange figures and light were now only in my memories. I felt simultaneous relief and disappointment that everything was over.
+
+I got up from the ground and looked around. The landscape around seemed familiar and at the same time strange, as if entering my apartment for the first time after a two-week vacation. With a little thought I remembered where I had come from, and set off to return. I almost ran to the first house that crossed my gaze, and pressed the bell for a long time. A man around fifty opened. The same one I had seen a little while ago.  
+“The light!”  
+“Did they figure out what the light is!? Did they say anything about it on the news?”  
+“They didn’t say anything on the news.” – The man said slowly. – “And now would you please remove your car from my garage!”  
+I sensed the conversation with this person was exhausted, headed toward my car and drove off. I turned on the radio to catch the news, but they were talking about the things they usually talk about, and didn’t mention anything about the Phenomenon. I was overcome with a desire to call someone, but quickly dismissed that thought from my head—my acquaintances were probably sleeping and likely unwilling to wake up to hear about my vision. “Maybe I’ll wait until tomorrow and then with a fresh head I’ll think about it again.” I thought. “If there’s even anything to think about.” I stopped in front of the entrance to my apartment, as I had done thousands of times, and then the pain in my head totally disappeared. I have the feeling that saddened me slightly. The strange gave way to the everyday. “Was there even anything there?” I thought. “Or is this some psychological mechanism for coping with boredom?” But before seriously doubting my normality, my doubts were dispelled by a short radio report, dedicated to the Phenomenon:
+
+“Hello. - Several of our viewers informed us of a strange phenomenon, on the outskirts of Vitosha, consisting of a strong light, directed at the sky. Initially it was thought to be initiated as part of the advertising campaign of the new non-alcoholic drink “Nutra Sweet”, but these rumors were refuted by the producers. Well then, what is this light, and why is it there? We hope these questions will be answered by Doctor Ivan Abrashev—head of the Bulgarian meteorological station Sofia. Mr. Abrashev, can you hear us?”  
+“Yes, I hear you well, can you hear me...” – He said. Judging by his tone, the remark could be interpreted more as: “I was sleeping a moment ago and I hope to sleep again soon.”  
+“Mr. Abrashev, how would you comment on the signals from our viewers about a strong beam of light, which illuminated from Vitosha?”  
+“What should I comment? Aah, yes. Look... Unfortunately, no one gave us information that such an event would be organized, so for now, I can’t say anything.”  
+“And can you tell us something about the technology needed to reproduce such a strong light.”  
+“There was probably some strong spotlight, which was powered by a gasoline generator, or something like that. But I personally wasn’t a witness, so I can’t say anything more.”  
+“Okaaay...” – The host’s voice hung for a few seconds and she compensated for the pause by saying the next line twice as fast as normal – “And what is your message to citizens who perceive the phenomenon as some kind of warning of a threat?”  
+“No, nonsense... Look, citizens don’t need to worry. That’s nonsense. We have everything under control.”  
+“Your message to them?”  
+“This is my message: Don’t be afraid.”  
+“That is probably reassurance for some of our viewers...”  
+“Yes, we will investigate the event and give additional information, if there is any.”  
+He hung up the phone. The host started stammering, because she didn’t know what to say, and in the end her exposition sounded roughly like this:  
+“I repeat, the light is not being used for military purposes and does not pose a danger. More information on the topic… in tomorrow’s broadcast of “Express”... if of course there is such...”  
+The guest’s last remark echoed in my head a second after I turned off the radio: “Don’t be afraid.” That’s what he said. But what would he have said if he were in my place?
+
+Suddenly I again remembered what had happened to me and the desire to share it with someone returned. Not tomorrow, not the day after, but now. So I decided not to go home, but to call someone to meet. I started browsing the contacts on my mobile phone, but out of 200 people, recorded there, there was only one who was awake now. Only one, who would be open-minded enough to hear my story, and to say their opinion about it. But unfortunately, this person now most likely was on at least three joints, and had many other things he wanted to listen to.
+
+The Curious One lived in a dilapidated house at the end of the city, which he bought for a pittance because the previous owner had convinced himself it was haunted. I never figured out how he managed to acquire it without any financial help from his parents (his mother worked a miserable job, and his father had been dead for ten years) and at one point I settled with the explanation that he is one of those people to whom such things just happen. The rooms of the house he didn’t use, Anton rented out and as a result the house was always full of people, who were so many, and changed so often, that I perceived them as part of the interior. Although, once I was one of them...
+
+Okay, let me structure my thought in points:
+
+1.  In school, I didn’t belong to any group, but since I still had to be friends with someone, I forced myself to hang out with the other kids, who also didn’t belong to any group. And one of them was Anton.
+2.  Anton really liked asking stupid questions, and as a result, the teachers and our classmates gave him the nickname the Curious One. And since this nickname suited him very well, I still call him that to this day.
+3.  After school, the Curious One bought the said house. Then he decided he had made the deal of his life and decided to become a rentier and spend his free time (that is, all the time) smoking marijuana and drinking.
+4.  Due to circumstances, I absolutely had to move out and live separately from my parents. And since Anton and I were buddies in school, he gave me the best room in the house for a floating rent (I gave him as much as I could spare) and my company.
+5.  After a few years, I decided to build a career in the company, where I still work. Because the work there was a lot and the office was on the other side of Sofia, I systematically got tired from all the noise in the house.
+6.  After a while, I found a new apartment and little by little lost touch with the Curious One.
+
+I can’t believe how quickly we had stopped communicating. It seems to me I hadn’t seen him for two months. But interestingly, despite that, I headed straight to his house, without calling him to warn him. Realistically, I had no idea, he could have found a job requiring him to wake up early, or gone somewhere, but something told me he was still constant in his inconstancy.
+
+As always, the door of the house was open. I entered the huge hall, which occupied almost the entire first floor, and greeted the guys and girls sitting there while trying to shout over the loud music pouring from five shiny “Infinity” speakers—a legacy from the previous owner.  
+I stepped forward and yelled in fright. A person was lying on the floor. He was unconscious and in his hand he clutched a branded KFC bag.  
+“What’s wrong with this guy?”  
+Instead of answering me, he and a few of his friends started laughing at my question, and gradually almost all the people in the room joined the laughter (even those who had no idea what was going on). After a while, one of them started explaining to me that at the beginning of the evening, the said person had bet with someone else that he could without a problem...
+
+**NOTE:**  
+“Don’t ask stupid questions, unless you want to hear stupid answers.”
+
+I looked at the people once more and after not finding anyone I knew, headed toward the back of the room. The Curious One was in the corner, sitting in a huge leather armchair, which he built himself, shortly after moving here. He was dressed in a t-shirt and shorts, and his head was covered with a cap with a visor, which darkened his whole face, and hid from his gaze everything else, except for a thick book, placed on his lap, which he was unfolding so fervently that its pages were tearing at the corners. I stood next to him and said “Hello.” He turned toward me for a second, just to establish my identity, and then buried his nose in the volume again, while simultaneously talking to me:  
+“How are you, little Engineer. What’s up?”  
+“Nothing special.”
+
+**NOTE:**  
+“This question seems to have become redundant.”
+
+“These are really bad...”  
+“Who?”  
+“These, who wrote this book, who knows who they are!”  
+I bent down, simultaneously to look him in the eyes and to read the title of the book, which was something like “Quantum Physics for Beginners.” Seeing I was looking at him, the Curious One made a grimace and pulled the visor even lower.  
+“Nothing special. Just some university professors decided to explain their discoveries to the common people.”  
+“Well, they’re trying to gain an audience...”  
+“Fuck them! I didn’t pay 20 leva to have the Big Bang compared to a recipe for fried eggs.”  
+“On the other hand” – He seemed to be prompting me to contradict him. – “Well, it’s good for knowledge to be more accessible.”  
+“But it’s impossible!” – He closed the textbook and threw it toward the trash can, but instead hit a girl sitting at the other end of the room.
+
+**NOTE:**  
+“Arguments with Anton seem meaningless by definition.”
+
+“Ow, what the... Hey Anton, what’s this book?”  
+“About the creation of the world.” – He replied. – “I’m giving it to you.”  
+Then he grabbed a glass of vodka, poured its contents down his throat, and started examining the surroundings, as if he were here for the first time.  
+“Anything interesting with you?”  
+“Yes.” – I said, after recovering.  
+“What?”  
+“Actually, it’s one of the most interesting things that ever happened to me.”  
+“And aren’t you going to tell me what?”  
+“I’ll tell you, bro. That’s why I came.”
+
+With this remark, I managed to engage his attention. His gaze stopped roaming the room and focused on me, while I mentally went through the whole experience, trying to systematize the information. While I was telling, he listened attentively and interrupted me only to make me repeat certain passages—something I’d never seen him do before.
+
+Actually, he didn’t say anything even after I finished the story. At first, I thought he was reconsidering his answer (another thing he never did) and by the time I realized, five minutes had passed, during which the music was playing, the people around us were having fun, and the two of us sat like two reproductions of the statue of “The Thinker” and exchanged meaningful glances.  
+“Well?”  
+“Do you have any idea what would have happened next?”  
+“Pardon?”  
+“Well, you stopped at the most interesting point. After the contradictions disappeared and the light became darkness. What was going to happen? Do you know?”  
+“I have absolutely no idea.” – I said. – “Have you heard of anything like that?”  
+“I read somewhere.”  
+“Where?”  
+“No, you won’t take it seriously.”  
+“I don’t have much choice. Is it in one of those books about contact with aliens?”  
+“Worse.”  
+And despite that, he got up from his chair and headed toward the library. The books there weren’t arranged by any principle, but despite that, he immediately found the one he wanted to show me.  
+He brought it and slammed it on the table. Then sat back in his armchair and turned to me:  
+“First of all.” – He said. – “You should be aware that most likely what you saw is a product of your imagination.”  
+“You think I made it up?”  
+“Listen to yourself?” – He said. – “An Engineer to imagine a world where the laws of logic don’t apply? The option of contact with aliens is more likely.”  
+“Don’t joke!”  
+He took another sip of vodka and moved closer to me:  
+“I’m not joking at all.”
+
+Then he started explaining what he meant:  
+“Now what do you see in my hand?”  
+“A glass of vodka.”  
+“How did you know it’s vodka?”  
+“Because that’s what you drink.”  
+“You’re right. - He said. But I asked what you see, right?”  
+“Okay, I see a glass with transparent liquid.” – I said. – “If I didn’t know you, I’d think it was water. Especially considering the amount...”  
+“Absolutely right...” – He interrupted me. – “To assimilate what we see, we liken it to what is most familiar to us. And those are probably the two things we humans know best—water and...”  
+“And what?”  
+“Think a bit. You’ll remember yourself...”  
+Then someone from the table interrupted with a scream:  
+“Anton. Is this Bible yours?”
+
+**NOTE:**  
+“Never think you know someone.”
+
+By that time, I was open to accepting new things, but since I was little, I had felt distrust toward religion, bordering on disgust, and the spiritual scriptures seemed to me composed by someone who had taken large amounts of drugs beforehand. But what annoyed me most was the fact that there are people who consider all that to be true. People who believe that someone created them, and someone guides their LIFE. How could Anton be one of those people? It was probably best to ask him:  
+“Bible?” – I said. – “Is that your explanation? I thought you’d pull out some scientific literature, or at least pseudoscientific. Everything is probably better than that.”  
+“What do you mean?”  
+“Nothing, just to believe....”  
+“Little Engineer, listen. You’re a very good friend of mine. That’s why I want to admit to you that sometimes you’re very stupid.”  
+“What?”  
+“No, I expressed myself wrong. You’re not stupid, but you miss things that are very important...”  
+“For example?”  
+But the Curious One didn’t answer me, because he was too busy arguing with the guy who asked him about the Bible—he had spilled a bottle of red wine on it:  
+“You idiot, this book costs over a hundred leva.” – Anton was shouting. – “Not to mention the wine is another twenty...”  
+“I don’t know how it happened...”  
+“Well, in the state you’re in, probably someone could pass behind you without you realizing how it happened!”  
+“Sorry, Anton... I don’t know what to say...”  
+“Don’t talk, go to the bathroom, get the rag...”  
+“Okay. But where is it?”  
+“So, there’s a cabinet, which is to your right when you enter. Next to it...”  
+I stopped listening to this conversation, trying to come to terms with the fact that on this day, things often interrupted exactly at the moment that was most interesting to me.
+
+“Okay.” – I said to the Curious One, after the wine crisis was controlled. – “So you believe in god, is that it?”
+
+**NOTE:**  
+“Atheists are allowed to write ‘god’ with a lowercase letter.”
+
+“You could say so...”  
+“And you reject the Theory of Evolution?”  
+“Those are two different things, little Engineer.”  
+“Because?”  
+The Curious One shot out the answer, as if he had repeated it in thousands of arguments with thousands of people:  
+“Because the theory of evolution doesn’t answer the question of how life originated. OK, humans descended from monkeys, monkeys descended from some other animals there. But how did the first living organism arise?”  
+“Well...”  
+“So there’s at least one organism whose existence isn’t a result of evolution.”  
+“So what?”  
+“Since there’s definitely one, is it so impossible for there to be several?”  
+“I need to think about that.”  
+I took the bottle of vodka, unscrewed the cap, and took a big gulp.  
+“Okay.” – I continued. – “Let’s assume we humans are created by a higher form of life. But then who created that form?”  
+“Some even higher one?”  
+“And who created it?”  
+“Considering you’re a mathematician, you probably feel quite uncomfortable with the concept of infinity.” – the Curious One burst out laughing.  
+With this remark, he broke the ice that had formed in our relationship over the last two months and the conversation between us took off. We started discussing the role of religion through the ages. We even laughed a bit at how disoriented and small people are. Little by little, the memory of the Phenomenon began to fade from my head, and even started to seem more pleasant than confusing.
+
+I realized I was having one of those conversations that have no real practical benefit, and which only distract me far from my work and the other things I had to think about during the day, but despite that, I was genuinely having fun. In the middle of some sentence, Anton shared with me that he had started writing poetry. When he saw my look of disbelief, he suggested reading me one of his poems. From the first sentence, I understood why I had looked at him with disbelief—he had taken a very famous poem, which we studied in school, and cleverly altered it so that it sounded like a praise of marijuana and laziness.  
+“Okay, let’s end today’s meeting with this.” – I said while wiping my tears, streaming from laughter. – “I’m going to steal a few hours of sleep before work.” – Because (as much as I didn’t want to) the fact that I witnessed one of the most mysterious phenomena in my life and the existence of god in no way changed the fact that the next day I was at work.
+
+While driving, I suddenly remembered what Anton meant when he said that everything was a product of my imagination: “To assimilate what we see, - He had said. - We liken it to what is most familiar to us. And those are probably the two things we humans know best. - water and…”  
+…and light.
 
 I don't know why I was born into this world.  
 I didn't ask why I will die.  
@@ -340,415 +296,415 @@ Created by someone, to whom...
 Infinite Loop  
 ---
 
-The company I worked for was created and headed by a man named Todor Strugaцki. Formally, we also had a board of directors, through which every managerial decision was supposed to pass, but as some remarks accidentally overheard in the corridors suggested, they neither had an opinion on the way they wanted the company to develop, nor did anyone ask them. There was no reason to. Strugaцki had the authority and the desire to manage - after all, he had been doing it for more than twenty years already - from the moment he was 25 and founded the company until then, when he was 45.  
+The company I worked for was created and headed by a man named Todor Strugaцki. Formally, we also had a board of directors, through which every managerial decision was supposed to pass, but as some remarks accidentally overheard in the corridors suggested, they neither had an opinion on the way they wanted the company to develop, nor did anyone ask them. There was no reason to. Strugaцki had the authority and the desire to manage—after all, he had been doing it for more than twenty years already—from the moment he was 25 and founded the company until then, when he was 45.
 
-Nothing was known about this man, but in exchange, rumors were abundant. It was said he wasn't married, and didn't intend to marry at all. It was said he could write a program of a thousand lines, without testing it at all, and it would run the first time. There was even a rumor about him that he had syphilis, and that the disease stimulated his programming skills, but at the same time caused him to suffer almost all the time. I didn't think any of that was true - the information vacuum just acted favorably on the rumors that arose there like bacteria.  
+Nothing was known about this man, but in exchange, rumors were abundant. It was said he wasn't married, and didn't intend to marry at all. It was said he could write a program of a thousand lines, without testing it at all, and it would run the first time. There was even a rumor about him that he had syphilis, and that the disease stimulated his programming skills, but at the same time caused him to suffer almost all the time. I didn't think any of that was true—the information vacuum just acted favorably on the rumors that arose there like bacteria.
 
-Regarding communication, Strugaцki treated his employees in the same way he treated computers - he left them to work alone, and remembered them only when a problem appeared. So when I saw him calling our team leader into his office, I immediately understood that there was no way the reason was good. The team leader's tone confirmed my suspicions:  
-- ...but that's logically impossible. - He was trying to sound categorical, but slight notes of fear were creeping into his voice. - I can't write software that's almost more intelligent than I am.  
-- Logically impossible? – Strugaцki's voice sounded like some badly tuned saxophone. - And who do you think created the algorithm by which your brain works... whose quality I do not consider commenting on.  
-- I beg your pardon?  
+Regarding communication, Strugaцki treated his employees in the same way he treated computers—he left them to work alone, and remembered them only when a problem appeared. So when I saw him calling our team leader into his office, I immediately understood that there was no way the reason was good. The team leader's tone confirmed my suspicions:
+"...but that's logically impossible." He was trying to sound categorical, but slight notes of fear were creeping into his voice. "I can't write software that's almost more intelligent than I am."
+"Logically impossible?" Strugaцki's voice sounded like some badly tuned saxophone. "And who do you think created the algorithm by which your brain works... whose quality I do not consider commenting on."
+"I beg your pardon?"
 
-Strugaцki raised his tone, as if he had realized I was listening too:  
-- Everyone here (he meant the programmers) knows that humans as a species perfect themselves. We descended from lower animal species, over which we prevailed. And no one helped us with that. We did it ourselves. And if we could build ourselves, such as we are, then we can develop a program that is as intelligent as we are. And so it will be.  
-- And the client for whom we are developing it...  
-- There is no client. I need it for my own purposes.  
-- Then perhaps you know best how to achieve them...  
-- You are right. – Strugaцki said. Then he announced that he was taking over the project personally and that he would send work instructions personally to each member of the department.  
+Strugaцki raised his tone, as if he had realized I was listening too:
+"Everyone here (he meant the programmers) knows that humans as a species perfect themselves. We descended from lower animal species, over which we prevailed. And no one helped us with that. We did it ourselves. And if we could build ourselves, such as we are, then we can develop a program that is as intelligent as we are. And so it will be."
+"And the client for whom we are developing it..."
+"There is no client. I need it for my own purposes."
+"Then perhaps you know best how to achieve them..."
+"You are right." Strugaцki said. Then he announced that he was taking over the project personally and that he would send work instructions personally to each member of the department.
 
-In the course of the work, I learned that he had planned the project, which he cared so much about, carefully. Our department was divided into two parts - left and right, with each taking on the development of a different hemisphere. There were also several people whose task was to establish the connection between the hemispheres. I, as always, was in some floating position - something like a boy Friday, going around the others, helping where necessary and possibly pointing out some errors.  
+In the course of the work, I learned that he had planned the project, which he cared so much about, carefully. Our department was divided into two parts—left and right, with each taking on the development of a different hemisphere. There were also several people whose task was to establish the connection between the hemispheres. I, as always, was in some floating position—something like a boy Friday, going around the others, helping where necessary and possibly pointing out some errors.
 
-After a brief acquaintance with the subject matter, Strugaцki began assigning us his tasks. We executed them well enough, but none of us had enough knowledge to look beyond the facade and delve into what we were doing.  
+After a brief acquaintance with the subject matter, Strugaцki began assigning us his tasks. We executed them well enough, but none of us had enough knowledge to look beyond the facade and delve into what we were doing.
 
-From the beginning of the project, Strugaцki changed. He started coming often to our room, spoke about what we were doing with a passion that made him smile (a rare occurrence). At first, his conversation topics were strictly professional, but after a few days, he began to relax. And on the third day, he even exchanged a few words with me.  
-- Do you like how it's going? - He asked.  
-- Well... - I felt I could tell him many things, but the fact that I was one of the most redundant employees (who received a salary that far exceeded his skills) stopped me.  
-- Well, yes - I said. - It's going very well. If you had left us alone, we wouldn't have gotten anywhere.  
-- Unfortunately not. - He said.  
+From the beginning of the project, Strugaцki changed. He started coming often to our room, spoke about what we were doing with a passion that made him smile (a rare occurrence). At first, his conversation topics were strictly professional, but after a few days, he began to relax. And on the third day, he even exchanged a few words with me.
+"Do you like how it's going?" He asked.
+"Well..." I felt I could tell him many things, but the fact that I was one of the most redundant employees (who received a salary that far exceeded his skills) stopped me.
+"Well, yes," I said. "It's going very well. If you had left us alone, we wouldn't have gotten anywhere."
+"Unfortunately not." He said.
 
-Then I understood why he hadn't taken over the project from the very beginning - because he needed help.  
+Then I understood why he hadn't taken over the project from the very beginning—because he needed help.
 
-The object "MA" (Main Algorithm) appeared constantly in the instructions. Its frequent mention created an impression of something familiar, and I often perceived it as a formality - a short and neat procedure that processed data and spat it out in a slightly different format. The human brain is used to ignoring what it doesn't understand and that's what my colleagues were doing. They continued forward, only asking each other about this and that, with questions traditionally outnumbering answers. This continued until the moment I decided to bring all the project documentation into normal form and found that there were many references of the kind: "procedure X draws data from MA." but not one was "MA is..."  
+The object "MA" (Main Algorithm) appeared constantly in the instructions. Its frequent mention created an impression of something familiar, and I often perceived it as a formality—a short and neat procedure that processed data and spat it out in a slightly different format. The human brain is used to ignoring what it doesn't understand and that's what my colleagues were doing. They continued forward, only asking each other about this and that, with questions traditionally outnumbering answers. This continued until the moment I decided to bring all the project documentation into normal form and found that there were many references of the kind: "procedure X draws data from MA." but not one was "MA is..."
 
-As the project progressed, the lack of any information about MA began to hinder the work. Obviously, this was some kind of universal algorithm through which every procedure of the software passed. Something like the essence of the entire thinking program. An essence that obviously didn't exist yet.  
+As the project progressed, the lack of any information about MA began to hinder the work. Obviously, this was some kind of universal algorithm through which every procedure of the software passed. Something like the essence of the entire thinking program. An essence that obviously didn't exist yet.
 
-We tried to do as much work as possible, circumventing MA, but its absence was frustrating and demotivating. The initial enthusiasm had melted away. We were starting to work more and more listlessly, and more and more often gathered around the coffee machine, and everyone looked at the others questioningly, as if hoping that one of them knew how to proceed.  
+We tried to do as much work as possible, circumventing MA, but its absence was frustrating and demotivating. The initial enthusiasm had melted away. We were starting to work more and more listlessly, and more and more often gathered around the coffee machine, and everyone looked at the others questioningly, as if hoping that one of them knew how to proceed.
 
-Finally, as if the people had given up. Only Strugaцki continued to sit at the computer in his office, and press the keys on the keyboard, drenched in sweat.  
+Finally, as if the people had given up. Only Strugaцki continued to sit at the computer in his office, and press the keys on the keyboard, drenched in sweat.
 
-NOTE: Big ambitions create big problems.  
+**NOTE:** "Big ambitions create big problems."
 
-It was already an hour past the end of the workday when Strugaцki came to our room. He was in a visibly bad mood, and announced that from now on our work would consist of creating MA. And when we asked him for guidance, he answered with a remark I had never heard him say before – "I have no idea."  
+It was already an hour past the end of the workday when Strugaцki came to our room. He was in a visibly bad mood, and announced that from now on our work would consist of creating MA. And when we asked him for guidance, he answered with a remark I had never heard him say before—"I have no idea."
 
-On the way out of the office, I saw I had a missed call from the Curious One (apparently he had called somewhere at the beginning of the day, when I was too absorbed in work to hear my phone). I wasn't in the mood to talk to anyone, but I called him back anyway:  
-- Hello, did you call me?  
-- Is that you? Come over!  
-- But I'm a little... right now...  
-- Come immediately. – He interrupted me. – You won't regret it.  
-- Okay, I'll be at your place in half an hour.  
+On the way out of the office, I saw I had a missed call from the Curious One (apparently he had called somewhere at the beginning of the day, when I was too absorbed in work to hear my phone). I wasn't in the mood to talk to anyone, but I called him back anyway:
+"Hello, did you call me?"
+"Is that you? Come over!"
+"But I'm a little... right now..."
+"Come immediately." He interrupted me. "You won't regret it."
+"Okay, I'll be at your place in half an hour."
 
-While driving to his house, I almost crashed several times because I couldn't take my eyes off the place where a few days ago I had seen the Phenomenon.  
+While driving to his house, I almost crashed several times because I couldn't take my eyes off the place where a few days ago I had seen the Phenomenon.
 
-As usual, the front door was unlocked. I passed through it while unbuttoning the top button of my shirt, and shouted some standard greeting:  
-- Hello, people...  
+As usual, the front door was unlocked. I passed through it while unbuttoning the top button of my shirt, and shouted some standard greeting:
+"Hello, people..."
 
-No one answered. The large room, where the Curious One and his countless tenants usually sat, was completely empty.  
+No one answered. The large room, where the Curious One and his countless tenants usually sat, was completely empty.
 
-- Is anyone here? – My voice echoed in the high ceiling of the house.  
-- Is anyone here?!  
+"Is anyone here?" My voice echoed in the high ceiling of the house.
+"Is anyone here?!"
 
-- I'm here. Stop shouting.  
+"I'm here. Stop shouting."
 
-That was Anton. I ran to the corner of the room and saw him. He was lying on the floor and rolling around in crumpled books, McDonald's hamburger bags, and empty caffeine pill packages. His hair was disheveled. His eyes were so red they looked like blood would flow from them. And on his mouth, in contrast to his pitiful appearance, was a smile.  
+That was Anton. I ran to the corner of the room and saw him. He was lying on the floor and rolling around in crumpled books, McDonald's hamburger bags, and empty caffeine pill packages. His hair was disheveled. His eyes were so red they looked like blood would flow from them. And on his mouth, in contrast to his pitiful appearance, was a smile.
 
-NOTE: There are things you just don't get used to...  
+**NOTE:** "There are things you just don't get used to..."
 
-- Where is everyone? – I asked.  
-- Who's everyone? - He shifted from lying to sitting.  
-- Your tenants. The ones who are here every night.  
-- Aah, I kicked them out. – He smiled again. – They're probably somewhere on the upper floors.  
-- And why do you look like that?  
+"Where is everyone?" I asked.
+"Who's everyone?" He shifted from lying to sitting.
+"Your tenants. The ones who are here every night."
+"Aah, I kicked them out." He smiled again. "They're probably somewhere on the upper floors."
+"And why do you look like that?"
 
-He thought for a second.  
-- Well, it's probably because I haven't slept since the last time we met.  
+He thought for a second.
+"Well, it's probably because I haven't slept since the last time we met."
 
-After about a minute, he came to his senses:  
-- What time is it? - He asked energetically.  
-- Eight ten.  
-- Morning or evening? - He asked.  
+After about a minute, he came to his senses:
+"What time is it?" He asked energetically.
+"Eight ten."
+"Morning or evening?" He asked.
 
-And when he found out it was evening, he started explaining to me that we were late for something and we had to leave.  
+And when he found out it was evening, he started explaining to me that we were late for something and we had to leave.
 
-- But where are we going? – I asked in turn.  
-- I'll explain on the way.  
+"But where are we going?" I asked in turn.
+"I'll explain on the way."
 
-Then he made me make some variation of coffee according to his recipe: "You make normal coffee, then pour it back into the coffee maker (where the water compartment is), and make it again." I followed his instructions. He drank a cup of the black liquid and then put his jacket on right over his pajamas.  
+Then he made me make some variation of coffee according to his recipe: "You make normal coffee, then pour it back into the coffee maker (where the water compartment is), and make it again." I followed his instructions. He drank a cup of the black liquid and then put his jacket on right over his pajamas.
 
-- Come on. - He said. That was his only line until we got in the car:  
-- I managed to trace the beam. - He continued. - A friend of mine who's into astronomy printed me a star map of last night's sky and I saw it there.  
-- And where was it coming from?  
-- Outside the scope of the map. But there's something else - yesterday the planets and stars were in such a position that in our location there was an open corridor, through which the earth was exposed to entire two galaxies, without any barrier. That corridor was open yesterday from six to eight.  
-- No way! - I said.  
+"Come on." He said. That was his only line until we got in the car:
+"I managed to trace the beam." He continued. "A friend of mine who's into astronomy printed me a star map of last night's sky and I saw it there."
+"And where was it coming from?"
+"Outside the scope of the map. But there's something else—yesterday the planets and stars were in such a position that in our location there was an open corridor, through which the earth was exposed to entire two galaxies, without any barrier. That corridor was open yesterday from six to eight."
+"No way!" I said.
 
-Anton turned on the headlights and started the car.  
-- Bravo, you got it right away. My guy had to explain to me a hundred times before I understood that on a macro level, the speed of light isn't that high, and that it can't cover the distance from one galaxy to another in two hours. It would take years.  
-- Well, yeah, that's why it's called "light years"...  
-- But still - Anton continued. - Since it happened, apparently there is a way! The corridor was open for only two hours and this beam passed through it. That is, the beam obviously consists of particles that the human eye perceives as light, but which can travel from place to place much faster than it.  
+Anton turned on the headlights and started the car.
+"Bravo, you got it right away. My guy had to explain to me a hundred times before I understood that on a macro level, the speed of light isn't that high, and that it can't cover the distance from one galaxy to another in two hours. It would take years."
+"Well, yeah, that's why it's called 'light years'..."
+"But still," Anton continued. "Since it happened, apparently there is a way! The corridor was open for only two hours and this beam passed through it. That is, the beam obviously consists of particles that the human eye perceives as light, but which can travel from place to place much faster than it."
 
-The car was picking up speed and we continued forward.  
-- Okay. - I said. - If we assume that's the case, then what follows?  
-- We're still at the "Information Gathering" stage. After all, keep in mind that many of the things you saw were a reflection of things inherent in you. If we want to understand at least part of what's happening, we need to know how other people saw it... – Here he made a pause, as if waiting for applause.  
-- And?  
-- Well, didn't you say that from the big beam, two smaller ones separated? Well, I know where the other one went.  
+The car was picking up speed and we continued forward.
+"Okay." I said. "If we assume that's the case, then what follows?"
+"We're still at the 'Information Gathering' stage. After all, keep in mind that many of the things you saw were a reflection of things inherent in you. If we want to understand at least part of what's happening, we need to know how other people saw it..." Here he made a pause, as if waiting for applause.
+"And?"
+"Well, didn't you say that from the big beam, two smaller ones separated? Well, I know where the other one went."
 
-At that moment, I realized that Anton wasn't as lazy as most people thought. His strength was like the electrical energy stored in lightning, which could solve all the world's energy problems, but is so powerful and untamed that no one has the resources to harness it. When an idea possessed him, Anton became like the god Shiva, the one with four arms. He handled the hammer and nails as well as the computer. He built entire mountains in seconds, as if every detail was planned in his head, regardless of the knowledge and skills required to make it. And when he didn't have that knowledge, he flipped through the pages of books like money-counting machines flip through banknotes, and processed huge amounts of information in seconds.  
+At that moment, I realized that Anton wasn't as lazy as most people thought. His strength was like the electrical energy stored in lightning, which could solve all the world's energy problems, but is so powerful and untamed that no one has the resources to harness it. When an idea possessed him, Anton became like the god Shiva, the one with four arms. He handled the hammer and nails as well as the computer. He built entire mountains in seconds, as if every detail was planned in his head, regardless of the knowledge and skills required to make it. And when he didn't have that knowledge, he flipped through the pages of books like money-counting machines flip through banknotes, and processed huge amounts of information in seconds.
 
-The myth of his laziness was probably a consequence of the wrong idea about him that his mother, his relatives, and so on had. Here's how they reasoned: "A person with Anton's abilities could with minimal effort complete higher education, start a serious job, and in general do all those things that are expected of him. But he doesn't do it despite that, therefore he must be very lazy." And here's what they missed: a person with great abilities (and hence with great self-confidence) also needed great stimuli. And as a result, Anton couldn't do something just because it was expected of him. On some days, he didn't even have the strength to get out of bed if he didn't find a good enough reason to do so. And for him, those reasons were few and in most cases fleeting.  
+The myth of his laziness was probably a consequence of the wrong idea about him that his mother, his relatives, and so on had. Here's how they reasoned: "A person with Anton's abilities could with minimal effort complete higher education, start a serious job, and in general do all those things that are expected of him. But he doesn't do it despite that, therefore he must be very lazy." And here's what they missed: a person with great abilities (and hence with great self-confidence) also needed great stimuli. And as a result, Anton couldn't do something just because it was expected of him. On some days, he didn't even have the strength to get out of bed if he didn't find a good enough reason to do so. And for him, those reasons were few and in most cases fleeting.
 
-That's why my friend led this self-destructive lifestyle I've been describing so far. A lifestyle corresponding to the side of his character that most people knew. The loud, angry side, the drinking, and staying up late side, which filled its time with aimless loafing. Anton himself didn't like it and tried to overcome it, for which purpose he went through all sorts of sciences, arts, and philosophies, in search of things that would engage his restless mind. And for some reason, such a thing in this case was the Phenomenon:  
-- I combed through half the Internet while looking for witness accounts of the other beam. - He spoke with an inflamed tone, as if deliberately wanting to hide how excited he had been during the events he was telling about. - When I didn't find anything, I started interrogating all acquaintances and strangers in the city. I spent over eight hours non-stop communicating with people, half of whom decided I was completely crazy... Anyway... In the end, an old girlfriend wrote to me. She claims that some neighbor of hers had experienced something similar to what you did. Now we'll check if that's really true.  
-- Okay, and where exactly does she live?  
+That's why my friend led this self-destructive lifestyle I've been describing so far. A lifestyle corresponding to the side of his character that most people knew. The loud, angry side, the drinking, and staying up late side, which filled its time with aimless loafing. Anton himself didn't like it and tried to overcome it, for which purpose he went through all sorts of sciences, arts, and philosophies, in search of things that would engage his restless mind. And for some reason, such a thing in this case was the Phenomenon:
+"I combed through half the Internet while looking for witness accounts of the other beam." He spoke with an inflamed tone, as if deliberately wanting to hide how excited he had been during the events he was telling about. "When I didn't find anything, I started interrogating all acquaintances and strangers in the city. I spent over eight hours non-stop communicating with people, half of whom decided I was completely crazy... Anyway... In the end, an old girlfriend wrote to me. She claims that some neighbor of hers had experienced something similar to what you did. Now we'll check if that's really true."
+"Okay, and where exactly does she live?"
 
-NOTE: Pay more attention to details.  
+**NOTE:** "Pay more attention to details."
 
-For half an hour we wandered around this neighborhood, where I had never set foot before. Then we got out of the car and started walking around the neighborhood, playing "Spot the Ten Differences" with the absolutely identical apartment blocks, which created a feeling of lack of movement - wherever we turned we saw the same thing, as if we were sailors traveling the open ocean.  
+For half an hour we wandered around this neighborhood, where I had never set foot before. Then we got out of the car and started walking around the neighborhood, playing "Spot the Ten Differences" with the absolutely identical apartment blocks, which created a feeling of lack of movement—wherever we turned we saw the same thing, as if we were sailors traveling the open ocean.
 
-At one point, Anton stopped and fixed his gaze on an inscription scratched next to one of the entrances.  
-- This is it. - He said.  
+At one point, Anton stopped and fixed his gaze on an inscription scratched next to one of the entrances.
+"This is it." He said.
 
-The inscription read:  
+The inscription read:
 
-**A + T**  
+**A + T**
 
-Where "T" was the girl we were supposed to meet (Tina, or Tony, I don't remember now), and "A" naturally was Anton. I laughed and nudged him on the shoulder, but he wasn't amused. Before entering, he hinted to me that he didn't want to spend much time with this girl.  
-- Why do you never like your old girlfriends? – I asked.  
-- Because I don't like myself. – He replied, while pressing the doorbell.  
+Where "T" was the girl we were supposed to meet (Tina, or Tony, I don't remember now), and "A" naturally was Anton. I laughed and nudged him on the shoulder, but he wasn't amused. Before entering, he hinted to me that he didn't want to spend much time with this girl.
+"Why do you never like your old girlfriends?" I asked.
+"Because I don't like myself." He replied, while pressing the doorbell.
 
-Anton's ex-girlfriend definitely didn't share his antipathy. She threw herself on him and hugged him so tightly that he couldn't break free from her:  
-- Long time no see, sweetie!  
+Anton's ex-girlfriend definitely didn't share his antipathy. She threw herself on him and hugged him so tightly that he couldn't break free from her:
+"Long time no see, sweetie!"
 
-She: dark skin, light hair, and charming face. Her figure had perfect proportions, and the only thing that distinguished her from the models who posed for magazines was her height - she was a bit larger than normal. Dressed in a silk nightgown and flip-flops. Apparently, she had just gotten out of bed, but despite that, she hadn't wiped off the thick line of black pencil from her eyes, which (at least I think), she had put on only because she knew she was about to meet Anton.  
+She: dark skin, light hair, and charming face. Her figure had perfect proportions, and the only thing that distinguished her from the models who posed for magazines was her height—she was a bit larger than normal. Dressed in a silk nightgown and flip-flops. Apparently, she had just gotten out of bed, but despite that, she hadn't wiped off the thick line of black pencil from her eyes, which (at least I think), she had put on only because she knew she was about to meet Anton.
 
-**Ant**I had to rescue him from her by playing the role of the bad cop, which he had assigned me.  
-- You'll see each other later. - I said. - We're here on a completely different matter.  
-- Sorry. - The girl said.  
-- Who is the man?  
-- Bonchev. Upstairs, one door over.  
+I had to rescue him from her by playing the role of the bad cop, which he had assigned me.
+"You'll see each other later." I said. "We're here on a completely different matter."
+"Sorry." The girl said.
+"Who is the man?"
+"Bonchev. Upstairs, one door over."
 
-I urged her to tell us in more detail and she did:  
-- So, I bumped into him yesterday, more or less at this time. He was terribly nervous and with very poor eyesight. So, he normally sees very well, nothing even though he's elderly, and yesterday I had to show him the way so he could navigate the stairs. And I, like, very worried: "What happened to you? Will you be okay?" and he: "Eyes cannot look at light for too long." From there on, he started telling some super strange story, about some light coming from space... How he had gone to see it up close, it had directed itself towards him. And then it started illuminating the interior of all machines. He could see how the current passed through those...  
-- Integrated circuits.  
-- ...and for a moment he saw the whole world, which also functioned like a machine. The supply of raw materials, their use for production, and blah-blah... Ugh... - She looked embarrassed. - He didn't finish telling me what happened to him. Said he had important work and had to get back quickly. Oh, and one more thing - in his hand he was holding an empty shopping bag. I don't know where he had been. And I didn't understand most of the things he said... The Curious One knows I'm not famous for particular intellect.  
-- One important question. - The Curious One spoke for the first time.  
-- What's the chance that he made these things up? That they were hallucinations, if you will?  
-- Pardon? - I was surprised.  
-- Sorry, little Engineer. I just want to be sure...  
-- None. – The girl said. – He is a very straightforward person. Has a professorial title, in his time he was chairman of a scientific council. And his memory... His brain is like a real computer... For example in the supermarket across... I mean, because sometimes we bump into each other there. And he even if he's buying, for example, twenty different things, just by looking at them he knows exactly...  
+I urged her to tell us in more detail and she did:
+"So, I bumped into him yesterday, more or less at this time. He was terribly nervous and with very poor eyesight. So, he normally sees very well, nothing even though he's elderly, and yesterday I had to show him the way so he could navigate the stairs. And I, like, very worried: 'What happened to you? Will you be okay?' and he: 'Eyes cannot look at light for too long.' From there on, he started telling some super strange story, about some light coming from space... How he had gone to see it up close, it had directed itself towards him. And then it started illuminating the interior of all machines. He could see how the current passed through those..."
+"Integrated circuits."
+"...and for a moment he saw the whole world, which also functioned like a machine. The supply of raw materials, their use for production, and blah-blah... Ugh..." She looked embarrassed. "He didn't finish telling me what happened to him. Said he had important work and had to get back quickly. Oh, and one more thing—in his hand he was holding an empty shopping bag. I don't know where he had been. And I didn't understand most of the things he said... The Curious One knows I'm not famous for particular intellect."
+"One important question." The Curious One spoke for the first time.
+"What's the chance that he made these things up? That they were hallucinations, if you will?"
+"Pardon?" I was surprised.
+"Sorry, little Engineer. I just want to be sure..."
+"None." The girl said. "He is a very straightforward person. Has a professorial title, in his time he was chairman of a scientific council. And his memory... His brain is like a real computer... For example in the supermarket across... I mean, because sometimes we bump into each other there. And he even if he's buying, for example, twenty different things, just by looking at them he knows exactly..."
 
-The girl started to chatter and Anton signaled me to interrupt her:  
-- Okay, you'll tell us later! – I said. - We need to see your neighbor before he goes to bed.  
+The girl started to chatter and Anton signaled me to interrupt her:
+"Okay, you'll tell us later!" I said. "We need to see your neighbor before he goes to bed."
 
-She quickly said goodbye to us and closed the door.  
+She quickly said goodbye to us and closed the door.
 
-As we headed upstairs, I began to remember that severe headache from the time of my encounter with the beam. I had experienced it only once in my life and hoped it would remain that way. Just hoped. It reappeared and increased with every step we climbed, bringing us closer to the other witness of the Phenomenon.  
+As we headed upstairs, I began to remember that severe headache from the time of my encounter with the beam. I had experienced it only once in my life and hoped it would remain that way. Just hoped. It reappeared and increased with every step we climbed, bringing us closer to the other witness of the Phenomenon.
 
-- What's wrong, little Engineer?  
-- We're on the right track. – I said, while massaging my temples. I was so bad that the Curious One almost dragged me to the door. He pressed the doorbell. No one opened.  
-- Maybe he's not home? - I said.  
-- Nonsense! Where else could an elderly person be at ten in the evening? – The Curious One grabbed the door handle and shook it, causing the lock's bolt to start rattling. - Nowhere!  
-- So he doesn't want to be disturbed...  
-- But he also hasn't secured himself very much.  
+"What's wrong, little Engineer?"
+"We're on the right track." I said, while massaging my temples. I was so bad that the Curious One almost dragged me to the door. He pressed the doorbell. No one opened.
+"Maybe he's not home?" I said.
+"Nonsense! Where else could an elderly person be at ten in the evening?" The Curious One grabbed the door handle and shook it, causing the lock's bolt to start rattling. "Nowhere!"
+"So he doesn't want to be disturbed..."
+"But he also hasn't secured himself very much."
 
-He stepped back a few paces from the door, then took a run and slammed into it with his body. The twenty-year-old lock instantly broke off, making us punishable on charges of breaking and entering.  
-- What the hell are you doing? – I yelled at Anton as he entered.  
+He stepped back a few paces from the door, then took a run and slammed into it with his body. The twenty-year-old lock instantly broke off, making us punishable on charges of breaking and entering.
+"What the hell are you doing?" I yelled at Anton as he entered.
 
-Then I followed him.  
+Then I followed him.
 
-NOTE: Consider your actions before, not after you do them.  
+**NOTE:** "Consider your actions before, not after you do them."
 
-The interior of the place gave a satisfactory answer to the question of why Bonchev hadn't installed a bigger lock – there was nothing valuable in the room. Actually, almost nothing at all. The floor was covered only with a dusty blanket, which substituted for a carpet. The role of furniture was played by several hastily constructed wooden structures, which were so rough it was hard to distinguish the chair from the table. And most of the things were stored in nylon bags nailed to the walls. The only thing that hinted at what kind of person lived in the apartment were the mountains of blueprints scattered throughout the entire apartment. I picked up one of them to look at it closely.  
+The interior of the place gave a satisfactory answer to the question of why Bonchev hadn't installed a bigger lock—there was nothing valuable in the room. Actually, almost nothing at all. The floor was covered only with a dusty blanket, which substituted for a carpet. The role of furniture was played by several hastily constructed wooden structures, which were so rough it was hard to distinguish the chair from the table. And most of the things were stored in nylon bags nailed to the walls. The only thing that hinted at what kind of person lived in the apartment were the mountains of blueprints scattered throughout the entire apartment. I picked up one of them to look at it closely.
 
-- Here it is! - Anton exclaimed. - Under the blueprint was the shopping bag his ex-girlfriend had mentioned.  
-- Mr. Bonchev, we just want to talk to you. – He continued to yell (apparently not realizing that in most cases this remark was perceived with the exact opposite meaning of what he wanted to express).  
+"Here it is!" Anton exclaimed. "Under the blueprint was the shopping bag his ex-girlfriend had mentioned."
+"Mr. Bonchev, we just want to talk to you." He continued to yell (apparently not realizing that in most cases this remark was perceived with the exact opposite meaning of what he wanted to express).
 
-I got curious and took the shopping bag, but it really seemed empty, and before I had a chance to make sure, I heard the voice of the Curious One, who was screaming at me from the other room:  
-- Little Engineer!  
-- Did you find him? - I asked. I hoped we'd finish this faster because I had an increasingly unpleasant feeling.  
-- Yes. But he...  
-- What's wrong with him?  
-- He won't answer our questions.  
-- Pardon?  
-- He won't answer anyone's questions...  
+I got curious and took the shopping bag, but it really seemed empty, and before I had a chance to make sure, I heard the voice of the Curious One, who was screaming at me from the other room:
+"Little Engineer!"
+"Did you find him?" I asked. I hoped we'd finish this faster because I had an increasingly unpleasant feeling.
+"Yes. But he..."
+"What's wrong with him?"
+"He won't answer our questions."
+"Pardon?"
+"He won't answer anyone's questions..."
 
-I threw the bag and ran to the bathroom where the voice was coming from. There I saw Bonchev. He was sitting in the bathtub completely naked, and the water had already turned red from the blood flowing from his slit wrists.  
-- Should we call an ambulance? – I said.  
+I threw the bag and ran to the bathroom where the voice was coming from. There I saw Bonchev. He was sitting in the bathtub completely naked, and the water had already turned red from the blood flowing from his slit wrists.
+"Should we call an ambulance?" I said.
 
-The Curious One rolled up his sleeves and placed his thumb and forefinger on the man's throat.  
-- More like a hearse. – He replied. - But for now, you're not calling anyone!  
-- And the police?  
-- And what are you going to tell them?  
-- I don't know... - The world spun around me.  
+The Curious One rolled up his sleeves and placed his thumb and forefinger on the man's throat.
+"More like a hearse." He replied. "But for now, you're not calling anyone!"
+"And the police?"
+"And what are you going to tell them?"
+"I don't know..." The world spun around me.
 
-And not just because of the sight - the headache was returning.  
-- We'll search the place thoroughly. - Anton said.  
-- No... not now... - I waved my hand. - We need to get out of here now. I think think that was the last thing I said before I slumped to the floor.  
+And not just because of the sight—the headache was returning.
+"We'll search the place thoroughly." Anton said.
+"No... not now..." I waved my hand. "We need to get out of here now. I think think that was the last thing I said before I slumped to the floor."
 
-The pain made me close my eyes and scream. For a moment everything disappeared again (which made me feel calmer). My next memory was of us leaving the apartment. I felt the hand of the Curious One, who had grabbed me around the waist and was dragging me down the stairs. Then one of the doors on the staircase opened - someone had heard us:  
-- Hey, Curious! What happened to your friend? – I recognized the voice of the girl we had talked to a little while ago.  
-- Nothing's wrong with him! We're leaving now!  
-- But where are you taking him? – She continued. - Stop for a moment! What happened upstairs? Curious!  
+The pain made me close my eyes and scream. For a moment everything disappeared again (which made me feel calmer). My next memory was of us leaving the apartment. I felt the hand of the Curious One, who had grabbed me around the waist and was dragging me down the stairs. Then one of the doors on the staircase opened—someone had heard us:
+"Hey, Curious! What happened to your friend?" I recognized the voice of the girl we had talked to a little while ago.
+"Nothing's wrong with him! We're leaving now!"
+"But where are you taking him?" She continued. "Stop for a moment! What happened upstairs? Curious!"
 
-He stopped and turned to her:  
-- Lily, don't you remember my real name?  
-- Well... - She sounded extremely worried. - Well, right now...  
-- Great! - Anton turned his back on her and continued down.  
+He stopped and turned to her:
+"Lily, don't you remember my real name?"
+"Well..." She sounded extremely worried. "Well, right now..."
+"Great!" Anton turned his back on her and continued down.
 
-At his place, he cleared the couch in the large room by pushing everything off it onto the floor, and laid me on it. In the following hours, I lost consciousness and woke up at regular intervals, at one point apparently starting to beg him to call a doctor, quite insistently.  
-- And what do you think that doctor will tell you? At most he'll prescribe you some sedatives, which, the same sedatives, I can give you too. But you don't need them. You'll recover on your own.  
+At his place, he cleared the couch in the large room by pushing everything off it onto the floor, and laid me on it. In the following hours, I lost consciousness and woke up at regular intervals, at one point apparently starting to beg him to call a doctor, quite insistently.
+"And what do you think that doctor will tell you? At most he'll prescribe you some sedatives, which, the same sedatives, I can give you too. But you don't need them. You'll recover on your own."
 
-And for some reason, he was sure I would recover on my own.  
+And for some reason, he was sure I would recover on my own.
 
-For a few hours, I wandered in a sleepless nightmare, and during that time I understood that the pain I was experiencing was directly connected to the state of my brain. Thoughts of the Phenomenon seemed to cause the neurons in my brain to swell and pour onto the pain receptors, so the pain became stronger. Therefore, I needed something to distract me from these thoughts. I turned on the room lamp. My gaze fell on the Bible, which was still on the table, stained with red wine. I dragged myself to it and even while dizzy and half asleep, opened the first page:  
+For a few hours, I wandered in a sleepless nightmare, and during that time I understood that the pain I was experiencing was directly connected to the state of my brain. Thoughts of the Phenomenon seemed to cause the neurons in my brain to swell and pour onto the pain receptors, so the pain became stronger. Therefore, I needed something to distract me from these thoughts. I turned on the room lamp. My gaze fell on the Bible, which was still on the table, stained with red wine. I dragged myself to it and even while dizzy and half asleep, opened the first page:
 
-And God said: Let there be light.  
-And there was light.  
-And God saw that the light was good;  
+And God said: Let there be light.
+And there was light.
+And God saw that the light was good;
 
-After these few lines, the pain subsided. I had the strength to stand up, after which I grabbed the book like a diabetic injecting himself with insulin.  
+After these few lines, the pain subsided. I had the strength to stand up, after which I grabbed the book like a diabetic injecting himself with insulin.
 
-and God separated the light from the darkness.  
-And God called the light Day,  
-and the darkness he called Night.  
+and God separated the light from the darkness.
+And God called the light Day,
+and the darkness he called Night.
 
-The pain disappeared completely. Amazed, I went through this passage several times searching for the reason why it affected me like this.  
+The pain disappeared completely. Amazed, I went through this passage several times searching for the reason why it affected me like this.
 
-"What nonsense!" I thought, dazed.  
-- If it's nonsense, why are you reading it?  
-- Because I need them? – I said. - I just need them.  
-- Well, you should have studied theology, little Engineer! - I turned and saw Anton behind me.  
-- What? I came to see how you were... And I find you reading the Bible...  
-- It can stop the pain. - I said.  
+"What nonsense!" I thought, dazed.
+"If it's nonsense, why are you reading it?"
+"Because I need them?" I said. "I just need them."
+"Well, you should have studied theology, little Engineer!" I turned and saw Anton behind me.
+"What? I came to see how you were... And I find you reading the Bible..."
+"It can stop the pain." I said.
 
-He laughed, as if I had told him a killer joke.  
-- I think it's quite ironic how we're built. - He said. - Every mystery makes us feel awful. But when we get some explanation for it, no matter how stupid it is, we immediately calm down."  
+He laughed, as if I had told him a killer joke.
+"I think it's quite ironic how we're built." He said. "Every mystery makes us feel awful. But when we get some explanation for it, no matter how stupid it is, we immediately calm down."
 
-The morning somehow came. Despite everything that happened, I decided to go to work, because if I had stayed home, I would have caused suspicion, which, in light of the experiences of the previous day, was not an option. And the routine calmed me. It made me forget everything.... I took the bus and got to the office, where above my colleagues still hung the unfinished project of the thinking machine, and the Main Algorithm, which they were trying to believe they were capable of inventing. They had uploaded all the finished code onto one machine and had started feeding it different versions of the file: "MA_0.1", "MA_0.2". When I entered they had reached "MA_0.91", but the machine showed no signs of life. Strugaцki was sitting at the computer in his office, but by his expression I could guess he wasn't programming, but rather had given up and was feeling sorry for himself.  
-- Colleagues. – I asked. - How far have you gotten?  
-- We have a pretty high level of abstraction. - One colleague said. - A kind of whatever you write, it will recognize it.  
-- And what are you talking about... – Another colleague chimed in. – We've gotten nowhere. We can only replicate the most superficial brain processes. The essence of intelligence is unknown...  
+The morning somehow came. Despite everything that happened, I decided to go to work, because if I had stayed home, I would have caused suspicion, which, in light of the experiences of the previous day, was not an option. And the routine calmed me. It made me forget everything.... I took the bus and got to the office, where above my colleagues still hung the unfinished project of the thinking machine, and the Main Algorithm, which they were trying to believe they were capable of inventing. They had uploaded all the finished code onto one machine and had started feeding it different versions of the file: "MA_0.1", "MA_0.2". When I entered they had reached "MA_0.91", but the machine showed no signs of life. Strugaцki was sitting at the computer in his office, but by his expression I could guess he wasn't programming, but rather had given up and was feeling sorry for himself.
+"Colleagues." I asked. "How far have you gotten?"
+"We have a pretty high level of abstraction." One colleague said. "A kind of whatever you write, it will recognize it."
+"And what are you talking about..." Another colleague chimed in. "We've gotten nowhere. We can only replicate the most superficial brain processes. The essence of intelligence is unknown..."
 
-My thoughts suddenly returned to my first encounter with the Phenomenon. Unknown. But wasn't I there... In a human brain. Its essence was in front of me. If I tried to describe it in a programming language.... Maybe I could...  
+My thoughts suddenly returned to my first encounter with the Phenomenon. Unknown. But wasn't I there... In a human brain. Its essence was in front of me. If I tried to describe it in a programming language.... Maybe I could...
 
-My fingers themselves touched the keyboard. The pain returned, but this time it was so light I felt it almost like an itch, which not only didn't bother me but even helped me concentrate. I didn't fully understand what I was writing. The meaning of the individual lines escaped me, and the standard brain processes that traditionally accompanied work had taken a back seat. With them, the fear of failure also disappeared, and I was already sure that this afternoon would end interestingly.  
+My fingers themselves touched the keyboard. The pain returned, but this time it was so light I felt it almost like an itch, which not only didn't bother me but even helped me concentrate. I didn't fully understand what I was writing. The meaning of the individual lines escaped me, and the standard brain processes that traditionally accompanied work had taken a back seat. With them, the fear of failure also disappeared, and I was already sure that this afternoon would end interestingly.
 
-My hands moved faster and faster, so I couldn't even follow which keys I was pressing, and I got more and more confused in my attempts to follow my own logic, until finally I lost it completely. All that remained was to wait until the work was finished.  
+My hands moved faster and faster, so I couldn't even follow which keys I was pressing, and I got more and more confused in my attempts to follow my own logic, until finally I lost it completely. All that remained was to wait until the work was finished.
 
-After about an hour, I began to gradually regain control. It became more and more difficult to translate my thoughts, and I began to miss words and entire commands, but by the time I started thinking consciously, and consequently making mistakes, the main work was already done. All that remained was to write a few additional things, which were elementary compared to what I had done so far. I leaned back and reviewed my work from beginning to end. The code was written in my style, there was no doubt about that, but it was many times more perfect than the junk that usually came out of my hands. For twenty minutes, I just browsed aimlessly through it to see where I could add something. There wasn't any. I took a breath and loaded the file into the test machine.  
+After about an hour, I began to gradually regain control. It became more and more difficult to translate my thoughts, and I began to miss words and entire commands, but by the time I started thinking consciously, and consequently making mistakes, the main work was already done. All that remained was to write a few additional things, which were elementary compared to what I had done so far. I leaned back and reviewed my work from beginning to end. The code was written in my style, there was no doubt about that, but it was many times more perfect than the junk that usually came out of my hands. For twenty minutes, I just browsed aimlessly through it to see where I could add something. There wasn't any. I took a breath and loaded the file into the test machine.
 
-From there on, exactly what I expected happened. The fans whirred. The monitor lit up, and colleagues began to gather around it and talk.  
+From there on, exactly what I expected happened. The fans whirred. The monitor lit up, and colleagues began to gather around it and talk.
 
-All their conversations were variations of one:  
-- Who got it running?  
-- Sasho.  
-- How?  
-- I don't know.  
+All their conversations were variations of one:
+"Who got it running?"
+"Sasho."
+"How?"
+"I don't know."
 
-After a while, Strugaцki came running, buttoning his shirt buttons as he moved. The others made room for him and he stood in front of the monitor. No one knew what the machine was doing, but everyone sat and watched captivated, simply because it was working. Then data started appearing on the screen. Everyone fell silent. They followed the symbols and tried to interpret them, or in other words, they asked themselves what they were actually seeing. And everyone was too absorbed to hear the shout of a colleague from the neighboring department:  
-- Hey, can't you see you've started an INFINITE LOOP?  
+After a while, Strugaцki came running, buttoning his shirt buttons as he moved. The others made room for him and he stood in front of the monitor. No one knew what the machine was doing, but everyone sat and watched captivated, simply because it was working. Then data started appearing on the screen. Everyone fell silent. They followed the symbols and tried to interpret them, or in other words, they asked themselves what they were actually seeing. And everyone was too absorbed to hear the shout of a colleague from the neighboring department:
+"Hey, can't you see you've started an INFINITE LOOP?"
 
-Time for a small parenthesis. One of the most commonly used commands in programming is "WHILE" (while). With it, we tell the computer to execute a specific sequence of commands as many times as necessary to fulfill a condition we set (WHILE such and such DO something). However, sometimes the condition we set is unfulfillable. In this case, the computer is doomed to repeat these commands indefinitely, and this situation is known as an infinite loop. But in general, we cannot know whether a loop is infinite or just very long.  
+Time for a small parenthesis. One of the most commonly used commands in programming is "WHILE" (while). With it, we tell the computer to execute a specific sequence of commands as many times as necessary to fulfill a condition we set (WHILE such and such DO something). However, sometimes the condition we set is unfulfillable. In this case, the computer is doomed to repeat these commands indefinitely, and this situation is known as an infinite loop. But in general, we cannot know whether a loop is infinite or just very long.
 
-I didn't know it then either. What was certain was that MA was doing nothing except occupying more and more system resources, and the whole system was about to crash. I jumped from the chair, pushed aside my colleagues and ran to the server. The screen showed the free RAM, which was continuously decreasing 50%... 45%... 40%... I reached for the keyboard and began entering the shutdown command.  
-- Leave it! – Strugaцki's voice was heard.  
-...35%  
-- It's going to crash, can't you see? - The commands were appearing on the screen too fast to read, but I saw they followed the same sequence.  
-- Leave it, I'm telling you!  
-...20%  
-- But I haven't saved MA!  
-- 15%  
+I didn't know it then either. What was certain was that MA was doing nothing except occupying more and more system resources, and the whole system was about to crash. I jumped from the chair, pushed aside my colleagues and ran to the server. The screen showed the free RAM, which was continuously decreasing 50%... 45%... 40%... I reached for the keyboard and began entering the shutdown command.
+"Leave it!" Strugaцki's voice was heard.
+...35%
+"It's going to crash, can't you see?" The commands were appearing on the screen too fast to read, but I saw they followed the same sequence.
+"Leave it, I'm telling you!"
+...20%
+"But I haven't saved MA!"
+15%
 
-NOTE: Be careful not to develop professional deformities (if you ever have a profession).  
+**NOTE:** "Be careful not to develop professional deformities (if you ever have a profession)."
 
-The whole system crashed and stopped the work of several hundred people working with us. And on its next startup, I found that the hard drive was also damaged, meaning I had lost my main algorithm.  
+The whole system crashed and stopped the work of several hundred people working with us. And on its next startup, I found that the hard drive was also damaged, meaning I had lost my main algorithm.
 
-And so our thinking machine was dead again (if it had ever been alive). Apparently, the purest and most unburdened logic cannot comprehend that some conditions are unfulfillable. Some tasks – impossible to solve.  
+And so our thinking machine was dead again (if it had ever been alive). Apparently, the purest and most unburdened logic cannot comprehend that some conditions are unfulfillable. Some tasks—impossible to solve.
 
-I quickly told the Curious One what had happened to me and tried to share my thoughts with him, although they weren't clear even to me:  
-- ...at one point I couldn't control myself anymore. As if then it wasn't me, but something was passing through me and using me. Or I was using it, I have no idea... The best work of my entire career. And it came to nothing... And this guy, Bonchev. I mean, he's dead, really!  
-- Maybe we could go along that line.... Apparently there is a connection between you two... Between you and Bonchev, I mean... That you saw it... It could have been anyone: your colleagues, some random passerby... But it's you and him. Why?  
-- It's hardly a coincidence. - I supported him. - Apparently the Phenomenon in some way PUSHED him to do what he did, in the same way it pushed me to write this program.  
+I quickly told the Curious One what had happened to me and tried to share my thoughts with him, although they weren't clear even to me:
+"...at one point I couldn't control myself anymore. As if then it wasn't me, but something was passing through me and using me. Or I was using it, I have no idea... The best work of my entire career. And it came to nothing... And this guy, Bonchev. I mean, he's dead, really!"
+"Maybe we could go along that line.... Apparently there is a connection between you two... Between you and Bonchev, I mean... That you saw it... It could have been anyone: your colleagues, some random passerby... But it's you and him. Why?"
+"It's hardly a coincidence." I supported him. "Apparently the Phenomenon in some way PUSHED him to do what he did, in the same way it pushed me to write this program."
 
-Anton frowned:  
-- You're talking out of your ass with these hasty conclusions... You know, "After this, not because of this," and so on, I mean, let's see what we have first...  
-- We have a corpse. - I hinted, trying to think rationally. - And a suicide for an unknown reason.  
-- Yes. - Anton nodded. - Besides him, we have this program of yours that you wrote...  
-- My program is lost. – I interrupted him.  
-- Lost?  
-- Yes, it caused an infinite loop.  
-- Infinite loop?  
-- Look it up on Google! – I said. In principle, the concept was interesting and it was always nice to explain it, but then I just couldn't be bothered with anything.  
+Anton frowned:
+"You're talking out of your ass with these hasty conclusions... You know, 'After this, not because of this,' and so on, I mean, let's see what we have first..."
+"We have a corpse." I hinted, trying to think rationally. "And a suicide for an unknown reason."
+"Yes." Anton nodded. "Besides him, we have this program of yours that you wrote..."
+"My program is lost." I interrupted him.
+"Lost?"
+"Yes, it caused an infinite loop."
+"Infinite loop?"
+"Look it up on Google!" I said. In principle, the concept was interesting and it was always nice to explain it, but then I just couldn't be bothered with anything.
 
-Anton accepted my suggestion. He sat down in front of his computer, pressed a few keys, and his gaze began to roam the screen. He squinted and clicked something with the mouse. And at one point he was extremely surprised, apparently by something he was reading. His eyes widened as if they were about to pop out of their sockets, his lower lip hung to the ground, and only pulled back when he spoke again:  
-- I have a theory about why Bonchev killed himself.  
-- Why?  
+Anton accepted my suggestion. He sat down in front of his computer, pressed a few keys, and his gaze began to roam the screen. He squinted and clicked something with the mouse. And at one point he was extremely surprised, apparently by something he was reading. His eyes widened as if they were about to pop out of their sockets, his lower lip hung to the ground, and only pulled back when he spoke again:
+"I have a theory about why Bonchev killed himself."
+"Why?"
 
-He covered his mouth with his hand.  
-- Out of fear.  
-- Okay, imagine the following... - Anton began to speak. - This Bonchev... Actually, what's his first name? Doesn't matter... He's a scientist. Works his whole life on some construction projects, and accumulates serious knowledge of mathematics and physics. Then he gets retired. Since he has no wife or close people, he decides to devote himself to some of his own research, which gradually fills his entire life.  
-- How do you know he has no close ones?  
-- No one called looking for him in these two days, right?  
+He covered his mouth with his hand.
+"Out of fear."
+"Okay, imagine the following..." Anton began to speak. "This Bonchev... Actually, what's his first name? Doesn't matter... He's a scientist. Works his whole life on some construction projects, and accumulates serious knowledge of mathematics and physics. Then he gets retired. Since he has no wife or close people, he decides to devote himself to some of his own research, which gradually fills his entire life."
+"How do you know he has no close ones?"
+"No one called looking for him in these two days, right?"
 
-So he delves deeply into these researches of his. Maybe he imagines he's on the verge of discovering some incredible theory that explains everything around us. Or maybe he really was, who knows. Suddenly he encounters the Phenomenon, and through it, for a few seconds, realizes that his whole life has been on the wrong path. That these theories of his, which he upheld, and which were for him almost like a religion, were just fiction.  
-- It's unlikely it happened just like that...  
-- Well, at first he didn't believe it. - The Curious One continued. - This ties in: he ran to his home to check if he hadn't made a mistake. That's when he bumped into Tina. She helped him get to the apartment. There he had already realized with certainty that what he saw on February 14th really refuted his work and beliefs. Then he got into the bathtub and...  
-- But why did he do it?  
-- Look, an infinite loop is normal for computer programs. - Anton said. - Perhaps a similar process is possible in the human brain. - Especially in the brain of an engineer.  
-- Don't joke.  
-- I'm not joking at all. Sometimes you guys are so stubborn, like blinkered horses, that nothing can deter you from the goal you've set. Take me for example. I'm stubborn. But if there's something I can't understand, or figure out, after two or three tries I just drop it. I give up. It gets boring.  
-- And?  
+So he delves deeply into these researches of his. Maybe he imagines he's on the verge of discovering some incredible theory that explains everything around us. Or maybe he really was, who knows. Suddenly he encounters the Phenomenon, and through it, for a few seconds, realizes that his whole life has been on the wrong path. That these theories of his, which he upheld, and which were for him almost like a religion, were just fiction.
+"It's unlikely it happened just like that..."
+"Well, at first he didn't believe it." The Curious One continued. "This ties in: he ran to his home to check if he hadn't made a mistake. That's when he bumped into Tina. She helped him get to the apartment. There he had already realized with certainty that what he saw on February 14th really refuted his work and beliefs. Then he got into the bathtub and..."
+"But why did he do it?"
+"Look, an infinite loop is normal for computer programs." Anton said. "Perhaps a similar process is possible in the human brain." Especially in the brain of an engineer.
+"Don't joke."
+"I'm not joking at all. Sometimes you guys are so stubborn, like blinkered horses, that nothing can deter you from the goal you've set. Take me for example. I'm stubborn. But if there's something I can't understand, or figure out, after two or three tries I just drop it. I give up. It gets boring."
+"And?"
 
-Well, that's normal. To say to yourself: "Well, screw it, I'm sick of dealing with just this thing! The world is huge, I'm not going to sit and butt my head against one little corner all my life, like a damned idiot!" You see, that's like a defense mechanism of the brain against a crash. Like a restart - you drop what's bored you and start something else. But with engineers, this mechanism is screwed up. They are willing to do anything to achieve their goal, or "meet the conditions" as you programmers say. For example, Bonchev's goal was to understand the world around him. But suddenly the conditions changed and the goal became unachievable. So we come again to the moment when he lies down in the bathtub, takes his razor and...  
-- And what was this something that he saw? The light?  
-- Hardly. - The Curious One shrugged.  
-- So we need to search his apartment...  
-- Screw that! - Anton said. - If you want, go, but I personally don't want to see it at all.  
+Well, that's normal. To say to yourself: "Well, screw it, I'm sick of dealing with just this thing! The world is huge, I'm not going to sit and butt my head against one little corner all my life, like a damned idiot!" You see, that's like a defense mechanism of the brain against a crash. Like a restart—you drop what's bored you and start something else. But with engineers, this mechanism is screwed up. They are willing to do anything to achieve their goal, or 'meet the conditions' as you programmers say. For example, Bonchev's goal was to understand the world around him. But suddenly the conditions changed and the goal became unachievable. So we come again to the moment when he lies down in the bathtub, takes his razor and...
+"And what was this something that he saw? The light?"
+"Hardly." The Curious One shrugged.
+"So we need to search his apartment..."
+"Screw that!" Anton said. "If you want, go, but I personally don't want to see it at all."
 
-He seemed to want to demonstrate with what ease he could give up on everything he didn't succeed with on the second or third try.  
-- So you're giving up on investigating this, is that it?  
-- Well, yeah, I guess. In the sense that I don't want to be found in the bathtub myself, with...  
-- But what will we do then?  
-- Well, Bonchev is our only lead. So for now, I guess we do nothing.  
+He seemed to want to demonstrate with what ease he could give up on everything he didn't succeed with on the second or third try.
+"So you're giving up on investigating this, is that it?"
+"Well, yeah, I guess. In the sense that I don't want to be found in the bathtub myself, with..."
+"But what will we do then?"
+"Well, Bonchev is our only lead. So for now, I guess we do nothing."
 
-After a while, Anton grumbled that he was hungry and asked me to help him prepare dinner. We agreed to eat in the house's dining room - a beautifully arranged room we had never used before because it was always too messy. But now that there weren't so many people in the house (the tenants still appeared sporadically, but they also obviously realized that the days of continuous partying were over), we could afford the luxury of using it.  
+After a while, Anton grumbled that he was hungry and asked me to help him prepare dinner. We agreed to eat in the house's dining room—a beautifully arranged room we had never used before because it was always too messy. But now that there weren't so many people in the house (the tenants still appeared sporadically, but they also obviously realized that the days of continuous partying were over), we could afford the luxury of using it.
 
-From there, we threw out the old dirty oilcloth that covered the table, and in its place put a clean white tablecloth. The Curious One stepped back a little, looked over the new arrangement, and satisfied with the result, went to prepare the food - he took a few potatoes out of the fridge, cut them without peeling them, and put them in the fryer. He also took two chicken cutlets, which had previously been swimming in a large pot with marinade.  
+From there, we threw out the old dirty oilcloth that covered the table, and in its place put a clean white tablecloth. The Curious One stepped back a little, looked over the new arrangement, and satisfied with the result, went to prepare the food—he took a few potatoes out of the fridge, cut them without peeling them, and put them in the fryer. He also took two chicken cutlets, which had previously been swimming in a large pot with marinade.
 
-The two of us started setting the table: we spread the tablecloth and began arranging plates and glasses. We also took out the silverware that had been sitting in the sideboard of said dining room ever since we moved in here. I made a trip to the fridge and came back with some semi-finished dessert, which I placed in the middle of the table. Anton immediately went to the silverware drawer and returned with two small dessert spoons. This gesture inspired him and he headed to the living room, from where he returned with an unfinished bottle of white wine (at least that doesn't go bad). For it, we washed two glasses with stems, which we also found in the sideboard, and placed each of these items carefully, as if preparing a movie set. When we finished, the cutlets and fries were just done, so I poured them onto plates and sat at the table, waiting for Anton to follow. He, however, was staring at the ceiling and wandering aimlessly around the room. I called him several times, but he didn't answer. I could already sense he was pondering something. I didn't want to bother him, so I decided to wait a little more...  
-- You know what? – He finally said. – However dangerous it is, I want to go back there. To see what Bonchev saw.  
-- Isn't it too late?  
-- We can get there in half an hour. How does that sound to you?  
-- I don't know what to tell you, friend...  
-- Come on, don't explain. - He said. - We'll eat when we get back.  
+The two of us started setting the table: we spread the tablecloth and began arranging plates and glasses. We also took out the silverware that had been sitting in the sideboard of said dining room ever since we moved in here. I made a trip to the fridge and came back with some semi-finished dessert, which I placed in the middle of the table. Anton immediately went to the silverware drawer and returned with two small dessert spoons. This gesture inspired him and he headed to the living room, from where he returned with an unfinished bottle of white wine (at least that doesn't go bad). For it, we washed two glasses with stems, which we also found in the sideboard, and placed each of these items carefully, as if preparing a movie set. When we finished, the cutlets and fries were just done, so I poured them onto plates and sat at the table, waiting for Anton to follow. He, however, was staring at the ceiling and wandering aimlessly around the room. I called him several times, but he didn't answer. I could already sense he was pondering something. I didn't want to bother him, so I decided to wait a little more...
+"You know what?" He finally said. "However dangerous it is, I want to go back there. To see what Bonchev saw."
+"Isn't it too late?"
+"We can get there in half an hour. How does that sound to you?"
+"I don't know what to tell you, friend..."
+"Come on, don't explain." He said. "We'll eat when we get back."
 
-In ten minutes, we reached the neighborhood where the man lived again. Anton got out of the car while it was still moving and walked with quick steps towards the entrance, mumbling something under his nose:  
-- What did he say? – I asked.  
-- I was wondering, after all, what was so damn scary, for God's sake?  
+In ten minutes, we reached the neighborhood where the man lived again. Anton got out of the car while it was still moving and walked with quick steps towards the entrance, mumbling something under his nose:
+"What did he say?" I asked.
+"I was wondering, after all, what was so damn scary, for God's sake?"
 
-The light on the staircase was burnt out. We waited for it to go off, and headed to the apartment, lighting the way with our phone screens. We reached the apartment. Slowly we opened the door, preparing to run if we encountered someone. But it wasn't necessary. No one had come and everything was exactly as we had left it. And the owner himself was there, though not in form. Since bodies decompose very quickly in water, his face was...  
+The light on the staircase was burnt out. We waited for it to go off, and headed to the apartment, lighting the way with our phone screens. We reached the apartment. Slowly we opened the door, preparing to run if we encountered someone. But it wasn't necessary. No one had come and everything was exactly as we had left it. And the owner himself was there, though not in form. Since bodies decompose very quickly in water, his face was...
 
-You get the idea.  
-- But look at what he's turned into! – Anton said.  
-- I suggest we search the apartment and get the hell out, as quickly as possible. – I replied.  
+You get the idea.
+"But look at what he's turned into!" Anton said.
+"I suggest we search the apartment and get the hell out, as quickly as possible." I replied.
 
-We thought we'd start by examining Bonchev's work, i.e., the blueprints scattered throughout his apartment, but there were so many that we could hardly go through all of them, and they were so complex that we wouldn't fully understand even one of them.  
-- Are they only written with formulas? - I asked.  
-- There's a little text here too. - The Curious One waved a small piece of paper. - Some reflections on life.  
-- Do they match your theory of what he was like?  
+We thought we'd start by examining Bonchev's work, i.e., the blueprints scattered throughout his apartment, but there were so many that we could hardly go through all of them, and they were so complex that we wouldn't fully understand even one of them.
+"Are they only written with formulas?" I asked.
+"There's a little text here too." The Curious One waved a small piece of paper. "Some reflections on life."
+"Do they match your theory of what he was like?"
 
-Instead of answering me, Anton started reading:  
+Instead of answering me, Anton started reading:
 
-And the image of the superman, described by Nietzsche, is one of the greatest myths of the 20th century. The heroes of Ayn Rand, who never doubt themselves and their goals, are also a myth. Because fanatics and careerists will never have abilities that can match their self-confidence. The true striving for self-improvement does not come from an ambition to be better, but from the realization of how pitiful we actually are. And true understanding is nothing other than reverence for that which we cannot...  
+And the image of the superman, described by Nietzsche, is one of the greatest myths of the 20th century. The heroes of Ayn Rand, who never doubt themselves and their goals, are also a myth. Because fanatics and careerists will never have abilities that can match their self-confidence. The true striving for self-improvement does not come from an ambition to be better, but from the realization of how pitiful we actually are. And true understanding is nothing other than reverence for that which we cannot...
 
-- Okay, that's enough for now... Does this match your idea of Bonchev?  
-- I don't know, but it sounds quite interesting... - Anton said in a tone that hinted he had gotten sidetracked again and had forgotten where he was and why.  
-- Yes, it's interesting, but it doesn't help us! - I said. - Come on, keep searching!  
+"Okay, that's enough for now... Does this match your idea of Bonchev?"
+"I don't know, but it sounds quite interesting..." Anton said in a tone that hinted he had gotten sidetracked again and had forgotten where he was and why.
+"Yes, it's interesting, but it doesn't help us!" I said. "Come on, keep searching!"
 
-While glancing at one of the rooms, I saw again the shopping bag I had stumbled upon during the previous entry. It looked empty, but I decided to make sure with certainty. I grabbed it with both hands and opened it wide.  
-- Anton! – I said. - Come quick.  
+While glancing at one of the rooms, I saw again the shopping bag I had stumbled upon during the previous entry. It looked empty, but I decided to make sure with certainty. I grabbed it with both hands and opened it wide.
+"Anton!" I said. "Come quick."
 
-After a while, he was already leaning over me. His gaze – directed at the bag.  
-- Shine some light on it, I can't see anything.  
-- That's the problem. I can't light it!  
+After a while, he was already leaning over me. His gaze—directed at the bag.
+"Shine some light on it, I can't see anything."
+"That's the problem. I can't light it!"
 
-First, we tried to bring it closer to the lamp. We turned it at all sorts of angles, but the result was the same – the light beam simply cut off into nothingness. Indeed, the bag contained something, and that something was DARKNESS.  
-- You know that's impossible, right? – The Curious One said.  
-- Yep.  
-- From a scientific point of view, darkness is treated as an absence of light, that is, a kind of non-existence.  
-- Well, apparently it exists. - I said. - Now, I think it's time to go,  
+First, we tried to bring it closer to the lamp. We turned it at all sorts of angles, but the result was the same—the light beam simply cut off into nothingness. Indeed, the bag contained something, and that something was DARKNESS.
+"You know that's impossible, right?" The Curious One said.
+"Yep."
+"From a scientific point of view, darkness is treated as an absence of light, that is, a kind of non-existence."
+"Well, apparently it exists." I said. "Now, I think it's time to go,"
 
-We took the bag, left the apartment, and locked the door again, so it wouldn't show it was broken. As I went down the stairs, my legs were trembling. Partly because of our fingerprints, which were probably everywhere on the blueprints, partly because someone (like the Curious One's ex-girlfriend) could see us, but mostly because of this object I was carrying. Until now, I had perceived the Phenomenon as something good. Now I wasn't sure at all what it was. And that was the scariest part.  
+We took the bag, left the apartment, and locked the door again, so it wouldn't show it was broken. As I went down the stairs, my legs were trembling. Partly because of our fingerprints, which were probably everywhere on the blueprints, partly because someone (like the Curious One's ex-girlfriend) could see us, but mostly because of this object I was carrying. Until now, I had perceived the Phenomenon as something good. Now I wasn't sure at all what it was. And that was the scariest part.
 
-At the Curious One's house, we examined the bag better: It was very worn out. It was a real veteran of the war between cloth bags and nylon bags. The handle was barely holding on, and there were several small holes. But the main thing wasn't the bag, but what was in it.  
+At the Curious One's house, we examined the bag better: It was very worn out. It was a real veteran of the war between cloth bags and nylon bags. The handle was barely holding on, and there were several small holes. But the main thing wasn't the bag, but what was in it.
 
-We did a few more tests, which (at least we thought) could have some scientific weight: we shone a laser flashlight inside, only to see how the beam faded and cut off at the same spot as the lamp's light. We also tried to poke inside with a stick. Several times I wanted to put my hand inside, but I never gathered the courage. Anton apparently also wasn't reckless enough to stick his hand in that thing...  
-- And you, when you were telling about the Phenomenon the first time, didn't you mention something like that? - Anton said. - That at one point the light turns into darkness.  
-- Yes, but I wasn't talking about a transformation, the light just WAS darkness. The two were somehow identical. The whole time. I just didn't realize it at first. When I realized... You remember what happened.  
-- So in this bag, there is the same... hmm... energy that you saw in the form of a beam. But for some reason, our brains interpret it differently.  
-- Why? - I asked.  
-- Is that sarcasm?  
-- No, I really have no idea.  
+We did a few more tests, which (at least we thought) could have some scientific weight: we shone a laser flashlight inside, only to see how the beam faded and cut off at the same spot as the lamp's light. We also tried to poke inside with a stick. Several times I wanted to put my hand inside, but I never gathered the courage. Anton apparently also wasn't reckless enough to stick his hand in that thing...
+"And you, when you were telling about the Phenomenon the first time, didn't you mention something like that?" Anton said. "That at one point the light turns into darkness."
+"Yes, but I wasn't talking about a transformation, the light just WAS darkness. The two were somehow identical. The whole time. I just didn't realize it at first. When I realized... You remember what happened."
+"So in this bag, there is the same... hmm... energy that you saw in the form of a beam. But for some reason, our brains interpret it differently."
+"Why?" I asked.
+"Is that sarcasm?"
+"No, I really have no idea."
 
-I was already so hungry that I didn't care if we ate together. I sat at the already set table, cut a piece of the chicken and put it in my mouth. It was cold and tough. I tried the potatoes too, but they weren't exactly a culinary masterpiece either. My appetite vanished.  
-- You know, Curious. - I said. - Maybe we should give up on this.  
-- Why should we give up?  
-- Well, I mean... Is it worth throwing so much effort into understanding something that we can't understand anyway? Maybe I'm talking nonsense. At first, I was positively inclined, but at one point, all this started to seem nasty to me.  
-- And when was that moment?  
-- What difference does it make?  
-- Well, I remembered something. Could it be that this is exactly the reason the light of the Phenomenon turns into darkness? Darkness has been a symbol of evil for centuries. I mean. The change is perhaps a result of our perceptions.  
+I was already so hungry that I didn't care if we ate together. I sat at the already set table, cut a piece of the chicken and put it in my mouth. It was cold and tough. I tried the potatoes too, but they weren't exactly a culinary masterpiece either. My appetite vanished.
+"You know, Curious." I said. "Maybe we should give up on this."
+"Why should we give up?"
+"Well, I mean... Is it worth throwing so much effort into understanding something that we can't understand anyway? Maybe I'm talking nonsense. At first, I was positively inclined, but at one point, all this started to seem nasty to me."
+"And when was that moment?"
+"What difference does it make?"
+"Well, I remembered something. Could it be that this is exactly the reason the light of the Phenomenon turns into darkness? Darkness has been a symbol of evil for centuries. I mean. The change is perhaps a result of our perceptions."
 
-This hypothesis seemed reasonable to me and I decided to ponder it:  
-- That fits. – I concluded. - On my way back from work, that first time, I was terribly bored. I hadn't accomplished anything all day. And the stress of the routine, of doing the same thing every day, you know...  
+This hypothesis seemed reasonable to me and I decided to ponder it:
+"That fits." I concluded. "On my way back from work, that first time, I was terribly bored. I hadn't accomplished anything all day. And the stress of the routine, of doing the same thing every day, you know..."
 
-NOTE: He doesn't know.  
+**NOTE:** "He doesn't know."
 
-I went to the Phenomenon simply because I was interested. No one made me. I did it because I wanted to. The fact that among all the things that appeared every day there was something I had never seen before filled me with joy. Joy – light. Then - today, when we entered the apartment...  
-- Wait a second! - The Curious One interrupted me. I still feel exactly the same way you described a moment ago! And right now, I'm very interested. And I have a huge desire to understand more about what's going on.  
-- I suppose. – I said. – But I'm scared.  
-- Aha...  
-- I should have told you. In the sense that you're very enthusiastic, and I'm glad you are... All this reflects well on you. But I don't want...  
+I went to the Phenomenon simply because I was interested. No one made me. I did it because I wanted to. The fact that among all the things that appeared every day there was something I had never seen before filled me with joy. Joy—light. Then—today, when we entered the apartment...
+"Wait a second!" The Curious One interrupted me. I still feel exactly the same way you described a moment ago! And right now, I'm very interested. And I have a huge desire to understand more about what's going on.
+"I suppose." I said. "But I'm scared."
+"Aha..."
+"I should have told you. In the sense that you're very enthusiastic, and I'm glad you are... All this reflects well on you. But I don't want..."
 
-I could finish this sentence in many ways: "I don't want to have problems with the law." "I don't want to be in pain anymore." And one part of me didn't want to UNDERSTAND at all....  
-- But you agreed to go there yourself! - Anton caught me.  
-- I accepted your proposal. - I said. - But I wasn't completely honest with you. While you were looking for evidence supporting the existence of the Phenomenon, I was looking for such that refute it. And the whole time I felt awful.  
-- And how are you now, dude? - The Curious One changed the subject.  
+I could finish this sentence in many ways: "I don't want to have problems with the law." "I don't want to be in pain anymore." And one part of me didn't want to UNDERSTAND at all....
+"But you agreed to go there yourself!" Anton caught me.
+"I accepted your proposal." I said. "But I wasn't completely honest with you. While you were looking for evidence supporting the existence of the Phenomenon, I was looking for such that refute it. And the whole time I felt awful."
+"And how are you now, dude?" The Curious One changed the subject.
 
-I rubbed my temples again and my brain arranged words into sentences:  
-- A little better. In the sense that we won't be struggling with this alone anymore.  
-- And with whom? - The Curious One looked around.  
-- In the sense that we already have undeniable proof that something is happening. – I grabbed the bag and swung it in front of his eyes, like a hypnotist's pendulum. - We can now tell the world about it.  
-- You are an absolute idiot! – The Curious One replied.  
+I rubbed my temples again and my brain arranged words into sentences:
+"A little better. In the sense that we won't be struggling with this alone anymore."
+"And with whom?" The Curious One looked around.
+"In the sense that we already have undeniable proof that something is happening." I grabbed the bag and swung it in front of his eyes, like a hypnotist's pendulum. "We can now tell the world about it."
+"You are an absolute idiot!" The Curious One replied.
 
-Then he jumped from his chair and left the room.  
+Then he jumped from his chair and left the room.
 
 Anton's Diary
 ---
