@@ -1,8 +1,10 @@
-Do Not Fear  
+Don't Fear  
 ====
 
 NOTE: I dedicate this to all engineers (they know who they are).  
-...FOR ME, THE TRUE STRIVING FOR SELF-IMPROVEMENT DOES NOT COME FROM AN AMBITION TO BE BETTER, BUT FROM THE REALIZATION OF HOW PITIFUL WE ACTUALLY ARE.  
+
+
+>...FOR ME, THE TRUE STRIVING FOR SELF-IMPROVEMENT DOES NOT COME FROM AN AMBITION TO BE BETTER, BUT FROM THE REALIZATION OF HOW PITIFUL WE ACTUALLY ARE.  
 Dimitar S. Bonchev  
 
 Sometimes it's a bit shitty when you see something strange and puzzling, so puzzling that it doesn't give you peace. Nowadays, fortunately, everything can be explained scientifically - you can find the answer to the riddle in minutes, and then continue doing what you normally do, feeling a bit smarter and more confident in yourself and the world around you. But while satisfying your curiosity, take a piece of advice from me - don't delve too deep.  
@@ -43,8 +45,6 @@ There were ten minutes left until the end of the workday, and my script was empt
 I took a deep breath and typed a few lines of code, but they were so wrong that I couldn’t even answer the question why they didn’t work. I tried again. “Why?” now even on the second symbol. And every letter my hand touched spawned thousands of questions, which I couldn’t even grasp, let alone answer.  
 I got up from my computer and decided to walk. “It’s clear you won’t finish anything today.” I thought while putting on my jacket.  
 On my way out, I turned one last time to the monitor and for a second started to get uncontrollably irritated at the sight of the empty file.
-
-**don’t be afraid**
 
 I grabbed the keyboard and lifted it over my head, intending to throw it to the other end of the room, or even hit the monitor with it. But then my anger at not having done anything all day disappeared in favor of the desire to do something, the next day. So I carefully put the keyboard back in its place, and prepared to leave with the idea of going to bed early, to wake up early. I became interested. And just before leaving the room, I turned, brought my hand to the keyboard, and entered into the file exactly one symbol:
 
