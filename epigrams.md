@@ -31,7 +31,7 @@ If someone does not feel the same emotions as you, that does not make him less e
 
 You won't get good at something by practicing it for 10000 hours --- you will get good by making 10000 mistakes.
 
-Anything worth doing is worth doing poorly.
+Anything worth doing is worth doing poorly --- aim to create the crappiest imaginable version of a great work, rather than a flawless but mediocre work.
 
 The clearest sign that people do not feel content with themselves is their desire to convert others to be like them.
 
@@ -60,3 +60,8 @@ Everything worth doing is worth doing badly.
 Never be impressed by someone's ability to follow a rule.
 
 Vibe coding sucks, cause the whole point of programming is to be able to do your job without talking to anybody.
+
+
+Impostor syndrome occurs not when you feel unqualified for what you do, but when you don't *want* to do it, when you don't find it valuable/good/meaningful -- if you want to do something, then the question of whether you are the best person to do it becomes secondary.
+
+Acting according to a plan of any kind, confines your actions to what you believe is possible at the time of the creation of the plan.
