@@ -11,7 +11,7 @@ In my last post about generality, I tried to show how our ambition to discover i
 
 # What is boolean thinking
 
-Every time someone asks you a yes/no question, you are being coerced into accepting a pattern of thought that we’ll call _boolean thinking_. The word “boolean” here is used in the sense of the Boolean logic, and the Boolean datatype in logic and programming — a type that admits only two values: _true_ and _false_. By “boolean thinking,” I am refering to the precondition that every statement should necessarily be categorized as either true or false. This is a law in Boolen logic, known as the "law of excluded middle").
+Every time someone asks you a yes/no question, you are being coerced into accepting a pattern of thought that we’ll call _boolean thinking_. The word “boolean” here is used in the sense of the Boolean logic, and the Boolean datatype in logic and programming — a type that admits only two values: _true_ and _false_. By “boolean thinking,” I am referring to the precondition that every statement should necessarily be categorized as either true or false. This is a law in Boolean logic, known as the "law of excluded middle").
 
 “But every statement _is_ either true or false,” some might object. This principle might not be entirely false, but it is also not entirely true (ba-dum-tss).
 
@@ -39,13 +39,15 @@ We’ve established that the truth or falsity of a statement depends on its cont
 
 Note that aside from being universal (valid for all statements) the context for boolean logic has to also be _all-encompassing_ (relevant for every statement) i.e. the set of logical statements that form it should never, under no interpretation tell something invalid, and at the same time would let us deduce all that is valid. As I argue later, such context resembles what political philosophers call an _authoritarian doctrine_ (although the phrase "authoritarian doctrines" is somewhat deceiving, because it isn't the doctrines themselves that are authoritarian, but the role they play in people's thinking patterns).
 
-So, while boolean logic may be splendid when viewed by itself, when viewed in relation to the "real world" there is a huge issue with it, the namely that _no logical context, no logical framework is strong enough to capture the things that we usually want to dissect_, (the real world, if you must). Proving the claim above is a subject of a different text, for now it suffices to say that although it may not look logical or scientific, it is, however, very backed up by both logic and science. Rather than asking why this is the case, it is more appropriate to ask what makes us think the reverse, what makes us think that the real world may be captured by a boolean logical framework - I'd argue that the thought that it can be is an instance of the so called "is-ought fallacy" --- the idea that something is true just because it will be good for us that it is true. But that's a separate topic as well (see "[When Universality Breaks](/universal-knowledge/)".
+So, while boolean logic may be splendid when viewed by itself, when viewed in relation to the "real world" there is a huge issue with it, the namely that _no logical context, no logical framework is strong enough to capture the things that we usually want to dissect_, (the real world, if you must). Proving the claim above is a subject of a different text, for now it suffices to say that although it may not look logical or scientific, it is, however, very backed up by both logic and science. Rather than asking why this is the case, it is more appropriate to ask what makes us think the reverse, what makes us think that the real world may be captured by a boolean logical framework --- I'd argue that the thought that it can be is an instance of the so called "is-ought fallacy" --- the idea that something is true just because it will be good for us that it is true. But that's a separate topic as well (see "[When Universality Breaks](/universal-knowledge/)".
 
 Now, we are ready to make the case against boolean logic:
 
-**Because boolean logic overlooks the importance of context (that each proposition can be true in one context, false in another, and also neither true nor false, and senseless in another) it inspires dichotomous thinking, also known as black-and-white thinking. **
+**Because boolean logic overlooks the importance of context (that each proposition can be true in one context, false in another, and also *neither true nor false*) it inspires dichotomous thinking, also known as black-and-white thinking.**
 
-i.e. boolean logic is apt for a world where there is a single unifying and also complete framework... a universal set of axioms. But that is not our world. Our world is a place where we constantly have to compare different frameworks and, different sets of axioms, which are all incomplete (here is the place where I should reference Godel's theorem, but I am not going to do it, as it is too cliche, (pardon my lack of diacritics))....
+i.e. boolean logic is apt for a world where there is a single unifying and also complete framework... a universal set of axioms. But that is not our world. Our world is a place where we constantly have to compare different frameworks and, different sets of axioms, which are all incomplete (here is the place where I should reference Godel's theorem, but I am not going to do it, as it is too cliche, (pardon my lack of diacritics)). 
+
+In our world, we, for example, try to be happy with what we have, but at the same time strive to achieve more. We try to believe that people are good, but at the same time defend ourselves against evil etc. The boolean framework says it is either one and the other (e.g. people are either good or evil).
 
 When we encounter something that doesn’t fit our Boolean framework, we have two options:
 
@@ -69,20 +71,20 @@ From there, we proceed to manipulate the proofs of the premises in order to cons
 You might say that this is much like "normal" logic. But there is a difference --- intuitionistic logic makes us more acutely aware of the context in which we are operating. And if we start paying attention, we would observe that when trying to prove a statement, instead of the two truth values (true/false), there are actually _three_ possibilities:
 
 1. We might be able to construct a proof that a statement is _true_.
-2. We might be ablet to construct a proof that it is _false_.
+2. We might be able to construct a proof that it is _false_.
 3. We might not be able to construct _neither_—the statement is _neither true nor false_.
 
-And without the correct context, the statement migh not make sense at all.
+And without the correct context, the statement might not make sense at all.
 
 (Yes, in a perfect world, where we know everything, we would be able to prove or disprove every statement that we can formulate, but not in _this_ world.
 
-And with that realization, we are free from the Boolean prison --- we realize that all thinking is relative there is no a sigle truth, (nor a single falcity).
+And with that realization, we are free from the Boolean prison --- we realize that all thinking is relative there is no a single truth, (nor a single falsity).
 
 For more on intuitionistic logic, see my book [_Category Theory Illustrated_](/category-theory-illustrated/05_logic/).
 
 # Addendum: boolean thinking, authoritarianism, and propaganda
 
-My criticism of Boolean thinking is not merely academic. The way we think about logic shapes how we think about _everything_ --- and, ultimately, how we live our lives. This is why what I call “Boolean thinking” in logic has many names elsewhere. In philosophy, it’s called _Platonism_. In politics, it manifests as _authoritarianism_.
+My reasons for criticising Boolean thinking are not merely academic. The way we think about logic shapes how we think about _everything_ --- and, ultimately, how we live our lives. This is why what I call “Boolean thinking” in logic has many names elsewhere. In philosophy, it’s called _Platonism_. In politics, it manifests as _authoritarianism_.
 
 The second point is important. You might define authoritarian ideologies in many ways, but the key thing about them is that are based on a doctrine on which all people must abide to, in their thinking --- a shared “context” or set of premises. The power of authoritarian rulers arises from the way they limit the things that people can think and say: rulers define what the premises are and from then on, then you are "free" to make the conclusions yourself. To rephrase Orwell's famous slogan:
 
