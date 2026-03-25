@@ -3,7 +3,15 @@ title: CV
 layout: blog
 ---
 
-I am passionate about merging technology and art to bring innovative ideas to life. I have over 10 years of experience as a software developer and technical leader, with extensive expertise in front-end and full-stack development, product design, and cross-functional collaboration. My proven track record includes leading teams, implementing scalable solutions, and driving projects to successful completion. I excel in working with stakeholders to define user-focused requirements and craft meaningful product experiences across various domains, including finance, ERP, and event registration platforms. I am an advocate for open-source contributions, technical writing, and continuous learning.
+I am passionate about merging technology and art to bring ideas to life. 
+
+I have over 10 years of experience as a software developer and technical leader, with extensive expertise in front-end and full-stack development, product design, and cross-functional collaboration. 
+
+I also do product management --- leading teams, writing specs, managing issue backlogs and in general, everything needed for making great products.
+
+I have worked in various domains, including finance, ERP, and event registration platforms. 
+
+I am an advocate for open-source contributions, technical writing, and continuous learning.
 
 ### Personal Info
 
@@ -67,12 +75,19 @@ _Jul 2023 – Present_
 Offering consulting services in web application development, collaborating with various industries.
 
 - Conducted market research and technology assessments to guide project decisions.
-- Advised on UI/UX design, ensuring intuitive interfaces.
+- Advised on UI/UX design.
 - Authored technical specifications and contributed to JavaScript, TypeScript, and Ruby on Rails development.
 - Conducted business analysis to improve user engagement and streamline workflows.
 - Developed technical documentation and communication materials.
 
-**Product Manager - [Growyze](https://www.growyze.com/)**  
+**Senior Expert - Sofia Municipality**
+_April 2025 -- March 2026_
+
+- Designed, developed and deployed a new [Sofia Municipality open data platform](https://urbandata.sofia.bg) (based on CKAN)
+- Managed the Sofia Municipality online voting platform ["Sofia decides"](https://reshava.sofia.bg) (based on Decidim). Conducted successfully the online voting campaign of Sofia.
+- Designed a new web-based unified application for the city of Sofia.
+
+**Lead Front-end Developer/Product Manager - [Growyze](https://www.growyze.com/)**  
 _Apr 2022 – Jul 2023_  
 Contributed to early-stage product design and development.
 
@@ -81,7 +96,7 @@ Contributed to early-stage product design and development.
 - Front-end development with React.js and TypeScript.
 - Established Scrum processes.
 
-**Product Manager/Full-Stack Developer - [Dext](https://dext.com/)**  
+**Full-Stack Developer - [Dext](https://dext.com/)**  
 _Feb 2021 – Jul 2021_  
 Worked on an innovative accounting and bookkeeping solution with Ruby on Rails.
 
@@ -89,7 +104,7 @@ Worked on an innovative accounting and bookkeeping solution with Ruby on Rails.
 - Contributed to an internal UI framework using React.
 - Full-stack development with Ruby on Rails and React front-end.
 
-**Technical Product Manager - [US Squash](https://www.ussquash.org/)**  
+**Technical Product Manager/Full-stack developer - [US Squash](https://www.ussquash.org/)**  
 _Jan 2017 – Feb 2021_  
 Led a development team on the [Club Locker](https://about.clublocker.com/) platform.
 
